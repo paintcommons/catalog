@@ -1,0 +1,618 @@
+[
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Africa Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D49C61",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Anthracite Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2E2F34",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Beige",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A7937B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#212026",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Black Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#013832",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0070B4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Bronze Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A563E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A45D33",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Carmine Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#991523",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Clear",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Dark Earth (RAF)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8C673B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Dark Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1C5A45",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Dark Green (RAF)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#274837",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Dust Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#565E61",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Earth Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#766A5C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Flesh",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EFA87C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Granite Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#354044",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Greenish Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#585D56",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#798790",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Grey (USAF)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#889093",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Greyish Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5B6870",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Gunship Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5E6369",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Leather Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#583E41",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Light Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#86B9B4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Light Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#76BABB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Light Grey (USAF)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9DA2A6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Light Olive",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#79796D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Luminous Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FA0200",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Mouse Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C706F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "NATO Olive",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#565246",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Ochre Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AE8551",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Olive Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#756544",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Olive Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#565857",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Olive Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#424335",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Reddish Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C312B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Rust",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#894E4A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Sandy Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B8964F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Sea Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2C544C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Sky (RAF)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C3D4B2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Stone Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#909088",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Tank Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#484B52",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Tar Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#252429",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "White",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Matt",
+    "code": null,
+    "name": "Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FCD937",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

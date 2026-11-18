@@ -35,4 +35,4 @@ Run them yourself with `node scripts/validate.mjs` (Node 20 or later).
 
 ## Licence of contributions
 
-By contributing you agree that your contribution is dedicated to the public domain under CC0 1.0, like the rest of the data.
+By contributing your own work you agree to dedicate your contribution to the public domain under CC0 1.0. Approved third-party imports retain their upstream licence, and must include the full applicable notice in THIRD_PARTY_NOTICES.md, an attributed source entry, and provenance. Do not represent upstream MIT data as notice-free CC0.

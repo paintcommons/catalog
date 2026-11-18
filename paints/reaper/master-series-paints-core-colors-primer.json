@@ -1,0 +1,44 @@
+[
+  {
+    "brand": "Reaper",
+    "range": "Master Series Paints Core Colors Primer",
+    "code": "9108",
+    "name": "Brush-on White Primer",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Reaper",
+    "range": "Master Series Paints Core Colors Primer",
+    "code": "9214",
+    "name": "Brush-On Black Primer",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Reaper",
+    "range": "Master Series Paints Core Colors Primer",
+    "code": "9299",
+    "name": "Brush-On Grey Primer",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BCCCCC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

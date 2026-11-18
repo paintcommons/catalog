@@ -1,0 +1,58 @@
+[
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Neon Glow Acrylics",
+    "code": "2974",
+    "name": "Pink",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FC83C1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Neon Glow Acrylics",
+    "code": "2975",
+    "name": "Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F64700",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Neon Glow Acrylics",
+    "code": "2976",
+    "name": "Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EBE689",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Neon Glow Acrylics",
+    "code": "2977",
+    "name": "Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#733272",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

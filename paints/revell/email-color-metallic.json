@@ -1,0 +1,100 @@
+[
+  {
+    "brand": "Revell",
+    "range": "Email Color - Metallic",
+    "code": null,
+    "name": "Aluminium",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BABFC2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Metallic",
+    "code": null,
+    "name": "Brass",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BE8F03",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Metallic",
+    "code": null,
+    "name": "Bronze",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9C653C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Metallic",
+    "code": null,
+    "name": "Copper",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B37451",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Metallic",
+    "code": null,
+    "name": "Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CDB285",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Metallic",
+    "code": null,
+    "name": "Silver",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A6A9AE",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Revell",
+    "range": "Email Color - Metallic",
+    "code": null,
+    "name": "Steel",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#757A80",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

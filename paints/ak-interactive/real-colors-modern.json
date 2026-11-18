@@ -1,0 +1,226 @@
+[
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC001",
+    "name": "Flat Black, RAL 9005",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC002",
+    "name": "Cream White, RAL 9001",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FEEECC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC004",
+    "name": "Flat White, RAL 9003",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC007",
+    "name": "Yellow, RAL 1003",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FDC109",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC008",
+    "name": "Maize Yellow, RAL 1006",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FAB013",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC012",
+    "name": "Pure Green, RAL 6037",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1C6E30",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC013",
+    "name": "Off White",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E1D6BA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC018",
+    "name": "Pale Sand",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CBB590",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC019",
+    "name": "Deck Tan",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#99907F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC020",
+    "name": "Aluminium",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ADACA8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC021",
+    "name": "Pale Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#879391",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC501",
+    "name": "Satin Varnish",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DCDCDC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC502",
+    "name": "Gloss Varnish",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E5E5E5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC504",
+    "name": "Clear Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1C69A1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC506",
+    "name": "Clear Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DE7927",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Modern",
+    "code": "RC507",
+    "name": "Clear Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ECC31B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

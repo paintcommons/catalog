@@ -1,0 +1,44 @@
+[
+  {
+    "brand": "Scale75",
+    "range": "Primers",
+    "code": null,
+    "name": "Primer Surface Black",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#101318",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Primers",
+    "code": null,
+    "name": "Primer Surface Gray",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#646464",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Primers",
+    "code": null,
+    "name": "Primer Surface White",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C9CFD5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

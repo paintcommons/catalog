@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color Super Metallic 2",
+    "code": "SM201",
+    "name": "Super Fine Silver 2",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DBDADB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color Super Metallic 2",
+    "code": "SM202",
+    "name": "Super Gold 2",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CFB16E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color Super Metallic 2",
+    "code": "SM203",
+    "name": "Super Iron 2",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C4C3C3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color Super Metallic 2",
+    "code": "SM204",
+    "name": "Super Stainless 2",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C9C9C8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color Super Metallic 2",
+    "code": "SM205",
+    "name": "Super Titanium 2",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DEDADC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color Super Metallic 2",
+    "code": "SM206",
+    "name": "Super Chrome Silver 2",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D7D6D7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

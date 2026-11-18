@@ -1,10 +1,11 @@
+import { fileURLToPath } from "node:url";
 // Checks every data file. No dependencies: `node scripts/validate.mjs` (Node 20+).
 // Pass --base <git ref> to also refuse removed paints and changed ids compared with that commit.
 import { readFileSync, readdirSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
 import { execFileSync } from "node:child_process";
 
-const root = new URL("..", import.meta.url).pathname;
+const root = fileURLToPath(new URL("..", import.meta.url));
 const errors = [];
 const fail = (where, message) => errors.push(`${where}: ${message}`);
 

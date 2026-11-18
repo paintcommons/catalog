@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "Warcolours",
+    "range": "Glazing paints",
+    "code": null,
+    "name": "Blue Glaze",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4E91C8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Glazing paints",
+    "code": null,
+    "name": "Brown Glaze",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C07E71",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Glazing paints",
+    "code": null,
+    "name": "Green Glaze",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9AFF4F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Glazing paints",
+    "code": null,
+    "name": "Pink Glaze",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EB89A8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Glazing paints",
+    "code": null,
+    "name": "Red Glaze",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EC8A8E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Glazing paints",
+    "code": null,
+    "name": "Yellow Glaze",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FEF65D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

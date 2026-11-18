@@ -2,9 +2,9 @@
 
 An open, community-maintained catalog of miniature paints: brands, ranges, product codes, names, paint types, barcodes and approximate colours, each colour with its source.
 
-- **1,981 paints** from The Army Painter, Citadel (Warhammer Colour and Tone Pro), Monument Hobbies (Pro Acryl), Turbo Dork and Vallejo
+- **9,945 paints** across 30 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper, Scale75, Tamiya and more
 - **1,565 barcodes**, each marked calculated, published (with its source URL) or confirmed by scan
-- **1,966 colours**, each linked to the chart, catalogue or method it came from
+- **9,930 colours**, each linked to the chart, catalogue or method it came from
 
 Paint Commons is inspired by the commons ethos of Wikipedia and Creative Commons, with no affiliation to either. The catalog is kept in sync with [Stipplewise](https://stipplewise.com), a paint collection app that contributes reviewed corrections and reads the catalog back.
 
@@ -46,9 +46,11 @@ Every colour is an approximation of paint in the pot, taken from printed or rend
 
 ## Licence
 
-The data in this repository (`paints/`, `equivalents.json`, `sources.json`) is dedicated to the public domain under [CC0 1.0](LICENSE). Credit is appreciated but not required.
+Paint Commons contributions to the data in this repository (`paints/`, `equivalents.json`, `sources.json`) are dedicated to the public domain under [CC0 1.0](LICENSE). Imported third-party data retain their original terms; the CC0 dedication does not replace those terms.
 
-Colours from [miniature-paints](https://github.com/b-kelly/miniature-paints) by b-kelly (MIT licence) are marked with the `miniature-paints` source; please keep that credit if you reuse them.
+Data from [Arcturus5404/miniature-paints](https://github.com/Arcturus5404/miniature-paints), published by **Rick Fleuren and the Miniature Painter Pro team**, are under MIT, Copyright (c) 2022 Rick Fleuren. The direct import uses source `arcturus-miniature-paints-22791a6`; existing data imported through Ben Kelly’s package keep the `miniature-paints` source. **Retain the full [third-party notices](THIRD_PARTY_NOTICES.md) with copies or substantial portions of these data.**
+
+The [Arcturus import report](reports/arcturus-import/README.md) documents the pinned revision, matching rules, withheld rows. Proposed colour replacements and conflict resolutions are reviewed in a separate PR. Existing records and their colours were preserved.
 
 The scripts in `scripts/` are under the [MIT licence](scripts/LICENSE).
 

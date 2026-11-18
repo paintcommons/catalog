@@ -1,0 +1,114 @@
+[
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Crystal Color",
+    "code": "XC01",
+    "name": "Diamond Silver",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C1D2E6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Crystal Color",
+    "code": "XC02",
+    "name": "Topaz Gold",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C3D5D3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Crystal Color",
+    "code": "XC03",
+    "name": "Ruby Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CAC6D7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Crystal Color",
+    "code": "XC04",
+    "name": "Amethyst Purple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C1BFE4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Crystal Color",
+    "code": "XC05",
+    "name": "Sapphire Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B0C3E1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Crystal Color",
+    "code": "XC06",
+    "name": "Tourmaline Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AECADF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Crystal Color",
+    "code": "XC07",
+    "name": "Turquoise Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AAC4E5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Crystal Color",
+    "code": "XC08",
+    "name": "Moonstone Pearl",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C0D0E9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "2480",
+    "name": "Royal Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#663E1B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "2588",
+    "name": "Ice Blue",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8A9CA0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "491",
+    "name": "Christmas Green",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#253E29",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "493",
+    "name": "Bright Red",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#813E47",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "506",
+    "name": "Silver Anniversary",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D3D2D0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "577",
+    "name": "Sahara Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D8C6A2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "580",
+    "name": "Taupe",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#786C5E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "6102",
+    "name": "Rose Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B29080",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "651",
+    "name": "Blue Topaz",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A677C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "652",
+    "name": "Rose",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#010002",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "653",
+    "name": "Emerald Green",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#184639",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "654",
+    "name": "Amethyst",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#413A59",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "655",
+    "name": "Aquamarine",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D5E8E4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "656",
+    "name": "Blue Sapphire",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#013252",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "657",
+    "name": "Regal Red",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#27282A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "658",
+    "name": "Antique Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7F641D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "659",
+    "name": "Pearl White",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9A9D94",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "660",
+    "name": "Pure Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#554F2B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "661",
+    "name": "Sequin Black",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0C0B09",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "662",
+    "name": "Silver Sterling",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#898883",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "663",
+    "name": "Solid Bronze",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#714721",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "664",
+    "name": "Copper",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#442719",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "665",
+    "name": "Garnet Red",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#68353E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "666",
+    "name": "Antique Copper",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#41291D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "667",
+    "name": "Gunmetal Gray",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#666563",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "668",
+    "name": "Plum",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#714E6F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "670",
+    "name": "Blue Pearl",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#467591",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "671",
+    "name": "Peridot",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#333A18",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "675",
+    "name": "Champagne",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8A8158",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "676",
+    "name": "Inca Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B3972C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "99229",
+    "name": "Jade Shimmer",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5F965C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "99230",
+    "name": "Turquoise Shimmer",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#02627A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "99231",
+    "name": "Violet Shimmer",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1E234D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Metallics",
+    "code": "99232",
+    "name": "Pewter",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#62615D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-10",
+    "name": "Ocean gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#525A5F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-11",
+    "name": "Medium sea gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8F9D87",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-12",
+    "name": "Bare-metal silver",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C2C8CA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-13",
+    "name": "Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#163126",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-14",
+    "name": "Olive green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#335016",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-15",
+    "name": "Tan",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A68354",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-17",
+    "name": "Dark green (IJA)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#184316",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-18",
+    "name": "Light gray (IJA)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A1B7A7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-19",
+    "name": "Intermediate blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5B8E98",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-20",
+    "name": "Insignia white",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F2F2E5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-21",
+    "name": "Dark green 2 (IJN)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#002C12",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-22",
+    "name": "Dark earth",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#674B2B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-23",
+    "name": "Light green (Luftwaffe)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#33701F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-24",
+    "name": "Dark green (Luftwaffe)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#18280D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-25",
+    "name": "Dark ghost grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C898E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-26",
+    "name": "Light ghost grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#85A0A3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-27",
+    "name": "Gunship gray 2",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D4E59",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-28",
+    "name": "Medium gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#727D7D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-29",
+    "name": "Gray green (IJN)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B8C3A7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-3",
+    "name": "Gray green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#253A2E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-30",
+    "name": "Dark green 2",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#355533",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-31",
+    "name": "Ocean gray 2",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C8C99",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-32",
+    "name": "Medium sea gray 2",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AABEB9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-4",
+    "name": "Gray violet",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#405367",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-5",
+    "name": "Light blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#99C2B5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-6",
+    "name": "Olive drab",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#404B13",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-7",
+    "name": "Neutral gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7E8789",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Aircraft Spray",
+    "code": "AS-8",
+    "name": "Navy blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#28425E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

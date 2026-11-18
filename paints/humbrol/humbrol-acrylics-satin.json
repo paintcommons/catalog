@@ -1,0 +1,44 @@
+[
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Satin",
+    "code": "127",
+    "name": "US Ghost Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ADBFC9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Satin",
+    "code": "71",
+    "name": "Oak",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F2DFB7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Satin",
+    "code": "85",
+    "name": "Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#171310",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

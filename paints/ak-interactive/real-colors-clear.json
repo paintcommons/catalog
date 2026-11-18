@@ -1,0 +1,30 @@
+[
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Clear",
+    "code": "RC503",
+    "name": "Clear Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BD0A0D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - Clear",
+    "code": "RC505",
+    "name": "Clear Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A683A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

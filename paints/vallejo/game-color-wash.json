@@ -1,0 +1,58 @@
+[
+  {
+    "brand": "Vallejo",
+    "range": "Game Color Wash",
+    "code": "73.202",
+    "name": "Pale Grey Wash",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CACAD2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Game Color Wash",
+    "code": "73.205",
+    "name": "Green Wash",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#72B25B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Game Color Wash",
+    "code": "73.300",
+    "name": "Sepia Wash",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#744300",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Game Color Wash",
+    "code": "73.301",
+    "name": "Black Wash",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0E0D0E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

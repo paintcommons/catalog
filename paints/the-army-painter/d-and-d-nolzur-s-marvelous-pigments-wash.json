@@ -1,0 +1,58 @@
+[
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments Wash",
+    "code": null,
+    "name": "Brown Wash",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#352A16",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments Wash",
+    "code": null,
+    "name": "Flesh Wash",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4B1B0E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments Wash",
+    "code": null,
+    "name": "Glistening Blood",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BB2929",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments Wash",
+    "code": null,
+    "name": "Shadow Wash",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000103",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

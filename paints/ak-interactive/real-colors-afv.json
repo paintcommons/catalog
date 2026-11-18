@@ -1,0 +1,702 @@
+[
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC023",
+    "name": "Olive Drab Nº9 / Nº22",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#423C1C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC030",
+    "name": "Nº6 Earth Yellow Fs 30257",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BD8D4D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC032",
+    "name": "Desert Sand Fs 30279",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BB986E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC033",
+    "name": "Khaki Green Nº3",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F4231",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC036",
+    "name": "S.c.c. 14 Blue Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1E2326",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC039",
+    "name": "Bsc Nº34 Slate",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F4A2C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC040",
+    "name": "Bsc Nº61 Light Stone",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D2B25B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC042",
+    "name": "British Dark Olive Green Pfi",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A442E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC044",
+    "name": "British Light Mud",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#837D49",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC046",
+    "name": "Elfenbein – Ivory RAL 1001 (interior Color)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EBC691",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC047",
+    "name": "Olivgrün – Olive Green RAL 6003",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4E5220",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC050",
+    "name": "Dunkelgrün – Dark Green RAL 6009",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2F311C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC052",
+    "name": "Grau – Grey RAL 7003 (RLM 02)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#777255",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC053",
+    "name": "Graugrün – Gray Green RAL 7008",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#837038",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC055",
+    "name": "Blaugrau – Blue Gray RAL 7016",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#303433",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC060",
+    "name": "Dunkelgelb – Dark Yellow RAL 7028",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9C8853",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC061",
+    "name": "Dunkelgelb Ausgabe 44 – Dark Yellow RAL 7028 Ver. ’44",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B7A277",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC062",
+    "name": "Dunkelgelb – Dark Yellow (variant)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A78A50",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC066",
+    "name": "Rot (rotbraun) – Red (red Brown) RAL 8013",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#55160D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC067",
+    "name": "Rot (rotbraun) Red (red Brown) RAL 8012",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6D2114",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC071",
+    "name": "Black 6rp",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#17120C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC075",
+    "name": "Sand 7k",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#84632D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC078",
+    "name": "Apc Interior Green Fs 24533",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A4B483",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC079",
+    "name": "Carc Tan 686a Fs 33446",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B49457",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC080",
+    "name": "Nato Green RAL 6031-f9",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#313A1D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC081",
+    "name": "Nato Brown RAL 8027-f9",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#433021",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC082",
+    "name": "Nato Black RAL 9021-f9",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1F1E19",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC083",
+    "name": "Green Fs 34102",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#43481F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC084",
+    "name": "Sand Fs 30277",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#887348",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC085",
+    "name": "Field Drab Fs 30118",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6B5325",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC086",
+    "name": "Gelboliv (initial) RAL 6014",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#544820",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC087",
+    "name": "Gelboliv (late) RAL 6014",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#41381B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC088",
+    "name": "Sandbeige RAL 1039-f9",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AD976E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC089",
+    "name": "Graubeige – Grey Beige RAL 1040-f9",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#988050",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC090",
+    "name": "Helloliv – Light Olive RAL 6040-f9",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5F5025",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC091",
+    "name": "Tarngrau RAL 7050-f9",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#665543",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC092",
+    "name": "Sandbraun RAL 8031-f9",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8C7450",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC093",
+    "name": "British Sand Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D8953A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC094",
+    "name": "Idf Modern Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C562D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC095",
+    "name": "Idf Sand Grey 1970s-1980s",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#73643D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC096",
+    "name": "Idf Early Sand Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#927E4C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC097",
+    "name": "Uae Sand Dull",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9F8964",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC098",
+    "name": "Russian Modern Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#454924",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC099",
+    "name": "Russian Greyish Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C7AE85",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC100",
+    "name": "Russian Grey Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#515137",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC101",
+    "name": "Egyptian Desert Sand",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D9BD96",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC102",
+    "name": "Syrian Republican Guard Desert Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DFB048",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC103",
+    "name": "Libyan Army Desert Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B4A796",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC104",
+    "name": "Iraqi Army Desert Sand",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DFD3B9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Real Colors - AFV",
+    "code": "RC105",
+    "name": "Spanish Green, Fs 3011",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4E5534",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

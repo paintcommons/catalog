@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-001",
+    "name": "Primer Acrílico Cinza",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A1ABAD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-002",
+    "name": "Primer Acrílico Preto",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#060608",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-003",
+    "name": "Primer Acrílico Branco",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-004",
+    "name": "Primer Acrílico Flesh Base",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DFCB90",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-005",
+    "name": "Primer Acrílico Zinc Chromate Yellow",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EBD238",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-006",
+    "name": "Primer Acrílico Olive Drab",
+    "type": "primer",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A4032",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

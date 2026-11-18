@@ -1,0 +1,44 @@
+[
+  {
+    "brand": "Mr Hobby",
+    "range": "Primary Color Pigments",
+    "code": "CR1",
+    "name": "Cyan",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00A0E9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Primary Color Pigments",
+    "code": "CR2",
+    "name": "Magenta",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E4007F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Primary Color Pigments",
+    "code": "CR3",
+    "name": "Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFF100",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "brand": "FolkArt",
+    "range": "Shiny™",
+    "code": "2700",
+    "name": "Wicker White",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C6C3BE",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Shiny™",
+    "code": "2702",
+    "name": "Engine Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#71242C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Shiny™",
+    "code": "2703",
+    "name": "Pure Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AB4A1D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Shiny™",
+    "code": "2706",
+    "name": "Lemon Custard",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#352B1F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Shiny™",
+    "code": "2708",
+    "name": "Apple Orchard",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6AB848",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Shiny™",
+    "code": "2710",
+    "name": "Calypso Sky",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#42B8C2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Shiny™",
+    "code": "2711",
+    "name": "Ultramarine Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#18437A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Shiny™",
+    "code": "2715",
+    "name": "Licorice",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#242321",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Acid Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C4D964",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Ancestral Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#61ABC4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Arcane Purple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#350D4C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Basilisk Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D5152",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Belladonna Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4CA579",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Corrupted Stamina",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#699D0C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Dark Kraken",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#194A5B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Dead Flesh",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7F6662",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Demon Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#66271E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Dragon Blood",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#810622",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Drain Life",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E69464",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Elixir Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#005C4D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Endurance Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#773F1C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Estus Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FEE459",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Evil Root",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F07E4A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Fairy Blood",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#414874",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Frenzy Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EC6001",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Full Healing",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FEEF00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Golem Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2C3031",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Grey Spell",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#808FB0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Grizzly Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#50181B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Health Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C31610",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Human Flesh",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DAAB97",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Leviathan Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#005E70",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Life Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E63217",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Love Affair",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E92B37",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Magic Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#147797",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Mana Regeneration",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0184D2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Ogre Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C07704",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Paralyze Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3579C0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Phoenix Egg",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E5D0A3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Phoenix Feather",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D18A5C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Rage Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7C2B16",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Ragweed Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DF6A27",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Remove Mana",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0D2736",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Replenish Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#01479C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Rotten Pus",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FBB400",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Salmon Fury",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EB5650",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Savage Beige",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F3D783",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Shadow Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1D1F1C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Spectral Wolf",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AB9FA1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Sulfur Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FED500",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Toad Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#475139",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Undead Dragon",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B6C8BC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Werewolf Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#553C35",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Wild Beast",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CA854E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Zombie Skin",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A6A869",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Instant Colors Range",
+    "code": null,
+    "name": "Zucchini Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#405B32",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

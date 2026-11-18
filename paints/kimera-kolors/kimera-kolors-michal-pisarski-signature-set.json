@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "Kimera Kolors",
+    "range": "Kimera Kolors Michal Pisarski Signature Set",
+    "code": null,
+    "name": "Cloudy Sky",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A99E85",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Kimera Kolors Michal Pisarski Signature Set",
+    "code": null,
+    "name": "Fallen Grass",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6F7C63",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Kimera Kolors Michal Pisarski Signature Set",
+    "code": null,
+    "name": "Ground Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#54483C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Kimera Kolors Michal Pisarski Signature Set",
+    "code": null,
+    "name": "Iron Hue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#757973",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Kimera Kolors Michal Pisarski Signature Set",
+    "code": null,
+    "name": "Morning Sky",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5D8499",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Kimera Kolors Michal Pisarski Signature Set",
+    "code": null,
+    "name": "Sun Ray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FDF6AD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

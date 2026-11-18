@@ -360,6 +360,20 @@
     "status": "current"
   },
   {
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Emperor Children",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B74073",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
     "id": "579cc826-8cda-4093-8abc-cddc0bf57357",
     "brand": "Citadel",
     "range": "Layer",
@@ -506,6 +520,20 @@
       "hex": "#89D0C0",
       "gradient": null,
       "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Gehenna Gold",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C96B18",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },

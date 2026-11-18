@@ -1,0 +1,1010 @@
+[
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7005",
+    "name": "Anthraquinone Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#171F4D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7007",
+    "name": "Bismuth Vanadate Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFF256",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7008",
+    "name": "Benzimidazolone Yellow Medium",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EFDB4B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7009",
+    "name": "Benzimidazolone Yellow Light",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7010",
+    "name": "Bone Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A2925",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7020",
+    "name": "Burnt Sienna",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#563027",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7030",
+    "name": "Burnt Umber",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#342B26",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7040",
+    "name": "Carbon Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#373736",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7050",
+    "name": "Cerulean Blue, Chromium",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3B7AE1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7060",
+    "name": "Chromium Oxide Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#41643C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7061",
+    "name": "Chromium Oxide Green Dark",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#365033",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7070",
+    "name": "Cadmium Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FD4500",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7080",
+    "name": "Cadmium Red Dark",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8A191D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7090",
+    "name": "Cadmium Red Light",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DA4C41",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7100",
+    "name": "Cadmium Red Medium",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B91B1C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7110",
+    "name": "Cadmium Yellow Dark",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FEC10E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7130",
+    "name": "Cadmium Yellow Medium",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFF12C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7135",
+    "name": "Cadmium Yellow Primrose",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F9F088",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7140",
+    "name": "Cobalt Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1546C6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7142",
+    "name": "Cobalt Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#43695E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7144",
+    "name": "Cobalt Turquoise",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#245262",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7145",
+    "name": "Cobalt Teal",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#569AB6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7147",
+    "name": "Diarylide Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FEBF18",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7150",
+    "name": "Dioxazine Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#191B30",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7170",
+    "name": "Green Gold",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#808028",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7191",
+    "name": "Hansa Yellow Opaque",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFF436",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7195",
+    "name": "Jenkins Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#191E21",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7202",
+    "name": "Mars Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#963F2C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7210",
+    "name": "Naphthol Red Light",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E60203",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7220",
+    "name": "Naphthol Red Medium",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#950810",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7225",
+    "name": "Nickel Azo Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E4982A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7240",
+    "name": "Payne's Gray",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#262B31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7250",
+    "name": "Permanent Green Light",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1A5446",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7252",
+    "name": "Permanent Maroon",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3E1B19",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7253",
+    "name": "Permanent Violet Dark",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A1A2F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7255",
+    "name": "Phthalo Blue (green Shade)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#10357B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7260",
+    "name": "Phthalo Blue (red Shade)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1B43A2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7270",
+    "name": "Phthalo Green (blue Shade)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0B373A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7275",
+    "name": "Phthalo Green (yellow Shade)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#146847",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7276",
+    "name": "Pyrrole Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FD2901",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7277",
+    "name": "Pyrrole Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BD0004",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7278",
+    "name": "Pyrrole Red Dark",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#860710",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7301",
+    "name": "Quinacridone  Nickel Azo Gold",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DA4E19",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7305",
+    "name": "Quinacridone Magenta",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#611321",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7310",
+    "name": "Quinacridone Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BF0218",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7340",
+    "name": "Raw Sienna",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#915A31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7350",
+    "name": "Raw Umber",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#322D29",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7360",
+    "name": "Red Oxide",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6D2D24",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7369",
+    "name": "Teal",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A9DBA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7370",
+    "name": "Titan Buff",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F3E4C7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7371",
+    "name": "Titan Green Pale",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7380",
+    "name": "Titanium White",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7383",
+    "name": "Transparent Brown Iron Oxide",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#762C11",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7385",
+    "name": "Transparent Red Iron Oxide",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9A1800",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7386",
+    "name": "Transparent Yellow Iron Oxide",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F6AE36",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7400",
+    "name": "Ultramarine Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#44549C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7401",
+    "name": "Ultramarine Violet",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2C2A5C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7405",
+    "name": "Violet Oxide",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#502826",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7407",
+    "name": "Yellow Ochre",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D38952",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7410",
+    "name": "Yellow Oxide",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DA9339",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7415",
+    "name": "Zinc White",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9FACBD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7445",
+    "name": "N5 Neutral Gray",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6D6968",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7450",
+    "name": "Alizarin Crimson Hue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#99403F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7455",
+    "name": "India Yellow Hue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F59A16",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7457",
+    "name": "Manganese Blue Hue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6299CF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7459",
+    "name": "Naples Yellow Hue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F0CD71",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7460",
+    "name": "Prussian Blue Hue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#222F51",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7461",
+    "name": "Sap Green Hue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5C5B42",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7462",
+    "name": "Vandyke Brown Hue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4C352D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7468",
+    "name": "Terre Verte Hue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#76825C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7469",
+    "name": "Viridian Green Hue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#307676",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Golden",
+    "range": "OPEN Acrylics",
+    "code": "7566",
+    "name": "Light Ultramarine Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6595E9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

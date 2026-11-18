@@ -1,0 +1,44 @@
+[
+  {
+    "brand": "The Army Painter",
+    "range": "Skin Tones Paint Set - Washes",
+    "code": null,
+    "name": "Dark Skin Wash",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#332123",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Skin Tones Paint Set - Washes",
+    "code": null,
+    "name": "Soft Skin Wash",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6B412B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Skin Tones Paint Set - Washes",
+    "code": null,
+    "name": "Strong Skin Wash",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#382A22",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

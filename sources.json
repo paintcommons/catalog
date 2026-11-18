@@ -90,6 +90,14 @@
       "licence": "MIT (keep the credit to b-kelly/miniature-paints)"
     },
     {
+      "id": "arcturus-miniature-paints-22791a6",
+      "name": "Miniature Painter Pro miniature-paints — Rick Fleuren (MIT)",
+      "url": "https://github.com/Arcturus5404/miniature-paints/tree/22791a682e1d155da388f4f856cd7196cd9f2677",
+      "method": "Imported directly from the pinned upstream Markdown tables. Approximate manufacturer/community RGB/hex values; not laboratory measurements. Existing Paint Commons records and manufacturer swatches take precedence. Per-row source URLs and decisions: reports/arcturus-import/decisions.json.",
+      "status": "published",
+      "licence": "MIT — Copyright (c) 2022 Rick Fleuren. Published by Rick Fleuren and the Miniature Painter Pro team. Full notice: THIRD_PARTY_NOTICES.md and data/upstream/arcturus-22791a6/LICENSE."
+    },
+    {
       "id": "manual-override",
       "name": "Hand-checked by Stipplewise",
       "url": "https://stipplewise.com",

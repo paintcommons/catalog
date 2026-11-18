@@ -1,0 +1,1262 @@
+[
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3002",
+    "name": "Black Uniform Base",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A2319",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3003",
+    "name": "Basalt Grey / Black Uniform",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#41413F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3004",
+    "name": "Stone Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#53524D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3005",
+    "name": "Grey Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D4948",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3006",
+    "name": "Black Grey / Bla Uniform",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2B2321",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3007",
+    "name": "Black Rubber",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#211917",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3011",
+    "name": "Base Flesh -17-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6E4937",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3012",
+    "name": "Light Flesh -16-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AD7449",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3013",
+    "name": "Highlight Flesh",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F0B069",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3014",
+    "name": "Shadow Flesh -29-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#78342B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3015",
+    "name": "Dark Shadow Flesh",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#48231D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3016",
+    "name": "Reddish Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D2823",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3021",
+    "name": "Chocolate Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5E4A32",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3022",
+    "name": "Orange Tan",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CC864A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3023",
+    "name": "Dark Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#293029",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3024",
+    "name": "Light Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#778F39",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3025",
+    "name": "Medium Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#41462F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3026",
+    "name": "Tan / Global Light",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#946E3F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3027",
+    "name": "White -1-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F5F5F5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3028",
+    "name": "Ivory -2-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DEF2CD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3029",
+    "name": "Faded White -3-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E7E4DD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3031",
+    "name": "Brown Leather",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#574531",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3032",
+    "name": "Orange / Strong Ochre",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FC6C16",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3033",
+    "name": "Light Sand",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BB9F6D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3035",
+    "name": "Silver & Metal Midtones",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D2D2D2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3036",
+    "name": "Gilt Metal -85-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B09B00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3037",
+    "name": "Basic Intense Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFCF00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3038",
+    "name": "Faded Yellow -5-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFAF10",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3039",
+    "name": "Golden Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFC057",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3041",
+    "name": "Khaki / Splittermuster Base",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#59553A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3043",
+    "name": "Bronze Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A4131",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3044",
+    "name": "Faded Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3E382A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3045",
+    "name": "Beige / Splittermuster Light",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#818F6C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3047",
+    "name": "Pale Sand -7-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFE090",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3048",
+    "name": "Red / Vermilion Cadmium Red.",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E32A18",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3049",
+    "name": "Intense Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E34518",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3051",
+    "name": "Brown Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3F3128",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3052",
+    "name": "Golden Flesh",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D59442",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3053",
+    "name": "Dark Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#33291F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3054",
+    "name": "Beige Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8F5E36",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3056",
+    "name": "Brown Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2B2622",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3057",
+    "name": "Light Red -33-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F65539",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3058",
+    "name": "Intermediate Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#648C45",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3059",
+    "name": "Deep Green -51-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#325736",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3061",
+    "name": "Medium Red Brown / Waffen Spring/ Summer Base -18-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#574539",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3062",
+    "name": "Cork Brown / Waffen Spring/ Summer Highlight -25-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#876645",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3063",
+    "name": "Golden Olive / Waffen Spring / Summer Light Green Spots -52-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#94AD48",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3064",
+    "name": "Green Black / Waffen Spring/ Summer Dark Spots -40-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1D2A19",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3067",
+    "name": "Deck Tan / Grey Highlights -69-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#968F72",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3068",
+    "name": "Turquoise -76-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0F3E44",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3069",
+    "name": "Intense Blue -77-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#19628F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3071",
+    "name": "Dark Olive Green / M-43 Uniform Green Olive -43-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#434B26",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3072",
+    "name": "Ocher Khaki / M-44 Uniform Green Ocher Khaki -24-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CA9C24",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3073",
+    "name": "Red Brown / Red Brown Leather -19-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8E311F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3074",
+    "name": "Brown Olive Drab / US Olive Drab -39-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#41372D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3075",
+    "name": "US Field Drab -23-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#926723",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3076",
+    "name": "Canvas Tone -65-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9F8F53",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3077",
+    "name": "Deep Sky Blue -78-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3398C4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3078",
+    "name": "Light Blue -79-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7EC3E0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3079",
+    "name": "American Blue -80-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#649E92",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3081",
+    "name": "British Uniform / WWI British Uniform Base -21-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5E4B2D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3082",
+    "name": "Dark Sand / WWI British Uniform Light -11-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#826933",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3083",
+    "name": "Umber / British Uniform Shadow -35-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2B2620",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3084",
+    "name": "Pure Black -84-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3085",
+    "name": "Glaze Medium -90-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B7B7B7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3086",
+    "name": "Gun Metal -88-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7E7E7E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3087",
+    "name": "Bronze -89-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B78629",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3088",
+    "name": "Copper -87-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BB7956",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3094",
+    "name": "Violet -70-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#543A7B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3095",
+    "name": "Dark Violet -71-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2C223D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3101",
+    "name": "Greyish Blue / WWI French Uniform Base -75-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3B4F50",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3102",
+    "name": "Light Grey / WWI French Uniform Light -63-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8C9576",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3103",
+    "name": "Dark Sea Blue / WWI French Uniform Shadow -72-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#151F20",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3111",
+    "name": "Golden Sand / Desert Uniform Base -10-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#907131",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3112",
+    "name": "Desert Yellow / Desert Uniform Lights -8-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C49B4B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3114",
+    "name": "Green Uniform Base -48-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3E402B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3115",
+    "name": "Olive Green / Green Uniform Lights -66-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#636033",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3116",
+    "name": "Dark Blue Green / Green Uniform Shadows -41-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2D2E1E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3121",
+    "name": "Russian Uniform Lights -54-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#878A43",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3122",
+    "name": "Russian Uniform Base -49-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5D5D37",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3123",
+    "name": "Russian Uniform Shadow -46-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#494A2B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3124",
+    "name": "Prussian Blue / Blue Tank Crew Lights -74-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2C3D4D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3125",
+    "name": "Dark Blue / Blue Tank Crew Base -73-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1F282F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3126",
+    "name": "Emblem Red -30-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9E1F0C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3141",
+    "name": "Olive Grey / Field Grey Base -55-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#484534",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3142",
+    "name": "Granite Grey / Field Grey Base 2 -56-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#45473A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3143",
+    "name": "Grey Green / Filed Grey Lights -68-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#787A53",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3144",
+    "name": "Dark Grey / Field Grey Shadows -57-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2F2A24",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3145",
+    "name": "Medium Grey / German Grey Uniform -58-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A3436",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Figures",
+    "code": "AK3146",
+    "name": "Grey Blue / Grey Blue / German Grey Uniform Light -62-",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#64706E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

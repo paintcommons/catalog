@@ -1,0 +1,100 @@
+[
+  {
+    "brand": "Vallejo",
+    "range": "Arte Deco Colores Fluoresecents",
+    "code": "85.132",
+    "name": "Neon Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFF170",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Arte Deco Colores Fluoresecents",
+    "code": "85.133",
+    "name": "Orange Pearl",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F58841",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Arte Deco Colores Fluoresecents",
+    "code": "85.134",
+    "name": "Neon Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EB4E22",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Arte Deco Colores Fluoresecents",
+    "code": "85.135",
+    "name": "Neon Pink",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E50058",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Arte Deco Colores Fluoresecents",
+    "code": "85.136",
+    "name": "Neon Magenta",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E60068",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Arte Deco Colores Fluoresecents",
+    "code": "85.137",
+    "name": "Neon Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#06266D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Arte Deco Colores Fluoresecents",
+    "code": "85.138",
+    "name": "Neon Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#009331",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

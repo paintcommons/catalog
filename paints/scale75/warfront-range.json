@@ -1,0 +1,898 @@
+[
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "American Olive",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#736737",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Braun",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E5C89E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Cremeweiss",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FCFCE0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Dark Earth",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#643722",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Deep Ocean",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000B2B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Desert Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D9AF75",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Dunkelbraun Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#413028",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Dunkelgelb 44",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DED1B1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Dunkelgelb Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CBB550",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Dunkelgrau Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#57585A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Field Grey 1",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#39553C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Field Grey 2",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3F4C45",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Flat Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1C1C1C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Flight Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#01688B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Gelbraun Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D5AC74",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Grau",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E8D5C4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Graugrun Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A08848",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Green Ochre",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#948123",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Leaden Sky",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#404F70",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Light Sky",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7890B4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ocean Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0C2140",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ocean Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#556477",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Olive Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#434631",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Olivegrun 44",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#93A45D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Olivegrun Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5A6432",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E9670F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Pale Earth",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5F4125",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Panzer Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#30383B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Panzer Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D6C78C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Red Label",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DF0617",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Rotbraun 44",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#905024",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Rotbraun Primer Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#925447",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Rotbraun Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#52341A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Russian Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#584F26",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Russian Light Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#635111",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Russian Uniform",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#695928",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "SS Camo Golden Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F0A001",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Sahara Sand",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EFD066",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Sand Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EAC581",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Shadow Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A3245",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Slate Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#372B15",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Smoke Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#886859",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Dark Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#220B05",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Dark Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A331E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Gray Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6F4F36",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8F8063",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Highlights",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FAB861",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Italian Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3F5232",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Light Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7E8126",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Medium Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#825D31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Medium Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D5025",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Ocher Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CFAE5F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Red Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#593A1B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Top Lights",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FBC77E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Top Shadows",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#343428",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Ss Camo Yellow Sand",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C0A56E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Titanium Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#41342B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Us Dark Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AE8A72",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Us Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#474632",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Us Medium Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D4AD84",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "White",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Winter Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6E6E70",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Winter Shadow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A3C39",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Warfront  Range",
+    "code": null,
+    "name": "Yellow Code",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFCB06",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

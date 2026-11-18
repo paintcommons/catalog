@@ -105,6 +105,20 @@
     "status": "current"
   },
   {
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Cassandora Yellow",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F5CC92",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
     "id": "589269ab-6d40-4766-835e-f055fdf108db",
     "brand": "Citadel",
     "range": "Shade",

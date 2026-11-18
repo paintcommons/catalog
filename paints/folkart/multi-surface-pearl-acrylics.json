@@ -1,0 +1,114 @@
+[
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Pearl Acrylics",
+    "code": "2969",
+    "name": "White",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E1DFD3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Pearl Acrylics",
+    "code": "2970",
+    "name": "Pink Rouge",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E48EAB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Pearl Acrylics",
+    "code": "2971",
+    "name": "Mandarin Satin",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FA9E55",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Pearl Acrylics",
+    "code": "2972",
+    "name": "Lemon Silk",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F8EA81",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Pearl Acrylics",
+    "code": "2973",
+    "name": "Aqua Moire",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5798B6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Pearl Acrylics",
+    "code": "6315",
+    "name": "Peridot",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#737448",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Pearl Acrylics",
+    "code": "6316",
+    "name": "Aquamarine",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#549C98",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Pearl Acrylics",
+    "code": "6317",
+    "name": "Lavender Lace",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#82709A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

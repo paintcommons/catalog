@@ -1,0 +1,632 @@
+[
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "1",
+    "name": "Primer",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#575B5A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "102",
+    "name": "Army Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#697351",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "103",
+    "name": "Cream",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ECD68A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "106",
+    "name": "Ocean Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6E7353",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "109",
+    "name": "WWI Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5D7FAF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "110",
+    "name": "Natural Wood",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#996746",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "113",
+    "name": "Rust",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AE6A57",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "117",
+    "name": "US Light Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#566441",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "118",
+    "name": "US Tan",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B47E58",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "153",
+    "name": "Insignia Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B21F25",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "154",
+    "name": "Insignia Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F9B400",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "155",
+    "name": "Matt Olive Drab",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#525123",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "160",
+    "name": "German Camouflage Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#623319",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "186",
+    "name": "Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#87533B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "23",
+    "name": "Duck Egg Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D5ECE4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "24",
+    "name": "Trainer Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F8C129",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "25",
+    "name": "Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#223881",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "26",
+    "name": "Khaki",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9B6817",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "27",
+    "name": "Sea Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#585954",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "29",
+    "name": "Dark Earth",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#84664E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "3",
+    "name": "Brunswick Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#213C1D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "30",
+    "name": "Dark Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1E6847",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "32",
+    "name": "Dark Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#41444B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "33",
+    "name": "Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "34",
+    "name": "White",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "36",
+    "name": "Pastel Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CAE2A6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "37",
+    "name": "Bright Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5AAA31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "42",
+    "name": "Pastel Violet",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CDA9CF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "44",
+    "name": "Pastel Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C2D7F2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "57",
+    "name": "Pink",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EFAEB4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "58",
+    "name": "Magenta",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BC4996",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "60",
+    "name": "Scarlet",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BA1816",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "61",
+    "name": "Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EC8F54",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "62",
+    "name": "Leather",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AD5128",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "63",
+    "name": "Sand",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D69C4A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "64",
+    "name": "Light Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CFD0D2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "67",
+    "name": "Matt Tank Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2B3A3D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "72",
+    "name": "Khaki Drill",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AD937A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "80",
+    "name": "Grass Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A7145",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "86",
+    "name": "Olive Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6F5F3E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "89",
+    "name": "Middle Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4598C0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "93",
+    "name": "Desert Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C69749",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "96",
+    "name": "RAF Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#677290",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "98",
+    "name": "Chocolate",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#77513C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Matt",
+    "code": "99",
+    "name": "Lemon",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F8E000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]
