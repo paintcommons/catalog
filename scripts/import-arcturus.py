@@ -14,9 +14,9 @@ import sys
 import unicodedata
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-BASE = 'cc6ddee'
+BASE = '1cdcaf9633e88534762133991ea27584e1f16470'
 REVISION = '22791a682e1d155da388f4f856cd7196cd9f2677'
-SOURCE = 'arcturus-miniature-paints-22791a6'
+SOURCE = 'arcturus-miniature-paints'
 VENDOR = ROOT / 'data/upstream/arcturus-22791a6'
 REPORT = ROOT / 'reports/arcturus-import'
 BRANDS = {'AK': 'AK Interactive', 'AKRC': 'AK Interactive', 'Army_Painter': 'The Army Painter',
@@ -111,6 +111,13 @@ def read_upstream():
 def paint_type(row):
     # Upstream has no general-purpose paint-type field. Avoid inventing chemistry.
     text = (row['range'] or '').lower()
+    if row['brand'] == 'Scale75':
+        if text == 'instant colors range': return 'speedpaint'
+        if text == 'metal n alchemy range': return 'metallic'
+        if text in ('artist range', 'fantasy & games range', 'scale color range', 'warfront  range'):
+            return 'acrylic'
+    if row['brand'] == 'Reaper' and text in ('master series paints bones', 'master series paints core colors', 'master series paints pathfinder'):
+        return 'acrylic'
     for token, kind in [('primer', 'primer'), ('varnish', 'varnish'), ('wash', 'wash'),
                         ('ink', 'ink'), ('speedpaint', 'speedpaint'), ('xpress', 'speedpaint'),
                         ('metallic', 'metallic'), ('metal color', 'metallic'),
@@ -121,6 +128,61 @@ def paint_type(row):
         if text == 'contrast': return 'speedpaint'
         return 'acrylic'
     return 'other'
+
+
+def scope_reasons(row, new_ranges, existing_ranges):
+    reasons = []
+    if row['brand'] in {'Kimera Kolors', 'Arteza', 'Revell', 'Italeri', 'Acrilex'}:
+        reasons.append('brand-under-100-deferred')
+    if row['brand'] == 'Citadel' and (row['range'] or '').startswith('Foundation'):
+        reasons.append('Foundation-deferred')
+    if row['range'] in {'Skin Tones Paint Set', 'Skin Tones Paint Set - Washes', 'Quickshade Washes Set',
+                        'Metallic Colours Paint Set', 'D&D Undead Set', 'D&D Underdark Set', 'Mr Color Modulation Set'} or (
+            row['brand'] == 'Kimera Kolors' and any(w in (row['range'] or '') for w in ('Signature', 'Expansion'))):
+        reasons.append('box-not-bottle-range')
+    key = row['brand'], row['range']
+    if key not in existing_ranges and new_ranges[key] < 5:
+        reasons.append('new-range-under-five-deferred')
+    return reasons
+
+
+def resolve_conflicts(rows, additions, existing, new_ranges, existing_ranges):
+    """Admit only normalized identities, not arbitrary first-code/name choices."""
+    inputs = json.loads((ROOT / 'data/sources/arcturus-conflict-review.json').read_text())
+    by_key, by_name = collections.defaultdict(list), collections.defaultdict(set)
+    for r in rows:
+        key = codekey(r['brand'], r['code']) or (r['brand'], family(r['brand'], r['range']), norm(r['name']))
+        by_key[key].append(r)
+        by_name[(r['brand'], r['range'], norm(r['name']))].add(r['code'])
+    used_names = {(p['brand'], p['range'], norm(p['name'])) for _, p in additions}
+    used_codes = {codekey(p['brand'], p['code']) for _, p in additions if p['code']}
+    ledger, admitted = [], []
+    for entry in inputs:
+        if entry['proposal'] != 'add-candidate':
+            ledger.append(dict(source=entry['source'], disposition='upstream-alternative-or-empty-name'))
+            continue
+        r = entry['source']; reasons = scope_reasons(r, new_ranges, existing_ranges)
+        key = codekey(r['brand'], r['code']) or (r['brand'], family(r['brand'], r['range']), norm(r['name']))
+        name_key = r['brand'], r['range'], norm(r['name'])
+        disposition = None
+        if reasons: disposition = 'excluded-scope'
+        elif r['decision'] == 'withheld-ambiguous-existing-range': disposition = 'held-existing-range-identity'
+        elif len({norm(p['name']) for p in by_key[key]}) > 1: disposition = 'held-code-has-different-names'
+        elif len(by_name[name_key]) > 1: disposition = 'held-name-has-different-codes'
+        elif name_key in used_names: disposition = 'collapsed-normalized-alias'
+        elif r['code'] and codekey(r['brand'], r['code']) in used_codes: disposition = 'held-code-already-selected'
+        else:
+            disposition = 'admitted-normalized-identity'
+            p = {k: r[k] for k in ('brand', 'range', 'code', 'name')}
+            p.update(type=paint_type(r), source=SOURCE, barcodes=[],
+                     colour=dict(hex=r['hex'], gradient=None, source=SOURCE), status='current')
+            path = f"paints/{slug(p['brand'])}/{slug(p['range'])}.json"
+            admitted.append((path, p)); used_names.add(name_key)
+            if r['code']: used_codes.add(codekey(r['brand'], r['code']))
+        ledger.append(dict(source=r, disposition=disposition, scope_reasons=reasons,
+                           alternatives=by_key[key],
+                           reason='First pinned observation only after normalized identity and unique-code/name checks; alternate colour observations retained. No primary manufacturer verification asserted.'))
+    return admitted, ledger
 
 def run():
     git = lambda *args: subprocess.check_output(['git', *args], cwd=ROOT, text=True)
@@ -179,7 +241,7 @@ def run():
             decisions.append({**record, 'decision': 'duplicate-upstream', 'canonical_url': seen[key]}); continue
         seen[key] = r['url']
         p = {k: r[k] for k in ('brand', 'range', 'code', 'name')}
-        p.update(type=paint_type(r), barcodes=[], colour={'hex': r['hex'], 'gradient': None, 'source': SOURCE}, status='discontinued' if 'discontinued' in (r['range'] or '').lower() else 'current')
+        p.update(type=paint_type(r), source=SOURCE, barcodes=[], colour={'hex': r['hex'], 'gradient': None, 'source': SOURCE}, status='discontinued' if 'discontinued' in (r['range'] or '').lower() else 'current')
         path = f"paints/{slug(p['brand'])}/{slug(p['range'])}.json"
         additions.append((path, p))
         decisions.append({**record, 'decision': 'added', 'catalogue_file': path,
@@ -193,11 +255,30 @@ def run():
         if d['decision'] == 'added' and (d['brand'], d['range'], d['name'].lower()) in conflicting:
             d['decision'] = 'withheld-conflicting-upstream-name'; held.append(d)
     additions = [(path, p) for path, p in additions if (p['brand'], p['range'], p['name'].lower()) not in conflicting]
+    new_ranges = collections.Counter((p['brand'], p['range']) for _, p in additions)
+    existing_ranges = {(p['brand'], p['range']) for p in existing}
+    excluded = {(p['brand'], p['range'], p['code'], p['name']): scope_reasons(p, new_ranges, existing_ranges)
+                for _, p in additions if scope_reasons(p, new_ranges, existing_ranges)}
+    for d in decisions:
+        key = d['brand'], d['range'], d['code'], d['name']
+        if d['decision'] == 'added' and key in excluded:
+            d.update(decision='excluded-scope', scope_reasons=excluded[key])
+    additions = [(path, p) for path, p in additions if (p['brand'], p['range'], p['code'], p['name']) not in excluded]
+    conflict_additions, conflict_ledger = resolve_conflicts(rows, additions, existing, new_ranges, existing_ranges)
+    additions += conflict_additions
+    resolved = {(d['source']['file'], d['source']['line']): d for d in conflict_ledger
+                if d['disposition'] in ('admitted-normalized-identity', 'collapsed-normalized-alias')}
+    for d in decisions:
+        resolution = resolved.get((d['file'], d['line']))
+        if resolution:
+            d['decision'] = ('added-conflict-resolved' if resolution['disposition'] == 'admitted-normalized-identity'
+                             else 'duplicate-conflict-alias')
     files = {k: list(v) for k, v in baseline.items()}
     for path, p in additions: files.setdefault(path, []).append(p)
     # Refuse to replace unrelated work or alter a baseline record.
     previous = json.loads((REPORT / 'decisions.json').read_text()) if (REPORT / 'decisions.json').exists() else []
-    prior_keys = {(d['brand'], d['range'], d['code'], d['name']) for d in previous if d['decision'] == 'added'}
+    prior_keys = {(d['brand'], d['range'], d['code'], d['name']) for d in previous
+                  if d['decision'] in ('added', 'added-conflict-resolved', 'excluded-scope')}
     obsolete = []
     for path in ROOT.joinpath('paints').glob('*/*.json'):
         rel = str(path.relative_to(ROOT)); current = json.loads(path.read_text())
@@ -224,7 +305,10 @@ def run():
                'colour_comparisons': len(comparisons), 'substantial_colour_disagreements': sum(c['substantial'] for c in comparisons),
                'substantial_threshold': {'metric': 'Euclidean OKLab, sRGB D65, scale 0–1', 'minimum': .08},
                'snapshot_sha256': {f.name: hashlib.sha256(f.read_bytes()).hexdigest() for f in sorted(VENDOR.iterdir())}}
-    outputs = [('summary', summary), ('decisions', decisions)]
+    summary.update(standard_additions=len(additions)-len(conflict_additions), scope_excluded=len(excluded),
+                   admitted_conflict_identities=len(conflict_additions),
+                   conflict_dispositions=dict(collections.Counter(r['disposition'] for r in conflict_ledger)))
+    outputs = [('summary', summary), ('decisions', decisions), ('conflict-review', conflict_ledger)]
     if '--review-reports' in sys.argv:
         outputs += [('withheld', held), ('colour-comparisons', comparisons),
                     ('colour-disagreements', [c for c in comparisons if c['substantial']])]

@@ -1,26 +1,30 @@
-# Arcturus import and colour review
+# Scoped Arcturus import
 
-Adds **7,964 paints**, bringing the catalogue to **9,945 paints across 30 brands**. All **1,981 existing paint objects** are unchanged, including IDs, names, codes, barcodes, status, colour sources, hex values and gradients. Existing records without colours are also untouched. No existing colour is replaced or backfilled.
+Based on merged catalogue conventions at `1cdcaf9633e88534762133991ea27584e1f16470`. Upstream: [Rick Fleuren / Miniature Painter Pro miniature-paints](https://github.com/Arcturus5404/miniature-paints/tree/22791a682e1d155da388f4f856cd7196cd9f2677), MIT. Stable record/colour source: `arcturus-miniature-paints`; priority 40; full credit and licence in [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md).
 
-Source: [Arcturus5404/miniature-paints](https://github.com/Arcturus5404/miniature-paints/tree/22791a682e1d155da388f4f856cd7196cd9f2677), published by **Rick Fleuren and the Miniature Painter Pro team**, MIT © 2022 Rick Fleuren. Full notice: [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md). The 32 hobby tables and licence are retained under `data/upstream/arcturus-22791a6/`; Pantone/RAL standards and logos are excluded. Every table matches the pinned Git blob hash; imported hex values are checked against upstream RGB.
+## Import result
 
-## Matching and withheld rows
+7,385 unambiguous additions remain after 579 scope exclusions. Four normalized conflict identities are also admitted, for **7,389 additions / 9,370 total paints / 25 brands**. Every one of the 1,981 records on the merged main baseline is preserved exactly, including all colours, manual overrides, ids and barcodes. Imported records and their colours both cite the MIT source.
 
-Match against the original catalogue by normalized manufacturer code first, then name and compatible range. Known range aliases and finish subranges are reconciled for matching only; Air, brush ranges and generations are kept distinct. Explicit Citadel Spray/historical ranges and Army Painter Air/original Speedpaint/Fanatic ranges may add a same-name product in a different generation or application range; ambiguous set labels remain withheld. Ben Kelly's package lineage is not treated as independent measurement evidence. The upstream `Creature` table identifies its rows as Monument Pro Acryl and is mapped to Monument Hobbies; `AKRC` is mapped to AK Interactive. Monument numeric/MPA-prefixed codes are compared consistently. Per-row original locators remain in the reports and snapshots.
+Excluded: five brands with fewer than 100 paints; Citadel Foundation/old Foundation Wash/Primer entries; listed box/set pseudo-ranges; new ranges with fewer than five paints. The full [decisions ledger](decisions.json) retains every one of the 9,909 upstream hobby rows and the exclusion reasons. Small additions to existing Citadel Base (2), Layer (2), Shade (1) remain. D&D Nolzur’s main bottle-labelled range remains; its separately split sub-five wash/primer fragments are deferred under the same small-range rule.
 
-**127 upstream rows are withheld** for conflicting code/name identities, unresolved existing-range matches or a missing name. **199 exact/repeated upstream identities are deduplicated**. See [decisions.json](decisions.json): every one of the 9,909 source rows has a recorded decision and immutable source URL. Conflicting upstream observations never overwrite existing paint records.
+Reaper’s documented acrylic ranges and Scale75 Artist, Fantasy & Games, Scale Color and Warfront are classified as acrylic. Scale75 Instant Colors is speedpaint and Metal N Alchemy is metallic; other unsupported classifications are not invented. AK 3rd Gen was already classified.
 
-Unsupported chemistry/type is `other`, rather than guessed from colour or brand. Explicit range wording supplies types where available. No barcodes, gradients, pack sizes, finish or manufacturer colour families are invented. New IDs are left out per CONTRIBUTING.md. Status is `discontinued` where stated explicitly upstream; otherwise `current` is the required contribution default, not independently verified present-day availability.
+## Identity-conflict review moved from PR #3
 
-## Reproduce and validate
+[conflict-review.json](conflict-review.json) retains all 127 source observations and their dispositions. The original proposal inputs are pinned in `data/sources/arcturus-conflict-review.json`; no competing evidence is discarded.
 
-```sh
-python3 scripts/import-arcturus.py
-PYTHONDONTWRITEBYTECODE=1 python3 scripts/import-arcturus.test.py
-node scripts/validate.mjs --base cc6ddee
-node --test scripts/*.test.mjs
-```
+Of the previous 76 provisional selected additions: 37 are outside the approved scope; 33 still need identity clarification (20 same-name/multiple-code cases, eight different-name/same-code cases, five existing-range ambiguities); two are normalized spelling aliases, not additional paints. Four unique identities can be admitted without choosing between different codes or paint names:
 
-The importer uses the pinned baseline `cc6ddee` to reproduce this one-time import and reports. It verifies the pinned source tables, refuses unrelated paint edits, and preserves baseline objects. It is not a general update/sync tool. Unknown or conflicting records remain available for separate review. No Stipplewise changes, deployment or automatic sync changes are included in this commit.
+- FolkArt Chocolate Brown, SKU 2570.
+- Mission Models Grey Blue Cockpit / Camo Modern Russian Jets, MMP-096 (spacing variants collapse).
+- P3 'Jack Bone (apostrophe variant collapses).
+- P3 Battle Dress Green (spacing variant collapses).
 
-Detailed colour comparisons, unresolved identities and proposed replacements belong to the separate, stacked review PR. To regenerate the raw review reports before applying any replacement candidates, run `python3 scripts/import-arcturus.py --review-reports`.
+For those four, the first pinned upstream colour observation is used as an approximate swatch and all alternatives remain in the ledger; no manufacturer verification is asserted. This resolves identity, not physical colour accuracy. Other code/name ambiguities remain withheld rather than importing arbitrary first-row products.
+
+## Colour disagreements and reproducibility
+
+The 1,613 existing-colour comparisons include 392 substantial observations (Euclidean OKLab ≥ 0.08), representing 370 unique paints. None changes a colour in this import. The separate review uses stop-based enrichment and per-range spot checks under the merged conventions.
+
+Run `PYTHONDONTWRITEBYTECODE=1 python3 scripts/import-arcturus.py --review-reports` to reproduce offline. The source reader verifies upstream Git blob hashes and RGB/hex consistency. The importer refuses unrelated edits. Tests verify baseline preservation, scope, identities, record/colour attribution and full MIT notice. Use `node scripts/validate.mjs --base origin/main` and `node --test scripts/*.test.mjs` too. Local import CLI path handling is fixed for directories containing spaces; smoke tests ensure the entry points really execute. No live data import is performed by these checks.

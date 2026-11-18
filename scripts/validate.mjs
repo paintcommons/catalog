@@ -1,7 +1,7 @@
-import { fileURLToPath } from "node:url";
 // Checks every data file. No dependencies: `node scripts/validate.mjs` (Node 20+).
 // Pass --base <git ref> to also refuse removed paints and changed ids compared with that commit.
-import { readFileSync, readdirSync, statSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
+import { fileURLToPath } from "node:url";
 import { join, relative } from "node:path";
 import { execFileSync } from "node:child_process";
 
@@ -11,7 +11,7 @@ const fail = (where, message) => errors.push(`${where}: ${message}`);
 
 const TYPES = new Set(["acrylic", "wash", "metallic", "effect", "speedpaint", "medium", "ink", "varnish", "primer", "other"]);
 const BARCODE_SOURCES = new Set(["calculated", "published", "scan"]);
-const KEYS = new Set(["id", "brand", "range", "code", "name", "type", "barcodes", "colour", "status", "finish", "manufacturer_colour_family"]);
+const KEYS = new Set(["id", "brand", "range", "code", "name", "type", "barcodes", "colour", "status", "finish", "manufacturer_colour_family", "source"]);
 const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/;
 const HEX = /^#[0-9A-F]{6}$/;
 
@@ -35,8 +35,29 @@ const files = (dir) => readdirSync(dir).flatMap((f) => {
   return statSync(p).isDirectory() ? files(p) : f.endsWith(".json") ? [p] : [];
 });
 
+// Licences a published source may carry (SPDX ids); notice: true means the licence asks for its credit
+// and notice to travel with copies, so the source needs an attribution and a notice file here.
+// Keep in step with PUBLISHABLE_LICENCES in Stipplewise's shared/commons.mjs.
+const LICENCES = { "CC0-1.0": false, "CC-BY-4.0": true, "MIT": true, "BSD-2-Clause": true, "BSD-3-Clause": true, "ISC": true };
+const SOURCE_KEYS = new Set(["id", "name", "url", "method", "status", "licence", "attribution", "notice", "priority"]);
 const sources = readJson(join(root, "sources.json")) ?? { colour_sources: [] };
-const publishedColourSources = new Set(sources.colour_sources.filter((s) => s.status === "published").map((s) => s.id));
+const sourceIds = new Set();
+for (const s of sources.colour_sources ?? []) {
+  const at = `sources.json ${s?.id ?? "(no id)"}`;
+  for (const k of Object.keys(s ?? {})) if (!SOURCE_KEYS.has(k)) fail(at, `unknown field "${k}"`);
+  if (!/^[a-z0-9][a-z0-9-]*$/.test(s?.id ?? "")) fail(at, "id must be lowercase letters, digits and hyphens");
+  else if (sourceIds.has(s.id)) fail(at, "id used twice"); else sourceIds.add(s.id);
+  if (typeof s?.name !== "string" || !s.name.trim()) fail(at, "name is required");
+  if (!["published", "withheld"].includes(s?.status)) fail(at, 'status must be "published" or "withheld"');
+  if (!/^[A-Za-z0-9.+-]+$/.test(s?.licence ?? "")) fail(at, 'licence must be an SPDX id (like "MIT" or "CC0-1.0") or "unknown"');
+  if (s?.priority !== undefined && !(Number.isInteger(s.priority) && s.priority >= 0 && s.priority <= 100)) fail(at, "priority must be a whole number from 0 to 100");
+  if (s?.notice !== undefined && !existsSync(join(root, s.notice.split("#")[0]))) fail(at, `notice file ${s.notice} doesn't exist`);
+  if (s?.status === "published") {
+    if (!(s.licence in LICENCES)) fail(at, `licence ${s.licence} can't be published (allowed: ${Object.keys(LICENCES).join(", ")}); mark the source "withheld"`);
+    else if (LICENCES[s.licence] && (!s.attribution?.trim() || !s.notice?.trim())) fail(at, `${s.licence} needs an attribution and a notice file (THIRD_PARTY_NOTICES.md)`);
+  }
+}
+const publishedColourSources = new Set((sources.colour_sources ?? []).filter((s) => s.status === "published").map((s) => s.id));
 
 const ids = new Map(), codes = new Map(), names = new Map(), eans = new Map();
 let count = 0;
@@ -65,6 +86,7 @@ for (const path of files(join(root, "paints"))) {
       if (value !== undefined && value !== null && (typeof value !== "string" || !value.trim() || value.length>max)) fail(at, `${field} must be a non-empty string of up to ${max} characters, null, or omitted`);
     }
     if (!["current", "discontinued"].includes(p.status)) fail(at, 'status must be "current" or "discontinued"');
+    if (p.source !== undefined && !publishedColourSources.has(p.source)) fail(at, `source "${p.source}" isn't a published source in sources.json`);
     const expected = `paints/${slug(p.brand)}/${slug(p.range)}.json`;
     if (where !== expected) fail(at, `belongs in ${expected}`);
     if (p.code) {
@@ -84,8 +106,18 @@ for (const path of files(join(root, "paints"))) {
     if (p.colour !== undefined) {
       const c = p.colour;
       if (!c || !HEX.test(c.hex ?? "")) fail(at, "colour.hex must look like #A1B2C3 (uppercase)");
-      if (!(c?.gradient === null || (Array.isArray(c?.gradient) && c.gradient.length >= 2 && c.gradient.every((h) => HEX.test(h))))) fail(at, "colour.gradient must be null or two or more uppercase hex colours");
-      if (!publishedColourSources.has(c?.source)) fail(at, `colour.source "${c?.source}" isn't a published source in sources.json`);
+      // Gradients: speedpaints, washes and glazes hold up to three stops in the order pooled, true
+      // colour, thinned (as far as the sources show them; apps generate the rest), and the true colour
+      // is the paint's hex. Apps draw speedpaints as bands and washes and glazes as a smooth blend.
+      // Metallics and colour-shift paints hold two or more stops sampled from the source.
+      // A position the source doesn't show is null (only for these three-stop kinds).
+      const g = c?.gradient;
+      const shaded = p.type === "speedpaint" || p.type === "wash" || /\bwash(es)?\b|\bglaze/i.test(`${p.range ?? ""} ${p.name}`);
+      if (!(g === null || (Array.isArray(g) && g.every((h) => HEX.test(h) || (shaded && h === null))))) fail(at, shaded ? "colour.gradient must be null or a list of uppercase hex colours (null for a position the source doesn't show)" : "colour.gradient must be null or a list of uppercase hex colours");
+      else if (g && shaded) {
+        if (g.length < 1 || g.length > 3 || !g.some(Boolean)) fail(at, "a speedpaint, wash or glaze's colour.gradient holds one to three stops: pooled, true colour, thinned");
+        else if (g[1] && g[1] !== c.hex) fail(at, "the second gradient stop is the true colour and must equal colour.hex");
+      } else if (g && g.length < 2) fail(at, "colour.gradient needs two or more stops");
       for (const k of Object.keys(c ?? {})) if (!["hex", "gradient", "source"].includes(k)) fail(at, `colour: unknown field "${k}"`);
     }
   });

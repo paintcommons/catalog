@@ -1,0 +1,4115 @@
+[
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "AK Interactive",
+      "range": "Naval",
+      "code": "AK730",
+      "name": "Wooden Deck",
+      "hex": "#AD9557",
+      "file": "AK.md",
+      "line": 876,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/AK.md#L876",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/ak-interactive/naval.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/ak-interactive/naval.json",
+    "after": {
+      "brand": "AK Interactive",
+      "range": "Naval",
+      "code": "AK730",
+      "name": "Wooden Deck",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#AD9557",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "AK Interactive",
+      "range": "Naval",
+      "code": "AK5032",
+      "name": "Wooden Deck",
+      "hex": "#D4B78B",
+      "file": "AK.md",
+      "line": 878,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/AK.md#L878",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/ak-interactive/naval.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "AK Interactive",
+      "range": "Naval",
+      "code": "AK730",
+      "name": "Wooden Deck",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#AD9557",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Acrilex",
+      "range": "Acrilex Paints",
+      "code": "929",
+      "name": "Amarelo Pêssego",
+      "hex": "#FAE1D0",
+      "file": "Acrilex.md",
+      "line": 12,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Acrilex.md#L12",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/acrilex/acrilex-paints.json",
+    "after": {
+      "brand": "Acrilex",
+      "range": "Acrilex Paints",
+      "code": "929",
+      "name": "Amarelo Pêssego",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#FAE1D0",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Acrilex",
+      "range": "Acrilex Paints",
+      "code": "929",
+      "name": "Areia Rosada",
+      "hex": "#F2B39C",
+      "file": "Acrilex.md",
+      "line": 17,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Acrilex.md#L17",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Acrilex",
+      "range": "Acrilex Paints",
+      "code": "929",
+      "name": "Amarelo Pêssego",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#FAE1D0",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Amber Skin",
+      "hex": "#AC835D",
+      "file": "Army_Painter.md",
+      "line": 23,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L23",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "b87db7fc-5af1-46ee-ab37-195160c9d988"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/skin-tones-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Amber Skin",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#AC835D",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Azure Magic",
+      "hex": "#005D78",
+      "file": "Army_Painter.md",
+      "line": 51,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L51",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "d1ec0b58-f600-4374-99dc-1413e19a2c77"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/metallic-colours-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Azure Magic",
+      "type": "metallic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#005D78",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Warpaints (original)",
+      "code": "WP1405",
+      "name": "Basilisk Brown",
+      "hex": "#CF8100",
+      "file": "Army_Painter.md",
+      "line": 62,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L62",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/warpaints-original.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Warpaints (original)",
+      "code": "WP1405",
+      "name": "Basilisk Brown",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#CF8100",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Warpaints (original)",
+      "code": "WP1405",
+      "name": "Brainmatter Beige",
+      "hex": "#F1F2E2",
+      "file": "Army_Painter.md",
+      "line": 82,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L82",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "The Army Painter",
+      "range": "Warpaints (original)",
+      "code": "WP1405",
+      "name": "Basilisk Brown",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#CF8100",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Dorado Skin",
+      "hex": "#A97761",
+      "file": "Army_Painter.md",
+      "line": 183,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L183",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "f0aac593-6ebf-4c1a-8779-7e189be0783f"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/skin-tones-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Dorado Skin",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#A97761",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Elven Armour",
+      "hex": "#003D81",
+      "file": "Army_Painter.md",
+      "line": 209,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L209",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "294688a7-513a-4291-8b14-fe64425b00f3"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/metallic-colours-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Elven Armour",
+      "type": "metallic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#003D81",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Evil Chrome",
+      "hex": "#A46049",
+      "file": "Army_Painter.md",
+      "line": 220,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L220",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "e1376596-1ab4-4c5a-a151-e49e63f64c29"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/metallic-colours-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Evil Chrome",
+      "type": "metallic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#A46049",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "D&D Nolzur's Marvelous Pigments",
+      "code": null,
+      "name": "Frost Blue",
+      "hex": "#0080BF",
+      "file": "Army_Painter.md",
+      "line": 254,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L254",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "5a067a91-9356-4baa-bfc7-c577db4a6f07"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/d-and-d-nolzur-s-marvelous-pigments.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "D&D Nolzur's Marvelous Pigments",
+      "code": null,
+      "name": "Frost Blue",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#0080BF",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Gemstone",
+      "hex": "#AE1C28",
+      "file": "Army_Painter.md",
+      "line": 264,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L264",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "8ee9e2a9-b9ed-4732-8bc8-c3c71b76a079"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/metallic-colours-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Gemstone",
+      "type": "metallic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#AE1C28",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Glitter Green",
+      "hex": "#007B3A",
+      "file": "Army_Painter.md",
+      "line": 274,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L274",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "17b372e4-6bb4-4e79-83af-06882b25015f"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/metallic-colours-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Glitter Green",
+      "type": "metallic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#007B3A",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Jasper Skin",
+      "hex": "#834641",
+      "file": "Army_Painter.md",
+      "line": 348,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L348",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "a2ce1e09-552f-4c19-85fb-3e4cbb14eb59"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/skin-tones-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Jasper Skin",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#834641",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Quickshade Washes Set",
+      "code": null,
+      "name": "Light Tone",
+      "hex": "#AB3B2C",
+      "file": "Army_Painter.md",
+      "line": 374,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L374",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "f91a1af7-621b-4b5a-916c-684af03a27a6"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/quickshade-washes-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Quickshade Washes Set",
+      "code": null,
+      "name": "Light Tone",
+      "type": "wash",
+      "barcodes": [],
+      "colour": {
+        "hex": "#AB3B2C",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Mocca Skin",
+      "hex": "#402828",
+      "file": "Army_Painter.md",
+      "line": 410,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L410",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "1569a452-91c9-4839-88c3-837687cefa3b"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/skin-tones-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Mocca Skin",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#402828",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Night Scales",
+      "hex": "#312C2F",
+      "file": "Army_Painter.md",
+      "line": 438,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L438",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "800f46ae-fb7b-474b-bb2c-5c27a9222b8c"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/metallic-colours-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Night Scales",
+      "type": "metallic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#312C2F",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Onyx Skin",
+      "hex": "#363231",
+      "file": "Army_Painter.md",
+      "line": 454,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L454",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "bf17d503-9d78-4198-af7e-1558964bd591"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/skin-tones-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Onyx Skin",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#363231",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Opal Skin",
+      "hex": "#D6C3C1",
+      "file": "Army_Painter.md",
+      "line": 458,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L458",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "88ed7210-21fe-4ab7-bc18-f88c8116423d"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/skin-tones-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Opal Skin",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#D6C3C1",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "D&D Nolzur's Marvelous Pigments",
+      "code": null,
+      "name": "Orc Skin",
+      "hex": "#9FA3A3",
+      "file": "Army_Painter.md",
+      "line": 465,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L465",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "c4de1867-f18b-4510-9031-ec11b19c835f",
+        "3643fa87-2dba-4182-8940-80c6c4a035e9"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/d-and-d-nolzur-s-marvelous-pigments.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "D&D Nolzur's Marvelous Pigments",
+      "code": null,
+      "name": "Orc Skin",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#9FA3A3",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Quickshade Washes Set",
+      "code": null,
+      "name": "Purple Tone",
+      "hex": "#2A194A",
+      "file": "Army_Painter.md",
+      "line": 516,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L516",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "e8024df9-eefa-4a37-8704-bb57349a1736"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/quickshade-washes-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Quickshade Washes Set",
+      "code": null,
+      "name": "Purple Tone",
+      "type": "wash",
+      "barcodes": [],
+      "colour": {
+        "hex": "#2A194A",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Royal Purple",
+      "hex": "#701B55",
+      "file": "Army_Painter.md",
+      "line": 544,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L544",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "f897e020-776f-4cb1-aac9-f39846aafdf0"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/metallic-colours-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Royal Purple",
+      "type": "metallic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#701B55",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Ruby Skin",
+      "hex": "#E5ABAB",
+      "file": "Army_Painter.md",
+      "line": 547,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L547",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "43c44489-91ef-4ef4-a9d7-da42b93348e8"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/skin-tones-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Ruby Skin",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#E5ABAB",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "D&D Nolzur's Marvelous Pigments",
+      "code": null,
+      "name": "Skeleton Bone",
+      "hex": "#666D74",
+      "file": "Army_Painter.md",
+      "line": 577,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L577",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "19abd2a0-aed6-4c2f-91fd-01c70331f1bb"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/d-and-d-nolzur-s-marvelous-pigments.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "D&D Nolzur's Marvelous Pigments",
+      "code": null,
+      "name": "Skeleton Bone",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#666D74",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Quickshade Washes Set",
+      "code": null,
+      "name": "Strong Tone",
+      "hex": "#3B2826",
+      "file": "Army_Painter.md",
+      "line": 602,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L602",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "b8e21ba0-0896-4624-8f9d-1edf9d9979ec"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/quickshade-washes-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Quickshade Washes Set",
+      "code": null,
+      "name": "Strong Tone",
+      "type": "wash",
+      "barcodes": [],
+      "colour": {
+        "hex": "#3B2826",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Tainted Gold",
+      "hex": "#686139",
+      "file": "Army_Painter.md",
+      "line": 606,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L606",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "8862df3a-83fd-44c2-9704-a0a639fbd225"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/metallic-colours-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Tainted Gold",
+      "type": "metallic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#686139",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Tiger's Eye Skin",
+      "hex": "#7F4841",
+      "file": "Army_Painter.md",
+      "line": 619,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L619",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "bd5ebe51-1a94-46f2-b034-8622d0b9057c"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/skin-tones-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Tiger's Eye Skin",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#7F4841",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Topaz Skin",
+      "hex": "#BF8477",
+      "file": "Army_Painter.md",
+      "line": 623,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L623",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "e1e3e7ca-39bd-4467-9235-11ff2b19e602"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/skin-tones-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Skin Tones Paint Set",
+      "code": null,
+      "name": "Topaz Skin",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#BF8477",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Zephyr Pink",
+      "hex": "#B4406F",
+      "file": "Army_Painter.md",
+      "line": 706,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Army_Painter.md#L706",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "6d0ce294-4aeb-4958-bc3d-7aa17ceabf62"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/the-army-painter/metallic-colours-paint-set.json",
+    "after": {
+      "brand": "The Army Painter",
+      "range": "Metallic Colours Paint Set",
+      "code": null,
+      "name": "Zephyr Pink",
+      "type": "metallic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#B4406F",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A201",
+      "name": "Aztec Gold",
+      "hex": "#CD8B45",
+      "file": "Arteza.md",
+      "line": 6,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L6",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/arteza/acrylic-pearl-paints.json",
+    "after": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A201",
+      "name": "Aztec Gold",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#CD8B45",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A201",
+      "name": "Brilliant Red",
+      "hex": "#C80F15",
+      "file": "Arteza.md",
+      "line": 8,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L8",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A201",
+      "name": "Aztec Gold",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#CD8B45",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A202",
+      "name": "Bronze",
+      "hex": "#A8724E",
+      "file": "Arteza.md",
+      "line": 9,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L9",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/arteza/acrylic-pearl-paints.json",
+    "after": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A202",
+      "name": "Bronze",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#A8724E",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A205",
+      "name": "Carmine Red",
+      "hex": "#C31723",
+      "file": "Arteza.md",
+      "line": 12,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L12",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/arteza/acrylic-premium-paints.json",
+    "after": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A205",
+      "name": "Carmine Red",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#C31723",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A203",
+      "name": "Cochineal Red",
+      "hex": "#AE0207",
+      "file": "Arteza.md",
+      "line": 16,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L16",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/arteza/acrylic-premium-paints.json",
+    "after": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A203",
+      "name": "Cochineal Red",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#AE0207",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A206",
+      "name": "Crimson Red",
+      "hex": "#B11823",
+      "file": "Arteza.md",
+      "line": 18,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L18",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/arteza/acrylic-premium-paints.json",
+    "after": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A206",
+      "name": "Crimson Red",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#B11823",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A108",
+      "name": "Light Apricot",
+      "hex": "#FEE6C2",
+      "file": "Arteza.md",
+      "line": 27,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L27",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/arteza/acrylic-premium-paints.json",
+    "after": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A108",
+      "name": "Light Apricot",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#FEE6C2",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A108",
+      "name": "Orange Yellow",
+      "hex": "#F1652D",
+      "file": "Arteza.md",
+      "line": 40,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L40",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A108",
+      "name": "Light Apricot",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#FEE6C2",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A206",
+      "name": "Pearl Canary Yellow",
+      "hex": "#BBA533",
+      "file": "Arteza.md",
+      "line": 46,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L46",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A206",
+      "name": "Crimson Red",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#B11823",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A218",
+      "name": "Pearl Hot Pink",
+      "hex": "#E0448E",
+      "file": "Arteza.md",
+      "line": 55,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L55",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/arteza/acrylic-pearl-paints.json",
+    "after": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A218",
+      "name": "Pearl Hot Pink",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#E0448E",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A203",
+      "name": "Pearl Marmalade",
+      "hex": "#A4462D",
+      "file": "Arteza.md",
+      "line": 59,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L59",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A203",
+      "name": "Cochineal Red",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#AE0207",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A218",
+      "name": "Pearl Rose",
+      "hex": "#B83650",
+      "file": "Arteza.md",
+      "line": 67,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L67",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A218",
+      "name": "Pearl Hot Pink",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#E0448E",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A204",
+      "name": "Pearl Space Grey",
+      "hex": "#464C51",
+      "file": "Arteza.md",
+      "line": 74,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L74",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/arteza/acrylic-pearl-paints.json",
+    "after": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A204",
+      "name": "Pearl Space Grey",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#464C51",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A205",
+      "name": "Pearl White",
+      "hex": "#E6E3DE",
+      "file": "Arteza.md",
+      "line": 78,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L78",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A205",
+      "name": "Carmine Red",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#C31723",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A204",
+      "name": "Rose Madder",
+      "hex": "#930708",
+      "file": "Arteza.md",
+      "line": 87,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L87",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A204",
+      "name": "Pearl Space Grey",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#464C51",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Arteza",
+      "range": "Acrylic Premium Paints",
+      "code": "A202",
+      "name": "Scarlet Red",
+      "hex": "#E32421",
+      "file": "Arteza.md",
+      "line": 89,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Arteza.md#L89",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Arteza",
+      "range": "Acrylic Pearl Paints",
+      "code": "A202",
+      "name": "Bronze",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#A8724E",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Citadel",
+      "range": "Technical",
+      "code": null,
+      "name": "Hexwraith Flame",
+      "hex": "#29A236",
+      "file": "Citadel_Colour.md",
+      "line": 195,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Citadel_Colour.md#L195",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "8f1cb0b1-f74b-464c-b81b-e7f78a5f8c28"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/citadel/technical.json",
+    "after": {
+      "brand": "Citadel",
+      "range": "Technical",
+      "code": null,
+      "name": "Hexwraith Flame",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#29A236",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Citadel",
+      "range": "Foundation (discontinued)",
+      "code": null,
+      "name": "Kommando Khaki",
+      "hex": "#9E915C",
+      "file": "Citadel_Colour.md",
+      "line": 229,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Citadel_Colour.md#L229",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/citadel/foundation-discontinued.json",
+    "after": {
+      "brand": "Citadel",
+      "range": "Foundation (discontinued)",
+      "code": null,
+      "name": "Kommando Khaki",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#9E915C",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "discontinued"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Citadel",
+      "range": "Foundation (discontinued)",
+      "code": null,
+      "name": "Kommando Khaki",
+      "hex": "#9B8C7B",
+      "file": "Citadel_Colour.md",
+      "line": 230,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Citadel_Colour.md#L230",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Citadel",
+      "range": "Foundation (discontinued)",
+      "code": null,
+      "name": "Kommando Khaki",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#9E915C",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "discontinued"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Citadel",
+      "range": "Technical",
+      "code": null,
+      "name": "Nighthaunt Gloom",
+      "hex": "#3A686E",
+      "file": "Citadel_Colour.md",
+      "line": 286,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Citadel_Colour.md#L286",
+      "decision": "withheld-ambiguous-existing-range",
+      "existing_ids": [
+        "cc955b13-decd-4fc5-94e6-7a8240786707"
+      ]
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/citadel/technical.json",
+    "after": {
+      "brand": "Citadel",
+      "range": "Technical",
+      "code": null,
+      "name": "Nighthaunt Gloom",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#3A686E",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Coat d'Arms",
+      "range": "Fantasy Range",
+      "code": "104",
+      "name": "Blood Red",
+      "hex": "#D83F37",
+      "file": "CoatDArmes.md",
+      "line": 21,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/CoatDArmes.md#L21",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/coat-d-arms/fantasy-range.json",
+    "after": {
+      "brand": "Coat d'Arms",
+      "range": "Fantasy Range",
+      "code": "104",
+      "name": "Blood Red",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#D83F37",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Coat d'Arms",
+      "range": "Fantasy Range",
+      "code": "105",
+      "name": "Flame Orange",
+      "hex": "#E87651",
+      "file": "CoatDArmes.md",
+      "line": 67,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/CoatDArmes.md#L67",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/coat-d-arms/fantasy-range.json",
+    "after": {
+      "brand": "Coat d'Arms",
+      "range": "Fantasy Range",
+      "code": "105",
+      "name": "Flame Orange",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#E87651",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Coat d'Arms",
+      "range": "Military Range",
+      "code": "105",
+      "name": "Orange",
+      "hex": "#E87651",
+      "file": "CoatDArmes.md",
+      "line": 112,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/CoatDArmes.md#L112",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Coat d'Arms",
+      "range": "Fantasy Range",
+      "code": "105",
+      "name": "Flame Orange",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#E87651",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Coat d'Arms",
+      "range": "Military Range",
+      "code": "104",
+      "name": "Red",
+      "hex": "#D83F37",
+      "file": "CoatDArmes.md",
+      "line": 121,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/CoatDArmes.md#L121",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Coat d'Arms",
+      "range": "Fantasy Range",
+      "code": "104",
+      "name": "Blood Red",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#D83F37",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "FolkArt",
+      "range": "Multi-Surface Metallic Acrylics",
+      "code": "2570",
+      "name": "Chocolate Brown",
+      "hex": "#523620",
+      "file": "FolkArt.md",
+      "line": 90,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/FolkArt.md#L90",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/folkart/multi-surface-metallic-acrylics.json",
+    "after": {
+      "brand": "FolkArt",
+      "range": "Multi-Surface Metallic Acrylics",
+      "code": "2570",
+      "name": "Chocolate Brown",
+      "type": "metallic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#523620",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "FolkArt",
+      "range": "Metallics",
+      "code": "2570",
+      "name": "Chocolate Brown",
+      "hex": "#7B4C2E",
+      "file": "FolkArt.md",
+      "line": 91,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/FolkArt.md#L91",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "FolkArt",
+      "range": "Multi-Surface Metallic Acrylics",
+      "code": "2570",
+      "name": "Chocolate Brown",
+      "type": "metallic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#523620",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Humbrol",
+      "range": "Humbrol Acrylics - Gloss",
+      "code": "22",
+      "name": "White",
+      "hex": "#FFFFFF",
+      "file": "Humbrol.md",
+      "line": 114,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Humbrol.md#L114",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/humbrol/humbrol-acrylics-gloss.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/humbrol/humbrol-acrylics-gloss.json",
+    "after": {
+      "brand": "Humbrol",
+      "range": "Humbrol Acrylics - Gloss",
+      "code": "22",
+      "name": "White",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#FFFFFF",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Humbrol",
+      "range": "Humbrol Acrylics - Gloss",
+      "code": "130",
+      "name": "White",
+      "hex": "#FFFFFF",
+      "file": "Humbrol.md",
+      "line": 116,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Humbrol.md#L116",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/humbrol/humbrol-acrylics-gloss.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Humbrol",
+      "range": "Humbrol Acrylics - Gloss",
+      "code": "22",
+      "name": "White",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#FFFFFF",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4768AP",
+      "name": "Black",
+      "hex": "#000000",
+      "file": "Italeri.md",
+      "line": 9,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Italeri.md#L9",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+    "after": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4768AP",
+      "name": "Black",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#000000",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4695AP",
+      "name": "Black",
+      "hex": "#000000",
+      "file": "Italeri.md",
+      "line": 10,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Italeri.md#L10",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4768AP",
+      "name": "Black",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#000000",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4636AP",
+      "name": "Clear Acryl",
+      "hex": "#F9F9F9",
+      "file": "Italeri.md",
+      "line": 14,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Italeri.md#L14",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+    "after": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4636AP",
+      "name": "Clear Acryl",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#F9F9F9",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4637AP",
+      "name": "Clear Acryl",
+      "hex": "#F9F9F9",
+      "file": "Italeri.md",
+      "line": 15,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Italeri.md#L15",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4636AP",
+      "name": "Clear Acryl",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#F9F9F9",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4638AP",
+      "name": "Clear Acryl",
+      "hex": "#F9F9F9",
+      "file": "Italeri.md",
+      "line": 16,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Italeri.md#L16",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4636AP",
+      "name": "Clear Acryl",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#F9F9F9",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4682AP",
+      "name": "Orange",
+      "hex": "#E55C00",
+      "file": "Italeri.md",
+      "line": 82,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Italeri.md#L82",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+    "after": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4682AP",
+      "name": "Orange",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#E55C00",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4302AP",
+      "name": "Orange",
+      "hex": "#E84925",
+      "file": "Italeri.md",
+      "line": 83,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Italeri.md#L83",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4682AP",
+      "name": "Orange",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#E55C00",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4605AP",
+      "name": "Red",
+      "hex": "#C13027",
+      "file": "Italeri.md",
+      "line": 89,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Italeri.md#L89",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+    "after": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4605AP",
+      "name": "Red",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#C13027",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4606AP",
+      "name": "Red",
+      "hex": "#D52B27",
+      "file": "Italeri.md",
+      "line": 90,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Italeri.md#L90",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4605AP",
+      "name": "Red",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#C13027",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4696AP",
+      "name": "White",
+      "hex": "#FFFFFF",
+      "file": "Italeri.md",
+      "line": 102,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Italeri.md#L102",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+    "after": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4696AP",
+      "name": "White",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#FFFFFF",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4769AP",
+      "name": "White",
+      "hex": "#FFFFFF",
+      "file": "Italeri.md",
+      "line": 103,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Italeri.md#L103",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Italeri",
+      "range": "Italeri Acrylic Paint",
+      "code": "4696AP",
+      "name": "White",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#FFFFFF",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Kimera Kolors",
+      "range": "Kimera Kolors Expansion Set 1",
+      "code": "PR 101",
+      "name": "Mars Orange",
+      "hex": "#9A5622",
+      "file": "KimeraKolors.md",
+      "line": 22,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/KimeraKolors.md#L22",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/kimera-kolors/kimera-kolors-expansion-set-1.json",
+    "after": {
+      "brand": "Kimera Kolors",
+      "range": "Kimera Kolors Expansion Set 1",
+      "code": "PR 101",
+      "name": "Mars Orange",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#9A5622",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Kimera Kolors",
+      "range": "Kimera Kolors Pure Pigments",
+      "code": "PR101",
+      "name": "Red Oxide",
+      "hex": "#6B2F0C",
+      "file": "KimeraKolors.md",
+      "line": 33,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/KimeraKolors.md#L33",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Kimera Kolors",
+      "range": "Kimera Kolors Expansion Set 1",
+      "code": "PR 101",
+      "name": "Mars Orange",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#9A5622",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mission Models",
+      "range": "Mission Models",
+      "code": "MMP-096",
+      "name": "Grey Blue Cockpit  / Camo Modern Russian Jets",
+      "hex": "#6299C4",
+      "file": "MissionModels.md",
+      "line": 66,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MissionModels.md#L66",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mission-models/mission-models.json",
+    "after": {
+      "brand": "Mission Models",
+      "range": "Mission Models",
+      "code": "MMP-096",
+      "name": "Grey Blue Cockpit  / Camo Modern Russian Jets",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#6299C4",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mission Models",
+      "range": "Mission Models",
+      "code": "MMP-096",
+      "name": "Grey Blue Cockpit / Camo Modern Russian Jets",
+      "hex": "#6198C2",
+      "file": "MissionModels.md",
+      "line": 67,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MissionModels.md#L67",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mission Models",
+      "range": "Mission Models",
+      "code": "MMP-096",
+      "name": "Grey Blue Cockpit  / Camo Modern Russian Jets",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#6299C4",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color Gundam Color",
+      "code": "UG1",
+      "name": "",
+      "hex": "#F1F7FA",
+      "file": "MrHobby.md",
+      "line": 6,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L6",
+      "decision": "withheld-empty-name"
+    },
+    "proposal": "unresolved",
+    "reason": "Upstream name is empty; no product name invented."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H465",
+      "name": "Cobalt Blue",
+      "hex": "#003559",
+      "file": "MrHobby.md",
+      "line": 113,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L113",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
+    "after": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H465",
+      "name": "Cobalt Blue",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#003559",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H35",
+      "name": "Cobalt Blue",
+      "hex": "#1D2088",
+      "file": "MrHobby.md",
+      "line": 114,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L114",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H465",
+      "name": "Cobalt Blue",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#003559",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H320",
+      "name": "Dark Green",
+      "hex": "#0A4038",
+      "file": "MrHobby.md",
+      "line": 143,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L143",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
+    "after": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H320",
+      "name": "Dark Green",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#0A4038",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "70",
+      "name": "Dark Green",
+      "hex": "#21423A",
+      "file": "MrHobby.md",
+      "line": 144,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L144",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/mr-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-hobby/mr-color.json",
+    "after": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "70",
+      "name": "Dark Green",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#21423A",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "320",
+      "name": "Dark Green",
+      "hex": "#3C5545",
+      "file": "MrHobby.md",
+      "line": 146,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L146",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/mr-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "70",
+      "name": "Dark Green",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#21423A",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H36",
+      "name": "Dark Green",
+      "hex": "#314836",
+      "file": "MrHobby.md",
+      "line": 147,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L147",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H320",
+      "name": "Dark Green",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#0A4038",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H73",
+      "name": "Dark Green",
+      "hex": "#415D47",
+      "file": "MrHobby.md",
+      "line": 148,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L148",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H320",
+      "name": "Dark Green",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#0A4038",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "20",
+      "name": "Light Blue",
+      "hex": "#4FBAA1",
+      "file": "MrHobby.md",
+      "line": 342,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L342",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/mr-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-hobby/mr-color.json",
+    "after": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "20",
+      "name": "Light Blue",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#4FBAA1",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H323",
+      "name": "Light Blue",
+      "hex": "#00A8EB",
+      "file": "MrHobby.md",
+      "line": 343,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L343",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
+    "after": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H323",
+      "name": "Light Blue",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#00A8EB",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H45",
+      "name": "Light Blue",
+      "hex": "#00B9EF",
+      "file": "MrHobby.md",
+      "line": 344,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L344",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Hobby",
+      "range": "Aqueous Hobby Color",
+      "code": "H323",
+      "name": "Light Blue",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#00A8EB",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "323",
+      "name": "Light Blue",
+      "hex": "#00AFEC",
+      "file": "MrHobby.md",
+      "line": 346,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L346",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/mr-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "20",
+      "name": "Light Blue",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#4FBAA1",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "324",
+      "name": "Light Gray",
+      "hex": "#8DA9A4",
+      "file": "MrHobby.md",
+      "line": 349,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L349",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/mr-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-hobby/mr-color.json",
+    "after": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "324",
+      "name": "Light Gray",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#8DA9A4",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "97",
+      "name": "Light Gray",
+      "hex": "#B3BEB2",
+      "file": "MrHobby.md",
+      "line": 351,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrHobby.md#L351",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-hobby/mr-color.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Hobby",
+      "range": "Mr Color",
+      "code": "324",
+      "name": "Light Gray",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#8DA9A4",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-352",
+      "name": "Dark Green",
+      "hex": "#1E4533",
+      "file": "MrPaint.md",
+      "line": 121,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L121",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-paint/mr-paint.json",
+    "after": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-352",
+      "name": "Dark Green",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#1E4533",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-110",
+      "name": "Dark Green",
+      "hex": "#3E3F2D",
+      "file": "MrPaint.md",
+      "line": 122,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L122",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-352",
+      "name": "Dark Green",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#1E4533",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-310",
+      "name": "Giallo Cromo",
+      "hex": "#F1AA00",
+      "file": "MrPaint.md",
+      "line": 178,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L178",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-paint/mr-paint.json",
+    "after": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-310",
+      "name": "Giallo Cromo",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#F1AA00",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-309",
+      "name": "Giallo Cromo",
+      "hex": "#E69100",
+      "file": "MrPaint.md",
+      "line": 179,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L179",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-310",
+      "name": "Giallo Cromo",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#F1AA00",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-323",
+      "name": "Giallo Mimetico",
+      "hex": "#D88422",
+      "file": "MrPaint.md",
+      "line": 180,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L180",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-paint/mr-paint.json",
+    "after": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-323",
+      "name": "Giallo Mimetico",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#D88422",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-324",
+      "name": "Giallo Mimetico",
+      "hex": "#F4B767",
+      "file": "MrPaint.md",
+      "line": 181,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L181",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-323",
+      "name": "Giallo Mimetico",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#D88422",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-325",
+      "name": "Giallo Mimetico",
+      "hex": "#EE9D16",
+      "file": "MrPaint.md",
+      "line": 182,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L182",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-323",
+      "name": "Giallo Mimetico",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#D88422",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-302",
+      "name": "Grigio Azzurro",
+      "hex": "#92B1A1",
+      "file": "MrPaint.md",
+      "line": 209,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L209",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-paint/mr-paint.json",
+    "after": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-302",
+      "name": "Grigio Azzurro",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#92B1A1",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-301",
+      "name": "Grigio Azzurro",
+      "hex": "#97A29E",
+      "file": "MrPaint.md",
+      "line": 210,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L210",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-302",
+      "name": "Grigio Azzurro",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#92B1A1",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-304",
+      "name": "Grigio Azzurro",
+      "hex": "#404950",
+      "file": "MrPaint.md",
+      "line": 211,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L211",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-302",
+      "name": "Grigio Azzurro",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#92B1A1",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-167",
+      "name": "Light Earth",
+      "hex": "#997964",
+      "file": "MrPaint.md",
+      "line": 283,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L283",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-paint/mr-paint.json",
+    "after": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-167",
+      "name": "Light Earth",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#997964",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-107",
+      "name": "Light Earth",
+      "hex": "#AA7A4C",
+      "file": "MrPaint.md",
+      "line": 284,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L284",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-167",
+      "name": "Light Earth",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#997964",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-091",
+      "name": "Light Gray",
+      "hex": "#959B99",
+      "file": "MrPaint.md",
+      "line": 285,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L285",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-paint/mr-paint.json",
+    "after": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-091",
+      "name": "Light Gray",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#959B99",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-402",
+      "name": "Light Gray",
+      "hex": "#BCC6CF",
+      "file": "MrPaint.md",
+      "line": 286,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L286",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-091",
+      "name": "Light Gray",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#959B99",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-124",
+      "name": "Marking Blue",
+      "hex": "#224058",
+      "file": "MrPaint.md",
+      "line": 319,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L319",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-paint/mr-paint.json",
+    "after": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-124",
+      "name": "Marking Blue",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#224058",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-408",
+      "name": "Marking Blue",
+      "hex": "#005088",
+      "file": "MrPaint.md",
+      "line": 320,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L320",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-124",
+      "name": "Marking Blue",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#224058",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint - Aqua Colors",
+      "code": "MRP-A067",
+      "name": "RLM 76 Variant",
+      "hex": "#CAC59F",
+      "file": "MrPaint.md",
+      "line": 427,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L427",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint-aqua-colors.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-paint/mr-paint-aqua-colors.json",
+    "after": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint - Aqua Colors",
+      "code": "MRP-A067",
+      "name": "RLM 76 Variant",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#CAC59F",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint - Aqua Colors",
+      "code": "MRP-A066",
+      "name": "RLM 76 Variant",
+      "hex": "#A2B5A2",
+      "file": "MrPaint.md",
+      "line": 428,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L428",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint-aqua-colors.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint - Aqua Colors",
+      "code": "MRP-A067",
+      "name": "RLM 76 Variant",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#CAC59F",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-326",
+      "name": "Verde Mimetico",
+      "hex": "#728873",
+      "file": "MrPaint.md",
+      "line": 553,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L553",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/mr-paint/mr-paint.json",
+    "after": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-326",
+      "name": "Verde Mimetico",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#728873",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-327",
+      "name": "Verde Mimetico",
+      "hex": "#626E4A",
+      "file": "MrPaint.md",
+      "line": 554,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/MrPaint.md#L554",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/mr-paint/mr-paint.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Mr Paint",
+      "range": "Mr Paint",
+      "code": "MRP-326",
+      "name": "Verde Mimetico",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#728873",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "P3",
+      "range": "Privateer Press Formula P3",
+      "code": null,
+      "name": "'Jack Bone",
+      "hex": "#D6D3AA",
+      "file": "P3.md",
+      "line": 6,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/P3.md#L6",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/p3/privateer-press-formula-p3.json",
+    "after": {
+      "brand": "P3",
+      "range": "Privateer Press Formula P3",
+      "code": null,
+      "name": "'Jack Bone",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#D6D3AA",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "P3",
+      "range": "Privateer Press Formula P3",
+      "code": null,
+      "name": "Battle Dress Green",
+      "hex": "#5E4E14",
+      "file": "P3.md",
+      "line": 16,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/P3.md#L16",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/p3/privateer-press-formula-p3.json",
+    "after": {
+      "brand": "P3",
+      "range": "Privateer Press Formula P3",
+      "code": null,
+      "name": "Battle Dress Green",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#5E4E14",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "P3",
+      "range": "Privateer Press Formula P3",
+      "code": null,
+      "name": "Battledress Green",
+      "hex": "#757131",
+      "file": "P3.md",
+      "line": 17,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/P3.md#L17",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/p3/privateer-press-formula-p3.json",
+    "after": {
+      "brand": "P3",
+      "range": "Privateer Press Formula P3",
+      "code": null,
+      "name": "Battledress Green",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#757131",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "P3",
+      "range": "Privateer Press Formula P3",
+      "code": null,
+      "name": "Jack Bone",
+      "hex": "#D6D3AE",
+      "file": "P3.md",
+      "line": 73,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/P3.md#L73",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/p3/privateer-press-formula-p3.json",
+    "after": {
+      "brand": "P3",
+      "range": "Privateer Press Formula P3",
+      "code": null,
+      "name": "Jack Bone",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#D6D3AE",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tamiya",
+      "range": "Aircraft Spray",
+      "code": "AS-1",
+      "name": "Dark green",
+      "hex": "#113915",
+      "file": "Tamiya.md",
+      "line": 61,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Tamiya.md#L61",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/tamiya/aircraft-spray.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/tamiya/aircraft-spray.json",
+    "after": {
+      "brand": "Tamiya",
+      "range": "Aircraft Spray",
+      "code": "AS-1",
+      "name": "Dark green",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#113915",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tamiya",
+      "range": "Aircraft Spray",
+      "code": "AS-9",
+      "name": "Dark green",
+      "hex": "#2E4814",
+      "file": "Tamiya.md",
+      "line": 62,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Tamiya.md#L62",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/tamiya/aircraft-spray.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Tamiya",
+      "range": "Aircraft Spray",
+      "code": "AS-1",
+      "name": "Dark green",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#113915",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tamiya",
+      "range": "Acrylics Mini Flat",
+      "code": "XF-70",
+      "name": "Dark green 2",
+      "hex": "#00250F",
+      "file": "Tamiya.md",
+      "line": 69,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Tamiya.md#L69",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/tamiya/acrylics-mini-flat.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/tamiya/acrylics-mini-flat.json",
+    "after": {
+      "brand": "Tamiya",
+      "range": "Acrylics Mini Flat",
+      "code": "XF-70",
+      "name": "Dark green 2",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#00250F",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tamiya",
+      "range": "Acrylics Mini Flat",
+      "code": "XF-89",
+      "name": "Dark green 2",
+      "hex": "#FFFFFF",
+      "file": "Tamiya.md",
+      "line": 70,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Tamiya.md#L70",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/tamiya/acrylics-mini-flat.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Tamiya",
+      "range": "Acrylics Mini Flat",
+      "code": "XF-70",
+      "name": "Dark green 2",
+      "type": "acrylic",
+      "barcodes": [],
+      "colour": {
+        "hex": "#00250F",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tamiya",
+      "range": "Aircraft Spray",
+      "code": "AS-2",
+      "name": "Light gray",
+      "hex": "#A3AA96",
+      "file": "Tamiya.md",
+      "line": 173,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Tamiya.md#L173",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/tamiya/aircraft-spray.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/tamiya/aircraft-spray.json",
+    "after": {
+      "brand": "Tamiya",
+      "range": "Aircraft Spray",
+      "code": "AS-2",
+      "name": "Light gray",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#A3AA96",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tamiya",
+      "range": "Aircraft Spray",
+      "code": "AS-16",
+      "name": "Light gray",
+      "hex": "#CCD4BC",
+      "file": "Tamiya.md",
+      "line": 175,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/Tamiya.md#L175",
+      "decision": "withheld-conflicting-upstream-name",
+      "catalogue_file": "paints/tamiya/aircraft-spray.json",
+      "type_basis": "explicit range wording where available; otherwise other",
+      "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Tamiya",
+      "range": "Aircraft Spray",
+      "code": "AS-2",
+      "name": "Light gray",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#A3AA96",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0097",
+      "name": "A-14 Steel Grey (russian WW2 Cockpit)",
+      "hex": "#697173",
+      "file": "TomColor.md",
+      "line": 8,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/TomColor.md#L8",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/tom-color/tom-colors.json",
+    "after": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0097",
+      "name": "A-14 Steel Grey (russian WW2 Cockpit)",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#697173",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0159",
+      "name": "Ana 607 Sea Blue",
+      "hex": "#3A434C",
+      "file": "TomColor.md",
+      "line": 22,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/TomColor.md#L22",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/tom-color/tom-colors.json",
+    "after": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0159",
+      "name": "Ana 607 Sea Blue",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#3A434C",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0159",
+      "name": "Azul Luminoso",
+      "hex": "#224062",
+      "file": "TomColor.md",
+      "line": 33,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/TomColor.md#L33",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0159",
+      "name": "Ana 607 Sea Blue",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#3A434C",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0192",
+      "name": "Forerst Green 2",
+      "hex": "#375322",
+      "file": "TomColor.md",
+      "line": 126,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/TomColor.md#L126",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/tom-color/tom-colors.json",
+    "after": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0192",
+      "name": "Forerst Green 2",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#375322",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0192",
+      "name": "Forest Green V.2",
+      "hex": "#3B4B30",
+      "file": "TomColor.md",
+      "line": 128,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/TomColor.md#L128",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0192",
+      "name": "Forerst Green 2",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#375322",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0141",
+      "name": "Giallo Mimetico 2",
+      "hex": "#C2A945",
+      "file": "TomColor.md",
+      "line": 131,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/TomColor.md#L131",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/tom-color/tom-colors.json",
+    "after": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0141",
+      "name": "Giallo Mimetico 2",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#C2A945",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0141",
+      "name": "Gris Bleu Chair",
+      "hex": "#66899C",
+      "file": "TomColor.md",
+      "line": 136,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/TomColor.md#L136",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0141",
+      "name": "Giallo Mimetico 2",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#C2A945",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0088",
+      "name": "RAL 7012 Basaltgrau",
+      "hex": "#565E61",
+      "file": "TomColor.md",
+      "line": 199,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/TomColor.md#L199",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "add-candidate",
+    "catalogue_file": "paints/tom-color/tom-colors.json",
+    "after": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0088",
+      "name": "RAL 7012 Basaltgrau",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#565E61",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first source row for this unique code/name. Range identity or conflicting upstream variants require human review."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0097",
+      "name": "Schlickgrau 58",
+      "hex": "#57605D",
+      "file": "TomColor.md",
+      "line": 236,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/TomColor.md#L236",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0097",
+      "name": "A-14 Steel Grey (russian WW2 Cockpit)",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#697173",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  },
+  {
+    "status": "pending-review",
+    "source": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0088",
+      "name": "Tire Black",
+      "hex": "#3D383C",
+      "file": "TomColor.md",
+      "line": 247,
+      "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/TomColor.md#L247",
+      "decision": "withheld-conflicting-upstream-identity"
+    },
+    "proposal": "alternative-to-selected-candidate",
+    "selected_record": {
+      "brand": "Tom Color",
+      "range": "Tom Colors",
+      "code": "TC-0088",
+      "name": "RAL 7012 Basaltgrau",
+      "type": "other",
+      "barcodes": [],
+      "colour": {
+        "hex": "#565E61",
+        "gradient": null,
+        "source": "arcturus-miniature-paints-22791a6"
+      },
+      "status": "current"
+    },
+    "reason": "Provisional first-source-row selection preserves unique code and name constraints; review both alternatives."
+  }
+]
