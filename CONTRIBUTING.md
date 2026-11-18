@@ -37,6 +37,10 @@ Run them yourself with `node scripts/validate.mjs` (Node 20 or later).
 
 By contributing your own work you agree that it's dedicated to the public domain under CC0 1.0.
 
+### Gradients
+
+Record only colours a source shows. Metallics and colour-shift paints: two or more stops sampled across the swatch; apps draw them dark to light and add a very light end when the source's lightest point isn't near white. Speedpaints (Contrast, Speedpaint, Xpress and the like), washes and glazes: up to three stops in the order pooled, true colour, thinned, where the true colour is the paint's `hex`; put `null` in a position the source doesn't show (for example `[null, "#080605", "#838282"]` when there's no pooled colour) and apps will generate it. Apps draw speedpaints as bands and washes and glazes as a smooth blend, without a metallic's shine. When two sources show different points of the same paint, keep both as stops rather than choosing one.
+
 ### Importing from another project
 
 Data from another open project keeps its licence. To import some:

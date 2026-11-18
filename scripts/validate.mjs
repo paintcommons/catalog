@@ -106,8 +106,18 @@ for (const path of files(join(root, "paints"))) {
     if (p.colour !== undefined) {
       const c = p.colour;
       if (!c || !HEX.test(c.hex ?? "")) fail(at, "colour.hex must look like #A1B2C3 (uppercase)");
-      if (!(c?.gradient === null || (Array.isArray(c?.gradient) && c.gradient.length >= 2 && c.gradient.every((h) => HEX.test(h))))) fail(at, "colour.gradient must be null or two or more uppercase hex colours");
-      if (!publishedColourSources.has(c?.source)) fail(at, `colour.source "${c?.source}" isn't a published source in sources.json`);
+      // Gradients: speedpaints, washes and glazes hold up to three stops in the order pooled, true
+      // colour, thinned (as far as the sources show them; apps generate the rest), and the true colour
+      // is the paint's hex. Apps draw speedpaints as bands and washes and glazes as a smooth blend.
+      // Metallics and colour-shift paints hold two or more stops sampled from the source.
+      // A position the source doesn't show is null (only for these three-stop kinds).
+      const g = c?.gradient;
+      const shaded = p.type === "speedpaint" || p.type === "wash" || /\bwash(es)?\b|\bglaze/i.test(`${p.range ?? ""} ${p.name}`);
+      if (!(g === null || (Array.isArray(g) && g.every((h) => HEX.test(h) || (shaded && h === null))))) fail(at, shaded ? "colour.gradient must be null or a list of uppercase hex colours (null for a position the source doesn't show)" : "colour.gradient must be null or a list of uppercase hex colours");
+      else if (g && shaded) {
+        if (g.length < 1 || g.length > 3 || !g.some(Boolean)) fail(at, "a speedpaint, wash or glaze's colour.gradient holds one to three stops: pooled, true colour, thinned");
+        else if (g[1] && g[1] !== c.hex) fail(at, "the second gradient stop is the true colour and must equal colour.hex");
+      } else if (g && g.length < 2) fail(at, "colour.gradient needs two or more stops");
       for (const k of Object.keys(c ?? {})) if (!["hex", "gradient", "source"].includes(k)) fail(at, `colour: unknown field "${k}"`);
     }
   });
