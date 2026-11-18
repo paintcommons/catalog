@@ -46,9 +46,7 @@ Every colour is an approximation of paint in the pot, taken from printed or rend
 
 ## Licence
 
-The data in this repository (`paints/`, `equivalents.json`, `sources.json`) is dedicated to the public domain under [CC0 1.0](LICENSE). Credit is appreciated but not required.
-
-Colours from [miniature-paints](https://github.com/b-kelly/miniature-paints) by b-kelly (MIT licence) are marked with the `miniature-paints` source; please keep that credit if you reuse them.
+The data in this repository (`paints/`, `equivalents.json`, `sources.json`) is dedicated to the public domain under [CC0 1.0](LICENSE), except records that cite a source with its own licence. Every colour names its source (`colour.source`), and a paint imported from another project names it too (`source`). [sources.json](sources.json) lists each source with its licence, credit (`attribution`) and where its full notice lives; [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) holds those notices. If you reuse records from an MIT- or CC-BY-licensed source, keep its credit and notice with them. Credit for the rest is appreciated but not required.
 
 The scripts in `scripts/` are under the [MIT licence](scripts/LICENSE).
 

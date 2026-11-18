@@ -1,26 +1,28 @@
 // Lists the catalog changes between two commits, in the shape Stipplewise's catalog-import expects.
 //   node scripts/diff-for-import.mjs <base sha> <head sha>   → JSON array on stdout
-// Paints are matched by id across files, so moving a paint to another range is an update.
+// Paints are matched by id across files, so moving a paint to another range is an update. Sources
+// (sources.json colour_sources) come first, so paints in the same commit can cite a source it adds.
+// A paint without an id is sent as an insert by every commit until the hourly sync writes its id
+// back; Stipplewise answers "unchanged" once it has it, and a commit that fixes a refused paint
+// completes the import.
 import { execFileSync } from "node:child_process";
 
-const FIELDS = ["brand", "range", "code", "name", "type", "status", "finish", "manufacturer_colour_family"];
+const FIELDS = ["brand", "range", "code", "name", "type", "status", "finish", "manufacturer_colour_family", "source"];
 const same = (a, b) => JSON.stringify(a ?? null) === JSON.stringify(b ?? null);
-const nameKey = (p) => `${p.brand}|${p.range ?? ""}|${String(p.name).toLowerCase()}`;
 const pairKey = (e) => `${e.paint_a}|${e.paint_b}`;
 
-/** Changes between two snapshots: { paints: [...], equivalents: [...] }. */
+/** Changes between two snapshots: { paints: [...], equivalents: [...], sources?: [...] }. */
 export function diffSnapshots(base, head) {
   const changes = [];
+  const baseSources = new Map((base.sources ?? []).map((s) => [s.id, s]));
+  for (const s of head.sources ?? []) {
+    const old = baseSources.get(s.id);
+    if (!same(old, s)) changes.push({ op: "source_upsert", source: s, before: old ?? null });
+  }
   const baseById = new Map(base.paints.filter((p) => p.id).map((p) => [p.id, p]));
-  const baseNewKeys = new Set(base.paints.filter((p) => !p.id).map(nameKey));
 
   for (const p of head.paints) {
-    if (!p.id) {
-      // Already sent in an earlier commit and still waiting for the hourly sync to add its id.
-      if (baseNewKeys.has(nameKey(p))) continue;
-      changes.push({ op: "insert", paint: p });
-      continue;
-    }
+    if (!p.id) { changes.push({ op: "insert", paint: p }); continue; }
     const old = baseById.get(p.id);
     if (!old) { changes.push({ op: "insert", paint: p }); continue; }
     for (const field of FIELDS) {
@@ -40,14 +42,16 @@ export function diffSnapshots(base, head) {
   return changes;
 }
 
-/** Reads every paint and the equivalents at a commit. */
+/** Reads every paint, the equivalents and the sources at a commit. */
 export function snapshotAt(ref, cwd = new URL("..", import.meta.url).pathname) {
   const git = (...args) => execFileSync("git", args, { cwd, encoding: "utf8", maxBuffer: 64 * 1024 * 1024 });
   const files = git("ls-tree", "-r", "--name-only", ref, "--", "paints").split("\n").filter((f) => f.endsWith(".json"));
   const paints = files.flatMap((f) => JSON.parse(git("show", `${ref}:${f}`)));
   let equivalents = [];
   try { equivalents = JSON.parse(git("show", `${ref}:equivalents.json`)); } catch { /* not there yet */ }
-  return { paints, equivalents };
+  let sources = [];
+  try { sources = JSON.parse(git("show", `${ref}:sources.json`)).colour_sources ?? []; } catch { /* not there yet */ }
+  return { paints, equivalents, sources };
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
