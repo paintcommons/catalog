@@ -11,7 +11,7 @@ import re
 import subprocess
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-BASE = 'd11719db97df70ebd314bc02587f7874d5abc113'
+BASE = '12a3154807c3708ca169e2cd095528f504776404'
 SOURCES = ROOT / 'data/sources'
 REPORT = ROOT / 'reports/two-thin-coats'
 SWATCHES = ROOT / 'data/upstream/gerinfact-235dc3f'

@@ -4,7 +4,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H1",
     "name": "White",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -19,7 +19,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H10",
     "name": "Copper",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -34,7 +34,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H11",
     "name": "Flat White",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -49,7 +49,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H12",
     "name": "Flat Black",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -64,7 +64,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H13",
     "name": "Flat Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -79,7 +79,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H14",
     "name": "Orange",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -94,7 +94,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H15",
     "name": "Bright Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -109,7 +109,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H16",
     "name": "Yellow Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -124,7 +124,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H17",
     "name": "Cocoa Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -139,7 +139,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H18",
     "name": "Steel",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -154,7 +154,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H19",
     "name": "Pink",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -169,7 +169,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H2",
     "name": "Black",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -184,7 +184,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H20",
     "name": "Flat Clear",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -199,7 +199,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H21",
     "name": "Off White",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -214,7 +214,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H22",
     "name": "Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -229,7 +229,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H23",
     "name": "Shine Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -244,7 +244,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H24",
     "name": "Orange Yellow",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -259,7 +259,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H25",
     "name": "Sky Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -274,7 +274,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H26",
     "name": "Bright Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -289,7 +289,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H27",
     "name": "Tan",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -304,7 +304,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H28",
     "name": "Metal Black",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -319,7 +319,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H29",
     "name": "Salmon Pink",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -334,7 +334,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H3",
     "name": "Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -349,7 +349,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H30",
     "name": "Clear",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -364,7 +364,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H301",
     "name": "Gray Fs36081",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -379,7 +379,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H302",
     "name": "Green Fs34092",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -394,7 +394,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H303",
     "name": "Green Fs34102",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -409,7 +409,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H304",
     "name": "Olive Drab Fs34087",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -424,7 +424,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H305",
     "name": "Gray Fs36118",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -439,7 +439,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H306",
     "name": "Gray Fs36270",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -454,7 +454,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H307",
     "name": "Gray Fs36320",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -469,7 +469,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H308",
     "name": "Gray Fs36375",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -484,7 +484,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H309",
     "name": "Green Fs34079",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -499,7 +499,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H31",
     "name": "White Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -514,7 +514,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H310",
     "name": "Brown Fs30219",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -529,7 +529,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H311",
     "name": "Gray Fs36622",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -544,7 +544,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H312",
     "name": "Green Fs34227",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -559,7 +559,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H313",
     "name": "Yellow Fs33531",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -574,7 +574,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H314",
     "name": "Blue Fs35622",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -589,7 +589,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H315",
     "name": "Gray Fs16440",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -604,7 +604,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H316",
     "name": "White Fs17875",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -619,7 +619,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H317",
     "name": "Gray Fs36231",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -634,7 +634,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H318",
     "name": "Radome",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -649,7 +649,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H319",
     "name": "Light Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -664,7 +664,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H32",
     "name": "Field Gray (1)",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -679,7 +679,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H321",
     "name": "Light Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -694,7 +694,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H322",
     "name": "Phthalo Cyanine Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -709,7 +709,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H324",
     "name": "Light Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -724,7 +724,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H325",
     "name": "Gray Fs26440",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -739,7 +739,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H326",
     "name": "Blue Fs15044 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -754,7 +754,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H327",
     "name": "Red Fs11136 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -769,7 +769,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H328",
     "name": "Blue Fs15050 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -784,7 +784,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H329",
     "name": "Yellow Fs13538 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -799,7 +799,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H33",
     "name": "Russet",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -814,7 +814,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H330",
     "name": "Dark Green Bs381c/641 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -829,7 +829,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H331",
     "name": "Dark Seagray Bs381c/638 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -844,7 +844,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H332",
     "name": "Light Aircraft Gray Bs381c/627 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -859,7 +859,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H333",
     "name": "Extra Dark Seagray Bs381c/640 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -874,7 +874,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H334",
     "name": "Barley Gray Bs4800/18b21 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -889,7 +889,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H335",
     "name": "Medium Seagray Bs381c/637 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -904,7 +904,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H336",
     "name": "Hemp Bs4800/10b21 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -919,7 +919,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H337",
     "name": "Grayish Blue Fs35237 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -934,7 +934,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H338",
     "name": "Light Gray Fs36495 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -949,7 +949,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H339",
     "name": "Engine Gray Fs16081 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -964,7 +964,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H34",
     "name": "Cream Yellow",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -979,7 +979,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H340",
     "name": "Field Green Fs34097 A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -994,7 +994,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H341",
     "name": "Mud",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1009,7 +1009,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H342",
     "name": "Oil",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1024,7 +1024,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H343",
     "name": "Soot",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1039,7 +1039,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H345",
     "name": "Rough Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1054,7 +1054,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H346",
     "name": "Rough Sand",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1069,7 +1069,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H367",
     "name": "Carmine Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1084,7 +1084,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H37",
     "name": "Wood Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1099,7 +1099,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H38",
     "name": "Steel Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1114,7 +1114,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H39",
     "name": "Purple",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1129,7 +1129,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H4",
     "name": "Yellow",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1144,7 +1144,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H40",
     "name": "Flat Base",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1159,7 +1159,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H401",
     "name": "Dark Gray T",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1174,7 +1174,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H402",
     "name": "Green Brown T",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1189,7 +1189,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H403",
     "name": "Dark Yellow",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1204,7 +1204,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H404",
     "name": "Khaki Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1219,7 +1219,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H405",
     "name": "Olive Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1234,7 +1234,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H406",
     "name": "Chocolate Brown T",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1249,7 +1249,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H41",
     "name": "Pale Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1264,7 +1264,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H413",
     "name": "RLM04 Yellow",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1279,7 +1279,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H414",
     "name": "RLM23 Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1294,7 +1294,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H416",
     "name": "RLM66 Black Gray A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1309,7 +1309,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H417",
     "name": "RLM76 Light Blue A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1324,7 +1324,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H418",
     "name": "RLM78 Light Blue A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1339,7 +1339,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H42",
     "name": "Blue Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1354,7 +1354,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H420",
     "name": "RLM80 Olive Green A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1369,7 +1369,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H421",
     "name": "RLM81 Brown Violet A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1384,7 +1384,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H422",
     "name": "RLM82 Light Green A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1399,7 +1399,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H423",
     "name": "RLM83 Dark Green A",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1414,7 +1414,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H43",
     "name": "Wine Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1429,7 +1429,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H44",
     "name": "Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1444,7 +1444,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H451",
     "name": "Chalky White",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1459,7 +1459,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H452",
     "name": "Soot Black",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1474,7 +1474,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H453",
     "name": "Rust Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1489,7 +1489,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H455",
     "name": "Cement Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1504,7 +1504,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H456",
     "name": "Dust Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1519,7 +1519,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H457",
     "name": "Earth Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1534,7 +1534,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H458",
     "name": "Machine Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1549,7 +1549,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H459",
     "name": "Sand Yellow",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1564,7 +1564,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H46",
     "name": "Emerald Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1579,7 +1579,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H460",
     "name": "Red Brown (1)",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1594,7 +1594,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H461",
     "name": "Oxide Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1609,7 +1609,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H462",
     "name": "Black Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1624,7 +1624,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H463",
     "name": "Red Brown (2)",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1639,7 +1639,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H464",
     "name": "Chrome Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1654,7 +1654,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H466",
     "name": "Purple Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1669,7 +1669,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H47",
     "name": "Red Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1684,7 +1684,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H48",
     "name": "Field Gray (2)",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1699,7 +1699,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H49",
     "name": "Violet",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1714,7 +1714,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H5",
     "name": "Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1729,7 +1729,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H50",
     "name": "Lime Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1744,7 +1744,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H51",
     "name": "Light Gull Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1759,7 +1759,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H52",
     "name": "Olive Drab (1)",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1774,7 +1774,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H53",
     "name": "Neutral Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1789,7 +1789,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H54",
     "name": "Navy Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1804,7 +1804,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H55",
     "name": "Midnight Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1819,7 +1819,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H56",
     "name": "Intermediate Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1834,7 +1834,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H57",
     "name": "Aircraft Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1849,7 +1849,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H58",
     "name": "Interior Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1864,7 +1864,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H59",
     "name": "IJN Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1879,7 +1879,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H6",
     "name": "Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1894,7 +1894,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H60",
     "name": "Ija Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1909,7 +1909,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H61",
     "name": "IJN Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1924,7 +1924,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H62",
     "name": "Ija Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1939,7 +1939,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H63",
     "name": "Metallic Blue Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1954,7 +1954,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H64",
     "name": "RLM71 Dark Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1969,7 +1969,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H65",
     "name": "RLM70 Black Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1984,7 +1984,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H66",
     "name": "RLM79 Sandy Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1999,7 +1999,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H67",
     "name": "RLM65 Light Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2014,7 +2014,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H68",
     "name": "RLM74 Dark Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2029,7 +2029,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H69",
     "name": "RLM75 Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2044,7 +2044,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H7",
     "name": "Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2059,7 +2059,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H70",
     "name": "RLM02 Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2074,7 +2074,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H71",
     "name": "Middle Stone",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2089,7 +2089,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H72",
     "name": "Dark Earth",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2104,7 +2104,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H74",
     "name": "Sky (Duck Egg Green)",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2119,7 +2119,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H75",
     "name": "Dark Seagray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2134,7 +2134,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H76",
     "name": "Burnt Iron",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2149,7 +2149,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H77",
     "name": "Tire Black",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2164,7 +2164,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H78",
     "name": "Olive Drab (2)",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2179,7 +2179,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H79",
     "name": "Sandy Yellow (Dark Yellow)",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2194,7 +2194,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H8",
     "name": "Silver",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2209,7 +2209,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H80",
     "name": "Khaki Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2224,7 +2224,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H81",
     "name": "Khaki",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2239,7 +2239,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H82",
     "name": "Dark Gray (1)",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2254,7 +2254,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H83",
     "name": "Dark Gray (2)",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2269,7 +2269,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H84",
     "name": "Mahogany",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2284,7 +2284,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H85",
     "name": "Sail Color",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2299,7 +2299,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H86",
     "name": "Red Madder",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2314,7 +2314,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H87",
     "name": "Metallic Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2329,7 +2329,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H88",
     "name": "Metallic Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2344,7 +2344,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H89",
     "name": "Metallic Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2359,7 +2359,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H9",
     "name": "Gold",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2374,7 +2374,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H90",
     "name": "Clear Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2389,7 +2389,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H91",
     "name": "Clear Yellow",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2404,7 +2404,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H92",
     "name": "Clear Orange",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2419,7 +2419,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H93",
     "name": "Clear Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2434,7 +2434,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H94",
     "name": "Glear Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2449,7 +2449,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H95",
     "name": "Smoke Gray",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2464,7 +2464,7 @@
     "range": "Aqueous Hobby Color",
     "code": "H96",
     "name": "Smoke Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {

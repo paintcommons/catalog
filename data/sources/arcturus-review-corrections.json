@@ -1,0 +1,12 @@
+{
+  "review_url": "https://github.com/paintcommons/catalog/pull/2#pullrequestreview-5966040742",
+  "craft_scope": "FolkArt, Golden, Apple Barrel and Liquitex deferred by maintainer direction.",
+  "fanatic_generation_evidence": [
+    "https://thearmypainter.com/collections/warpaints-fanatic",
+    "https://thearmypainter.com/en-gb/blogs/explore/the-warpaints-fanatic-colour-conversion-chart",
+    "https://thearmypainter.com/pages/metallics",
+    "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-evil-chrome-wp3185p"
+  ],
+  "status_basis": "New Vallejo observations absent from the reviewed current manufacturer list and superseded original Army Painter generations are classified discontinued; retailer stock is not assessed.",
+  "type_basis": "Inherit a unique existing range type after specific paint-type overrides; explicitly classify known acrylic families; retain other where classification is unsupported."
+}

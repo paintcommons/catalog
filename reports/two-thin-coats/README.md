@@ -1,6 +1,6 @@
 # Two Thin Coats manufacturer enrichment
 
-Reviewed 2026-11-18. Based on catalogue commit `d11719db97df70ebd314bc02587f7874d5abc113` (the clean Arcturus import, PR #2). This is separate from the proposed Arcturus colour/conflict replacements in PR #3.
+Reviewed 2026-11-18. Based on catalogue commit `12a3154807c3708ca169e2cd095528f504776404` (the clean Arcturus import, PR #2). This is separate from the proposed Arcturus colour/conflict replacements in PR #3.
 
 ## Result
 
@@ -10,7 +10,7 @@ Reviewed 2026-11-18. Based on catalogue commit `d11719db97df70ebd314bc02587f7874
 - Preserve every existing colour object (hex, gradient and source), type, range, status and any id. All unrelated paint records are identical to the pinned base.
 - Add 30 **Dark Arts** paints (21 acrylics, three metallics, six inks), eight effects and **Spirit Medium**: **219 TTC paints** total. The effects and medium use the official shop collection name, Effects Paints.
 - All 39 additions have unknown product codes (`null`) and no barcodes. The 30 Dark Arts paints receive exact-name GERInFact numeric hex values, with source `gerinfact-ttc`. The other nine additions have no colour object. The schema represents unknown colours by omitting `colour`, rather than JSON `null`. Set identifiers are not individual-bottle identifiers and are not assigned to paints.
-- Catalogue totals: 9,409 paints, 1,745 barcodes, 9,385 colours. Thirty new swatches were added; no existing swatch values were replaced.
+- Catalogue totals: 8,307 paints, 1,745 barcodes, 8,283 colours. Thirty new swatches were added; no existing swatch values were replaced.
 
 ## Evidence and reproduction
 
