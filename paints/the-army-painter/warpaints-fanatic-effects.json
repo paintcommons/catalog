@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f453a8de-99ee-4c0d-b538-658becd1501d",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Dark Rust",
+    "type": "effect",
+    "barcodes": [],
+    "status": "current"
+  },
+  {
+    "id": "f03e420d-0098-4144-95dc-4732c5e7b706",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Data System Glow",
+    "type": "effect",
+    "barcodes": [],
+    "status": "current"
+  },
+  {
+    "id": "1c54f361-d43d-4c22-bfba-965c4aef6368",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Disgusting Slime",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CBB503",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6c348cc1-c406-4e89-bb4f-64a0df17eddf",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Oil Stains",
+    "type": "effect",
+    "barcodes": [],
+    "status": "current"
+  },
+  {
+    "id": "8a8fd586-aeb5-4e96-af46-04e47dfa4551",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Verdigris",
+    "type": "effect",
+    "barcodes": [],
+    "status": "current"
+  },
+  {
+    "id": "ea519e99-1c8d-4ec2-9345-c9a14e0ddefe",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Warpaints Retarder",
+    "type": "effect",
+    "barcodes": [],
+    "status": "current"
+  }
+]

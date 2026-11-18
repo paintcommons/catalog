@@ -1,0 +1,310 @@
+[
+  {
+    "id": "558761c7-1db6-4841-9021-d367b711b095",
+    "brand": "Vallejo",
+    "range": "Mecha Color Metallic",
+    "code": "69.058",
+    "name": "Gunmetal",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551690584",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#787876",
+      "gradient": [
+        "#60605E",
+        "#8B8A89",
+        "#BBB9B9",
+        "#EFEEEE",
+        "#CFCECE",
+        "#9A9998",
+        "#6B6B69"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e456abf7-334a-4413-b9b1-c1a9a70050b0",
+    "brand": "Vallejo",
+    "range": "Mecha Color Metallic",
+    "code": "69.059",
+    "name": "Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551690591",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D3B164",
+      "gradient": [
+        "#C9A140",
+        "#DABE7E",
+        "#EADAB8",
+        "#FAF6EF",
+        "#EFE4CC",
+        "#DFC58F",
+        "#CDA851"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0ceeb9e1-d884-492e-84f3-c284460b4a6d",
+    "brand": "Vallejo",
+    "range": "Mecha Color Metallic",
+    "code": "69.060",
+    "name": "Old Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551690607",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BBA472",
+      "gradient": [
+        "#AD9256",
+        "#C5B188",
+        "#DED3BD",
+        "#F7F4EF",
+        "#E7DECE",
+        "#CCBA96",
+        "#B29860"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bf0ed842-72d4-4d40-81f1-cfb408ae507c",
+    "brand": "Vallejo",
+    "range": "Mecha Color Metallic",
+    "code": "69.061",
+    "name": "Copper",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551690614",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B78464",
+      "gradient": [
+        "#A66A46",
+        "#C19579",
+        "#DCC2B2",
+        "#F7F0ED",
+        "#E6D3C7",
+        "#C9A38A",
+        "#AF7756"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cf78644a-0c12-4920-997e-d5c13db40328",
+    "brand": "Vallejo",
+    "range": "Mecha Color Metallic",
+    "code": "69.062",
+    "name": "Bronze",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551690621",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AA915C",
+      "gradient": [
+        "#997D3E",
+        "#B6A174",
+        "#D6C9B0",
+        "#F5F2EC",
+        "#E1D7C5",
+        "#BFAC85",
+        "#A0844A"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aa18d582-fd85-4689-98c5-8b4862562906",
+    "brand": "Vallejo",
+    "range": "Mecha Color Metallic",
+    "code": "69.063",
+    "name": "Steel",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551690638",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A29D99",
+      "gradient": [
+        "#918C87",
+        "#B0ABA8",
+        "#D1CECC",
+        "#F4F3F3",
+        "#E0DEDD",
+        "#BBB6B4",
+        "#98938E"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ccd43f73-934f-45f8-9ed2-0a9e3ae77484",
+    "brand": "Vallejo",
+    "range": "Mecha Color Metallic",
+    "code": "69.064",
+    "name": "Light Steel",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551690645",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C1C2C5",
+      "gradient": [
+        "#B5B7BB",
+        "#CCCDD0",
+        "#E3E3E5",
+        "#F8F8F9",
+        "#E9E9EB",
+        "#D0D0D3",
+        "#B7B9BC"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "acd53666-917d-4fb8-904b-e0759ae23fb8",
+    "brand": "Vallejo",
+    "range": "Mecha Color Metallic",
+    "code": "69.065",
+    "name": "Dark Steel",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551690652",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8D8B8B",
+      "gradient": [
+        "#777576",
+        "#9D9B9B",
+        "#C6C4C5",
+        "#F2F1F1",
+        "#D7D5D6",
+        "#A9A6A7",
+        "#7E7D7D"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b715b235-dfc0-491d-aab6-5c417c2e2c3e",
+    "brand": "Vallejo",
+    "range": "Mecha Color Metallic",
+    "code": "69.066",
+    "name": "Metallic Red",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551690669",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CB7B74",
+      "gradient": [
+        "#C2635F",
+        "#D4958C",
+        "#E7C6C0",
+        "#F9F1F0",
+        "#ECD1CC",
+        "#D69B93",
+        "#C36561"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cdeb279f-5f98-40ff-a374-84654c4044ba",
+    "brand": "Vallejo",
+    "range": "Mecha Color Metallic",
+    "code": "69.067",
+    "name": "Metallic Blue",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551690676",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#667187",
+      "gradient": [
+        "#485971",
+        "#7A8397",
+        "#B2B5C3",
+        "#ECECF1",
+        "#C7C9D4",
+        "#8990A3",
+        "#526178"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3636ce70-0b47-40a6-bb55-fdb9b03b2faf",
+    "brand": "Vallejo",
+    "range": "Mecha Color Metallic",
+    "code": "69.068",
+    "name": "Metallic Green",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551690683",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6FB090",
+      "gradient": [
+        "#3F9F78",
+        "#8ABCA0",
+        "#C2DACB",
+        "#F1F6F3",
+        "#D5E4DB",
+        "#9BC4AD",
+        "#53A581"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "129dfd96-70a2-42b6-bb83-a665b13ee09b",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Administratum Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#93979A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "de471342-983b-46cf-9941-0d3e7b393c07",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Ahriman Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#007886",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "315dc490-0ea8-4275-854f-c5898c210421",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Alaitoc Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2E679E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6ea373fe-e9c5-4d86-9c2a-a2b8a20fefb5",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Altdorf Guard Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1B5086",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8155c3c9-2f83-498a-944d-f958cbdb59f6",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Auric Armour Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E3BA86",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3638956a-9d4e-4c5b-98d8-41cf8b73fbfe",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Baharroth Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00B6B9",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f195cff3-e286-4c2b-8214-48cc9b2440c8",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Balor Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9E722B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "51390ba3-207a-400a-b80f-1f2e66472016",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Baneblade Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#756858",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f47498c7-5ec2-474a-8e6a-ad09a5ce3b97",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Bestigor Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F9A976",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b29153cf-c1b5-4205-9aad-73dded31def3",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Bloodreaver Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4E2627",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a9f2832e-7bc7-4866-903a-cfbb8fd3c7fa",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Blue Horror",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AACDE0",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9711f997-2abd-43ab-bf2d-3776ec4a5af2",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Brass Scorpion",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BA8D6C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fdfe38f4-343d-4487-beab-a7d2df050900",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Cadian Fleshtone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CA8F71",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "54ebbc1a-cad9-4d52-857a-a0f7ffb37745",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Calgar Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4779AA",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2a20db86-8408-4481-b381-4da6049e8e89",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Canoptek Alloy",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C3B8B2",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "27a57a6f-7be2-4652-ab63-7410fa388e16",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Castellax Bronze",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#846758",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0148bcae-ecfa-4d76-8321-5d6e9c62626d",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Dark Reaper",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#35484F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e8a8517d-b1ee-495c-9f16-4ab7676a847c",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Dawnstone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#717574",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6aefef1d-526d-4ceb-ae97-0fe5d577a0ba",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Deathclaw Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A86838",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7e179751-1c26-4077-a853-623f4207d56a",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Dechala Lilac",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A492C6",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f2b73610-f4fc-4461-8149-6a3ca1c9d17c",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Deepkin Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CDD0C7",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1747ff0a-b6f3-4ca8-b113-4a26443d30b0",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Doombull Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5F2519",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aa949afe-798d-421a-9e1d-46b7f8a7c977",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Dorn Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F7DF7B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "237c2679-5eac-4e07-b49a-18db694c42a3",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Elysian Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#707138",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "579cc826-8cda-4093-8abc-cddc0bf57357",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Emperor's Children",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D76998",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "faee64f4-f801-4760-b077-b56d10445d11",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Eshin Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A4149",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f4dc0ef1-f058-4116-b5b8-2b2f7e565ee9",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Evil Sunz Scarlet",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C12529",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2b124127-7d0d-4f0c-ba0d-526e2631b219",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Fenrisian Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7CA4BE",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "faa53fa1-327e-4bb2-b9bd-81a31dcf1441",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Fire Dragon Bright",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F88840",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4c07f1ab-e4ea-4378-977b-d5134e6d9f45",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Flash Gitz Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FBB12E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "002e07ba-4127-4188-a988-7f066d48d199",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Flayed One Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D5BC93",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6d6248c2-b4c8-478b-a287-d32b0f9cbaaa",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Fulgrim Pink",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EAB5D3",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f3fbce2d-c92b-4cb2-b945-7227000a8056",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Fulgurite Copper",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E2BA90",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8c2b280e-9530-48f6-9947-6bfd9926b34c",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Gauss Blaster Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#89D0C0",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c3aea184-414c-41a4-b2e3-40f52bbb6a1f",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Gehenna's Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D69E76",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7284aa5e-6f14-43b6-aecf-6d0b0a7351bd",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Genestealer Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8157A3",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0ea7d6f3-45df-4710-99a7-a00bffd25b26",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Gorthor Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#725B55",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "12220e5f-196b-4dc9-9cac-e3a1513af75c",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Hashut Copper",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C39B7E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b898a1a0-933d-4eba-99c5-82e51283e770",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Hoeth Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4784BA",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0353c607-4e4a-4992-b5f1-7e55f02da64a",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Ironbreaker",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BCBBB7",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "07136378-a8ff-4222-aa2c-957294002c0a",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Kabalite Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#086258",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e67377f6-79c4-49d2-bdb0-33d97e3b2e84",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Kakophoni Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A871A8",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f249937d-86bb-4326-9f8e-b89dee7144ea",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Karak Stone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9A8C72",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "954f3e5b-b0da-42c6-911f-df7f799e3557",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Kislev Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E6A98C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0ddff260-71e9-46c2-b22a-e9d2974b6e82",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Knight-Questor Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#83574C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7b3b68cb-2106-4289-ad68-560dbaa3946a",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Krieg Khaki",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BFBD80",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5eaf5c14-abd6-4e59-ad12-9e67b1eb9ce8",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Liberator Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DBC39F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0d003e1c-016f-4876-8b6a-f8e5abe39530",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Loren Forest",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#556B54",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ca4f91c9-5b68-4e84-8f66-93debaa80ece",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Lothern Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#37A2CE",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0a21ac98-cfdf-4b6e-b654-fb5d800f2522",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Lugganath Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F78F6A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ccd0d9d3-b4d5-4dec-9174-1b67fd05b786",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Moot Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#599938",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "730018b9-0f4c-4f7b-a695-675940f62732",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Nurgling Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#879476",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ef97bd44-cd50-47df-95d0-c0e342bfcffb",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Ogryn Camo",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AAA472",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "479ff86c-48dc-46f5-9fae-4c15a9fa8798",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Pallid Wych Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DDD9D6",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e33d61b2-da24-42ed-8e4c-fcefba39ca9a",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Phalanx Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FCD52F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ab853200-b24c-478a-a374-65434443d668",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Pink Horror",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C44B5A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c6e97a64-e326-4564-8033-92721a40616a",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Runefang Steel",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D8D8DA",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ba7ae050-730b-4372-bdb4-f2ce4b429e4b",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Russ Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6485A8",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "61352c9c-0d55-4554-987f-90eddf0f8690",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Screaming Skull",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E2D2B8",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "38298c2d-f8d5-4c37-9ae3-a6d4eb275eb0",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Skarsnik Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#688D57",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dd44fca5-1ccd-4ed5-85ec-771ce23c5a20",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Skavenblight Dinge",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D4B4C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "158b4bbb-9926-4f1d-9cc2-d57d9a28ec9b",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Skrag Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A15428",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0feffb30-8cc9-4689-b3fc-2d9c0f61914d",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Skullcrusher Brass",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D8B07B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0b89f3c7-72e0-4644-986b-cae044721602",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Slaanesh Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8F839B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8a4ed080-69eb-4ef3-bbb5-6bbabc13e1d6",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Sons of Horus Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#315E5B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f5e76b91-81ca-41ab-95e1-459478963ded",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Sotek Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#006873",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6499108c-d069-4c94-a8f0-7744cddf1e2a",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Squig Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C55A50",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "98f552a6-83f1-4c1b-b2a1-82ff6947b18c",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Stormhost Silver",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E6E6EA",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "94f173e9-fdb3-45dd-8dfb-23cc8683a943",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Stormvermin Fur",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#555650",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "afe05686-adbf-42ba-b5a8-35d5106cc71a",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Straken Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7C8B6E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d9ff1e21-cf2f-4884-9ac2-389c1458f4a8",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Sybarite Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#21A784",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b3af0863-7b37-4f18-9670-74027056a30a",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Sycorax Bronze",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CEB4A0",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "00f8b63e-ae77-4365-9863-c737fd8a1f33",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Tallarn Sand",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BB9662",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "06b065a3-9620-4a32-bee7-f77de571e70b",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Tau Light Ochre",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E69448",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b32eb7fc-a5e2-45ff-af5f-6729481b5d85",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Teclis Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#006EAD",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7caee8ef-3dbf-41a9-bdf5-9f65cec3c349",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Temple Guard Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#008E9C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c58a7555-7dfe-46ca-98b0-42174e5bad78",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Thunderhawk Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#405B6C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a92da0f9-a7ab-4578-9178-3385451d2902",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Troll Slayer Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F46E39",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f885c489-19e4-4a92-a6ad-e3104ced7f8d",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Tuskgor Fur",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#973C37",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dfd8907f-4533-495f-971b-c1741d9a8e39",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Ulthuan Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C4C9C5",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5a106179-50bc-4c7f-aded-00f552f1f5c4",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Ungor Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D49663",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5b20d635-4028-4e6d-80c2-e72f22e95f3e",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Ushabti Bone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BFAB88",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6e86285a-d0ec-4d4c-bcff-81cdc9820d08",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Vulkan Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3F5549",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "87bc7aee-626d-4b7a-9ead-dfb411991fa4",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Warboss Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#42713D",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8a262aa7-54e7-4576-b803-c0e55dfa7632",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Warpfiend Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A6786",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9b519855-4964-44db-be47-2bce7fe6e973",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Warpstone Glow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#006930",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "afbad80a-6cdb-4ad6-8e7e-36f66e08c2ad",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Wazdakka Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A4183D",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "456a650e-d46b-4a95-9909-5c71bc3620ab",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "White Scar",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1a3a6707-e044-4a3b-81a4-dbcd053b3f93",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Wild Rider Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DB4E3A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6edc7d2b-eb57-4cf3-b286-01e785b32807",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Word Bearers Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#602227",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4fe35f5b-566c-4241-9aec-e4039a491284",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Xereus Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3B2053",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dbeecec8-1816-4629-b5d2-937b9502f824",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Yriel Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F8C02F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7179d22a-580a-468e-8e4d-99d9fb3336fc",
+    "brand": "Citadel",
+    "range": "Layer",
+    "code": null,
+    "name": "Zamesi Desert",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AE7929",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  }
+]

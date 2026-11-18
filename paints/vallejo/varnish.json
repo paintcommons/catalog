@@ -1,0 +1,42 @@
+[
+  {
+    "id": "83f4b280-5d60-4532-b368-7036c2691877",
+    "brand": "Vallejo",
+    "range": "Varnish",
+    "code": "70.520",
+    "name": "Matt Varnish",
+    "type": "varnish",
+    "barcodes": [
+      {
+        "ean": "8429551705202",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ade8a2ae-7c8a-45f7-b568-0d6bdbbba49a",
+    "brand": "Vallejo",
+    "range": "Varnish",
+    "code": "72.650",
+    "name": "Gloss Polyurethane Varnish",
+    "type": "varnish",
+    "barcodes": [
+      {
+        "ean": "8429551726504",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "id": "d91fc437-eb11-4ddb-ab16-e49bfe226ec9",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Astorath Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AC312A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5558216a-a9e4-4933-afd3-c0dec028f982",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Changeling Pink",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F3ABCA",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4a1a48dd-d6ff-4d30-b5ca-2de77cfbc91f",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Chronus Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4B90CF",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3f5cae87-8cea-4fca-bee6-813d486b522a",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Dawnstone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6F746D",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "56fc6128-e2e2-441f-baea-69d8d60eb64b",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Eldar Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EBBE83",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6afdfa9f-c0c1-4ee2-b328-a36ce90c9d03",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Etherium Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A2B8CF",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b0b4db93-ce67-40b2-93a3-d6d0b3e18afb",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Golden Griffon",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C4B28E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7cc08687-ed19-4b96-8f90-9bb7e2d3a339",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Golgfag Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#935232",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5d8c590a-a60b-4ed3-be26-403a1e2e5f0a",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Hellion Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7FC1A5",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9abf2bf2-9827-47ec-8da8-87870093a11e",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Hexos Palesun",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFF35F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dd2edb0e-c349-4bdf-9b46-76c658e38c2e",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Hoeth Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4E7DB1",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a66c9dcc-e2d0-4868-893a-21eb61d0af56",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Imrik Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1090C1",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "42d71387-c0af-4b36-b708-5e9e8c5d2c68",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Kindleflame",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F69C82",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1b9df78a-c72b-4dc0-9b2d-cc8a0425128d",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Longbeard Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DFDECA",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "375b46f6-2c45-444c-be1d-9a8febd20298",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Lucius Lilac",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B69FCD",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7de36e02-2b64-487d-831f-0f72732ad4bb",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Necron Compound",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C2C9CC",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0a614674-9a68-494e-b652-71d7b50b4465",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Niblet Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#488E36",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "58d5cde4-ed0f-4fbd-94c8-1b507dde8155",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Nurgling Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#849B63",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f5114c96-d9e0-4e1f-8b19-fbcfd71bed99",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Praxeti White",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d996282c-baba-4d98-a982-04d2efaed969",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Ryza Rust",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F36E2D",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6356a098-efce-4f52-93c1-6cde4f916cbd",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Sigmarite",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D6AC57",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5886159a-e56b-4fa8-a300-5fac80a4b3bd",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Skink Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#59BFCD",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8b7ece60-03eb-4ed7-a742-1686759154d5",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Slaanesh Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8B8893",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aeb89b2f-6c34-4e2e-9b40-e5e98d45dace",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Stormfang",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6084A8",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a02c84cf-c163-4c6d-9b81-8c333ddc48e6",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Sylvaneth Bark",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#524B3B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b4a68918-397c-4828-8962-afa8bf72cf13",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Terminatus Stone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CABAA1",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4ef09df4-d707-434a-9c04-3c4ec60c3029",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Thunderhawk Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#396A70",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "95cfcbb6-3609-4fa0-93d2-74d29dd1682c",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Tyrant Skull",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CDC586",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "70f2e136-1b51-472f-b4c8-494d3042f8a5",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Underhive Ash",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BFBD80",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1d3528ad-94b5-4092-9ff1-2bab57af7bb2",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Verminlord Hide",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7E3331",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "10c1fcf2-ac57-4305-96e9-e953b2078d96",
+    "brand": "Citadel",
+    "range": "Dry",
+    "code": null,
+    "name": "Wrack White",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D7D3D2",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "61778d24-e40d-4da9-8ec7-11945758e684",
+    "brand": "Vallejo",
+    "range": "Xpress Color Intense",
+    "code": "72.477",
+    "name": "Dreadnought Yellow",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724777",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D48802",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d5ab91dc-7ef8-45af-b44d-c0c41e667272",
+    "brand": "Vallejo",
+    "range": "Xpress Color Intense",
+    "code": "72.478",
+    "name": "Phoenix Orange",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724784",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B03911",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fa623e74-2078-4878-9364-8852b7126438",
+    "brand": "Vallejo",
+    "range": "Xpress Color Intense",
+    "code": "72.479",
+    "name": "Seraph Red",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724791",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#741E11",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a9099558-d6dc-4aa4-99f3-d9a55ec13192",
+    "brand": "Vallejo",
+    "range": "Xpress Color Intense",
+    "code": "72.480",
+    "name": "Legacy Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724807",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2D285B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bad0462b-d1b5-4b64-9078-eb87822d2664",
+    "brand": "Vallejo",
+    "range": "Xpress Color Intense",
+    "code": "72.481",
+    "name": "Heretic Turquoise",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724814",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#07514B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "24c01682-6517-4e3c-b15c-032aac4a5649",
+    "brand": "Vallejo",
+    "range": "Xpress Color Intense",
+    "code": "72.482",
+    "name": "Monastic Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724821",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#004935",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8b743d17-5d34-4dd2-a187-b2d52cb04b6a",
+    "brand": "Vallejo",
+    "range": "Xpress Color Intense",
+    "code": "72.483",
+    "name": "Viking Grey",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724838",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3C4855",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bfa6ddae-e88a-422f-800e-d00c3b920d58",
+    "brand": "Vallejo",
+    "range": "Xpress Color Intense",
+    "code": "72.484",
+    "name": "Hospitallier Black",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724845",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#231F20",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

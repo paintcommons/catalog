@@ -1,0 +1,254 @@
+[
+  {
+    "id": "213705bc-10a8-4ae4-adff-06c83667c6e8",
+    "brand": "Vallejo",
+    "range": "Game Color Metallic",
+    "code": "72.052",
+    "name": "Silver",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551720526",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BEC3C4",
+      "gradient": [
+        "#B7BDBE",
+        "#C7CBCC",
+        "#DADDDE",
+        "#E6E8E8",
+        "#DBDEDE",
+        "#C8CDCD",
+        "#B8BEBF"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5b144060-9a79-4469-9539-1474d49f864b",
+    "brand": "Vallejo",
+    "range": "Game Color Metallic",
+    "code": "72.053",
+    "name": "Chainmail",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551720533",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A7ACB1",
+      "gradient": [
+        "#9DA2A8",
+        "#B1B5BA",
+        "#CBCED1",
+        "#DCDEE0",
+        "#CED1D3",
+        "#B4B8BC",
+        "#9EA4A9"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5811ec35-77e4-4a46-8e4d-f6bca9918d22",
+    "brand": "Vallejo",
+    "range": "Game Color Metallic",
+    "code": "72.054",
+    "name": "Dark Gunmetal",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551720540",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#86868B",
+      "gradient": [
+        "#78797D",
+        "#96969A",
+        "#B8B9BB",
+        "#CECFD0",
+        "#BCBDBF",
+        "#97989C",
+        "#7A7B7F"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0d1979bf-000e-411e-814d-b9746c810829",
+    "brand": "Vallejo",
+    "range": "Game Color Metallic",
+    "code": "72.055",
+    "name": "Polished Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551720557",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E9C245",
+      "gradient": [
+        "#E6BB30",
+        "#ECCA5D",
+        "#F3DC93",
+        "#F7E7B5",
+        "#F3DD95",
+        "#ECCB62",
+        "#E7BC34"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "300e4f51-395b-4a30-8f77-3f32ccef154d",
+    "brand": "Vallejo",
+    "range": "Game Color Metallic",
+    "code": "72.056",
+    "name": "Glorious Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551720564",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DA994A",
+      "gradient": [
+        "#D68E36",
+        "#DEA55F",
+        "#EAC394",
+        "#F1D7B6",
+        "#EBC699",
+        "#DFA864",
+        "#D79039"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8da64e5e-3226-405d-88a3-109d5f4170b2",
+    "brand": "Vallejo",
+    "range": "Game Color Metallic",
+    "code": "72.057",
+    "name": "Bright Bronze",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551720571",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B27634",
+      "gradient": [
+        "#AA661E",
+        "#BC884F",
+        "#D3AF88",
+        "#E1C8AE",
+        "#D4B18B",
+        "#BD8A52",
+        "#AB6820"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "85387f40-f5d9-411b-be50-2ebe29068379",
+    "brand": "Vallejo",
+    "range": "Game Color Metallic",
+    "code": "72.058",
+    "name": "Brassy Brass",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551720588",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B97D5A",
+      "gradient": [
+        "#B16E47",
+        "#C28E6F",
+        "#D7B4A0",
+        "#E3CBBD",
+        "#D7B5A1",
+        "#C39173",
+        "#B2714A"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ea670413-00c9-4c4d-a76c-a0dd69ba3f97",
+    "brand": "Vallejo",
+    "range": "Game Color Metallic",
+    "code": "72.059",
+    "name": "Hammered Copper",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551720595",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8B6954",
+      "gradient": [
+        "#7E5941",
+        "#997B68",
+        "#BBA79A",
+        "#D1C3BA",
+        "#BEAB9F",
+        "#9C7F6D",
+        "#815B44"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "195773f4-0f88-4ec9-890b-1f23ba5fa127",
+    "brand": "Vallejo",
+    "range": "Game Color Metallic",
+    "code": "72.060",
+    "name": "Tinny Tin",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551720601",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6F513E",
+      "gradient": [
+        "#5F3D28",
+        "#826857",
+        "#AB998E",
+        "#C5B9B1",
+        "#AD9B90",
+        "#846A5A",
+        "#613F2A"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

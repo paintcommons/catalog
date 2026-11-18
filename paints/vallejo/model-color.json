@@ -1,0 +1,3882 @@
+[
+  {
+    "id": "63fa7075-8516-417e-9133-8500aed4e6e7",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.740",
+    "name": "Cam. Middle Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707404",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#503E20",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aefb98e3-3ba4-40d3-88df-812710676122",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.741",
+    "name": "Cam. Black Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707411",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#312F28",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c30b8b4b-7cfe-4cdf-be63-b476401889a8",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.745",
+    "name": "Dark Rose",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707459",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7F5251",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fd2cbc4f-31ed-4662-91a2-375be010cfb4",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.746",
+    "name": "Chestnut Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707466",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#603F39",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e1d8bec5-f528-4c76-9992-d412465d5e46",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.747",
+    "name": "Faded Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707473",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BA584E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d2250172-7a52-4b53-888e-3b36469292ec",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.748",
+    "name": "Light Pink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707480",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E08DA2",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2aba6f52-bffa-499b-9e06-b87b051dd925",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.749",
+    "name": "Dark Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707497",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#442633",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "144b5590-31dd-4deb-9fc3-24282309f208",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.750",
+    "name": "Light Violet",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707503",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A793BA",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aebf9718-5b58-4a20-9648-5a1ae120e10f",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.751",
+    "name": "Black Violet",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707510",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#382931",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "00b954a7-e985-4bc8-8196-1aecd857862e",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.752",
+    "name": "Infantry Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707527",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#25202B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6e385045-1d3c-414b-a7d2-28b14540670f",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.753",
+    "name": "Light Blue Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707534",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#0097A4",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "38344eda-d5f1-40db-8f42-c067f5bfa952",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.754",
+    "name": "Continental Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707541",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#25232A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9a9c08b3-886d-43b7-a235-e914065bcafa",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.755",
+    "name": "Light Emerald",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707558",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#007B72",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "311a8d5c-d5cc-4415-877b-7fcfc2523de6",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.756",
+    "name": "Splinter Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707565",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#446441",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c74c4e87-e044-4b5b-8746-1f175302f917",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.757",
+    "name": "Pacifi c Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707572",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#576F63",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ef042af-f275-4067-9a38-61097843da11",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.758",
+    "name": "Bright Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707589",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6E8249",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "98ac487f-7afa-4c57-ad62-731ce1cc8ac4",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.759",
+    "name": "German Tank Crew",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707596",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#524A3D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d392b25d-163d-4945-ba86-0c11675709ba",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.760",
+    "name": "Light Mud",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707602",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#79755A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a20896fa-cfd1-4b03-bbef-7e0e1f7f91a7",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.761",
+    "name": "Old Wood",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707619",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#816C53",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3d5ae64d-ba17-4655-9ea0-5a227ef86041",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.762",
+    "name": "Grey Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707626",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5B4922",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c2f53ed1-4c1c-49dd-84d0-1bbf1a65aa4c",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.763",
+    "name": "Canvas",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707633",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4B3E1E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0e0a3237-4738-4ad8-aced-0edb8b110cef",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.764",
+    "name": "Military Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707640",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#927625",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d2c303d7-ec9d-4b86-9f79-a2204895baba",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.765",
+    "name": "Desert Tan",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707657",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B5A286",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9405bef6-b3e6-4c95-acae-b6c3aef1d407",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.766",
+    "name": "Cream White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707664",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E1D1C3",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3a72f9c3-3534-405d-9381-39d5db288926",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.767",
+    "name": "Desert Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707671",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AC8354",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d1cf7074-d452-46ef-9a3f-82542ec9ae73",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.768",
+    "name": "BC Dark Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707688",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#75573C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "55e522c3-74dd-48fa-aff0-763dc8201181",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.769",
+    "name": "Mustard Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707695",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9E7249",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7fcaae71-dbfa-48a5-b8b4-320de2671245",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.770",
+    "name": "New Wood",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707701",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#89603B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9dfd99a9-30d5-4dd0-bcec-2ec3fb1d7519",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.771",
+    "name": "Dark Rust",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707718",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3C2424",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6979e2c0-bcc1-4637-b548-8f3be87693d4",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.772",
+    "name": "Medium Grey Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707725",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#769C93",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "840247c6-d58a-4e18-bd85-466c73778e6e",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.773",
+    "name": "Violet Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707732",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5A5957",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "05673cdb-8383-41af-afb8-df76a7a594b8",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.774",
+    "name": "Lavender Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551707749",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7E6E6E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a7578bd3-cc49-479c-861a-2a9036608695",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.802",
+    "name": "Sunset Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708029",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BE2A4A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cb499041-33e4-4e45-a2a0-33b42094d1da",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.803",
+    "name": "Brown Rose",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708036",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9C665F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9b199eb2-fc2d-492e-8a76-1d89ee89770e",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.804",
+    "name": "Beige Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708043",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B06E4A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "85b8d507-9146-46d0-9cd7-e8be59421dcf",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.805",
+    "name": "German Orange",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708050",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BB6255",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8c0743a4-563d-4f0f-8a79-ecbd77149562",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.806",
+    "name": "German Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708067",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CDB65E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "250d5209-7872-48eb-8cbe-505dfd2dd6d8",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.807",
+    "name": "Oxford Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708074",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3D3853",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9e794427-4875-428b-9a30-af0e4a557a79",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.808",
+    "name": "Blue Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708081",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#007886",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2f56027c-4a0a-4a1f-aca9-c29dc118c0a5",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.809",
+    "name": "Royal Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708098",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1A427D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6b60456c-b827-4dcd-b7cb-3652083be15d",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.810",
+    "name": "Royal Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708104",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4A2640",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "58699418-dd6b-41da-9806-31f96cfcadf8",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.811",
+    "name": "Blue Violet",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708111",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5D3875",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f27da187-81ce-4f1c-a388-eafb26ff8933",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.812",
+    "name": "Violet Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708128",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#63343E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a2e86545-3f04-4960-b180-99afea4bbbff",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.814",
+    "name": "Burnt Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708142",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#753B3A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "be2c7aa8-36f2-47ef-8799-3948d4be55b8",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.815",
+    "name": "Basic Skin Tone",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551708159",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E8AC8C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7a60dcec-ade7-4d21-8317-e25676ad1d2d",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.816",
+    "name": "Luftwaffe Uniform",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708166",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#44414B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "75bd2b4e-024f-4372-9650-d6a13839ff51",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.817",
+    "name": "Scarlet",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708173",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C13D2E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ec3dc01b-1b64-4d34-975d-df4300e94e04",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.818",
+    "name": "Red Leather",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708180",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#955338",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a1d29202-9a18-4b44-a03c-cb65db7d94e7",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.819",
+    "name": "Iraqi Sand",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708197",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B4925D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "87fbb874-b1ac-494e-b27f-30c9772f34ee",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.820",
+    "name": "Off-White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708203",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F4EDE6",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "118e3d8f-ce60-42c5-9a71-e0e928893c6e",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.821",
+    "name": "Germ. Beige WWII",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708210",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#776950",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "88fbbe3d-c43e-49a8-80ad-f271c9345a08",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.822",
+    "name": "Cam. Black Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708227",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#413434",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8b3f6018-bbef-407e-bc38-7cabd021e070",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.823",
+    "name": "Luftwaffe Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708234",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#373E24",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "574d5002-98a3-4fe2-8929-ab45eac26d60",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.824",
+    "name": "Orange Ochre",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708241",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AA8136",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3d5fb014-3bc5-4423-8493-e2b7d973ce7a",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.825",
+    "name": "Pale Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708258",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9F8273",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "74279af2-1d29-46c6-9fab-48e0d2d675c5",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.826",
+    "name": "Medium Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708265",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5B463B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b274185f-0528-44ee-be90-82431a231a78",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.827",
+    "name": "Lime Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708272",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7C9334",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7e2bd715-a3f5-4daa-adbc-4a2621ea0652",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.828",
+    "name": "Mahogany Ink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708289",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#664540",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e2723b6f-23aa-4ce3-8205-51c33831ee3a",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.829",
+    "name": "Amaranth Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708296",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D14E30",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1c45c20d-e5c1-44f0-a248-672f7eb1a7fe",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.830",
+    "name": "Ger. Fieldgrey WWII",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708302",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#565139",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "664374cc-a5b6-41a2-a10e-489ebeda5003",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.833",
+    "name": "Fern Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708333",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#445633",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6bac13fb-5209-407f-9cbd-ecf483d36c5b",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.835",
+    "name": "Salmon Rose",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708357",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E18E7B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "23499501-4609-45a9-8b42-42017d88b8cb",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.836",
+    "name": "London Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708364",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#686261",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1a02cdde-0f16-4b20-a66b-fcde75aa4552",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.837",
+    "name": "Pale Sand",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708371",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E3C28D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8c2c93d2-6419-4ab3-a1fb-d60cb6d4c06e",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.838",
+    "name": "Emerald",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708388",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#006149",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b872f160-283f-46b6-9e26-9e96040db66a",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.840",
+    "name": "Light Turquoise",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708401",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#00688B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "86f843ea-efdf-47f4-8183-5b059e84b75a",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.841",
+    "name": "Andrea Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708418",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#0070AC",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "677970f7-518b-4a36-a676-5bf63db22a53",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.843",
+    "name": "Cork Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708432",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9F6F4E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a0021f90-2a9b-4f18-9292-bd8ac4250a7e",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.844",
+    "name": "Deep Sky Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708449",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4D95C4",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "04b0391e-6bc4-4d03-be8e-fd5a1182005f",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.845",
+    "name": "Sunny Skin Tone",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551708456",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EB9645",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b2e51d3b-bbc3-462f-9d94-8023584cb87a",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.846",
+    "name": "Mahogany Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708463",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#784D47",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "47b2931f-4f77-4a5d-bc16-5faab82334ae",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.847",
+    "name": "Dark Sand",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708470",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CAA665",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ef37bf01-dcac-4216-ab6e-19bc4309c938",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.850",
+    "name": "Medium Olive",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708500",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3F4D30",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cc56704d-6ef6-482d-8b69-4f561dcc7374",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.851",
+    "name": "Bright Orange",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708517",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DD5A20",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d959d742-ff34-4ce8-8cf8-3ed1d661f674",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.856",
+    "name": "Ochre Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708562",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AA793D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a2c3fa30-6637-48f4-8a69-a7059717c81b",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.858",
+    "name": "Ice Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708586",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#ECCF6F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9d5a0f74-6aa7-4646-8210-049f0c4c30b7",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.859",
+    "name": "Black Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708593",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#542E2A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ee40f06-3127-415d-8b4c-41ea3dbf03b0",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.860",
+    "name": "Medium Fleshtone",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551708609",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B0793E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "44178a25-f06f-4765-b411-1ab17d8fa7c8",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.861",
+    "name": "Gloss Black",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708616",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#241D1F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f584165d-c6a2-4a2d-b449-74f96491e1f3",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.862",
+    "name": "Black Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708623",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2F2621",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "972e9b26-2175-47cc-ba82-2fffbe92c71f",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.866",
+    "name": "Grey Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708661",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#423E3D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "64367110-13a4-4383-b499-2c1c405f411d",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.867",
+    "name": "Dark Blue Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708678",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#424345",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "734d3d4e-8280-43b4-9981-c710dc3e86f9",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.868",
+    "name": "Dark Sea Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708685",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4A4445",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2cadaa7f-e8e9-4fb9-9f67-876db12e4c36",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.869",
+    "name": "Basalt Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708692",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5B585C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c7c3e8bb-ba89-4a82-94ae-30a13c5d76ca",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.870",
+    "name": "Medium Sea Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708708",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7C7B7A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1339da11-2ebd-418d-aca4-8d2af2e7651b",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.871",
+    "name": "Leather Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708715",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#584335",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "52fd5621-b255-42d4-9160-1b3c891f30a6",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.872",
+    "name": "Chocolate Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708722",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#604E44",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ab88c609-e886-4564-9d4c-7de65618e956",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.873",
+    "name": "US Field Drab",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708739",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#816644",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a5fbb193-0902-47ea-84cc-bc39c079737c",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.874",
+    "name": "Tan Earth",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708746",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#977557",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "61edcabc-1733-4dd9-81da-4601a2626fe6",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.875",
+    "name": "Beige Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708753",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#815F43",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dc9d9284-a035-4383-b230-0b64cc377628",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.876",
+    "name": "Brown Sand",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708760",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#916043",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e4d8ba16-3bc4-42d7-a4c4-d11e7336631b",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.877",
+    "name": "Gold Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708777",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BE863C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "47978ca9-1601-4a18-8962-676ced5d90a6",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.879",
+    "name": "Green Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708791",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#816C30",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7f060416-fb15-4eb3-9cd0-618c1cc694fc",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.880",
+    "name": "Khaki Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708807",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7C6238",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ceb1cbba-f94e-4852-8a48-079c049c52e4",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.881",
+    "name": "Green Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708814",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6E653C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6af2edce-87da-4268-8a94-c8383c51abfb",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.882",
+    "name": "Middle Stone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708821",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#927E40",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cb0c5e77-2c84-4907-a906-8a6b42b35bcc",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.883",
+    "name": "Silver Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708838",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D7CFC5",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "13f0f9f2-548f-4a9f-897e-c3d1bc73f3e4",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.884",
+    "name": "Stone Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708845",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#897C63",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d712a86a-312c-4da4-b014-981d047c9029",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.885",
+    "name": "Pastel Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708852",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#94966E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "137e4cf5-dd0b-4551-9e1a-9f44e171902f",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.886",
+    "name": "Green Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708869",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#64624E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "208e8f67-982e-4975-acec-8022a0590e5e",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.887",
+    "name": "US Olive Drab",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708876",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#57513B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "954412d2-98f4-45dd-8358-ae34307084bf",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.888",
+    "name": "Olive Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708883",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#41402C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c80dd0cb-001a-433b-a99f-ba93b2983e08",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.889",
+    "name": "Olive Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708890",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3F3127",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a72a4c95-0680-4609-a02e-91c0c5964634",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.890",
+    "name": "Refractive Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708906",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#454833",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "449de856-46c6-4d56-9196-04f8c9a93c2b",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.891",
+    "name": "Intermediate Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708913",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#506642",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "972f126e-57d8-4430-a9c6-eaa296b22c55",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.892",
+    "name": "Yellow Olive",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708920",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#373A30",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "25aa57b1-481d-4a02-af24-1a61bb5434ba",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.893",
+    "name": "US Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708937",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4A4937",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "339add46-ad50-433e-87c4-2293e5bfde81",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.894",
+    "name": "Cam. Olive Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708944",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3C3B2E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "80e5c758-80c1-4ce3-9c91-e7150155218a",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.895",
+    "name": "Gunship Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708951",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4B5740",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ac3df484-c06f-4ad7-9a5c-1cf1133f6f59",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.896",
+    "name": "Extra Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708968",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2A2914",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d05bc6ed-f5f2-4aa4-a53c-cf506ed14d49",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.897",
+    "name": "Bronze Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708975",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#313A28",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "daba9939-c376-4923-aeac-ac5fbe041081",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.898",
+    "name": "Dark Sea Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708982",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#262C38",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "22d4a90d-6e80-4ef7-8844-e709c1d16882",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.899",
+    "name": "Dark Prussian Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551708999",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#262539",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d10b6938-5c9e-4f06-95a6-49345f34658a",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.901",
+    "name": "Pastel Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709019",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5F7A91",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e6733e9d-b45b-4dd7-814a-65cac1702b6d",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.902",
+    "name": "Azure",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709026",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5B6A9E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dad1ed96-901d-48f5-a158-28bef9b31b43",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.905",
+    "name": "Blue Grey Pale",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709057",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#808485",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f9974a91-6cb7-4745-a6e1-927d06250167",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.906",
+    "name": "Pale Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709064",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8FA2A6",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0b2b6e50-509d-400a-a684-394eb3bdd0d1",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.907",
+    "name": "Pale Grey Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709071",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A7B4B4",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b77c9860-7702-4a54-a218-45e03e698711",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.908",
+    "name": "Carmine Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709088",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#96201D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "00937961-9c7c-453e-b2e5-6abeec42ab58",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.909",
+    "name": "Vermilion",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709095",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C32928",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7754d617-3075-41c4-b90a-bc97ea056178",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.911",
+    "name": "Light Orange",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709118",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#ED7225",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ee12c3e-7e62-4667-b526-df3bda8eaae2",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.913",
+    "name": "Yellow Ochre",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709132",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DEAA46",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c09f8403-ebde-422e-bb71-bce39c2588d4",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.914",
+    "name": "Green Ochre",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709149",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A07E36",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ca4b06e-109a-4a1c-93f4-93a478312e33",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.915",
+    "name": "Deep Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709156",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EFC600",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "177eb1d9-d29f-44ee-93ef-7f30bd4f74f3",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.916",
+    "name": "Sand Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709163",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EABF54",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4ee75891-73ec-43a8-8dca-3a3c96a85abd",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.917",
+    "name": "Beige",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709170",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E0BD6D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "574d7d77-2ddc-435a-8c36-86d038ed9620",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.918",
+    "name": "Ivory",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709187",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EAE2D1",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ad7505f4-5def-4e3d-81cf-2bfe15e5d062",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.919",
+    "name": "Cold White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709194",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F6F5F9",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8f04eaaa-5112-4f0f-b02d-b86996b72499",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.920",
+    "name": "German Uniform",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709200",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#434E42",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b666f4cd-7a08-454e-9ed2-8c36ca477abc",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.921",
+    "name": "English Uniform",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709217",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6F532B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "70daac8d-7f88-49dc-890b-082c30a6a239",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.922",
+    "name": "Uniform Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709224",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#48542E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b7166dc2-dee8-47cb-a7e0-187fa58f62a0",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.923",
+    "name": "Japan. Unif. WWII",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709231",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9E8029",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a69e8e53-a1fb-4241-98b5-1c2eeb13a473",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.924",
+    "name": "Russian Unif. WWII",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709248",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#545235",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "66afb211-0b6e-4e7c-933e-e588b081317c",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.925",
+    "name": "Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709255",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#372C4B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "39a95d32-b7cc-4db9-8764-b9b488e472eb",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.926",
+    "name": "Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709262",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7A2725",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5497f6c1-ce03-4ec2-af7a-a8eda17a3c40",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.927",
+    "name": "Dark Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709279",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D19239",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9d767c33-420f-4cec-9c6d-59009162a992",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.928",
+    "name": "Light Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709286",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F2D3B7",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "44e24d31-5cad-4c13-abdd-0ba441a79a2b",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.929",
+    "name": "Light Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709293",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A05A31",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "622d525c-e72a-4baf-9461-a5cd31ba7fcb",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.930",
+    "name": "Dark Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709309",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#263361",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ad7625b5-3a91-49e2-bb6e-7adfb2ea16bd",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.939",
+    "name": "Smoke Ink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709392",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5C4844",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "826d0950-2041-4b55-a45c-78ddb63b0ace",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.940",
+    "name": "Saddle Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709408",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8B645B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6a4c44b3-946a-4cb7-9fe1-f049e7532bea",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.941",
+    "name": "Burnt Umber",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709415",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#503A30",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "daa0d7b3-8dfe-4a88-9af5-328ed7093ffe",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.943",
+    "name": "Grey Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709439",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#596D84",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d704a6da-fdfb-46b6-aa57-24eb69857484",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.944",
+    "name": "Old Rose",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709446",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BC6E6F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4acbab15-86cd-4113-96c1-f030fed2206f",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.945",
+    "name": "Magenta",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709453",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#902F54",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "27d07060-84a9-4b71-8dab-3dce0a51433a",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.946",
+    "name": "Dark Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709460",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#692E24",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "36909269-1f22-415a-aa21-d5ed5ac1e1b7",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.947",
+    "name": "Dark Vermilion",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709477",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B52926",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7ca47a28-cb52-4592-8224-5bd233976649",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.948",
+    "name": "Golden Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709484",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F7A833",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "075ddc09-f50e-42a4-a88f-c776022079eb",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.949",
+    "name": "Light Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709491",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F7D345",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "02bf2f51-0357-4284-9142-16481ea6ce01",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.950",
+    "name": "Black",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709507",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "manual-override"
+    },
+    "status": "current"
+  },
+  {
+    "id": "01b0b6a0-9a31-49ce-833c-e97822f1b1ea",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.951",
+    "name": "White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709514",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7747782a-5132-48a1-93c2-b0b665e4f8cf",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.952",
+    "name": "Lemon Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709521",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E5D102",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9b062886-3920-496b-af27-1fa8773c10b5",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.953",
+    "name": "Flat Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709538",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F5B934",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fe548966-228d-4d35-aa16-a0dc4dd87249",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.954",
+    "name": "Yellow Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709545",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DDDD25",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cf23d01c-e2b3-4fb6-aa7c-502a348799b5",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.955",
+    "name": "Flat Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709552",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DE9A58",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "84d6ce90-d8f1-434b-9196-0eda750fedcc",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.956",
+    "name": "Clear Orange",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709569",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CC4625",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "21292bf8-7fe4-42f4-99d1-ebd6e1c68818",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.957",
+    "name": "Flat Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709576",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A12B28",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "742d63ae-169d-4ce1-855a-c6f504b6379d",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.958",
+    "name": "Pink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709583",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B14E7B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "603e1c39-b995-4945-9278-9346057b83d2",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.959",
+    "name": "Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709590",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#523052",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4de95a6f-6470-4868-baa0-ddd5f86f0a39",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.960",
+    "name": "Violet",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709606",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3B2B4B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7f29635a-a54e-4a41-9cdc-f75a5cffbef5",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.961",
+    "name": "Sky Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709613",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#74B7D0",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a3b5a435-0efb-4edd-9d49-ae7e02f939f4",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.962",
+    "name": "Flat Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709620",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3E4874",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "78416874-6db0-476b-a4b4-24bd5e669444",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.963",
+    "name": "Medium Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709637",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#16416D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a515e27f-feb7-431d-87a1-a71d10c4cb46",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.964",
+    "name": "Field Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709644",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4C5257",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f9bebf5d-f4fa-4c05-81e0-762b5ba709d3",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.965",
+    "name": "Prussian Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709651",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#38405D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "26043bc9-a4b2-47b2-a5b9-c11f942ee419",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.966",
+    "name": "Turquoise",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709668",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#0D425A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e8b732dc-b589-49f0-88fc-a6ed4c8348fe",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.967",
+    "name": "Olive Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709675",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4F6237",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3704d942-4076-45c7-8616-227b9ba24c76",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.968",
+    "name": "Flat Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709682",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#354B2C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0086bef2-c1db-471d-84b4-5e136dea0f1f",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.969",
+    "name": "Park Green Flat",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709699",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1E634A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5738d24c-b79f-4ff4-ae11-b8acacad4d8b",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.970",
+    "name": "Deep Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709705",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1C4B2E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d00189d5-f365-49c0-9251-d8f097e2f96d",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.971",
+    "name": "Light Green Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709712",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B4B5AB",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bcc8b9a4-6e72-4fa2-b7a3-6ae7cf5cd371",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.972",
+    "name": "Light Green Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709729",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#86958D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cf6c9b5c-9a43-4576-ac64-fb8bc990bb6c",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.974",
+    "name": "Green Sky",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709743",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#789064",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2854b336-3253-4feb-8bed-f002e18a0043",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.975",
+    "name": "Military Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709750",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#434233",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d2d02c0e-b792-41f7-8c4c-1002fcca9c07",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.976",
+    "name": "Buff",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709767",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D5B04D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "70c46a0b-b399-43e7-a897-8db910d9b349",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.977",
+    "name": "Desert Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709774",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B48447",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d640f140-568f-46d3-bc6e-e901fe6c6d49",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.978",
+    "name": "Dark Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709781",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#908739",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "63629c5e-88a3-4e73-93ad-2fcae3fbb0ad",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.979",
+    "name": "Cam. Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709798",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#253022",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "edd228c8-855e-4dc1-879f-b487b746979f",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.980",
+    "name": "Black Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709804",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#28352A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "42b939a7-6daf-4fb5-9ea6-c4d9d52aa937",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.981",
+    "name": "Orange Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709811",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AC623A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "074403f8-f437-4bde-b085-64615412d8fc",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.982",
+    "name": "Cavalry Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709828",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#854337",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1d757880-233d-4a0d-9e2b-cf40773990d1",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.983",
+    "name": "Flat Earth",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709835",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#674428",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e806c652-bc40-42a1-9826-39a0f8d01356",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.984",
+    "name": "Flat Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709842",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6F4037",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d91f3473-39ab-4051-a184-8d5a96ee3cf8",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.985",
+    "name": "Hull Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709859",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5D3837",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "094e5be6-a205-44ee-aef1-0bc56f37f21c",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.986",
+    "name": "Deck Tan",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709866",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A9A28F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9614a409-ad3d-4276-b96c-046d0b2e34c7",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.987",
+    "name": "Medium Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709873",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#857258",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f9117c49-54fc-4209-a00b-74c303d28e94",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.988",
+    "name": "Khaki",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709880",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#786438",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d48f7e41-570c-469c-a70d-b6a4ed8f90d6",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.989",
+    "name": "Sky Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709897",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A8A9AB",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3cb5049e-b4b4-4418-b684-fe4ff562bcc6",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.990",
+    "name": "Light Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709903",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8E9193",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "83a8fb25-9423-423e-895d-0fd1409e745d",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.991",
+    "name": "Dark Sea Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709910",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6B6A69",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8d8564fd-467e-4208-bc3e-6bf2b46d2c7c",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.992",
+    "name": "Neutral Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709927",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#60605F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2c403cbd-a396-4afb-a254-d83debb3e18b",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.993",
+    "name": "White Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709934",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E4DFDE",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9475e4f7-3dd3-4d23-a614-9f885e9d1a40",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.994",
+    "name": "Dark Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709941",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#312D33",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7dd206c4-4089-4bbb-b173-a3eb7f9b96b3",
+    "brand": "Vallejo",
+    "range": "Model Color",
+    "code": "70.995",
+    "name": "German Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551709958",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2D2D2B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

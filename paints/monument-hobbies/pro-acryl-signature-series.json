@@ -1,0 +1,911 @@
+[
+  {
+    "id": "2a53af7a-63df-4d5f-97e0-aa94ed6c53be",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S01",
+    "name": "Vince Venturella Dark Jade",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368101212",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s01-pro-acryl-dark-jade"
+      }
+    ],
+    "colour": {
+      "hex": "#2C454C",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8e47f2e5-d6ef-4a0d-a4f4-5dc67c0590a6",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S02",
+    "name": "Vince Venturella Payne's Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368105555",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s02-vince-venturella-paynes-grey"
+      }
+    ],
+    "colour": {
+      "hex": "#333A52",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "19a11712-ae99-4c66-b4e1-55b4ad21e835",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S03",
+    "name": "Vince Venturella Royal Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368107375",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s03-vince-venturella-royal-purple"
+      }
+    ],
+    "colour": {
+      "hex": "#513660",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dbf2f8ba-acad-47b1-80f8-00467b77f16c",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S04",
+    "name": "Vince Venturella White Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368110849",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s04-vince-venturella-white-blue"
+      }
+    ],
+    "colour": {
+      "hex": "#C4E7EC",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f3f73559-3b18-4a32-944e-fb67248a1781",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S05",
+    "name": "Vince Venturella Beige Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368111228",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s05-vince-venturella-beige-red"
+      }
+    ],
+    "colour": {
+      "hex": "#B0837C",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "664c697e-1d6f-4dd5-9c77-b57f39def1be",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S06",
+    "name": "Vince Venturella Dark Yellow Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368111730",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s06-vince-venturella-dark-yellow-green"
+      }
+    ],
+    "colour": {
+      "hex": "#55593E",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3fb80f6a-bff8-4656-aab6-601bd8b116a2",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S07",
+    "name": "Dark Ivory",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368112133",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s07-ninjon-dark-ivory"
+      }
+    ],
+    "colour": {
+      "hex": "#BCBAAC",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4de04bd5-638b-481e-9621-84b19ee26c8d",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S08",
+    "name": "Dark Warm Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368113321",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s08-ninjon-dark-warm-flesh"
+      }
+    ],
+    "colour": {
+      "hex": "#E0B06F",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cfa9a8be-02b9-45f9-b5e4-4139060241ec",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S09",
+    "name": "Warm Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368113895",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s09-ninjon-warm-brown"
+      }
+    ],
+    "colour": {
+      "hex": "#895140",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4296f4af-4d73-459c-b822-5dde2f8366e9",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S10",
+    "name": "Dark Magenta",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368115493",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s10-ninjon-dark-magenta"
+      }
+    ],
+    "colour": {
+      "hex": "#821431",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "852f849d-8e8f-4ae4-91c5-6b6612b44760",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S11",
+    "name": "Dark Plum",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368119286",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s11-ninjon-dark-plum"
+      }
+    ],
+    "colour": {
+      "hex": "#43222D",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4c3a4440-e952-405c-a0a7-df7733b69962",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S12",
+    "name": "Red Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368121227",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s12-ninjon-red-grey"
+      }
+    ],
+    "colour": {
+      "hex": "#715D60",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "46b11b6e-b73b-4b64-99d8-10ee179d7339",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S13",
+    "name": "Ben Komets Dark Sea Ben",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368157936",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s13-ben-komets-dark-sea-ben"
+      }
+    ],
+    "colour": {
+      "hex": "#042636",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9401f662-0706-43d9-8c62-b8a506d496e8",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S14",
+    "name": "Ben Komets Petroleum Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368163548",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s14-ben-komets-petroleum-brown"
+      }
+    ],
+    "colour": {
+      "hex": "#462A17",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fe8c08fc-44db-47a9-875c-3a8444ae1de4",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S15",
+    "name": "Ben Komets Dark Burgundy",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368164422",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s15-ben-komets-dark-burgundy"
+      }
+    ],
+    "colour": {
+      "hex": "#341E1E",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9cc83a44-d197-44ed-a29f-7ab7b4fbb15e",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S16",
+    "name": "Ben Komets Green Oxide",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368166112",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s16-ben-komets-green-oxide"
+      }
+    ],
+    "colour": {
+      "hex": "#0B6E60",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8f310ce2-9d3d-4f16-935f-d41002c28183",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S17",
+    "name": "Ben Komets Advanced Flesh Tone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368166358",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s17-ben-komets-advanced-flesh-tone"
+      }
+    ],
+    "colour": {
+      "hex": "#9B6653",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ecd52cd6-867a-4872-83a5-e18636aedad9",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S18",
+    "name": "Ben Komets Heavy Warm White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368171031",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s18-ben-komets-heavy-warm-white"
+      }
+    ],
+    "colour": {
+      "hex": "#FFDFAE",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "161bb73c-6173-4711-9dec-82bbe376fa91",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S19",
+    "name": "Matt Cexwish Dark Crimson",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368169588",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s19-matt-cexwish-dark-crimson"
+      }
+    ],
+    "colour": {
+      "hex": "#441916",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7d98fd9c-1f79-428d-9e7f-36f354e722c4",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S20",
+    "name": "Matt Cexwish Dark Emerald",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368170119",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s20-matt-cexwish-dark-emerald"
+      }
+    ],
+    "colour": {
+      "hex": "#12494E",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "03fbf3c4-16c8-4464-a77e-3bc86759993c",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S21",
+    "name": "Matt Cexwish Heavy Titanium White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368168673",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s21-matt-cexwish-heavy-titanium-white"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4ddfef34-af9c-463f-aa04-5da5c349659a",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S22",
+    "name": "Matt Cexwish Brown Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368172199",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s21-matt-cexwish-brown-grey"
+      }
+    ],
+    "colour": {
+      "hex": "#53524E",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "811ba9e4-3300-4de9-aae3-6a625530e4b2",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S23",
+    "name": "Matt Cexwish Bone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368172250",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s23-matt-cexwish-bone"
+      }
+    ],
+    "colour": {
+      "hex": "#A29890",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2b462152-e8d2-4279-b3a1-cdca3ad64acd",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S24",
+    "name": "Matt Cexwish Dark Bronze",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0655368173257",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s24-matt-cexwish-dark-bronze"
+      }
+    ],
+    "colour": {
+      "hex": "#453127",
+      "gradient": [
+        "#453127",
+        "#A29893"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b88ecf34-eed2-44a4-a9b8-a1cb5d64228b",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S25",
+    "name": "Flameon Dark Green Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368207853",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s25-flameon-dark-green-brown"
+      }
+    ],
+    "colour": {
+      "hex": "#3F311F",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "29b70907-57aa-41d3-9674-aeb502c89264",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S26",
+    "name": "Flameon Dark Orange Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368208416",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s26-flameon-dark-orange-brown"
+      }
+    ],
+    "colour": {
+      "hex": "#60452A",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "489089f3-0113-4310-959d-e54a659ac306",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S27",
+    "name": "Flameon Orange Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368212376",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s27-flameon-orange-brown"
+      }
+    ],
+    "colour": {
+      "hex": "#8D5C25",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7d55ae73-266c-47ca-955c-3df1d141985e",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S28",
+    "name": "Flameon Caramel Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368212413",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s28-flameon-caramel-brown"
+      }
+    ],
+    "colour": {
+      "hex": "#7F5F3E",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "048b5aec-c8e4-4045-b9d7-3a5716f02e48",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S29",
+    "name": "Flameon Bright Yellow Ochre",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368212956",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s29-flameon-bright-yellow-ochre"
+      }
+    ],
+    "colour": {
+      "hex": "#DDA55B",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7d5fc7b3-fa06-42fc-aed7-2b4bd8ddba4f",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S30",
+    "name": "Flameon Bright Pale Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368214806",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s30-flameon-bright-pale-yellow"
+      }
+    ],
+    "colour": {
+      "hex": "#FEF8CD",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "47a65ba7-dd94-4aee-8295-c30cef9cb5de",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S31",
+    "name": "Rogue Hobbies Orange Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368216183",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s31-rogue-hobbies-orange-red"
+      }
+    ],
+    "colour": {
+      "hex": "#E63841",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "248c0661-4325-4abe-b0bc-126cc883f961",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S32",
+    "name": "Rogue Hobbies Dark Hot Pink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368220494",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s32-rogue-hobbies-dark-hot-pink"
+      }
+    ],
+    "colour": {
+      "hex": "#C42C5B",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "88edaa29-3ee4-4303-9363-610de9e204f9",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S33",
+    "name": "Rogue Hobbies Bright Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368221736",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s33-rogue-hobbies-bright-green"
+      }
+    ],
+    "colour": {
+      "hex": "#11A461",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ecf7e880-f1f2-4219-bd28-8c211f1d68ff",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S34",
+    "name": "Rogue Hobbies Dark Turquoise",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368221866",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s34-rogue-hobbies-dark-turquoise"
+      }
+    ],
+    "colour": {
+      "hex": "#127E95",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2c276ebd-1645-48fd-ac72-144a213aa4ca",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S35",
+    "name": "Rogue Hobbies Ultramarine",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368221958",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s35-rogue-hobbies-ultramarine"
+      }
+    ],
+    "colour": {
+      "hex": "#3C5EAB",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9da2fcea-a6f4-44a6-b173-771a5c95f3fb",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S36",
+    "name": "Rogue Hobbies Bismuth Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368223952",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s36-rogue-hobbies-bismuth-yellow"
+      }
+    ],
+    "colour": {
+      "hex": "#F9D967",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "493d752f-44a8-4c7e-b98e-15d4e140e0d4",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S37",
+    "name": "Adepticon Red Oxide",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368226434",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s37-adepticon-red-oxide"
+      }
+    ],
+    "colour": {
+      "hex": "#863531",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aa49b1cf-ff34-4814-9a8a-3ceb3d2c61fd",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S38",
+    "name": "Adepticon Orange Oxide",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368232244",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s38-adepticon-orange-oxide"
+      }
+    ],
+    "colour": {
+      "hex": "#804C31",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cdee5659-0311-4a64-9591-327e78e2930f",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S39",
+    "name": "Adepticon Satin Black",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368235474",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s39-adepticon-satin-black"
+      }
+    ],
+    "colour": {
+      "hex": "#121212",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5e8f9647-6b7d-46cc-8e2d-54648d994c86",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S40",
+    "name": "Adepticon Drab Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368235863",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s40-adepticon-drab-brown"
+      }
+    ],
+    "colour": {
+      "hex": "#4E3E28",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1c8c1d39-5be5-424d-ab94-fb2a720c18a7",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S41",
+    "name": "Adepticon Bright Shadow Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368242786",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s41-adepticon-bright-shadow-flesh"
+      }
+    ],
+    "colour": {
+      "hex": "#F79B7D",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9b7c967f-b7c6-435b-a847-1800d7b5d855",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S42",
+    "name": "Adepticon Magnesium",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0655368243646",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s42-adepticon-magnesium"
+      }
+    ],
+    "colour": {
+      "hex": "#453D2F",
+      "gradient": [
+        "#453D2F",
+        "#A29E97"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bb1023cd-1284-4b08-b4f5-2b841a17b1cc",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "code": "MPA-S49",
+    "name": "NOVA Orange",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "0655368263415",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/s49-nova-orange"
+      }
+    ],
+    "colour": {
+      "hex": "#F3712A",
+      "gradient": null,
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  }
+]

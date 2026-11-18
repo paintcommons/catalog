@@ -1,0 +1,4790 @@
+[
+  {
+    "id": "4170ac69-68ba-4753-a0bc-4f8dae8cef17",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.001",
+    "name": "White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710015",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F9FAF8",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8b833079-812e-41a0-a262-36b5f8524795",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.002",
+    "name": "Medium Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710022",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F9B000",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d4fd4ec1-a734-4c2e-acc6-67992c4d0f03",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.003",
+    "name": "Red RLM23",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710039",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C72417",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3a6570ff-d87c-48a3-99c1-0cb97332afdf",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.004",
+    "name": "Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710046",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#344167",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "933cdbfe-192e-440d-ad30-4ecad9313ac9",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.005",
+    "name": "Grey Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710053",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#464B58",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ffee94e4-5780-4005-a9cf-4e9555af68e1",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.006",
+    "name": "Light Green Chrom.",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710060",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5F6844",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "080f7f19-3da9-4c06-9923-e2925bd1fb1d",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.007",
+    "name": "Olive Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710077",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#363A39",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e9b13cdd-09e8-4780-8875-19abacf16f3c",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.008",
+    "name": "Pale Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710084",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#759499",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "faf7c0f3-89dd-41c7-925f-39b3e6bae958",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.009",
+    "name": "Eau de Nil “D.E.Green”",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710091",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AAB980",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b35cfb78-045c-4de5-b976-467dafb6dcf2",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.010",
+    "name": "Interior Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710107",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#675F41",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9cb60a32-a682-4b0a-88c6-adc0b4ebec2e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.011",
+    "name": "Dark Green RLM83",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710114",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#515046",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "070c5593-2bd9-452c-972e-253e456474ca",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.012",
+    "name": "Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710121",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#575642",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c86e16b7-9088-4249-8517-1e658e9d1e5c",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.013",
+    "name": "Yellow Olive",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710138",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#464743",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b0cde1e5-2df9-439e-b7f9-459bddae86bd",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.014",
+    "name": "Gunship Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710145",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4C5846",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aa0bda3b-20e6-423d-aa38-022a5f71e0d7",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.015",
+    "name": "Dark Green RLM71",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710152",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#50492F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0a6cbaee-14be-4fa1-ac21-f9c0cb08c693",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.016",
+    "name": "USAF Olive Drab",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710169",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#655D49",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "37367fd1-a688-4310-a47e-837f474e89eb",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.017",
+    "name": "Russian Green 4BO",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710176",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#565444",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "025ab621-9a2b-43b4-8fe9-d612d7834701",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.018",
+    "name": "Black Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710183",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#484E50",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1f1a70e9-2f29-44d3-85fd-77c798e35cc5",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.019",
+    "name": "Camouf. Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710190",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4E504A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d1a177d2-fceb-4912-ab21-bff47fbe7b10",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.020",
+    "name": "Green Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710206",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4D4C42",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "72883a38-217e-40f6-aaae-feb8d5e58c56",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.021",
+    "name": "Black Green RLM70",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710213",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#444B47",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bda8ab2e-faa8-4043-8c5b-a45f9f246cac",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.022",
+    "name": "Light Green RLM82",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710220",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4C5140",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1f14386e-49f7-4a77-b0ef-6b5d997cb3dc",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.023",
+    "name": "Hemp",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710237",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#847A5C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "adfdb687-cf2c-48ed-95c9-19083f2b4693",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.024",
+    "name": "Khaki Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710244",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#92795B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a25774e7-ca95-4d8e-a75e-775ba90a54f4",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.025",
+    "name": "Dark Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710251",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#967A48",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fe16cd1d-6c3e-4427-acb7-e4163a53bafb",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.026",
+    "name": "USA Flat Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710268",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#896747",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "67c05839-89e1-460a-95e1-c2dbfa75f49e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.027",
+    "name": "Light Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710275",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B19168",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "297fc18d-badf-44a5-9e36-f493f575d9d3",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.028",
+    "name": "Sand Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710282",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A38C71",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e068a700-3847-471b-bd9c-b7126d371170",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.029",
+    "name": "Dark Earth",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710299",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#615544",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "43420f4c-b600-423b-9098-396188e20db1",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.030",
+    "name": "Brown Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710305",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#916F49",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "13352e42-c01b-4db2-b4ca-08bd1985b98c",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.031",
+    "name": "Middle Stone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710312",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#997D50",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "69d8d876-4512-48b1-a278-9bdbe9f24981",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.032",
+    "name": "Golden Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710329",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#866440",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e30f1fbd-88ff-4824-9328-a14f26ab1df0",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.033",
+    "name": "Yellow Ochre",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710336",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D9912E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c238ae75-8082-4b7a-816f-ddd2efce1743",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.034",
+    "name": "Sand Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710343",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#966A54",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b151e59c-e247-4179-bda3-45efe0a6d785",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.035",
+    "name": "Camouf. Pale Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710350",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6F5847",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "511a508e-d117-499a-a60b-7fbe67f0f0dc",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.036",
+    "name": "Mahogany",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710367",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4D3D36",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "24b12587-ef1f-4c8a-81ef-37609e69ef02",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.037",
+    "name": "Mud Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710374",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8D654B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ec274b99-031b-4366-9805-1a3f4759be6b",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.038",
+    "name": "Cam. Medium Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710381",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#625041",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e21d744c-fa5d-4728-8f26-b1a23433dc77",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.039",
+    "name": "Hull Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710398",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#473631",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "06ecef5e-0523-4537-a01c-ae8d271140d0",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.040",
+    "name": "Burnt Umber",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710404",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3F322B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c8ab2d85-20ef-48ee-9a8d-0bad37288713",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.041",
+    "name": "Armour Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710411",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#443B38",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a0f52901-d5ad-4fff-9b59-53f525ddf7b6",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.042",
+    "name": "Dark Brown RLM61",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710428",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4A3F39",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ca22fe14-e992-4cd8-bb9b-1c0e31ff098f",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.043",
+    "name": "US Olive Drab",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710435",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5C5246",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "57bceb3e-205b-45ed-903d-b7ed52efc271",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.044",
+    "name": "Grey RLM02",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710442",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#767462",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "df048a8d-f7cf-4485-80d0-19591195410e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.045",
+    "name": "Cement Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710459",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#909482",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f4780659-18dc-48c4-99c4-a918084f545c",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.046",
+    "name": "Pale Blue Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710466",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#969C9F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a8b49025-3482-429b-80ec-9493510182c5",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.047",
+    "name": "Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710473",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#575A61",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b8525857-755e-4e3e-8c98-fc2f52911761",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.048",
+    "name": "Engine Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710480",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#535B66",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "29bcca96-5f2b-40d3-968f-09150efcddef",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.049",
+    "name": "Sea Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710497",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#656971",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e20edd08-1da8-44ee-82c0-587971748022",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.050",
+    "name": "Light Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710503",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8D9297",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c43d56a8-e6a7-4d28-8bd0-355ff56cd1a7",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.051",
+    "name": "Neutral Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710510",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#71787D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6a57489c-143a-469e-b5ed-a52daad39a9b",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.052",
+    "name": "Anthracite Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710527",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#505254",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "97e30ad8-1061-4109-b901-bc2985879b4c",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.053",
+    "name": "Dark Sea Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710534",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#51565B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "adb3c12d-b707-4afe-b926-03e038cfda04",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.054",
+    "name": "Dark Grey Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710541",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4B4D55",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6fbecb38-8693-4088-a73b-02baa5d81dcb",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.055",
+    "name": "Black Grey RLM66",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710558",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#505556",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f503da2f-fb04-4412-bd87-a8fd0c1d06d0",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.056",
+    "name": "Panzer Dark Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710565",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#464749",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e4d48535-061b-41e8-88b0-5387c6bf2caa",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.057",
+    "name": "Black",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710572",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "manual-override"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8cf4b517-cfec-4a61-b567-f25528bf1cf4",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.062",
+    "name": "Aluminium (Metallic)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710626",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C5C5CD",
+      "gradient": [
+        "#B9BAC3",
+        "#D0D0D6",
+        "#E6E5E9",
+        "#F9F9FA",
+        "#E9E9EC",
+        "#D3D3D9",
+        "#BCBDC6"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3e22e3e0-a154-464d-878c-67be1075d7b5",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.063",
+    "name": "Silver RLM01 (Metal.)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710633",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C6C5D0",
+      "gradient": [
+        "#BCBBC7",
+        "#D2D1D9",
+        "#E8E7EC",
+        "#F9F9FA",
+        "#E8E7EC",
+        "#D2D1D9",
+        "#BBBBC7"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "73f6c127-5956-424c-aea3-0f260c7a5e89",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.064",
+    "name": "Chrome (Metallic)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710640",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C3C1CB",
+      "gradient": [
+        "#B7B6C1",
+        "#CECDD4",
+        "#E5E4E9",
+        "#F8F8FA",
+        "#E8E7EB",
+        "#D2D0D7",
+        "#BAB9C4"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e6dbb6f9-4df5-45fa-be85-2de4884e9e33",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.065",
+    "name": "Steel (Metallic)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710657",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CFCFDA",
+      "gradient": [
+        "#C5C6D2",
+        "#D8D8E1",
+        "#EAEAEF",
+        "#FAFAFB",
+        "#EDEDF1",
+        "#DBDBE3",
+        "#C8C9D5"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "63478596-d9b9-44d0-868f-828e5d5b68dd",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.066",
+    "name": "Gold (Metallic)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710664",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BBA586",
+      "gradient": [
+        "#AD9470",
+        "#C8B69D",
+        "#E1D8CB",
+        "#F7F5F2",
+        "#E3DBCF",
+        "#CAB9A1",
+        "#B09876"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "353bc752-b33d-46ac-9eb9-e78fb8b8d0a3",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.067",
+    "name": "Bright Brass (Metal.)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710671",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BDAF8D",
+      "gradient": [
+        "#B0A078",
+        "#CABEA3",
+        "#E3DCCF",
+        "#F8F5F3",
+        "#E5DED2",
+        "#CCC0A6",
+        "#B2A27B"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6a6abd9d-d3fb-4616-8d9d-04705be78793",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.068",
+    "name": "Copper (Metallic)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710688",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AC8777",
+      "gradient": [
+        "#9D7362",
+        "#BB9E91",
+        "#DACAC3",
+        "#F5F1F0",
+        "#DDCEC7",
+        "#BDA194",
+        "#A17867"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d5984291-c574-48bb-a3dc-9184996d98bb",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.069",
+    "name": "Rust (Metallic)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710695",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9D8375",
+      "gradient": [
+        "#8C6F60",
+        "#AF998D",
+        "#D3C7C0",
+        "#F3F0EF",
+        "#D5C9C4",
+        "#B09A8E",
+        "#8D7061"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "17c15181-9c93-4713-82e7-09e493f3a164",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.070",
+    "name": "Signal Red (Metallic)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710701",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CB5970",
+      "gradient": null,
+      "source": "manual-override"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1b2e78a1-3332-459a-80f3-943db7010f14",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.071",
+    "name": "Arctic Blue (Metallic)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710718",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#706C7B",
+      "gradient": [
+        "#5A5767",
+        "#898592",
+        "#C0BCC4",
+        "#EFEEF0",
+        "#C1BEC5",
+        "#8A8693",
+        "#5B5868"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "26cd6845-1b17-4021-84f2-a12cb68f7449",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.072",
+    "name": "Gunmetal (Metallic)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710725",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A3A0A7",
+      "gradient": [
+        "#918F96",
+        "#B4B1B6",
+        "#D6D4D7",
+        "#F5F4F5",
+        "#DDDADD",
+        "#BAB6BB",
+        "#96949B"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8e1fc5d6-4dfc-4e7f-846b-1fd9d3928291",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.073",
+    "name": "Black (Metallic)",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551710732",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#918B95",
+      "gradient": [
+        "#7F7985",
+        "#A7A1AA",
+        "#D1CDD2",
+        "#F2F0F2",
+        "#D1CDD2",
+        "#A6A0A9",
+        "#7F7985"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "07a6bae8-7cac-439d-b2e9-f706adbf50dc",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.074",
+    "name": "Beige",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710749",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E6C47F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2cd21e86-2c03-41c1-b51a-137691d739a5",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.075",
+    "name": "Ivory",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710756",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C0AE89",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "89f2be52-c81f-4e99-939d-24f9d1be888e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.076",
+    "name": "Skin Tone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710763",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F8C390",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "27f89e9f-d9d8-4b54-a74f-c0433801644c",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.077",
+    "name": "Wood",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710770",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A8733A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1b904ce3-e135-4694-89a3-c74d1930ecf9",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.078",
+    "name": "Yellow RLM04",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710787",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E89F22",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d960ffab-7240-4c6b-a23d-93e09cf5b644",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.079",
+    "name": "Tan Earth",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710794",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A7806C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4c062e1f-ddf8-4cc4-a08a-6001d50e2b34",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.080",
+    "name": "Rust",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710800",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#75564F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bf55aa0f-25f9-4fa9-bdfa-7916a0e9a3f8",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.081",
+    "name": "Ochre",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710817",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#796A3B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "73be1085-30f4-413d-91bb-3a7bd790ec12",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.082",
+    "name": "Fluorescent Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710824",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EB5F4D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5eeb8e11-705a-498d-ae7a-1d12194fc29d",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.083",
+    "name": "Orange",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710831",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E3481F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "17034d92-a445-4ca2-ba8f-41c1a5ed5196",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.084",
+    "name": "Fire Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710848",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#863E30",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ac258962-0cc4-4201-a192-4b5283438dec",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.085",
+    "name": "Ferrari Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710855",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AE362B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7019cafc-16e4-4fec-8df7-84d487952c62",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.086",
+    "name": "Light Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710862",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E1431E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "72c6fced-3845-443a-aac4-8589f6b6c872",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.087",
+    "name": "Steel Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710879",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1C3F54",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5933e07d-1c20-4c81-8ccc-b12b30d7b671",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.088",
+    "name": "French Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710886",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2A446F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "33e3ddcf-fe02-4471-b05c-d109d5dc7ddf",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.089",
+    "name": "Light Sea Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710893",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#00A3D7",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5b9e78ee-6f29-484d-8223-d10f75eb69ec",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.090",
+    "name": "Deep Sky",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710909",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#263955",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "709d0c00-533d-4647-9ab9-aff33b078a0e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.091",
+    "name": "Signal Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710916",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#293340",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e5a2e1ac-c484-46e9-9e40-2917ddc39758",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.092",
+    "name": "Medium Olive",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710923",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#535545",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "97f88ec9-e6a5-43e0-9a3b-274babae5349",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.093",
+    "name": "NATO Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710930",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#545A4F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5987704b-6847-43a0-8a6a-3f28e4429ee4",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.094",
+    "name": "Green Zinc Chromate",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710947",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#57613C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "06edae6b-4a6d-4788-a8da-441448301a3e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.095",
+    "name": "Pale Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710954",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#718354",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "49264598-1120-4a1d-9573-3b2386b78ac9",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.096",
+    "name": "Olive Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710961",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#616757",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b5aaacf3-1a88-4b8e-aac4-42827a6fbd8e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.097",
+    "name": "Medium Gunship Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551710978",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5C5F67",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8ea5462c-2359-404c-b481-c834a1961a84",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.101",
+    "name": "Light Blue RLM78",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711012",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#809595",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cb911ebd-09fb-4fc3-b5a1-56fc0d8628c1",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.102",
+    "name": "Red (71.102)",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711029",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B22C31",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "25a71d50-6d78-428f-a60b-608b41db7187",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.103",
+    "name": "Grey Blue RLM84",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711036",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A1A39A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "71429bda-b611-44ec-a415-e16e43312717",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.104",
+    "name": "Green RLM62",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711043",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5C5F45",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a487ef58-b34f-4f96-b55d-5349b595a18a",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.105",
+    "name": "Brown RLM26",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711050",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#874237",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "879d247a-7f38-454e-901b-1de93b502aae",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.106",
+    "name": "Ivory RLM05",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711067",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C6B36B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9cfd0d2d-311c-4b4d-acc2-ec49fd16be13",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.107",
+    "name": "US Interior Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711074",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CBA453",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b43a8019-9690-48bd-8fc6-fe8b222b1059",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.108",
+    "name": "UK Azure Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711081",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#708CAF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8a756951-c431-4b67-b651-3deba1b5882f",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.109",
+    "name": "Faded P.R.U. Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711098",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#546E77",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7b4701cb-c584-4bc4-9627-66dc014cf66b",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.110",
+    "name": "Dark Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711104",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#56595D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "85ec7a9b-7a51-43f1-9f4d-d11edaad5992",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.111",
+    "name": "USAF Light Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711111",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#556878",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d8644720-2cbc-4bb4-b5da-46e0078a610d",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.112",
+    "name": "Sand",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711128",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9E867B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "da83a2dd-a3c7-488a-a300-a0748014b3ea",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.113",
+    "name": "IDF Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711135",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#537587",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "21df08fa-f607-41e0-95b6-32b93f854194",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.114",
+    "name": "Medium Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711142",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6B7E83",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "da09f642-cb97-45eb-a5a3-baf210a20b94",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.115",
+    "name": "Blue Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711159",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#484B53",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ac7d503d-2647-462f-a68d-d0e5b0b447ad",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.116",
+    "name": "Camouf. Grey Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711166",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7D6B4F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b5c23c35-1426-4e19-b341-a6781d0c5151",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.117",
+    "name": "Camouﬂ age Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711173",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AF8F6F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2870660c-4991-46cf-a9c5-1c56aa078fa8",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.118",
+    "name": "Camouﬂ age Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711180",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#877559",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2125ab16-608a-40cd-92a2-c0986ceb7557",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.119",
+    "name": "White Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711197",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D9D7CC",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "212effe0-fa0c-4759-8d38-577376745bba",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.120",
+    "name": "Dark Ghost Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711203",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8B969E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1f307f95-5a48-43aa-a450-cd3dcd68b2a1",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.121",
+    "name": "Light Gull Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711210",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A8AAA5",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0deb5d7b-08c6-4571-bc0e-7c0d9449f191",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.122",
+    "name": "US Desert Armour 686",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711227",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AE9A80",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7a401fef-3b94-4c1b-8dfa-6d89da89ab98",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.123",
+    "name": "Dark Grey RLM42",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711234",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#545457",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a2297d23-e181-4dce-8b42-13e22b254cd7",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.124",
+    "name": "USAF Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711241",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4F5C5B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f93ae684-73bc-47ef-99c0-eae99a064b62",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.125",
+    "name": "USAF Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711258",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8B7260",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c9cd9da4-90af-43ce-9165-35f4692335c1",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.126",
+    "name": "IDF/IAF Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711265",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#778770",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "39321e89-69c4-41dd-b0a3-75e087abb1b3",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.128",
+    "name": "Gray Violet",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711289",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#676460",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a4f3ee7f-4dd8-43af-908d-e8fee4d803af",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.129",
+    "name": "Light Rust",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711296",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#905F44",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c5e80e3d-8791-4575-931e-ef0d04ccff9f",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.130",
+    "name": "Orange Rust",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711302",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C76631",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "54614d39-7aac-4ff6-8ad3-1ec9ccdda81b",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.131",
+    "name": "Concrete",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711319",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#786F64",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2cd90e59-66e1-43d1-ab94-84afc6a20002",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.132",
+    "name": "Aged White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711326",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E4D2B1",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4bbd6a3c-2491-4032-b596-2b56843b5c3f",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.133",
+    "name": "Dirt",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711333",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7B6241",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "62e39648-ecaf-4e92-b233-e9dc8aaafc8b",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.134",
+    "name": "IJA Midouri Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711340",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#424B3E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b7c682de-a811-455b-bdfc-b423b9b05021",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.135",
+    "name": "IJA Chrome Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711357",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F4A700",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5dfb5688-f27e-4e45-820d-0ea230261f78",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.136",
+    "name": "IJA Earth Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711364",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7B654E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "43fcc5dc-6082-48b7-88e0-2d74c8ebf2e2",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.137",
+    "name": "US Light Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711371",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#696642",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5000ba56-8c7d-433f-bcba-c243cb02179a",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.138",
+    "name": "US Sand",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711388",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#968669",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d50c1911-5fde-463a-b468-6bf0d96146c6",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.139",
+    "name": "US Field Drab",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711395",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6D5B43",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d4ff65d6-262a-4523-af73-f11ff87ba386",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.140",
+    "name": "US Desert Sand",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711401",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A98D7C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e61b4d4f-d4ef-46c0-a386-239e85e63a0f",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.141",
+    "name": "IDF Sand Grey 73",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711418",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AB9E86",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c78f6dab-7972-4b05-ac3d-2d047b3def77",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.142",
+    "name": "IDF Sinai Grey 82",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711425",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7B7367",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "afe344e4-bf93-4b4f-ac6f-d4e95fd153b8",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.143",
+    "name": "UK Light Stone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551711432",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B39B69",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ad101ff-4709-4985-8d7b-3744f1065979",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.244",
+    "name": "Sand Beige",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712446",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B79F7D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e2a6c127-e896-405c-8cd9-ccf42ba8abef",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.245",
+    "name": "Loam Beige",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712453",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#978864",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e063c526-2963-4877-b38d-b9eb02b52bad",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.246",
+    "name": "Yellow Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712460",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#978569",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7d22f4d5-b2da-474f-a651-9507bee6df39",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.247",
+    "name": "Light Olive",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712477",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#69614A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "21fc1f80-b6d4-4a59-8575-3bfa7a1278b1",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.248",
+    "name": "Brown Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712484",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#676259",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3bcf39e7-f1ae-4fe0-bbbe-e91609f78446",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.249",
+    "name": "NATO Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712491",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5E4F46",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "97704622-1223-4aab-80a9-16f784d1b0d7",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.250",
+    "name": "Bronze Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712507",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#57584C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2c528818-583f-40fa-9604-fe44f6fa9fb4",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.251",
+    "name": "NATO Black",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712514",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#333133",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9c27d32f-ee18-4f5a-bf8b-e1862d59c2f2",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.255",
+    "name": "Light Blue RLM65",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712552",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#899F9B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d111d671-a9c9-43f7-8f93-bdce3c4d011e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.256",
+    "name": "Green RLM73",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712569",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#464D47",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "484b10cd-895e-4096-9854-addf619a23ad",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.257",
+    "name": "Light Blue RLM76",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712576",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#97AAA7",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "28404cbe-ecaf-4161-9734-7440f89e564b",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.258",
+    "name": "Grey Green RLM74",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712583",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#535551",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "74d09ff9-dbb0-40bc-ac15-9b055e0d837d",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.259",
+    "name": "Grey Violet RLM75",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712590",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#646566",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a9feb8f4-c6cf-4bd2-a6a0-6e1df5d56596",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.260",
+    "name": "Light Grey RLM63",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712606",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6C7063",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "10feefe1-2670-4b00-8fde-2467c11e5927",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.263",
+    "name": "Green RLM72",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712637",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#464641",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "958d5b74-90bb-461b-b864-165e639d8a8f",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.264",
+    "name": "Brown Violet RLM81",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712644",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#675C4C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ac451ef2-14c9-479f-8063-e806ad04433b",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.265",
+    "name": "Olive Green RLM80",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712651",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4B5040",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "33043d30-a37c-4fbb-89f4-5ac858eacfb5",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.266",
+    "name": "Dark Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712668",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#364962",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "43725c2c-7b3c-44a6-9453-6d0e99e5f78d",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.267",
+    "name": "Light Green RLM25",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712675",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#49796D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "85cbead1-5b46-4a88-9678-bd85f1100de0",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.268",
+    "name": "German Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712682",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#484A44",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "539e4e05-4eaa-4ccd-b9d8-bc31db6e4f4e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.269",
+    "name": "Red (71.269)",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712699",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9F3C34",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "da95ad74-e831-4a61-96cf-5b4602100a6d",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.270",
+    "name": "Off-White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712705",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E6D9BD",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c61fcc24-b2eb-4ade-ab22-1a57c36eb684",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.271",
+    "name": "German Red Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712712",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#674239",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0dee94ad-6a4e-4cc0-8957-853c7adc4dc2",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.272",
+    "name": "German Yellow Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712729",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#856F4C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6b26b0fd-2aa5-4fc5-a919-5756e202b65b",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.273",
+    "name": "Ocean Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712736",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6C7682",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "70cb29d6-2da7-4713-a383-191851d08f3f",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.274",
+    "name": "Aggressor Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712743",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7B7D82",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3595c39f-690c-4dfd-ab97-d84b7d2713d5",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.275",
+    "name": "USAF Medium Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712750",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#83848A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6206a5eb-572f-4acf-b54a-3f163c7e5c21",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.276",
+    "name": "USAF Light Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712767",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C1C4C0",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dfa8da94-3a35-4792-9dd0-002c52a4e166",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.277",
+    "name": "Dark Gull Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712774",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#828282",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0b5b93c5-8903-4682-9d0a-2a7195839e0b",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.278",
+    "name": "Sand Yellow RLM79",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712781",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#967650",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b7b083cd-bc74-4039-a76d-40a79bd0d638",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.279",
+    "name": "Insignia White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712798",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E2E2D4",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "56fa3126-0013-48c9-a0f9-62e270d3942c",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.280",
+    "name": "Camouﬂ age Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712804",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6C6C6B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7976a3d8-48d3-4161-9487-de9f2709dfe6",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.281",
+    "name": "3B Russian Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712811",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#484845",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5cd2c35c-25c1-493c-91b3-e457f3dc7112",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.282",
+    "name": "6K Russian Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712828",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4C4541",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "01062d34-4acb-4e30-aefe-f4d8e7f9b8fc",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.283",
+    "name": "7K Russian Tan",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712835",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7B715C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "94740053-24ef-4bed-9874-e45d28e44492",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.284",
+    "name": "UK Light Mud",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712842",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#857E70",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "40611873-7f77-47bf-9c5e-e12f354b229e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.285",
+    "name": "IJA Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712859",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#565444",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aac4689a-dd8b-43d2-b43f-f039e4f2078b",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.286",
+    "name": "IJA Olive Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712866",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#50492F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "687b1f05-67e3-4b9e-9a4f-312fe7c7f2bb",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.287",
+    "name": "IJA Khaki Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712873",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6D5B43",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a8e9d2d9-b137-4bce-b690-97a8b8fb5b5a",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.288",
+    "name": "UK BSC 64 Portl. Stone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712880",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CBBD93",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9382efd7-083c-4997-b8cd-270f29b57241",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.289",
+    "name": "US Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712897",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#595947",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "060b10ca-bf1e-4fb4-9559-12d038d38cad",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.290",
+    "name": "US Earth Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712903",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5F544A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "15744879-df86-4289-a15b-893bf4de5ad4",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.291",
+    "name": "US Earth Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712910",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B98E5E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "727af617-1aa0-43b9-9543-741f00855ce3",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.292",
+    "name": "US Loam",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712927",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#53554C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6299249c-9278-44eb-ace5-37ceda366ea3",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.293",
+    "name": "US Earth Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712934",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7D6150",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bec3edbd-3177-4597-820e-19f147d0e343",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.294",
+    "name": "US Forest Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712941",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#555547",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d2b46141-f2a2-45aa-89a5-a5ed99073a8d",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.295",
+    "name": "USN Sea Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712958",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#44464D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f9ad97b3-08cf-48d1-89fb-26144eb32b3a",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.296",
+    "name": "USAAF Light Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712965",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BDBBAD",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "94b42b0b-1ccb-4913-a3fc-1762b3a6f9bc",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.297",
+    "name": "JGSD Brown 3606",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712972",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6A6058",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e9662e61-e6d5-40c0-b376-0e271a55cc72",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.298",
+    "name": "M495 Light Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712989",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9C9888",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bcac7a78-6ea1-4d5c-9eb0-ce8b13817c9e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.299",
+    "name": "Intermediate Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551712996",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5D6A76",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1224885e-fc07-461d-b278-89a837502b16",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.300",
+    "name": "Glossy Sea Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713009",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#272D34",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bd5f7783-09a5-4b75-9ecf-560cbbb44f5c",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.301",
+    "name": "AMT-4 Cam. Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713016",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#675F41",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ef8153da-1e7a-48c6-acaf-b37d7eff9d42",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.302",
+    "name": "Sky Type S",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713023",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A1A48F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "88ead241-1731-46dc-bc61-1090519a06f7",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.303",
+    "name": "A-24M Cam. Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713030",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#595947",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4d5a53e3-4c2e-43d9-bbc6-0e80cfe61c08",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.304",
+    "name": "AMT-11 Blue Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713047",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5C5F67",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f0015f27-8910-4f2a-90c6-35d9e5b1b147",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.305",
+    "name": "Interior Grey Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713054",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#96A28D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4a8b1dc4-280c-45d5-9595-762db06d053a",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.306",
+    "name": "Sky Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713061",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CBD9DA",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f483e79a-d0f7-4b45-89cc-ac631333f70a",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.307",
+    "name": "BS Medium Sea Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713078",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#838A8C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bb7867f7-15cc-426d-9303-105963a82938",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.308",
+    "name": "AMT-12 Dark Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713085",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#464950",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fc6fbd5a-edce-4e4b-8052-1e07ac9b375a",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.309",
+    "name": "Dark Slate Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713092",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#575642",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "24ac014a-e3f1-470f-96e5-0ec5714089d9",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.310",
+    "name": "IJN Deep Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713108",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#374F4E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "28677c95-a0b4-499a-bb31-4b6450c7f875",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.311",
+    "name": "IJN Ash Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713115",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8A826E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8be062c3-2ab1-4e34-9ab9-eadc20cee54d",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.312",
+    "name": "IJN Medium Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713122",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9C998D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2affdf01-66fa-4992-b434-6fba352e1551",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.313",
+    "name": "Dark Mediterr. Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713139",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#29384F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e863dab8-35f8-4355-b5ee-3c0a84541526",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.314",
+    "name": "Seaplane Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713146",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#585757",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b9b7e1fa-1844-4ee3-a707-98bd0f1c79fa",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.315",
+    "name": "Tire Black",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713153",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#454845",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "98e33ef4-c4cb-426d-bf84-d8314dae8f25",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.316",
+    "name": "N. 41 Dark Olive Drab",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713160",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#50492F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0c80a577-a8ab-43c2-94c4-7703b94d365c",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.317",
+    "name": "AII SV. Gol Light Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713177",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#79C6DA",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e6a560cb-d16f-4d4e-afa1-61bf0046b066",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.318",
+    "name": "AMT-7 Greyish Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713184",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#618B9C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e1eea63d-e36e-4a71-aaa2-dedbc58c8826",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.319",
+    "name": "A-28M Greyish Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713191",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#709F98",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "12e17c4e-458d-4661-b1bb-9485cdb9059b",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.320",
+    "name": "AMT-1 Light Grey. Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713207",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#958A7D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7d70e07f-bf0d-420f-a20d-80a424da9a87",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.321",
+    "name": "IJA Light Grey Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713214",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A4AA95",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9af00ce6-93c3-4187-9e54-077dc8cac43f",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.322",
+    "name": "IJN Black Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713221",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#424B3E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "709d3d36-65e2-477b-ab91-4ae251acf122",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.323",
+    "name": "BS Dark Earth",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713238",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#705C43",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "daf295d8-0789-4f7e-9863-84bf098e0d7d",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.324",
+    "name": "BS Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713245",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#474735",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0457c48d-8dd2-4fa0-b8be-d887e1d562b7",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.325",
+    "name": "IJN Dark Black Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713252",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#464743",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "496fed6c-670e-489c-8965-ce004b330f45",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.326",
+    "name": "IJA Grey Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713269",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BBB49C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f3082bfb-a496-4b40-81b3-31ddc9457124",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.327",
+    "name": "IAF Sand",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713276",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BBAD97",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cd0bf922-5f11-4e46-a8fa-6e1b7f50b30d",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.328",
+    "name": "Light Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713283",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C4CBBE",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "99fc0a6f-9d74-4efe-8db1-8064445ec556",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.329",
+    "name": "Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713290",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#646C62",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4206c585-2a17-4dcb-9bb0-8193af62c084",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.330",
+    "name": "Khaki Green N. 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713306",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#584D43",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9772c24c-4ad0-41d5-ab25-179cb31161a8",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.331",
+    "name": "Cockpit Emer. G.“Faded”",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713313",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#449785",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "326e3ec2-9353-4308-8a0f-60e931d64afc",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.332",
+    "name": "Underside Blue “Faded”",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713320",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#89B0C5",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "61cc5953-7f26-4df6-8c7e-6bf84634f3e0",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.333",
+    "name": "Russian AF Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713337",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#008EB8",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "136fc889-4a5f-4486-969c-8eed8ff5f10e",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.334",
+    "name": "Flanker Light Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713344",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B0C8C3",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "58d4cdfb-061e-4ba8-818e-89ba689351b0",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.335",
+    "name": "Flanker Light Gray",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713351",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9AA6A0",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d1782ce9-9322-484d-981f-326707525f5a",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.336",
+    "name": "A-14 Steel Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713368",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#68706E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "56401854-98ae-4319-b329-d1058f3607df",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.337",
+    "name": "Flanker Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713375",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8FAEB7",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a80eecc9-aca4-4e8d-84b0-1378b34de101",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.338",
+    "name": "Russian AF Grey Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713382",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9FACAA",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ea8d1896-5119-4e21-ab52-2e9451a677d7",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.339",
+    "name": "Russian AF Grey N.3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713399",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#888E8C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "626a9fb7-f51e-4c68-aa9b-7940dae78350",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.340",
+    "name": "Grey Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713405",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#787E78",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "557b91ba-01f5-44e3-a24f-dde15437fdf3",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.341",
+    "name": "Green Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713412",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5A6457",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6aca032f-e2a8-4468-895c-def4a6a1b30c",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.342",
+    "name": "Russian AF Light Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713429",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A9C8C4",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8bac2b4d-5d83-46fc-88a2-f73cc0975de8",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.343",
+    "name": "Russian AF Grey N.7",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713436",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6F97AF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a0a28242-3f57-4293-91bd-7753904a4500",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.344",
+    "name": "R. AF Grey Protec. Coat",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713443",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B3CDD5",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "94c8df31-50d1-4534-896b-b67ccfe760bd",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.345",
+    "name": "Russian AF Grey N.8",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713450",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9FB3C1",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6528bd3d-c51f-498d-bbef-795a41f5a798",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.346",
+    "name": "Russian AF Grey N.4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713467",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#ACA894",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "75044ac9-0a2a-4544-9fa5-2974290b0ffe",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.347",
+    "name": "Russian AF Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713474",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4D4838",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "498e284a-61ec-4b0d-be81-9630aa63cf61",
+    "brand": "Vallejo",
+    "range": "Model Air",
+    "code": "71.348",
+    "name": "USAF Tan",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551713481",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C0966A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": "6f877934-ac77-4385-be5a-3fb015e07e12",
+    "brand": "Turbo Dork",
+    "range": "ZeniShift",
+    "code": "TDK015175",
+    "name": "Bubblegum Crisis",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885175",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/bubblegum-crisis-1"
+      }
+    ],
+    "colour": {
+      "hex": "#D6786C",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cc162e71-774f-45e2-a93c-eb370de0b0c9",
+    "brand": "Turbo Dork",
+    "range": "ZeniShift",
+    "code": "TDK015328",
+    "name": "Fae Wylds",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885328",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/fae-wylds-1"
+      }
+    ],
+    "colour": {
+      "hex": "#AE797F",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9c1db6b4-a208-442d-b8ab-2ff699b60e92",
+    "brand": "Turbo Dork",
+    "range": "ZeniShift",
+    "code": "TDK015403",
+    "name": "Hemogoblin",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885403",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/hemogoblin-1"
+      }
+    ],
+    "colour": {
+      "hex": "#9B724A",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "98ef357f-4b24-4731-8fc3-e93e55d9dfc9",
+    "brand": "Turbo Dork",
+    "range": "ZeniShift",
+    "code": "TDK015519",
+    "name": "Midnight City",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885519",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/midnight-city"
+      }
+    ],
+    "colour": {
+      "hex": "#4C50BD",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "eb957085-7b6e-462b-a84c-a11fb7b929e7",
+    "brand": "Turbo Dork",
+    "range": "ZeniShift",
+    "code": "TDK015595",
+    "name": "Prism Power",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885595",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/prism-power-1"
+      }
+    ],
+    "colour": {
+      "hex": "#AD74A3",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "71b2311e-8649-438f-812a-84cb443abf11",
+    "brand": "Turbo Dork",
+    "range": "ZeniShift",
+    "code": "TDK015663",
+    "name": "Romeo / Juliet",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885663",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/romeo-juliet-1"
+      }
+    ],
+    "colour": {
+      "hex": "#C54EA1",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b01c7b11-5880-44df-9862-96b8763aefbc",
+    "brand": "Turbo Dork",
+    "range": "ZeniShift",
+    "code": "TDK015823",
+    "name": "Twin Sons",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885823",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/twin-sons-1"
+      }
+    ],
+    "colour": {
+      "hex": "#2D7A95",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  }
+]

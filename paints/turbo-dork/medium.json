@@ -1,0 +1,18 @@
+[
+  {
+    "id": "41314917-8d86-4737-8311-f4fc277eda48",
+    "brand": "Turbo Dork",
+    "range": "Medium",
+    "code": "TDK055861",
+    "name": "Thinning Medium",
+    "type": "medium",
+    "barcodes": [
+      {
+        "ean": "0850052885861",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/turbo-dork-thinning-medium-22ml"
+      }
+    ],
+    "status": "current"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "b4b48051-abd6-4e70-a817-9e3ef6b07cdf",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.600",
+    "name": "Vomit",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726009",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F5AD2F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ab45dd76-c79f-46f3-8cd8-0be686f854c0",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.601",
+    "name": "Fresh Blood",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726016",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EC665C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6c20e58d-6982-4fb7-af31-3aa45a883482",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.602",
+    "name": "Thick Blood",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726023",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9A493B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f340cb19-acdc-43f2-95f1-f01e0b18e004",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.603",
+    "name": "Demon Blood",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726030",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7A5387",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dd3316b3-3c4f-4682-9d66-5d3269fb7601",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.604",
+    "name": "Frost",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726047",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#62AEDB",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2c6ae609-5dad-4f18-b784-de1c16f8f034",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.605",
+    "name": "Green Rust",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726054",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#97C6B2",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "00201a97-b5bb-48ff-a58e-f3bda28eaeb3",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.606",
+    "name": "Bile",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726061",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BBCE11",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "47205a92-1ce5-477b-83a5-82ce8fc9f73b",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.607",
+    "name": "Acid",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726078",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6BA361",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "df64b272-3db0-40ff-815d-1ff2a18742ab",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.608",
+    "name": "Corrosion",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726085",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#65352B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bd3ae650-5395-4c69-8ca7-e1cf483e3408",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.609",
+    "name": "Rust",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726092",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#715850",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ed9bc210-487a-40ae-809b-b38a7df35eb1",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.610",
+    "name": "Galvanic Corrosion",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726108",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D5742D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5259c703-d198-440f-ae84-a681b2b2fb2e",
+    "brand": "Vallejo",
+    "range": "Game Color Special FX",
+    "code": "72.611",
+    "name": "Moss and Lichen",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "8429551726115",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D3CC5D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

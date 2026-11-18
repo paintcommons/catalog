@@ -1,0 +1,142 @@
+[
+  {
+    "id": "2e3dd3e4-9d0c-4a54-95f7-9346ab69d9f4",
+    "brand": "Vallejo",
+    "range": "Surface Primer",
+    "code": "70.600",
+    "name": "White",
+    "type": "primer",
+    "barcodes": [
+      {
+        "ean": "8429551706001",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f51fd8d5-c061-43d4-aa5f-afd002963b22",
+    "brand": "Vallejo",
+    "range": "Surface Primer",
+    "code": "70.602",
+    "name": "Black",
+    "type": "primer",
+    "barcodes": [
+      {
+        "ean": "8429551706025",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "37babd7c-b1be-48ee-bcc8-18c007e34bd8",
+    "brand": "Vallejo",
+    "range": "Surface Primer",
+    "code": "70.625",
+    "name": "Ultramarine Blue",
+    "type": "primer",
+    "barcodes": [
+      {
+        "ean": "8429551706254",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#373966",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d7478871-3130-4c1b-ab6f-4e7fc330a93f",
+    "brand": "Vallejo",
+    "range": "Surface Primer",
+    "code": "70.629",
+    "name": "Sun Yellow",
+    "type": "primer",
+    "barcodes": [
+      {
+        "ean": "8429551706292",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F6A200",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9900b9e1-3566-47d1-a933-b5fdd204fe4a",
+    "brand": "Vallejo",
+    "range": "Surface Primer",
+    "code": "70.630",
+    "name": "Steel Grey",
+    "type": "primer",
+    "barcodes": [
+      {
+        "ean": "8429551706308",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7993A2",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "018a900c-7b22-4b35-85b5-5e6130547e74",
+    "brand": "Vallejo",
+    "range": "Surface Primer",
+    "code": "70.631",
+    "name": "Chainmail Silver",
+    "type": "primer",
+    "barcodes": [
+      {
+        "ean": "8429551706315",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#969CA2",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ca660cd5-dff8-4f70-a6f9-7e5209f742bb",
+    "brand": "Vallejo",
+    "range": "Surface Primer",
+    "code": "70.632",
+    "name": "Bloody Red",
+    "type": "primer",
+    "barcodes": [
+      {
+        "ean": "8429551706322",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D31D1A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

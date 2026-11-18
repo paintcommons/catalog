@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "390a1eb2-f5cb-4412-9167-737997e8b5eb",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Abaddon Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#111111",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fee0b3ef-b378-4bd1-9231-ee55f1502f4f",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Administratum Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#93979A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fbfad2b5-feca-495c-914f-3ec7ddd14096",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Air Caste Thinner",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c1965eca-d136-4295-b522-044386cf4ae2",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Angron Red Clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D07E67",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a32f08c0-7e2f-4a56-9474-67a6ad6c6354",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Averland Sunset",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DE8F30",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7298caa3-ada6-4d0b-85f4-968f835d74d9",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Balor Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#875408",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0b126ce8-7db0-469c-a1ca-1da7752cd16b",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Balthasar Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C49A88",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "90dfd5f0-0302-4ca1-a8d8-dfe2417d3e1e",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Baneblade Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#756858",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "885fbd87-5178-4ab8-aa4a-961212440ff1",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Caledor Sky",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#366699",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "44693bdd-4386-4942-afd2-3e8eb8b836e7",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Calgar Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A497F",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a8dbfbaa-db04-4fd1-b0ac-fdb5e162ee50",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Caliban Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2E4241",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "24856a93-70fb-4320-88ac-9824061ca74d",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Calth Blue Clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#73B1E1",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "270bdbad-7b12-43cd-bbeb-dd038abebc0c",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Castellan Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A4235",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3f567cb8-cb74-488e-85d5-39c4e2e310ac",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Castellax Bronze",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C68351",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bcbd6641-9036-49c9-af3d-5024cf8d2516",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Chemos Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F356C",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3cc6a0bd-3848-496a-bb59-7ed1bff5a91f",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Corvus Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#13181E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7dfae7be-b2e7-416f-befa-d721487b3529",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Dawnstone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#717574",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f78aa8b4-7af9-4dac-a169-5ca1c96e1d53",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Death Korps Drab",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D4539",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7b97fe94-27da-45eb-b19d-a2f6ab436a58",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Deathclaw Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AF634F",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f51b190d-7a6d-47bd-a9ed-42a9b853d2b2",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Deathshroud Clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1C1C1B",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "62ceab75-1c60-43fa-abbe-e3500eabf427",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Deathworld Forest",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#54523B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "71123c17-1d43-4958-9611-6309bcd3aa36",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Dryad Bark",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2B2A24",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "eacc1ec6-8f92-4382-b21e-0bf8d9fe8556",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Eidolon Purple Clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8F78AF",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "272bccb6-3f6e-43a3-8317-ad2b1384ddfd",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Elysian Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#777A43",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1a43578d-3249-4ec0-87f9-502049e379de",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Evil Sunz Scarlet",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C12529",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3d747977-7c0e-40da-aeef-9547a32cf3f8",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Fenrisian Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7CA4BE",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0a8dac07-c5df-428e-ba3d-ef726a9f14a2",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Flash Gitz Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F8C02F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c9b4e102-de66-4c0a-9eff-bb59c1bd0176",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Gal Vorbak Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4B213C",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "63f6eae0-59ac-49ee-ae65-1ba60329a6f7",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Genestealer Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7658A5",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2190a09a-56d5-45f1-a53a-9a26b00e8688",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Grey Knights Steel",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A8BBCB",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "be314fc5-44d8-44b2-bf0c-669bbec7d992",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Iron Hands Steel",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B2A79F",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c7265ef4-031e-4ecf-81cc-79b828499998",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Ironbreaker",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#899092",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0a30089e-275d-47a6-9855-fab376fe0f64",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Kakophoni Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8869AE",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9d96036f-74ae-46fd-b987-894a1e7b0c26",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Kantor Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A3D5B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "34334803-aa40-493b-854b-af340b4fae57",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Karak Stone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B7945C",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e17da106-3993-44fe-964d-e20b7568e5cd",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Khorne Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#68262A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "96f30f87-c0bf-45b4-a870-9350b71e7bfc",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Kislev Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E6A98C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5a8c4fc9-5e5b-4663-8576-7ac123b28985",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Leadbelcher",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A5A1A0",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6c670a43-2c42-4648-aeb5-b25a1901d784",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Lothern Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#37A2CE",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5bc9c52f-ea30-4670-8ded-11316043124b",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Lupercal Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#002C2B",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2a259517-47ee-414c-9f45-edc4be858723",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Macragge Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2D437C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e41bf04d-3757-4e48-9bb1-c60b32fe120d",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Mechanicus Standard Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4C565F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "18455a38-91e6-47b2-be96-ecc4f6d35f3a",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Mephiston Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#831B1C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9b3c7e38-e5f8-4f49-af1e-5b08ab49c471",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Moot Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#599938",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1eeb224e-9c32-4fbd-a890-d8a0d71f49de",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Mortarion Green Clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6B9271",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2b91928c-3070-4620-ad47-89c9d1bffe30",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Mournfang Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#532E1E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6fd0acec-4184-40ed-bd15-9c6adb525b11",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Night Lords Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#282F41",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fc177ab0-36dd-4057-8fd0-2ec21d85d58a",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Nocturne Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#162A29",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "620e7658-a43c-459b-962f-d040e45c7f15",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Ogryn Camo",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AAA472",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1f65f573-b1b5-4f6c-b696-70c70247a97e",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Phalanx Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FCD52F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "97449f54-4fb3-439e-8483-31d9c42419d7",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Phoenician Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F486A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a333236b-862e-49ac-aa3a-66ea4708af06",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Pyroclast Orange Clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ED8022",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "65997678-176c-4322-9fe4-0f1f2a7a6cc3",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Relictor Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EAC58F",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "692b2046-ea3c-4db4-9321-3f247b0d2053",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Runefang Steel",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D8D8DA",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c697f8ac-c6a0-49b6-a76b-731e4328c245",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Russ Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6485A8",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ed4ccde7-90e5-445d-848e-b6b958db521a",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Sigismund Yellow Clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFE32F",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ed59ce56-43e9-468a-b5c3-0fc7bf513d6f",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Sons of Horus Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00545E",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dbcdec3a-98c1-43b4-bdce-9f139fd8525c",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Steel Legion Drab",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#584E2D",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c344e9d8-f984-4ed6-b840-6111dc692856",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Straken Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#597F1C",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fcace1a0-4ab1-4d87-9c76-96b5aba79512",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Sybarite Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#17A166",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "07003ce9-74f2-4b3e-a29b-843f5b663a77",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Tallarn Sand",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A07409",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f2e91195-3cfd-4654-9254-8b2d8a7d7cf9",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Tau Light Ochre",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BC6B10",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b195ebc2-c7cd-4ec6-a2d0-e1460cd712c7",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Temple Guard Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#008E9C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2ee84c73-5bda-4d3f-97eb-17a26436ce2c",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Terminatus Stone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C8B79D",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4d668699-1ef5-4eda-85a0-8c92690c41e4",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Thallax Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E2B784",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "60b60665-b946-4f3f-af6a-61815ab66c46",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "The Fang",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#465572",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "50641fdd-adab-491a-89f6-2e3dd4d1139b",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Troll Slayer Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F46E39",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e15ad302-034b-43dc-b43b-321e6a8b2805",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Tuskgor Fur",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#863231",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "29eac672-62e3-40e2-9b7b-55bcdbfbbdc9",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Typhon Ash",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C9BA9D",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "01cddf06-fffa-4ade-a81b-fc8ba8f58879",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Ulthuan Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C4C9C5",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ec38f570-719a-4179-bfad-144bef7d8c03",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Ushabti Bone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BFAB88",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f233b01d-989c-4597-927a-ad8dc459d34e",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Valdor Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CE8D51",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "88ce6f4a-82d9-4de1-84d9-5c41a6cfbbb3",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Vulkan Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#223C2E",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "729a0906-151b-4e7a-8a9c-44a91a628c49",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Warboss Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#317E57",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e877701a-8b5b-4be2-b795-5e123409ec3b",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "White Scar",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "31923ba7-e37a-404b-867f-58402f62a32d",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Word Bearers Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#620104",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "99fd2d3d-5dc2-49ae-b00b-1c932e444d45",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "XV-88",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C4811",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0cc66481-8766-4daa-998f-d47f78cdaec1",
+    "brand": "Citadel",
+    "range": "Air",
+    "code": null,
+    "name": "Zandri Dust",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9F8564",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  }
+]

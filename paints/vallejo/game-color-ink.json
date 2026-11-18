@@ -1,0 +1,222 @@
+[
+  {
+    "id": "cf033a3a-f499-47da-a569-a7dc11025df6",
+    "brand": "Vallejo",
+    "range": "Game Color Ink",
+    "code": "72.082",
+    "name": "White",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720823",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dd77f041-d98e-4e47-be0d-454003347c02",
+    "brand": "Vallejo",
+    "range": "Game Color Ink",
+    "code": "72.083",
+    "name": "Magenta",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720830",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9B2241",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a556b47f-ffc4-4abc-88d9-7305893b6805",
+    "brand": "Vallejo",
+    "range": "Game Color Ink",
+    "code": "72.084",
+    "name": "Dark Turquoise",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720847",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#043E3C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "79f30e1c-4cc1-468a-aebc-9b159cc6093d",
+    "brand": "Vallejo",
+    "range": "Game Color Ink",
+    "code": "72.085",
+    "name": "Yellow",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720854",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E99B12",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5823628e-cd20-44b2-bb80-cf3b0d3c484f",
+    "brand": "Vallejo",
+    "range": "Game Color Ink",
+    "code": "72.086",
+    "name": "Red",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720861",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A71521",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b6223d24-814c-45bb-a871-19c329ae03f9",
+    "brand": "Vallejo",
+    "range": "Game Color Ink",
+    "code": "72.087",
+    "name": "Violet",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720878",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#49315E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d5c807ed-f32f-4904-a5e5-646b159fb2f5",
+    "brand": "Vallejo",
+    "range": "Game Color Ink",
+    "code": "72.088",
+    "name": "Blue",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720885",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#153768",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ecaf9004-c10b-416b-8d7c-49219df0fa22",
+    "brand": "Vallejo",
+    "range": "Game Color Ink",
+    "code": "72.089",
+    "name": "Green",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720892",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#007033",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ff5eb9be-202e-431a-8757-24ccbd535366",
+    "brand": "Vallejo",
+    "range": "Game Color Ink",
+    "code": "72.090",
+    "name": "Black Green",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720908",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#243A2B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4922fea0-1f73-40d4-ad3b-86cf333fde46",
+    "brand": "Vallejo",
+    "range": "Game Color Ink",
+    "code": "72.091",
+    "name": "Sepia",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720915",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#332512",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ecf58515-9986-4763-8fdc-2f3562bd4bc5",
+    "brand": "Vallejo",
+    "range": "Game Color Ink",
+    "code": "72.093",
+    "name": "Skin",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720939",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#442018",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

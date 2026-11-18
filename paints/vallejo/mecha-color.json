@@ -1,0 +1,842 @@
+[
+  {
+    "id": "eecf95bf-4c4c-462e-9f19-a6f54b7692fc",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.001",
+    "name": "Pure White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690010",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "88bb2699-827e-4fc1-80f7-db4633a72d6b",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.002",
+    "name": "White Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690027",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BCB9A8",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5717922f-27e5-40f0-8e2d-4528eeca9a9e",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.003",
+    "name": "Off-White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690034",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EAE3C9",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f778261f-6ceb-45b6-964c-98952e5aec3b",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.004",
+    "name": "Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690041",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E59700",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3feb7502-131a-457c-aa09-1df7d6e8d535",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.005",
+    "name": "Light Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690058",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FBC990",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d460db69-4767-44ad-920d-8866b1f37543",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.006",
+    "name": "Pink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690065",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D4735E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "506109aa-9e31-44e5-8b9c-4145ee24ce14",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.007",
+    "name": "Orange",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690072",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E84B19",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0cd01215-f39a-4c73-b45d-a09eed526ccb",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.008",
+    "name": "Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690089",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A81F1B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d7ecf4b9-5694-4184-a6ff-2890e463deaa",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.009",
+    "name": "SZ Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690096",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#912321",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "01831c34-65d8-41f7-8048-db08a6a613bc",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.010",
+    "name": "Magenta",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690102",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8A295E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "736594cd-0bbc-4291-8547-30914f670ec5",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.011",
+    "name": "Dark Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690119",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#60131F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0eb70883-bcec-4d2a-a3a5-ee28b0d347f2",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.012",
+    "name": "Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690126",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8F6AA4",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "52fbc84b-2fb8-4451-8ecd-bb093f854266",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.013",
+    "name": "Titan Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690133",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#121D2C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f3151848-9daa-4bfd-b54f-310fe93a4984",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.014",
+    "name": "Grey Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690140",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#465758",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "caf3cfa6-1aa4-454c-80eb-55e5385a31b5",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.015",
+    "name": "Blue Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690157",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#45656F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fc845510-d92e-43c8-9d5f-e6372dc9e019",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.016",
+    "name": "Light Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690164",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#435E79",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d290bc58-04c2-448f-ae63-0db6b4533b1e",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.017",
+    "name": "Sky Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690171",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#07ABCE",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8ac36462-f045-49b3-a87d-dda7d7196d94",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.018",
+    "name": "Deep Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690188",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#005E92",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0e6f3990-1eed-437b-8876-dbe2607275bc",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.019",
+    "name": "Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690195",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1B2247",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "27b7c633-fdcb-41fb-8812-94c2da4a77eb",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.020",
+    "name": "Electric Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690201",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1B245C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "52a48dca-3d90-4c9c-8a93-fec761dac093",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.021",
+    "name": "Dark Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690218",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#20313E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8c133ebd-ac9b-41e3-822b-c9d321bedee3",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.022",
+    "name": "Titan Dark Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690225",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#121C1B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7e4fd3e8-eb9a-4f64-bb31-84e1f351c8d8",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.023",
+    "name": "Turquoise",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690232",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#00767B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a33fa93c-c2a5-4f36-96b8-04b1776fd39d",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.024",
+    "name": "Stone Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690249",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#768B88",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "54c8b0f0-d6dd-4e7d-bf81-38bd84e1c8d2",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.025",
+    "name": "Light Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690256",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B7B7A6",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2a331498-8c62-44a2-82a2-ee9bfef7bc6f",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.026",
+    "name": "Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690263",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#76816A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d16ccb52-608a-4545-9678-096210ec158b",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.027",
+    "name": "Green Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690270",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#608662",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f09324f6-10ec-4233-9e3a-1ada041aad44",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.028",
+    "name": "Olive Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690287",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4F613B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7eef29bb-ff86-4ef0-9382-32a7e67ff452",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.029",
+    "name": "Deep Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690294",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#646C56",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bdaa88e2-d447-43ea-ae41-1efb11cd960c",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.030",
+    "name": "Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690300",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#343424",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f676e3c9-929b-4019-86ef-f39ba5c55432",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.031",
+    "name": "Grey Sand",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690317",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8F8371",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "232de804-5dd1-4153-a6db-ee6769b75e72",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.032",
+    "name": "Yellow Ochre",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690324",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AE7020",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ff9eec8-52cd-4ea0-88e5-3df4cfd8ade6",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.033",
+    "name": "Sand Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690331",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F4BE57",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ef6861df-ad8b-4aa2-8e68-875d925b3d81",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.034",
+    "name": "Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690348",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#694A30",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "68bc2663-aa53-47d7-bda5-8d52cbde0949",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.035",
+    "name": "Chipping Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690355",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2B1E16",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5b640b75-a5ca-4a82-81d1-daad64f8aa9f",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.036",
+    "name": "Light Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690362",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#77817E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "15cee387-11fd-4f80-bc71-9cb5f7cddd95",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.037",
+    "name": "Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690379",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5B6660",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0504093d-13ed-48cf-8fc1-373261b0a48c",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.038",
+    "name": "Medium Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690386",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5A5B5A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9db82675-7155-420e-9801-5fd7f1a9857c",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.039",
+    "name": "Grey Z",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690393",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#50524D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "06999b7c-5090-4fe8-ab70-5c282ba9fd2e",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.040",
+    "name": "Phantom Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690409",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#212C2E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "adf413de-d8c9-44e4-89a2-dbeef72ed66b",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.041",
+    "name": "Dark Grey Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690416",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#33302F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "02273ead-b6ae-41c1-ad8e-d87db168817d",
+    "brand": "Vallejo",
+    "range": "Mecha Color",
+    "code": "69.042",
+    "name": "Pure Black",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690423",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,917 @@
+[
+  {
+    "id": "e7e24ac3-819b-4930-85f6-8283ce4724e0",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Aeldari Emerald",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00B9AB",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "268404a8-a25f-451c-8b3d-4b004b3dd855",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Aethermatic Blue",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A8D2D1",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a4ba5c0b-7718-4631-a83d-ae26f7cb1a2e",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Aggaros Dunes",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DCB665",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c92de2df-0976-413f-8723-1226bf2f5bbd",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Akhelian Green",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#01899F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "50293034-056a-4501-b58f-8777a13546fd",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Apothecary White",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CED0CB",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "64c0b830-39e7-406b-8f82-a0de3c607ab3",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Asurmen Blue",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#006AA4",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2d2eda20-37fa-4a22-8fee-3c06c0de1ec5",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Baal Red",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CD2D37",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "41752819-c390-4e76-baac-20dd8d6f0d30",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Bad Moon Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F5D623",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a5c1bbf0-e66d-40fe-9da9-0d0ae208cf65",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Basilicanum Grey",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8F8677",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "53e59ab6-1dcd-4f0f-82f9-ccf527dc9974",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Black Legion",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2B292C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a851a537-e0a1-40ed-b639-c4d19ef00c3a",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Black Templar",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5A6868",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "51d71be7-3d82-4ae6-9803-29910a311bb8",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Blood Angels Red",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D7422E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0f5f68d6-713d-471c-908e-0647294c7479",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Briar Queen Chill",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9CC1B9",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "03acfae6-66ed-4cfa-8004-f33d10be7afd",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Celestium Blue",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A3E8B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "83675e0d-51cf-4a76-bd7a-9f8e71fcc701",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Creed Camo",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B7CE9A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bd24a3b2-3541-4451-b16e-20f345f2a8c5",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Cygor Brown",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6F472E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3834ca1d-213d-4b21-9d30-0f3fc3640d8a",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Dark Angels Green",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#266145",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8a9f7027-5219-4d59-ad46-85637f6d1cc3",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Darkoath Flesh",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DBAD8C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c1934772-fa82-4401-b7e7-e4ea6c723684",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Doomfire Magenta",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E61072",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c8b2aad1-84ad-4043-9518-a7ee7de38e8b",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Dreadful Visage",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CFCBCC",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "48700520-39b5-4ff6-b847-2495a8cffa6d",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Flesh Tearers Red",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#931B24",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6cb66e58-49f2-49e1-bad3-5024ff8ea5e6",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Frostheart",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0087B9",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "21f85083-2fb5-4b4d-9ba0-8ba2eca5280e",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Fyreslayer Flesh",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E1BB9E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ca8d5953-189c-46d9-ba35-f4d711111d57",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Garaghak's Sewer",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#573921",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0cb41798-2835-499d-b437-d32887899041",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Gore-Grunta Fur",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C36D30",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9e1cab34-ca54-4338-8151-7e12563c07be",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Gryph-Charger Grey",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A1B1A7",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c8524bfe-fdb7-4b3c-9ed6-e6b62011d1e0",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Gryph-Hound Orange",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E06230",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3c1bffd7-4e73-4063-af17-37837868889a",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Guilliman Flesh",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E1B693",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a6b75d97-ce2a-4289-a91f-6628b39800b5",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Gutrippa Flesh",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C7CE81",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8f1cb0b1-f74b-464c-b81b-e7f78a5f8c28",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Hexwraith Flame",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9BD19F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "540f0095-6519-456b-b60a-9c2581077024",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Imperial Fist",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFE401",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "95df0eb5-1abc-43ca-b8c6-0080d474d58f",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Ironjawz Yellow",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E3C322",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "80371480-71fb-46c9-a649-dabb36804708",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Iyanden Yellow",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EEC43C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "af4128cd-3780-4d21-80de-da46616650c2",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Karandras Green",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#24B34A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "64c0db08-87c7-4048-a0da-51e68b1ab3e7",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Kroxigor Scales",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00AAA7",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d1b09df4-6feb-4f63-aa76-c87af0fe38a5",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Leviadon Blue",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3C5A76",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "22f9b5de-b804-4dee-9ea9-43a61030d232",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Leviathan Purple",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3C1F57",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1f509070-e7df-4fc1-ad78-5fadacc1e155",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Luxion Purple",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#603E92",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "34782d80-8ed3-48d1-879c-a516a0b6051d",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Magmadroth Flame",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EB512D",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b945bd92-bef5-4b9a-8cf6-cd9a1061bc44",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Magos Purple",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B47499",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "290ce66c-75ee-44d2-8db1-fbbeeaaded60",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Mantis Warriors Green",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A2A425",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7a08f717-0edb-4a2d-b022-97ac21b2f7e1",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Militarum Green",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#938F4F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "507b1c01-4db8-47bf-b5ce-30d6e0ac38c6",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Nazdreg Yellow",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EAB243",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cc955b13-decd-4fc5-94e6-7a8240786707",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Nighthaunt Gloom",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#56808C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "822cb6b9-a800-4c6f-9cae-1177b9b13843",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Ork Flesh",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#258A46",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ef393299-ce36-4513-8ecb-650e28f3268d",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Plaguebearer Flesh",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D9CF87",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2ee9b639-6fdd-4403-ba9e-8d48d18c5abb",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Pylar Glacier",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C6D4D4",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b4ba2b33-a09c-4428-8d04-c847aef31b14",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Ratling Grime",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#867559",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2056b9e4-0221-41c9-904a-b54a705c6eb9",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Shyish Purple",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#544059",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "019e23d4-97ad-4e03-9d78-f86ebffa96b9",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Sigvald Burgundy",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6E2753",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6913202d-f182-4ca5-ac5d-71cd1195914a",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Skeleton Horde",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C0A576",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "661bc8c4-9963-407b-a088-d309e07b3bd2",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Snakebite Leather",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BA812A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4cf0ea28-112e-4092-a1a4-4038146c8ac6",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Space Wolves Grey",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#899CA0",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4112b9d3-7bfa-4c21-9889-237c21d8b072",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Stormfiend",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1B6A8B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d049fd04-9370-422e-b971-c5273a5f9a0b",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Striking Scorpion Green",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#70BF52",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8566a6b5-8edc-40ba-9da3-2aaf5f336401",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Talassar Blue",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0386B4",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "47bcba52-38fc-478a-bb4a-7793d5f59b54",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Terradon Turquoise",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#008B86",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cb02ac5f-1b7d-48c3-ad4d-9aed76aa86ce",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Ultramarines Blue",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#365277",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c8b8fe7e-70c8-4d36-a589-58b2490be79a",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Volupus Pink",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C34877",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c936b6a3-d581-4b9a-9cbc-422f29bb4530",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Warp Lightning",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00934C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a74b6fc7-d370-4ed9-a075-365b2d407f7a",
+    "brand": "Citadel",
+    "range": "Contrast",
+    "code": null,
+    "name": "Wyldwood",
+    "type": "speedpaint",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5A4436",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  }
+]

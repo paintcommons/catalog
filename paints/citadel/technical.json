@@ -1,0 +1,362 @@
+[
+  {
+    "id": "8e748d53-0bf5-451d-93fc-d941c44f1628",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "'Ardcoat",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "037afda6-8792-4338-8f77-9425fb0e82fd",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Agrellan Badland",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A8927B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5a22149a-07dc-438f-a3bd-cea618df3098",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Agrellan Earth",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#775C47",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ab06331-ec7a-4002-a91f-6280d7b7a8da",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Armageddon Dunes",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E8D36F",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bc1311bb-6a1a-4aa9-91af-adf89bfa7f0f",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Armageddon Dust",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#93784D",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b9e23a3f-02d5-4c2e-9f71-a141b66ce8bf",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Astrogranite",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#45565B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f8bca9a5-3517-420f-b511-eb14aea46eb5",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Astrogranite Debris",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9D9D9D",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d94f589e-4b72-4af7-adda-9338ae60f369",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Blood for the Blood God",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8D1A1F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "77904761-55f1-478e-9fee-40881ca43c8e",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Contrast Medium",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dcba7d00-81be-45ae-b6a8-fc48fcb8e760",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Lahmian Medium",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "21036948-dd79-4dd3-981a-fdf43e08c5ea",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Martian Ironcrust",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8E403C",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "541661f6-f2e5-48ff-b2c4-a0a28965c3f3",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Martian Ironearth",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#79382F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "84deefca-4ab1-4236-92ad-1b49999b5a12",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Mordant Earth",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#090905",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ab14d41d-43ec-4d3e-b3cc-495d212b159e",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Nihilakh Oxide",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#529493",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7ba7fc61-4fc6-49af-84f0-320a453e932a",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Nurgle's Rot",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#878433",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c7b88d26-c501-430f-9d29-95f2efbec6e5",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Soulstone Blue",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1A5889",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c3592659-d4f4-4e23-a459-1eae1acfe3eb",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Spiritstone Red",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C62B20",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f802cc7a-e937-4a11-be87-90810f970e48",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Stirland Battlemire",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#70490D",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "06669d3a-0859-4583-9b38-9c08b839a2af",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Stirland Mud",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#443A39",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "10c54034-8f05-4497-98d7-76b4b351f0dc",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Stormshield",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b819b4d3-c835-4ca7-9932-27dc29d9d057",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Tesseract Glow",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9FCC3B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7bc7d271-d235-4bb6-976b-7d64d72a95bc",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Typhus Corrosion",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D3834",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8a6074aa-7c64-466c-ab9f-226141614f1e",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Valhallan Blizzard",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EAE6E5",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4254a275-3087-4eff-a77f-1d41ea3c55ee",
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Waystone Green",
+    "type": "effect",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00775B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  }
+]

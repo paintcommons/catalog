@@ -1,0 +1,3177 @@
+[
+  {
+    "id": "6fb033ef-c8a0-4059-91b8-2e80e21e5273",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-021",
+    "name": "Gnarlwood 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275458",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-gnarlwood-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#332928",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "42b8556e-54e5-4fbb-a746-455a173b6e16",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-022",
+    "name": "Gnarlwood 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275465",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-gnarlwood-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#504237",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c52720c0-37dd-4b9c-8cfc-1e3461ceea9f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-023",
+    "name": "Gnarlwood 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275472",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-gnarlwood-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#715D45",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "41641e0e-acac-4340-af8c-0d0319997f7d",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-024",
+    "name": "Gnarlwood 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275489",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-gnarlwood-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#756858",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4b42b40a-979b-4495-98c3-61c6cbe7533d",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-025",
+    "name": "Gnarlwood 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275496",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-gnarlwood-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#877A67",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "96f6df62-ba1d-425b-ac7c-ec6071792f92",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-031",
+    "name": "Khemri Sands 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275502",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-khemri-sands-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#6A4C18",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "31f9fdff-11b3-4f7d-8a4a-7a90bdde5478",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-032",
+    "name": "Khemri Sands 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275519",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-khemri-sands-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#895D16",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "929e20b6-4383-4d46-81bb-034d822a719e",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-033",
+    "name": "Khemri Sands 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275526",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-khemri-sands-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#AE7929",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "03393568-b4be-41fc-9f65-bd3ba21a2914",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-034",
+    "name": "Khemri Sands 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275533",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-khemri-sands-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#CA8415",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "686ad0aa-9236-4210-ba36-743f23628391",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-035",
+    "name": "Khemri Sands 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275540",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-khemri-sands-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#D89916",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c5ef1205-5b2e-45e3-bd6b-b86dd8aaac8d",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-051",
+    "name": "Necrolith Bone 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275557",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-necrolith-bone-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#867563",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "57ef0672-1ca0-4f37-99a8-f702c67118dc",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-052",
+    "name": "Necrolith Bone 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275564",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-necrolith-bone-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#AD916C",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cb793d97-5bbb-4606-b13d-6e3fa492fe38",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-053",
+    "name": "Necrolith Bone 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276424",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-necrolith-bone-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#B89F80",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7386c361-8837-4ce1-a917-f10af214f3e2",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-054",
+    "name": "Necrolith Bone 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276431",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-necrolith-bone-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#BFAB88",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a2a1e4bf-3352-473a-838b-0c3a05de9f30",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-055",
+    "name": "Necrolith Bone 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276448",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-necrolith-bone-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#BBB79E",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ac820000-3262-4a18-babe-b58849491af6",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-071",
+    "name": "Carthalos Skin 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276455",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-carthalos-skin-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#231814",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e60ab3a0-5889-4a4d-9ec2-9c3c47950021",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-072",
+    "name": "Carthalos Skin 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276462",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-carthalos-skin-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#2B140E",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "632430ff-a221-4049-90f5-088adebf0cab",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-073",
+    "name": "Carthalos Skin 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276479",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-carthalos-skin-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#4D2315",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5c10069e-1953-439d-bb9c-c746bbc1e01f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-074",
+    "name": "Carthalos Skin 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276486",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-carthalos-skin-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#5D3B39",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "13929036-fe18-4cda-a4ee-5cbc682df473",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-075",
+    "name": "Carthalos Skin 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276493",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-carthalos-skin-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#795549",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "77cc49ae-8197-474b-912d-4a5ee028b158",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-091",
+    "name": "Celestine Skin 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276509",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-celestine-skin-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#C9826C",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ec4d9de1-dbe7-4f06-80b1-7412ed4c55b8",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-092",
+    "name": "Celestine Skin 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276516",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-celestine-skin-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#D28C73",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f93b82e4-1f5d-47a3-98cd-832b006bbf78",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-093",
+    "name": "Celestine Skin 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276523",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-celestine-skin-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#D6967B",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "02f3c186-ca6f-40d8-8b2d-c35f73051297",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-094",
+    "name": "Celestine Skin 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276530",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-celestine-skin-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#E6A98D",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "babf5483-2417-4f84-ac12-45451880d66b",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-095",
+    "name": "Celestine Skin 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276547",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-celestine-skin-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#DBB39A",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3eb45f49-a6f9-44a7-b554-157588ad0c38",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-101",
+    "name": "Dataslate Grey 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276554",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-dataslate-grey-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#2B2D28",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "67115c20-b636-4697-8803-13c3e9234d5d",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-102",
+    "name": "Dataslate Grey 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276561",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-dataslate-grey-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#3D3D35",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "eca07cca-6ed6-40b7-9961-99aa3c26cff0",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-103",
+    "name": "Dataslate Grey 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276578",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-dataslate-grey-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#555650",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c0df1934-bb8a-487d-b435-b16552b91311",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-104",
+    "name": "Dataslate Grey 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276585",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-dataslate-grey-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#737069",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "290ec169-8436-43bb-a0e1-5d30acff6d08",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-105",
+    "name": "Dataslate Grey 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276592",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-dataslate-grey-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#878A83",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "01fad75e-f2c7-4bd9-87cc-ab6f26435fd1",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-121",
+    "name": "Blackstone Void 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921275878",
+        "source": "published",
+        "source_url": "https://www.milsims.com.au/20-121-warhammer-tone-pro-12ml-paint-pot-blackston"
+      },
+      {
+        "ean": "5011921276608",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-blackstone-void-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#010207",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "92c98f18-1e7e-424c-a600-a38fccea8238",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-122",
+    "name": "Blackstone Void 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276615",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-blackstone-void-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#4E5359",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1d15e8ab-d943-4239-8188-cda091f7b680",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-123",
+    "name": "Blackstone Void 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276622",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-blackstone-void-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#6F7074",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f448f69c-40a5-4faa-939b-f01fe00c1cb4",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-124",
+    "name": "Blackstone Void 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276639",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-blackstone-void-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#9C9D9F",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f1d87b24-78ad-4bcd-8406-078201a313a5",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-125",
+    "name": "Blackstone Void 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276646",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-blackstone-void-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9bdb4704-5413-4b5d-baf2-5ccdf0063a4a",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-141",
+    "name": "Carmine Blades 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276653",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-carmine-blades-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#3B2729",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a409b7c6-43e6-4fbf-b369-6ed4de868356",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-142",
+    "name": "Carmine Blades 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276660",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-carmine-blades-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#59363A",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "adfdadda-872a-4b75-a3ee-b89ab64f774c",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-143",
+    "name": "Carmine Blades 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276677",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-carmine-blades-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#72051C",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d938ee77-411c-44fe-b384-7e064f5d916b",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-144",
+    "name": "Carmine Blades 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276684",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-carmine-blades-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#8E0425",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1ea7f91e-197a-42ab-b4cc-01d155873aed",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-145",
+    "name": "Carmine Blades 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276691",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-carmine-blades-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#C15052",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "262b846a-c17b-42cc-96e2-62eb8c29bb2f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-151",
+    "name": "Bloodtoof Red 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276707",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-bloodtoof-red-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#561F18",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3d6328d0-0b71-4446-9fce-4821bd3b7aa8",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-152",
+    "name": "Bloodtoof Red 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276714",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-bloodtoof-red-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#8F0222",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "df5e23c6-dd2d-4187-96f3-7e658ca6d0ee",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-153",
+    "name": "Bloodtoof Red 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276721",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-bloodtoof-red-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#A9152F",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "501358a5-f12a-4b2e-ac0b-1975f432f178",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-154",
+    "name": "Bloodtoof Red 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276738",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-bloodtoof-red-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#CF1628",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2e5328a0-29db-4fb2-829b-978f331d9dee",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-155",
+    "name": "Bloodtoof Red 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276745",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-bloodtoof-red-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#EB3E44",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ba170829-9b68-4682-80ce-08ec0aeec228",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-171",
+    "name": "Chotec Orange 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276752",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-chotec-orange-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#8E1B14",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c568a0cb-a693-4efd-a449-d3dae4165f46",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-172",
+    "name": "Chotec Orange 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276769",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-chotec-orange-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#B43433",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2d922d74-86d0-43b9-8008-e33d9eddf975",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-173",
+    "name": "Chotec Orange 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276776",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-chotec-orange-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#DB4E3A",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7b2b69f1-089e-4694-a943-b641474d6405",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-174",
+    "name": "Chotec Orange 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276783",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-chotec-orange-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#EE6539",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c706f2ef-732c-461e-93be-fc47f399f46e",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-175",
+    "name": "Chotec Orange 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276790",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-chotec-orange-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#F1823B",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d4a799fe-39fa-4753-a77e-082d8ec4b7ac",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-181",
+    "name": "Ta'unar Ochre 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276806",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-taunar-ochre-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#B7572F",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8096dad0-6faf-478d-99ac-093efb233255",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-182",
+    "name": "Ta'unar Ochre 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276813",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-taunar-ochre-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#CF7249",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0af38982-68e8-4cb8-b14b-0804f5d173a0",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-183",
+    "name": "Ta'unar Ochre 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276820",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-taunar-ochre-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#E2834B",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0a96525c-08dd-4968-a662-7a458a09e427",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-184",
+    "name": "Ta'unar Ochre 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276837",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-taunar-ochre-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#E59C71",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "964ed240-056b-4bfe-88a6-f81accede47a",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-185",
+    "name": "Ta'unar Ochre 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276844",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-taunar-ochre-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#E6B072",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8ab2f72c-df22-4471-8ad6-20567f47252b",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-191",
+    "name": "Hawkshroud Yellow 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276851",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hawkshroud-yellow-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#F2922C",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "27a14c8c-2b3b-4486-bf60-aa9d3cfa497a",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-192",
+    "name": "Hawkshroud Yellow 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276868",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hawkshroud-yellow-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#F5A222",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2060a48e-e4c5-4a76-ad87-bb388813e7b9",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-193",
+    "name": "Hawkshroud Yellow 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276875",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hawkshroud-yellow-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#FABB14",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "83d53137-ee65-415c-9405-8b59ec6cb795",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-194",
+    "name": "Hawkshroud Yellow 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276882",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hawkshroud-yellow-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#FFD205",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e21d9a81-442e-47fd-9087-e113d39f3ca9",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-195",
+    "name": "Hawkshroud Yellow 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276899",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hawkshroud-yellow-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#FCDD83",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "66a503e1-ebd8-4494-9222-539f96d95560",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-201",
+    "name": "Megaboss Yellow 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276905",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-megaboss-yellow-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#F4AC1A",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5717a0e8-1c52-4573-912f-04e43ef60567",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-202",
+    "name": "Megaboss Yellow 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276912",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-megaboss-yellow-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#F4CD2A",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bc1046ae-8b68-4c6d-9dda-e7e1f42c5c46",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-203",
+    "name": "Megaboss Yellow 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276929",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-megaboss-yellow-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#FFE351",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "db43c30d-5d64-4134-836e-71c627f8603a",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-204",
+    "name": "Megaboss Yellow 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276936",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-megaboss-yellow-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#F6E768",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dd8509f3-d5ea-4ef6-89d0-778ed08eedfd",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-205",
+    "name": "Megaboss Yellow 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276950",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-megaboss-yellow-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#FFF07B",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "829fb411-06a3-4f11-ad19-412fc77ac33d",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-211",
+    "name": "Plague Toad Venom 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276967",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-plague-toad-venom-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#4D8732",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "75ab2332-e642-4028-9dc6-0b6d10558754",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-212",
+    "name": "Plague Toad Venom 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921276981",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-plague-toad-venom-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#599938",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "80e81097-61a9-4c89-9876-187140fd8343",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-213",
+    "name": "Plague Toad Venom 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277001",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-plague-toad-venom-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#84BF3F",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ce8d8aa8-e911-4296-9f64-74efb0689a93",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-214",
+    "name": "Plague Toad Venom 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277025",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-plague-toad-venom-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#9CC636",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2e469c76-a5fc-4e64-821b-d21ba499191f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-215",
+    "name": "Plague Toad Venom 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277049",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-plague-toad-venom-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#CAD425",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1db33f83-d2a6-40f7-8c5e-e170410e6028",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-221",
+    "name": "Kruleboyz Green 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277056",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-kruleboyz-green-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#4D7C38",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "eb6fb3cf-47cb-4a38-bc91-a9fcf7d1c8fa",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-222",
+    "name": "Kruleboyz Green 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277070",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-kruleboyz-green-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#617E3E",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "11f50b8a-e4c9-40e8-ba20-917c18be7c54",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-223",
+    "name": "Kruleboyz Green 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277094",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-kruleboyz-green-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#7B8143",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "22f0ac0b-dda5-4ac4-83fc-1ac86f87ef0f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-224",
+    "name": "Kruleboyz Green 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277100",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-kruleboyz-green-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#93975C",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2dc29b2c-f9d2-46b2-b204-27182a445998",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-225",
+    "name": "Kruleboyz Green 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277124",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-kruleboyz-green-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#AEAE6E",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dbf44d2f-de3e-45ee-87d3-e8ed35db5d7f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-251",
+    "name": "Lustria Green 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277148",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-lustria-green-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#014617",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "14c7201d-96c6-4400-8d37-0e3f7dbbb147",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-252",
+    "name": "Lustria Green 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277162",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-lustria-green-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#06682B",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "56176ef0-7674-4436-96aa-590f5701740b",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-253",
+    "name": "Lustria Green 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277186",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-lustria-green-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#037834",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b7d7a6fe-b6a7-4499-8b22-a99f13fdc57c",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-254",
+    "name": "Lustria Green 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277193",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-lustria-green-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#42AB46",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d891fdad-9b6c-44fd-ae8c-740015a79e7f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-255",
+    "name": "Lustria Green 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277216",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-lustria-green-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#55B144",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e035bec0-80b8-486a-a332-433799f35227",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-261",
+    "name": "Kasrkin Green 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277230",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-kasrkin-green-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#011B1C",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "89610dcd-e876-4ab7-ab5e-e126f8c93040",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-262",
+    "name": "Kasrkin Green 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277254",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-kasrkin-green-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#234431",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "72653dfe-cc8a-450b-951c-503a5953737a",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-263",
+    "name": "Kasrkin Green 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277261",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-kasrkin-green-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#42713D",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e96395d1-0792-4be8-9c37-b5030c816414",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-264",
+    "name": "Kasrkin Green 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277285",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-kasrkin-green-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#688D57",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e393f4c1-d74e-4a26-904c-f617bde022de",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-265",
+    "name": "Kasrkin Green 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277308",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-kasrkin-green-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#87A87B",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "55205615-37eb-4e29-846c-822fe376462f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-271",
+    "name": "Hierotek Green 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277322",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hierotek-green-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#00311C",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2a9dec30-9853-4462-9f9f-07a01b09f834",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-272",
+    "name": "Hierotek Green 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277339",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hierotek-green-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#035531",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5b121a89-a2f0-4fe7-a49f-ac398a35c08c",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-273",
+    "name": "Hierotek Green 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277353",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hierotek-green-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#006930",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d54d0ef8-c67e-442b-b28f-bc4166b78671",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-274",
+    "name": "Hierotek Green 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277377",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hierotek-green-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#01884E",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8de11537-f4fc-4c6b-aaa6-f2c0a0593343",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-275",
+    "name": "Hierotek Green 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277384",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hierotek-green-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#27B382",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2da8aecb-f426-4223-ada7-2c743930ca6b",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-281",
+    "name": "Green Morkshroom 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277407",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-green-morkshroom-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#183231",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "de350bee-5b1f-4d51-b3b8-7f73cab04f96",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-282",
+    "name": "Green Morkshroom 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277421",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-green-morkshroom-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#0B4D49",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8d288a1f-5183-4c79-91b0-28b0bd073c74",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-283",
+    "name": "Green Morkshroom 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277445",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-green-morkshroom-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#086258",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4118d90b-0ff4-4c6c-ba4e-8ae476569632",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-284",
+    "name": "Green Morkshroom 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277452",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-green-morkshroom-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#107A6C",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2c83eb8f-8788-4d65-b860-8dd3b93de396",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-285",
+    "name": "Green Morkshroom 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277476",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-green-morkshroom-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#21A784",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f3fe20f4-9e4c-4c3e-91b8-0d9cbf58005b",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-301",
+    "name": "Seraphon Blue 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277490",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-seraphon-blue-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#012E34",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4c0e06c9-c38b-4c55-9ae0-262348caf279",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-302",
+    "name": "Seraphon Blue 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277513",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-seraphon-blue-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#004650",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fbd463a1-3c8b-4b5e-9b3a-c5246a4515ea",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-303",
+    "name": "Seraphon Blue 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277520",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-seraphon-blue-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#006873",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8eb8e406-eaea-498c-8321-d1f2cfb22dd1",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-304",
+    "name": "Seraphon Blue 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277537",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-seraphon-blue-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#018C91",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c79a2757-77e4-4783-ba09-f4bfe4581177",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-305",
+    "name": "Seraphon Blue 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277544",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-seraphon-blue-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#00B6B9",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e9d54a99-84e5-44f7-b5a9-7c630040905f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-311",
+    "name": "Craventhrone Cloak 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277551",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-craventhrone-cloak-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#0B232D",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4d50d15b-44a6-4e2a-a713-d5f4aec96c80",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-312",
+    "name": "Craventhrone Cloak 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277568",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-craventhrone-cloak-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#16373E",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "41f78fd8-b64f-4c3a-9e5e-429667619a27",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-313",
+    "name": "Craventhrone Cloak 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277582",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-craventhrone-cloak-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#1A4857",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "81eed655-145c-495c-84e0-6a638f0ddf30",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-314",
+    "name": "Craventhrone Cloak 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277605",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-craventhrone-cloak-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#46707C",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3cb92d60-32aa-4a2f-894d-01b206eabdaf",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-315",
+    "name": "Craventhrone Cloak 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277612",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-craventhrone-cloak-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#5D8A8D",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6d410eec-91b5-43ee-8031-31bb3151daf9",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-331",
+    "name": "Stormwolf Blue 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277636",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-stormwolf-blue-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#263F55",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "68720965-ec8c-4354-b2e4-1b78fb4826b6",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-332",
+    "name": "Stormwolf Blue 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277643",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-stormwolf-blue-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#425566",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ff113212-89c4-4dee-8dbd-f096dd753520",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-333",
+    "name": "Stormwolf Blue 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277667",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-stormwolf-blue-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#56697A",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ba5c4e14-5827-4caf-91c7-5eed72d68ce5",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-334",
+    "name": "Stormwolf Blue 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277674",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-stormwolf-blue-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#7195A3",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5fc75b2b-c31e-41ad-800a-0c39654b9b89",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-335",
+    "name": "Stormwolf Blue 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921277698",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-stormwolf-blue-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#8AAFB8",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8e1d9c70-d974-4f8c-a900-cd0112a3dde5",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-341",
+    "name": "Scinari Blue 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278046",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-scinari-blue-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#014888",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "97cb0ef3-c5f3-451d-8dd0-35d64d0697f9",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-342",
+    "name": "Scinari Blue 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278060",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-scinari-blue-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#005993",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f89852fc-44e0-45c3-ab8b-ebb033290173",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-343",
+    "name": "Scinari Blue 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278077",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-scinari-blue-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#006D98",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f6990ee6-0f75-402c-9259-eba1b8f7fcfb",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-344",
+    "name": "Scinari Blue 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278084",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-scinari-blue-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#0088B8",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c87ed962-a33d-49c8-817c-483dab7d64e1",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-345",
+    "name": "Scinari Blue 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278091",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-scinari-blue-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#0099B8",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5684475c-4dd6-4319-a2e6-2c0b73712a92",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-351",
+    "name": "Blue Gorkshroom 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278107",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-blue-gorkshroom-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#002456",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f64b2d5b-3c01-4211-af7a-5782d553b22c",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-352",
+    "name": "Blue Gorkshroom 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278114",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-blue-gorkshroom-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#004586",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "44cfd788-8c3a-42d6-aec4-70e634ca7f07",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-353",
+    "name": "Blue Gorkshroom 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278121",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-blue-gorkshroom-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#0058A0",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bf642b09-1f62-4598-b163-fc3b4a715e1d",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-354",
+    "name": "Blue Gorkshroom 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278138",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-blue-gorkshroom-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#006EAD",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6e5653f2-1b6f-448a-8fd3-7c43f90e240f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-355",
+    "name": "Blue Gorkshroom 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278145",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-blue-gorkshroom-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#007CB0",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1cd1db8e-8d34-4ffe-8da2-8cea61a4a8ef",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-361",
+    "name": "Ultramar Blue 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278152",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-ultramar-blue-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#011A42",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "442b9e02-c624-4227-944c-bb593e3b5212",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-362",
+    "name": "Ultramar Blue 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278169",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-ultramar-blue-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#163261",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8e96c2d5-2e73-40f3-8648-9875ef929d6f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-363",
+    "name": "Ultramar Blue 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278176",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-ultramar-blue-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#1B5086",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "44c612fc-1453-4477-9d4e-6dca67f4e106",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-364",
+    "name": "Ultramar Blue 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278183",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-ultramar-blue-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#476CA0",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5ea3219c-408e-4a92-9142-c4b6675ce426",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-365",
+    "name": "Ultramar Blue 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278190",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-ultramar-blue-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#729ECD",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a53a3853-5d79-4f05-be52-0a4cb800cc02",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-371",
+    "name": "Shalaxi Violet 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278206",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-shalaxi-violet-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#150341",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c500d9d6-e6ee-4deb-8dcc-d4b60c6d2edb",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-372",
+    "name": "Shalaxi Violet 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278213",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-shalaxi-violet-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#273069",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0f26b68c-e1d8-453c-9d23-15cdff142782",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-373",
+    "name": "Shalaxi Violet 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278220",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-shalaxi-violet-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#355097",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a97a7a5f-a615-4b38-bc77-eafc225c4c3e",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-374",
+    "name": "Shalaxi Violet 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278237",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-shalaxi-violet-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#6673B7",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ea7ccb6e-1007-4fac-8d19-6610b984d385",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-375",
+    "name": "Shalaxi Violet 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278244",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-shalaxi-violet-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#808CC6",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d1bc71f9-5fc3-4504-99c7-f013917b8705",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-381",
+    "name": "Enrapturess Dusk 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278251",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-enrapturess-dusk-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#1E1534",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2f50c38f-3de8-4031-a143-0bc316431dda",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-382",
+    "name": "Enrapturess Dusk 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278268",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-enrapturess-dusk-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#3F3649",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3c353385-97d3-4b2e-9eeb-e95a88d989d2",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-383",
+    "name": "Enrapturess Dusk 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278275",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-enrapturess-dusk-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#544D5D",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "07ddf458-3cf8-4e2a-be74-cb296082e3c3",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-384",
+    "name": "Enrapturess Dusk 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278282",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-enrapturess-dusk-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#6E6673",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1550201d-5bdb-464a-8854-fc03994dfc46",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-385",
+    "name": "Enrapturess Dusk 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278299",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-enrapturess-dusk-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#817986",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ef1f41db-6661-4480-83fd-2a96e1df22b8",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-391",
+    "name": "Hive Fleet Purple 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278305",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hive-fleet-purple-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#1F1B3E",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "346f2ac8-aa2b-4dee-93ab-6c2f5df44ce5",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-392",
+    "name": "Hive Fleet Purple 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278312",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hive-fleet-purple-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#3B2053",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "413d2ed7-0880-429c-9b61-9f2131eedad7",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-393",
+    "name": "Hive Fleet Purple 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278329",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hive-fleet-purple-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#675593",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1b5a02e2-d849-42dd-aead-0c1984838a0f",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-394",
+    "name": "Hive Fleet Purple 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278336",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hive-fleet-purple-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#856AAF",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "24a13f17-cf48-4764-81d8-7f42a18187b4",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-395",
+    "name": "Hive Fleet Purple 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278343",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-hive-fleet-purple-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#8F82AD",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "583c1950-a742-4cbc-bdbe-fe7d4f12fe63",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-401",
+    "name": "Magnus The Red 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278350",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-magnus-the-red-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#39212F",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ec9cd473-9a16-45f9-8d0b-e9578190e3a2",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-402",
+    "name": "Magnus The Red 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278367",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-magnus-the-red-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#49143E",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "25b80ff1-2374-4c7e-a6e1-801cba617fdd",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-403",
+    "name": "Magnus The Red 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278374",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-magnus-the-red-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#720A3F",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4f443843-fe4d-478b-959e-691dd3dd0458",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-404",
+    "name": "Magnus The Red 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278381",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-magnus-the-red-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#952259",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "84934958-3d53-4a37-a93d-fcf275d78302",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-405",
+    "name": "Magnus The Red 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278398",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-magnus-the-red-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#A64676",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "88193cf1-dab9-4bca-8ada-2b819a117b4d",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-411",
+    "name": "Eye Of Terror 1",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278404",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-eye-of-terror-1-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#900232",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "796c69e1-58b9-4f3d-9da7-a93d45431e43",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-412",
+    "name": "Eye Of Terror 2",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278411",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-eye-of-terror-2-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#B90D49",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4790ccbe-e94d-4977-b3e9-e7d280aa64d9",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-413",
+    "name": "Eye Of Terror 3",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278428",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-eye-of-terror-3-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#BD1261",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "adf660e7-763b-4602-8224-fdd83df6efc3",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-414",
+    "name": "Eye Of Terror 4",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278435",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-eye-of-terror-4-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#CD477C",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "865a3b30-bf78-4323-a1af-a32536a2bdc7",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": "20-415",
+    "name": "Eye Of Terror 5",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5011921278442",
+        "source": "published",
+        "source_url": "https://atlantis-comics.com/products/warhammer-colour-tone-pro-eye-of-terror-5-12-ml"
+      }
+    ],
+    "colour": {
+      "hex": "#D76998",
+      "gradient": null,
+      "source": "warhammer-tone-pro-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "300c15c7-a77b-4e42-a171-8545f2282b34",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": null,
+    "name": "Blending Medium",
+    "type": "medium",
+    "barcodes": [],
+    "status": "current"
+  },
+  {
+    "id": "1fbfeaab-d038-42df-9c2c-05931711446a",
+    "brand": "Citadel",
+    "range": "Tone Pro",
+    "code": null,
+    "name": "Shading Medium",
+    "type": "medium",
+    "barcodes": [],
+    "status": "current"
+  }
+]

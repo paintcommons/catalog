@@ -1,0 +1,92 @@
+[
+  {
+    "id": "e95b9d2e-e8e2-4514-b716-93124004143b",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Metallic",
+    "code": null,
+    "name": "Bright Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FECA03",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cdefeb38-06b2-4c4c-8c57-1d1a6287f1ee",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Metallic",
+    "code": null,
+    "name": "Death Metal",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#443E32",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6da16d13-75d2-4daf-b572-76e7335c3d51",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Metallic",
+    "code": null,
+    "name": "Gun Metal",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#828483",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f8026706-63bc-40d8-9fb9-95a3d103bfbf",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Metallic",
+    "code": null,
+    "name": "Mithril",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "545344a5-f70a-4f1c-8c5d-66c89a0c32ed",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Metallic",
+    "code": null,
+    "name": "True Brass",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C7BAA4",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fbf8dc32-50c4-44c4-a14a-e936174da1c1",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Metallic",
+    "code": null,
+    "name": "True Copper",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CE8252",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  }
+]

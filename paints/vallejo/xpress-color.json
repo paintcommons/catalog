@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "2a7e63dc-68f4-44a7-bc79-9823d7d73a55",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.401",
+    "name": "Templar White",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724012",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C0C5C4",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "50be2b01-1223-463e-9c27-2651cd8136ba",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.402",
+    "name": "Dwarf Skin",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724029",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#75392C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c53076ab-7fbc-487b-88c3-23e2fa3171a6",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.403",
+    "name": "Imperial Yellow",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724036",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F39D28",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "25640484-aaae-4652-b060-743041826b84",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.404",
+    "name": "Nuclear Yellow",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724043",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DA8618",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "891e89db-3cb9-4085-8819-27f5f4fc5bf2",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.405",
+    "name": "Martian Orange",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724050",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C7411A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fbd4c450-a498-4519-a6cc-1574a305f001",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.406",
+    "name": "Plasma Red",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724067",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9F2822",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "79f36094-9bfa-4eee-b2e2-765eb05dfb6b",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.407",
+    "name": "Velvet Red",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724074",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#762729",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f561a975-a140-40bf-bc4d-3cf763006d39",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.408",
+    "name": "Cardinal Purple",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724081",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C01B28",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "60e53bc9-c421-43ac-9124-35b544892815",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.409",
+    "name": "Deep Purple",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724098",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#68293D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e24ce082-d5c5-4539-8986-f0acd1b1fb6c",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.410",
+    "name": "Gloomy Violet",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724104",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#452E57",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "385ffab0-8ace-4706-9615-a427cdcc7d4f",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.411",
+    "name": "Mystic Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724111",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#144278",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "630d7a0e-90c0-4815-a37d-29e47ce13bb6",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.412",
+    "name": "Storm Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724128",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#323875",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a364f634-6338-4be5-bdf8-34a2696321fb",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.413",
+    "name": "Omega Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724135",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#373254",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4860852c-fddf-4712-bca0-18ef0d240cc1",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.414",
+    "name": "Caribbean Turquoise",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724142",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#004E59",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "93541e3e-5d91-4468-a203-117f26c0e7df",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.415",
+    "name": "Orc Skin",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724159",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#576F30",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "42f50f82-088a-47e9-934b-a37febd51eca",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.416",
+    "name": "Troll Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724166",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#005930",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f763d288-7753-47c1-bbb5-fde20a9e4d0e",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.417",
+    "name": "Snake Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724173",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#005540",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "20a35b7b-bb55-48cf-88ca-c32e2621d5f7",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.418",
+    "name": "Lizard Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724180",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#223629",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "779aad88-61a4-4a0d-a7c8-1725da81e116",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.419",
+    "name": "Plague Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724197",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#46472B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aa88b971-31cb-451e-af3b-59cba14b1efa",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.420",
+    "name": "Wasteland Brown",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724203",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5B3D23",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d69a0048-eeac-4ce5-9296-72925f65be9c",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.421",
+    "name": "Copper Brown",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724210",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4C2922",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e42aa60e-328c-4328-8202-687b1c76fc7c",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.422",
+    "name": "Space Grey",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724227",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2F575B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cbfe0abd-ee36-4401-bc8c-ee64d5eb8c91",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.423",
+    "name": "Black Lotus",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724234",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#292220",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8ec49e10-312a-4a4d-b379-011217398af8",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.448",
+    "name": "Xpress Medium",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724487",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d887a18a-06e1-4304-8fa4-a82586de01f0",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.449",
+    "name": "Mummy White",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724494",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AC9073",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c974fbf9-4c70-429e-bf53-5ad64c8d1fd9",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.450",
+    "name": "Bag of Bones",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724500",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A17F4F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6c8e5e39-4809-42ef-8f64-5554500aa8cc",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.451",
+    "name": "Khaki Drill",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724517",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A87944",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e3151527-b85b-4444-b81f-6a540478d863",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.452",
+    "name": "Rotten Flesh",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724524",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6A592B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "eb7c3b1d-3a7d-496d-9b17-d447ddbd18a7",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.453",
+    "name": "Military Yellow",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724531",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#745128",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "052e9ac6-7bbc-4388-b5b7-288f7b008c4b",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.454",
+    "name": "Desert Ochre",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724548",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8A5323",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1a1a3cc4-a553-4199-94b6-99b7bb20fa92",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.455",
+    "name": "Chameleon Orange",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724555",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C05229",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2250ddf0-ecd1-465d-af42-0c3704900f85",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.456",
+    "name": "Wicked Purple",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724562",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#67575B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "60c0a314-82dc-4649-8b3f-95333aaf6784",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.457",
+    "name": "Fairy Skin",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724579",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BC7868",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "61a217be-2e8c-4417-aebc-a6ffab9cd209",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.458",
+    "name": "Demonic Skin",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724586",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7B4040",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5ac25d2b-888e-43ba-a13a-dc4c60f50986",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.459",
+    "name": "Fluid Pink",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724593",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9F427A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2722dd63-44bc-4582-9ff5-6d1b7d188ca7",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.460",
+    "name": "Twilight Rose",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724609",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#653A4B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6958f8d9-212d-408d-855a-872434bfc759",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.461",
+    "name": "Vampiric Purple",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724616",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#452754",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6d0b505d-d835-4cba-b25b-05e87f3a1b52",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.462",
+    "name": "Starship Steel",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724623",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#45656B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d354bc64-c3d2-4422-9246-121fa83c8c74",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.463",
+    "name": "Iceberg Grey",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724630",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#414F62",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "895b4358-9acf-4754-a0cb-45cd29678ee1",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.464",
+    "name": "Wagram Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724647",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#0A3E57",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ceb8a944-6f7e-45c9-bd2f-95537c963da6",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.465",
+    "name": "Forest Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724654",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#16582E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "89b52d87-f7d1-42fd-afb1-65e3e7055baa",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.466",
+    "name": "Armor Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724661",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1F3C2C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "11dca03b-0947-42d8-aaad-0ea20e37acab",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.467",
+    "name": "Camouﬂ age Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724678",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#544E31",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "019bd2a8-c26b-41c5-b955-b0a49225ee57",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.468",
+    "name": "Commando Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724685",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#34433C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bdd28213-ffa3-46b9-8424-6c8337661a96",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.469",
+    "name": "Landser Grey",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724692",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#49443F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9933b001-fe9e-4c63-9d5b-772172df4423",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.470",
+    "name": "Zombie Flesh",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724708",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#765D51",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3c7da94f-e098-4487-b8be-c21990f743bf",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.471",
+    "name": "Tanned Skin",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724715",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#703A2B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7d601ead-39f4-4ad6-8729-dfd0c02cc0f6",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.472",
+    "name": "Mahogany",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724722",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4F342D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d1cfb3f7-067b-4c40-b963-9a14b2401a98",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.473",
+    "name": "Battledress Brown",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724739",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#534231",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a825198c-3eef-44dc-8ef4-f0721001fc5b",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.474",
+    "name": "Willow Bark",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724746",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3F2F27",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0e596e9f-14be-4626-b6b8-5e8065a12e36",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.475",
+    "name": "Muddy Ground",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724753",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3D2923",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1faa944b-1705-4aa9-86ab-f694b48039ea",
+    "brand": "Vallejo",
+    "range": "Xpress Color",
+    "code": "72.476",
+    "name": "Greasy Black",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "8429551724760",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3B3130",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

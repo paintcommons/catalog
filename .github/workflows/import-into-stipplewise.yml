@@ -1,0 +1,68 @@
+name: Import into Stipplewise
+
+# Sends merged changes to Stipplewise. Each changed field is applied only if Stipplewise still has
+# the value the change started from; anything refused is listed in an issue.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  import:
+    # The hourly sync's own commits came from Stipplewise, so there's nothing to send back.
+    if: github.event_name == 'workflow_dispatch' || github.event.head_commit.author.name != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check the data
+        run: node scripts/validate.mjs
+      - name: Work out the changes
+        env:
+          BEFORE: ${{ github.event.before }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          HEAD_SHA="$GITHUB_SHA"
+          if [ "$GITHUB_EVENT_NAME" = "push" ] && [ -n "$BEFORE" ] && ! echo "$BEFORE" | grep -q '^0*$'; then BASE="$BEFORE"; else BASE="$HEAD_SHA"; fi
+          node scripts/diff-for-import.mjs "$BASE" "$HEAD_SHA" > "$RUNNER_TEMP/changes.json"
+          PR_URL=$(gh api "repos/$GITHUB_REPOSITORY/commits/$HEAD_SHA/pulls" --jq '.[0].html_url // ""' 2>/dev/null || true)
+          echo "PR_URL=$PR_URL" >> "$GITHUB_ENV"
+          echo "Changes from $BASE to $HEAD_SHA: $(node -e 'console.log(JSON.parse(require("fs").readFileSync(process.argv[1])).length)' "$RUNNER_TEMP/changes.json")"
+      - name: Send them to Stipplewise
+        env:
+          CATALOG_SYNC_SECRET: ${{ secrets.CATALOG_SYNC_SECRET }}
+          AUTHOR: ${{ github.event.head_commit.author.username || github.actor }}
+        run: |
+          node -e '
+            const fs = require("fs");
+            const body = { commit: process.env.GITHUB_SHA, author: process.env.AUTHOR, pr_url: process.env.PR_URL || null,
+              changes: JSON.parse(fs.readFileSync(process.argv[1])) };
+            fs.writeFileSync(process.argv[2], JSON.stringify(body));' "$RUNNER_TEMP/changes.json" "$RUNNER_TEMP/body.json"
+          curl -fsS --retry 3 --max-time 120 -X POST \
+            -H "Authorization: Bearer $CATALOG_SYNC_SECRET" -H "Content-Type: application/json" \
+            --data-binary "@$RUNNER_TEMP/body.json" -o "$RUNNER_TEMP/result.json" \
+            https://ibexwyfkzydpgdzkgoma.supabase.co/functions/v1/catalog-import
+      - name: Report
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set +e
+          node scripts/import-report.mjs "$RUNNER_TEMP/result.json" "$GITHUB_SHA" "$PR_URL"
+          STATUS=$?
+          set -e
+          if [ -f import-issue.md ]; then
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "Changes not imported into Stipplewise (${GITHUB_SHA:0:7})" --body-file import-issue.md
+          fi
+          exit $STATUS

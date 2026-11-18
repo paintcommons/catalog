@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c8f92f11-fccf-474c-9e56-cfc3190c83e2",
+    "brand": "The Army Painter",
+    "range": "Zombicide Paint Set",
+    "code": "WP1253",
+    "name": "Crushed Skull",
+    "type": "acrylic",
+    "barcodes": [],
+    "status": "current"
+  },
+  {
+    "id": "b94a7827-8f70-407d-b953-a08b5f399222",
+    "brand": "The Army Painter",
+    "range": "Zombicide Paint Set",
+    "code": "WP1254",
+    "name": "Goblin Skin",
+    "type": "acrylic",
+    "barcodes": [],
+    "status": "current"
+  },
+  {
+    "id": "97046239-b076-4004-84d3-0b091bee4945",
+    "brand": "The Army Painter",
+    "range": "Zombicide Paint Set",
+    "code": null,
+    "name": "Horde Shader",
+    "type": "wash",
+    "barcodes": [],
+    "status": "current"
+  },
+  {
+    "id": "3643fa87-2dba-4182-8940-80c6c4a035e9",
+    "brand": "The Army Painter",
+    "range": "Zombicide Paint Set",
+    "code": null,
+    "name": "Orc Skin",
+    "type": "acrylic",
+    "barcodes": [],
+    "status": "current"
+  },
+  {
+    "id": "04b06434-ca6b-4360-a489-06f7ec47851c",
+    "brand": "The Army Painter",
+    "range": "Zombicide Paint Set",
+    "code": null,
+    "name": "Pale Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "status": "current"
+  },
+  {
+    "id": "58050bd1-9ac1-4e97-8366-590ae6ffd8ee",
+    "brand": "The Army Painter",
+    "range": "Zombicide Paint Set",
+    "code": null,
+    "name": "Rough Iron",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A3C29",
+      "gradient": null,
+      "source": "army-painter-fanatic-equivalent"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "890d0b1b-859f-4493-a379-318408c5337f",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.161",
+    "name": "Sterling Silver",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771610",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BDC7CB",
+      "gradient": [
+        "#D6DEDF",
+        "#D1D9DA",
+        "#C6CFD2",
+        "#BDC7CB",
+        "#B4C3C8",
+        "#B4C3C8",
+        "#B4C3C8"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cad82f50-35df-47c3-af14-ef5f56a03903",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.162",
+    "name": "Radiant Yellow",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771627",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E7B509",
+      "gradient": [
+        "#FBDE75",
+        "#F7D96D",
+        "#F1CB49",
+        "#ECBF24",
+        "#E7B511",
+        "#E7B411",
+        "#E7B411"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7c7d201e-5e91-423a-b085-29081a423a6c",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.163",
+    "name": "Imperial Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771634",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CE9056",
+      "gradient": [
+        "#DFAF75",
+        "#DFAE75",
+        "#D69F65",
+        "#CE9056",
+        "#C88247",
+        "#C88143",
+        "#C88141"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9f66e44a-524d-4530-8a6b-a1b2987feaf1",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.164",
+    "name": "Ancient Copper",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771641",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D66823",
+      "gradient": [
+        "#E3A57D",
+        "#E1A478",
+        "#DE915A",
+        "#DB7D3E",
+        "#D66823",
+        "#D36421",
+        "#D06120"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8aa1931e-4587-4f24-a27b-495e6c2845f5",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.165",
+    "name": "Forged Red",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771658",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CA462F",
+      "gradient": [
+        "#E39878",
+        "#E29675",
+        "#D97B59",
+        "#D26040",
+        "#CA4632",
+        "#C94532",
+        "#C94532"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "60c22772-d1df-4583-acdc-0d78dcc8f69b",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.166",
+    "name": "Ruby Red",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771665",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BB1B38",
+      "gradient": [
+        "#D28070",
+        "#D27C6E",
+        "#CB5D59",
+        "#C23D46",
+        "#BB1B38",
+        "#B61936",
+        "#B11835"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6b202b5b-2ae0-4e1f-a558-049f18ffe487",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.167",
+    "name": "Crimson Magenta",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771672",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B64681",
+      "gradient": [
+        "#DF8DB2",
+        "#D782A9",
+        "#C86797",
+        "#BB5087",
+        "#B74881",
+        "#B74881",
+        "#B74881"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4d3350a1-ecff-4138-9145-cb9ff9fad1e9",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.168",
+    "name": "Amethyst Purple",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771689",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9F60A1",
+      "gradient": [
+        "#AE80B5",
+        "#AE7EB3",
+        "#A66EAA",
+        "#9E5FA1",
+        "#975098",
+        "#954E97",
+        "#954D97"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "542acd93-1424-4e4f-9ce9-f43a3f5ea4dd",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.169",
+    "name": "Celestial Violet",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771696",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#744090",
+      "gradient": [
+        "#A090C2",
+        "#9D8ABD",
+        "#8F70AD",
+        "#81579E",
+        "#754090",
+        "#713E8C",
+        "#6D3D88"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b93be979-eff6-4d51-a299-be5d5e7fddce",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.170",
+    "name": "Ultramarine Blue",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771702",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2E5380",
+      "gradient": [
+        "#6782A2",
+        "#617C9C",
+        "#4C698D",
+        "#3A5983",
+        "#2E5583",
+        "#2E5583",
+        "#2E5583"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8d8df21b-36c3-4deb-8667-591103ec1e28",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.171",
+    "name": "Sapphire Blue",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771719",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#0079A8",
+      "gradient": [
+        "#398EBD",
+        "#2A8CB6",
+        "#0081AD",
+        "#0078A6",
+        "#0075A6",
+        "#0075A6",
+        "#0075A6"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "165b38c0-0e80-4c39-b326-c6a8613aa955",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.172",
+    "name": "Hydra Turquoise",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771726",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#007C98",
+      "gradient": [
+        "#44A2C2",
+        "#329DBD",
+        "#0090B0",
+        "#0086A4",
+        "#007C98",
+        "#007994",
+        "#007790"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a69c9ded-9e9c-48f5-80ac-90765145b431",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.173",
+    "name": "Beetle Green",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771733",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#008B71",
+      "gradient": [
+        "#88BCA9",
+        "#7CB39F",
+        "#53A28C",
+        "#1C937B",
+        "#008C72",
+        "#008C72",
+        "#008C72"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2d66e3cc-fc29-4139-9143-3b70c0dcc297",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.174",
+    "name": "Dusken Green",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771740",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2E5A37",
+      "gradient": [
+        "#6B937F",
+        "#62876D",
+        "#4F7657",
+        "#3E6745",
+        "#305A37",
+        "#305936",
+        "#305936"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "effaea9d-e7b1-4c7b-9f39-443df462f2f0",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.175",
+    "name": "Amber Green",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771757",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#54732E",
+      "gradient": [
+        "#90A270",
+        "#859A65",
+        "#748B4F",
+        "#647E3C",
+        "#547332",
+        "#517332",
+        "#4F7332"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3be5b543-8337-47c3-9818-e2f722ad4694",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.176",
+    "name": "Greenish Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771764",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7E6F2F",
+      "gradient": [
+        "#B6AE6A",
+        "#B2AA66",
+        "#9F9550",
+        "#8E813B",
+        "#7E6F34",
+        "#7D6D34",
+        "#7C6B34"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b5470557-b2d4-4fc2-85cd-e408bfb24ffa",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.177",
+    "name": "Arcane Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771771",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#97641C",
+      "gradient": [
+        "#C19975",
+        "#BB9268",
+        "#AE804A",
+        "#A27131",
+        "#976420",
+        "#96631F",
+        "#95631F"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "954d345d-826b-481b-b263-e0a6800c2ded",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.178",
+    "name": "Rusty Metal",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771788",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#80593E",
+      "gradient": [
+        "#A58A74",
+        "#9F826B",
+        "#94735A",
+        "#8A664B",
+        "#80593F",
+        "#80593F",
+        "#80593F"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6a430231-acf0-4cdc-bc16-cf2bc6b7ab6c",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.179",
+    "name": "Aged Metal",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771795",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#625832",
+      "gradient": [
+        "#7E785B",
+        "#797251",
+        "#6C6440",
+        "#615831",
+        "#595028",
+        "#595028",
+        "#595028"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3b9c221c-eeed-423e-b72f-a35a74d50585",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Airbrush",
+    "code": "77.180",
+    "name": "Obsidian Black",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771801",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#383C3B",
+      "gradient": [
+        "#6F7071",
+        "#686A6A",
+        "#575959",
+        "#474A4A",
+        "#393C3C",
+        "#353837",
+        "#303332"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

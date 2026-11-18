@@ -1,0 +1,3257 @@
+[
+  {
+    "id": "952cc145-ff4a-4945-aa3f-c977193b6a6d",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3001",
+    "name": "Matt Black",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799300101",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "329d58a5-8504-4924-a550-aa5c8e114e31",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3002",
+    "name": "Deep Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799300200",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#535663",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "120750e6-a172-4f57-8280-0eebf231985d",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3003",
+    "name": "Uniform Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799300309",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#727880",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a906b029-20f6-4fb8-af49-d7081119984c",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3004",
+    "name": "Ash Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799300408",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8F9294",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fc48ae0f-31e9-43a7-ae9c-77166ba796f2",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3005",
+    "name": "Company Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799300507",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C5C6C9",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "835b322f-4715-4208-bfa4-37e8d0af6dbc",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3006",
+    "name": "Brigade Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799300606",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D8D8DA",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "80711665-9ae0-42b7-96c0-57eb141ad25e",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3007",
+    "name": "Grey Castle",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799300705",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9B9A8F",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aa11ade2-571a-40a9-b832-4486085d7a92",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3008",
+    "name": "Gargoyle Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799300804",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B1AC9C",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7da64fc2-585d-4d9b-ab0a-7d9da2782d1e",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3009",
+    "name": "Great Hall Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799300903",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C4BDAF",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ed03e85-73cd-40b6-8aa7-c90a4f8a9478",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3010",
+    "name": "Worn Stone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799301009",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CBC8B8",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0a48e4ad-6fa0-4fa4-bad7-b33046383612",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3011",
+    "name": "Brainmatter Beige",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799301108",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E4E2D8",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3e81d73e-1fd6-4ec4-89f9-ede640e04a95",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3012",
+    "name": "Matt White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799301207",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ef520854-48e3-45be-a140-0613309a56b1",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3013",
+    "name": "Night Sky",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799301306",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#394858",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1f6e3804-0342-4ab9-b86d-bb27e16664d2",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3014",
+    "name": "Thunderous Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799301405",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#355577",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e9331cb1-50ff-41ad-8820-ada5e1644aa7",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3015",
+    "name": "Stratos Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799301504",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#32628E",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "36955ef9-4961-4793-882c-d730c2cd20a1",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3016",
+    "name": "Wolf Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799301603",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#577CA4",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c963cc1a-51a0-494c-8681-4592365e5069",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3017",
+    "name": "Runic Cobalt",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799301702",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7B97B3",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5a067a91-9356-4baa-bfc7-c577db4a6f07",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3018",
+    "name": "Frost Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799301801",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A5C2DE",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b2c40a57-de49-41f4-ac0e-d50be8900b76",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3019",
+    "name": "Triumphant Navy",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799301900",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1B2B52",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "620b5108-e217-4419-bac0-fe0394d16850",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3020",
+    "name": "Gothic Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799302006",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2A3971",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cd2b1a81-9639-4813-9dfe-676bc22fde00",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3021",
+    "name": "Ultramarine Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799302105",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#264587",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ec4aad4e-f570-419d-9146-a39e69a6896d",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3022",
+    "name": "Alpha Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799302204",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#697BB9",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "724b9dd1-db0e-45b3-aed7-64df1f9d9294",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3023",
+    "name": "Baron Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799302303",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8497CA",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1a9f67d0-2848-499e-a7d4-490ce942f29b",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3024",
+    "name": "Augur Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799302402",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B6C3E3",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b47a530b-7f1e-42d8-ad68-7b0041683bb5",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3025",
+    "name": "Imperial Navy",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799302501",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#003560",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5a89058a-c50b-40be-96cd-0eaeda0d9f34",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3026",
+    "name": "Regal Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799302600",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#004A84",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f6083de5-2877-485a-be40-22510e10512c",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3027",
+    "name": "Royal Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799302709",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#0057A5",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ce654dfb-1a51-47b4-8707-0d99148d6995",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3028",
+    "name": "Crystal Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799302808",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#006CB4",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "64668561-f930-4a75-85bf-4963b85588aa",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3029",
+    "name": "Arctic Gem",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799302907",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#0190CE",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "02bf66aa-4b4d-433d-bfa7-f9f1b4c34f1a",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3030",
+    "name": "Bright Sapphire",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799303003",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#94CFF0",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e90c6166-d42a-409c-88da-2e83c75cc804",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3031",
+    "name": "Deep Ocean Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799303102",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#223242",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "602a2098-a075-4682-9853-7c1a055bb5ce",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3032",
+    "name": "Abyssal Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799303201",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#004F6B",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "31fbb4c8-7644-4c93-9eae-4ab6fa20c18e",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3033",
+    "name": "Tidal Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799303300",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#006A93",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f27f6318-664b-4a59-8c9f-48a505d436d0",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3034",
+    "name": "Phalanx Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799303409",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#0086AD",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5a74e0d3-5326-4d16-b29c-6632a6b69318",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3035",
+    "name": "Shieldwall Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799303508",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#009FC7",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a0c8f621-870b-4d50-81f5-9328e2cef0be",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3036",
+    "name": "Aegis Aqua",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799303607",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#41AFD1",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "36b53c7c-22ca-4a71-9e36-c941c7653b47",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3037",
+    "name": "Deep Azure",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799303706",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#006A78",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "88ad56ad-f560-4b43-9f7a-d37d73b5ad21",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3038",
+    "name": "Hydra Turquoise",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799303805",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#008F94",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cb650d91-2fb7-4403-b3d1-dc5a42c72605",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3039",
+    "name": "Turquoise Siren",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799303904",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#28ADB4",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0a078b3b-f21a-4e07-946e-37dc3a392523",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3040",
+    "name": "Aquamarine",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799304000",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5CC1C7",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bf21e568-07b6-499a-9536-df1fd0448a03",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3041",
+    "name": "Neptune Glow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799304109",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#80CBD1",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "80406b66-5308-47db-afa8-ab18f9d41df8",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3042",
+    "name": "Marine Mist",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799304208",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9ED5D3",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4386653d-f726-4b7a-85b7-9fd3e8d766c9",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3043",
+    "name": "Scarab Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799304307",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1F3C42",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b7b24798-c1e1-4504-92b2-bfcc97635afc",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3044",
+    "name": "Temple Gate Teal",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799304406",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#005E4F",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bad87bd1-0d64-4597-a960-e6a187eeed8b",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3045",
+    "name": "Pharaoh Guard",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799304505",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#00765C",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4be1c34f-e467-46ea-be57-28a9f5827ace",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3046",
+    "name": "Talisman Teal",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799304604",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#00A485",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1fbd7e14-bf26-4eb1-9aee-085481f98e47",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3047",
+    "name": "Aqua Alchemy",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799304703",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2EB39B",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7016c5fa-2e53-408b-98c7-c0ef2a9605f7",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3048",
+    "name": "Amulet Aqua",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799304802",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6BC1AF",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b37f263e-956c-435b-94c5-2da8c6e29d2c",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3049",
+    "name": "Angel Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799304901",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1F3E2B",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "078265c0-53b8-4315-9422-656ea42e7536",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3050",
+    "name": "Guardian Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799305007",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#216143",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "68861306-8127-42cb-be48-6e6a2a1b3fff",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3051",
+    "name": "Greenskin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799305106",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#066D2C",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "da6ea1bc-2ef7-416a-a921-b1ea3dce77fb",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3052",
+    "name": "Eternal Hunt",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799305205",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#179239",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6e281e51-36b6-4ba6-8229-33ad16c256ca",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3053",
+    "name": "Wild Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799305304",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3BAB41",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0b0d86de-1ef7-46ba-88cc-ae43d94cc735",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3054",
+    "name": "Ferocious Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799305403",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#75BC69",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3aded643-77f2-4998-8c5f-e42954e591d5",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3055",
+    "name": "Emerald Forest",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799305502",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#55AF30",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6842373f-a568-4396-9de8-3f0664903d13",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3056",
+    "name": "Leafy Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799305601",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#72B61C",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f9a0483b-03a0-46c2-8745-94ef10cd38d3",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3057",
+    "name": "Rainforest",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799305700",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8BBD0D",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f056f6e0-2a93-4507-b2e3-884960426443",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3058",
+    "name": "Electric Lime",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799305809",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BDD000",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "60266ee8-8673-4a56-8e32-cfc412c8c1f0",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3059",
+    "name": "Vivid Volt",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799305908",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D2DB39",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0c52c068-56e9-4e74-bb11-0167a5d83eb3",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3060",
+    "name": "Afterglow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799306004",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E7EA89",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "431180de-c125-435f-9a3e-e67b0cf11e55",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3061",
+    "name": "Evergreen Fog",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799306103",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3D665E",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "76596d0b-ce0c-490b-a1aa-fafb06cb48c4",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3062",
+    "name": "Medieval Forest",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799306202",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#447B6B",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fcf7516b-7ef1-422f-9253-327afe9f2606",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3063",
+    "name": "Patagon Pine",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799306301",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#64937D",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8fba8446-07fe-4303-9d25-029f1123fd90",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3064",
+    "name": "Autumn Sage",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799306400",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#78AC95",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ec7bf6e6-eb43-48fd-bf3e-97ef4d9284c2",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3065",
+    "name": "Forest Faun",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799306509",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A7C9AB",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "20b4be34-09fe-4803-9c01-a2d4c703fac2",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3066",
+    "name": "Mossy Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799306608",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B7DCBE",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "db6525d3-9c18-481a-a525-ba5b4c306ac0",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3067",
+    "name": "Woodland Camo",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799306707",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3F4C34",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e37d540a-b9be-43f9-a99a-f90e8c9625fb",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3068",
+    "name": "Army Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799306806",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4E6038",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1da97a40-969a-491b-ad4b-07fae7f7dd71",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3069",
+    "name": "Camouflage Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799306905",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#627247",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b5003571-667b-4225-b9e3-23b048b6c250",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3070",
+    "name": "Olive Drab",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799307001",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#728552",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "25d89969-2a27-4bd9-904b-97918baca4a0",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3071",
+    "name": "Necrotic Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799307100",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A1AC82",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "55713d4d-7b40-427b-b50b-25a2ee5b1785",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3072",
+    "name": "Grotesque Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799307209",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B8C89F",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "245686a7-5979-44a0-9173-f9f3acda985f",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3073",
+    "name": "Brigadine Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799307308",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2C241F",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "70ffde91-ea4e-4b4c-ba90-2596043ef115",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3074",
+    "name": "Bootstrap Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799307407",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4C332C",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e40da438-24f2-4d10-aff3-350025adb0cb",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3075",
+    "name": "Leather Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799307506",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#694433",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3d07c1b1-fab7-40e6-863f-9e05f04fff2f",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3076",
+    "name": "Paratrooper Tan",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799307605",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9E7B6C",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7dac56f6-627e-4c3d-934f-89b73ea50502",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3077",
+    "name": "Command Khaki",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799307704",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B99889",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f6b9b9bc-7b4e-4e92-a043-e386131df908",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3078",
+    "name": "Urban Buff",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799307803",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DEBCAB",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c7c6683b-a563-4d2e-bc57-2621d2c1fcb2",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3079",
+    "name": "Tundra Taupe",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799307902",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#52533B",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "da7c9bb0-cc0a-4b86-9c62-60b3926f7a7e",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3080",
+    "name": "Prairie Ochre",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799308008",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6F683E",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d7b8e83e-be22-4728-920f-443fe54daa7e",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3081",
+    "name": "Desert Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799308107",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#897440",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ec4a894-3b1e-4c05-9992-2ff720104368",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3082",
+    "name": "Wasteland Clay",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799308206",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A98C4E",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2b122661-7029-4a63-9ab4-693990d55674",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3083",
+    "name": "Burnt Turf",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799308305",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C19C50",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "09c0e7b9-0614-4b34-8e56-baf8d2257521",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3084",
+    "name": "Barren Dune",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799308404",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DEBC6C",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7335a38d-2182-4658-8517-47d80f4ea908",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3085",
+    "name": "Dusty Skull",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799308503",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#91856E",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "090e44fe-60bf-4629-bd7e-c6012a3abb77",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3086",
+    "name": "Tomb King Tan",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799308602",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AB9C7E",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "19abd2a0-aed6-4c2f-91fd-01c70331f1bb",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3087",
+    "name": "Skeleton Bone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799308701",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C6BA98",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "51835354-0ab8-4b02-bacb-d6f2fe01190f",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3088",
+    "name": "Ancient Stone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799308800",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D4CAA9",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d0c9f177-9d04-46cd-8ac7-9290b408106b",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3089",
+    "name": "Bony Spikes",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799308909",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E9D9C1",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "12ce2aab-d368-42a5-9174-67a537e08021",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3090",
+    "name": "Pale Sand",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799309005",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F2ECD7",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "24579dc7-6cac-4bc8-b4d0-abf713bb596f",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3091",
+    "name": "Demigod Flames",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799309104",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D37933",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "308fc886-259b-4ef6-8813-5004247c39d5",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3092",
+    "name": "Fiendish Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799309203",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E49D0E",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "11a2b7e7-e521-451a-887f-c9e9b7513f1e",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3093",
+    "name": "Daemonic Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799309302",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FECB00",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "542fdd73-9cc9-491a-9cca-e329ae47e04c",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3094",
+    "name": "Warped Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799309401",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFD434",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b2283c3d-f298-4803-a9c2-6cc99916f3d0",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3095",
+    "name": "Space Dust",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799309500",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFE481",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a763e9e4-3c47-4800-b137-9785db393335",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3096",
+    "name": "Ice Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799309609",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFEFAE",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3ecdcff4-d526-4e76-a32f-0110e86dccf5",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3097",
+    "name": "Molten Lava",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799309708",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EA4326",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ac99a4c2-cc6d-47fc-9186-8105e1b5bdf1",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3098",
+    "name": "Burning Ore",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799309807",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#ED5717",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fe66f22c-ac9e-4ba7-8961-16481551291b",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3099",
+    "name": "Lava Orange",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799309906",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F07500",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e3692a41-eac7-428f-89ca-a3509c340177",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3100",
+    "name": "Flickering Flame",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799310001",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F28629",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6c9c4b8f-3795-40b4-b2a2-506d2d946073",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3101",
+    "name": "Glowing Inferno",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799310100",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F59829",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "17936159-3f53-497b-9572-1200cca8bf67",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3102",
+    "name": "Inner Light",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799310209",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FDCA53",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7f966858-48a5-4f00-ac77-231cd5f6c542",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3103",
+    "name": "Resplendent Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799310308",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#992426",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "78f5c1b6-1e5b-47f6-a9d4-fe11701af642",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3104",
+    "name": "Angelic Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799310407",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D2212C",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0231cb61-33fb-4d15-a9b4-f0d716a00778",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3105",
+    "name": "Legendary Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799310506",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EA3A30",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d3e13741-7a78-4ecf-89f1-fe4f0bc4bb9d",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3106",
+    "name": "Sacred Scarlet",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799310605",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EC563E",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6272921b-3a2e-4165-8370-08a3a3410e7d",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3107",
+    "name": "Violent Vermillion",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799310704",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EF735A",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c0f58d90-8681-4db9-8859-26ed1bf57528",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3108",
+    "name": "Raging Rouge",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799310803",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F28E7F",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "273d1134-bb33-4add-b334-667c4ad7d7cc",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3109",
+    "name": "Oak Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799310902",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3C2C29",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "034539bb-1908-499e-8fa1-8f098c4c2693",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3110",
+    "name": "Tree Ancient",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799311008",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#513930",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "63f7626f-5d8d-4a06-892d-59debff06fa5",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3111",
+    "name": "Dryad Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799311107",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#643B2E",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "37641f07-4fc3-4980-9187-ef798abc3cb0",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3112",
+    "name": "Fur Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799311206",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7D4742",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6c1b8b03-2672-4197-ab66-b604cb0755dc",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3113",
+    "name": "Ruddy Umber",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799311305",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9B5B4D",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "425d87cd-85f8-4ad5-b5d6-caff63375033",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3114",
+    "name": "Buffed Hide",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799311404",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B77867",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a5720331-3b41-465b-82a9-4e56b2cfa9ae",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3115",
+    "name": "Basilisk Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799311503",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#712836",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3e255f4c-544a-4dd1-9d0a-f53b9909d414",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3116",
+    "name": "Wyvern Fury",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799311602",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9C2E3D",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ea7eb187-5800-4abc-892f-48aa99147d75",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3117",
+    "name": "Dragon Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799311701",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BE2131",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9383ff2f-fe90-4944-a19d-25ee4b7dbc35",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3118",
+    "name": "Pure Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799311800",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B90119",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "72f6db0d-2ff1-4ed6-9f46-bb9d29bbbd73",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3119",
+    "name": "Blood Chalice",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799311909",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D63E43",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4692130e-3fb2-4593-9662-4777696a7db4",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3120",
+    "name": "Raging Rose",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799312005",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E55D5A",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "44cc1094-8fa0-452f-a9de-efb6e940c311",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3121",
+    "name": "Wicked Pink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799312104",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CD0079",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f2254db5-a0aa-4265-872c-eaf9c8dab201",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3122",
+    "name": "Impish Rouge",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799312203",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D94C95",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ceee289c-6a9a-43e7-b0e0-2be96ef51d35",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3123",
+    "name": "Pixie Pink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799312302",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D96AA5",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "af6cb063-8d50-488e-b890-15d995aa1cc7",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3124",
+    "name": "Weird Elixir",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799312401",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E395BE",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "712c670e-4ca2-4050-a3a9-f452c98a8a53",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3125",
+    "name": "Pink Potion",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799312500",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F7BCD5",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "43a77de7-5c1e-4d68-a0d7-7ab4be320e32",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3126",
+    "name": "Doomfire Drab",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799312609",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FBDCEA",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f3a75aed-77f7-44f9-9919-933be0aabe9e",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3127",
+    "name": "Terrestrial Titan",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799312708",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#363246",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "752e719a-7a73-4f16-9875-79c0b641b6ae",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3128",
+    "name": "Alien Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799312807",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5F4796",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d48958d0-394f-4cf4-aab8-dd537c4854d5",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3129",
+    "name": "Cultist Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799312906",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6C5AA1",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "20d8b5b9-0c6f-4833-9c63-7806c761e7e6",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3130",
+    "name": "Hexed Violet",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799313002",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9482BA",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8fd1e6bc-94f5-458f-b3df-63c83b051e2d",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3131",
+    "name": "Violet Coven",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799313101",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B19CC8",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b6dd58af-9700-427e-9e74-693216d41374",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3132",
+    "name": "Kraken Lavender",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799313200",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DCCFE6",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "570dcbc7-22f2-41bb-9579-1cb9e5546515",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3133",
+    "name": "Diabolic Plum",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799313309",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#56286A",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6fa36027-bf82-47d3-a604-498b76e6216f",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3134",
+    "name": "Magecast Magenta",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799313408",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6F328A",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "84d2339d-4a8a-4972-b07f-8a3be5c9d3aa",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3135",
+    "name": "Warlock Magenta",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799313507",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#843F90",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "886f8a66-f9c7-4c88-8e68-6769c34f8d54",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3136",
+    "name": "Spellbound Fuchsia",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799313606",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B04492",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8521d03b-6921-40b4-a9b5-d7124fff8c4a",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3137",
+    "name": "Enchanted Pink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799313705",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B867A4",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4a3ba1d3-ec1b-4e54-adaa-abdce71d714b",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3138",
+    "name": "Diviner Light",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799313804",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D8A2C8",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "430568a7-5831-41d5-92a9-1ff88c68fca4",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3139",
+    "name": "Mulled Berry",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799313903",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#663746",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "141042a5-eeaf-4569-986f-2ccd664a49af",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3140",
+    "name": "Moldy Wine",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799314009",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#81344E",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "73dfdf79-f05c-432a-8bf6-139b4b4bbbe2",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3141",
+    "name": "Elder Flower",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799314108",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AB5578",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0f2de54e-4be4-40a3-b2f7-599a330f4d91",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3142",
+    "name": "Forbidden Fruit",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799314207",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D18DA8",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e43ba93b-662b-4f8e-9310-39c5e7c1f004",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3143",
+    "name": "Figgy Pink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799314306",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E6B3C8",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fd509dad-3a55-4274-bd12-25290413a4c9",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3144",
+    "name": "Wilted Rose",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799314405",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EEC8DA",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8c2b2cef-7c0e-4e8e-8228-02781c5aa9fb",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3145",
+    "name": "Moonstone Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799314504",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C87B71",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5f246d6b-91d8-47fb-9d4a-272c2f6639f4",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3146",
+    "name": "Agate Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799314603",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D88779",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4578a49e-e117-4715-b067-f5a36cd7c905",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3147",
+    "name": "Barbarian Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799314702",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F49A7D",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "43c44489-91ef-4ef4-a9d7-da42b93348e8",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3148",
+    "name": "Ruby Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799314801",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F8BCA8",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "88ed7210-21fe-4ab7-bc18-f88c8116423d",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3149",
+    "name": "Opal Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799314900",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FBD5C7",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "54a0eb6e-802b-4f65-ae31-2e73bbb92011",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3150",
+    "name": "Pearl Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799315006",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FDE6DC",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d1a0663e-9da9-401b-a077-f33dc2f3932b",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3151",
+    "name": "Carnelian Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799315105",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#644245",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bd5ebe51-1a94-46f2-b034-8622d0b9057c",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3152",
+    "name": "Tiger's Eye Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799315204",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#944E4E",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e1e3e7ca-39bd-4467-9235-11ff2b19e602",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3153",
+    "name": "Topaz Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799315303",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B5564D",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a2ce1e09-552f-4c19-85fb-3e4cbb14eb59",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3154",
+    "name": "Jasper Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799315402",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BE7772",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4c9cee05-0fba-4810-b8fe-c4f222ed052e",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3155",
+    "name": "Tourmaline Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799315501",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E39D8B",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "96f1583e-e42f-4859-b456-7d4af5b30fa8",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3156",
+    "name": "Leopard Stone Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799315600",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E9B9B3",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "eccae386-f5cf-46aa-bfb9-e07944c5a47d",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3157",
+    "name": "Obsidian Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799315709",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4B4344",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bf17d503-9d78-4198-af7e-1558964bd591",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3158",
+    "name": "Onyx Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799315808",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6C4F48",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1569a452-91c9-4839-88c3-837687cefa3b",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3159",
+    "name": "Mocca Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799315907",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#896B5A",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b87db7fc-5af1-46ee-ab37-195160c9d988",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3160",
+    "name": "Amber Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799316003",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C7A482",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f0aac593-6ebf-4c1a-8779-7e189be0783f",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3161",
+    "name": "Dorado Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799316102",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EECA9F",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0808a091-47ff-4464-a576-ce8ec21a01ed",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3162",
+    "name": "Quartz Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799316201",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F1D4B5",
+      "gradient": null,
+      "source": "army-painter-fanatic-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8e56d2f8-2c53-4587-9603-6704c5eaa425",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "code": "WP3171",
+    "name": "Warpaints Stabilizer",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "5713799317109",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  }
+]

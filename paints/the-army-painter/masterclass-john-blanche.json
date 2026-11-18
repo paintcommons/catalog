@@ -1,0 +1,802 @@
+[
+  {
+    "id": "d5588f6d-4d29-4284-892a-5d2013ad5b57",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4000",
+    "name": "The Darkness",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799400009",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#21242C",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3527f321-21bc-498e-92ab-8a0d305adbb6",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4001",
+    "name": "Ivory White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799400108",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F6E3BE",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ba5b78ff-fd16-4dfd-a82c-1035b550ecff",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4002",
+    "name": "Ironclad Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799400207",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#333438",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9f486243-5e76-4c2b-9ed4-8de7b22ad173",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4003",
+    "name": "Moonbeam Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799400306",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F0B71D",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8a21115e-98e1-480c-90c9-313a342b5df2",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4004",
+    "name": "Blighted Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799400405",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1E2B2E",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "59d6a2d9-2c5c-4da8-bedb-449e2f10b7a5",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4005",
+    "name": "Banshee Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799400504",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#342B27",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "85ae48b1-bfc0-40b2-907c-75768edf49c0",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4006",
+    "name": "Bloodmoon Red",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799400603",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C6302F",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ae33f208-0387-42c7-bba8-b04fc40445a0",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4007",
+    "name": "Warm Skin Shade",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "5713799400702",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#73563C",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d9789bc0-c43b-468e-8391-1c644115fd5c",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4008",
+    "name": "Grimdark Shadow",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "5713799400801",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3F4039",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fa60f9ee-b732-42b7-bf61-35be91e7c200",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4009",
+    "name": "Emperor Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "5713799400900",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4D3B22",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5816acec-27f9-407e-bc1e-fb96badca346",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4010",
+    "name": "Fiery Vermilion",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799401006",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B21B13",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "868aa0c1-29bc-4078-8b30-505ab52b40c8",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4011",
+    "name": "Sunburst Ochre",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799401105",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#714629",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "524306b4-c095-4713-9223-2c1adfebed32",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4012",
+    "name": "Midnight Olive",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799401204",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#32352D",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f4c13239-ffd5-41be-9e34-79059fa02d76",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4013",
+    "name": "Tainted Garden",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799401303",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3E3F2A",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3c3a5abc-448b-46b0-a3f8-a4d3c4c45b40",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4014",
+    "name": "Blanched Berry",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799401402",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#38242D",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "25b5df79-17d0-464f-828d-fca9b893f5b4",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4015",
+    "name": "Ruddy Terra",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799401501",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#82433B",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1263e5c4-4ed7-458d-a188-49527545cf9b",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4016",
+    "name": "Turnbull Turquoise",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799401600",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3A4B53",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dc391b4f-dd2c-4fc2-ac56-bb26629ebe9b",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4017",
+    "name": "Voodoo Shade",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "5713799401709",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#51422B",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "84095a09-606c-444c-85dd-e333a02af572",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4018",
+    "name": "Grim Rust",
+    "type": "effect",
+    "barcodes": [
+      {
+        "ean": "5713799401808",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3B230D",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7ae5f75e-e96e-456f-b95f-4ef827955d5e",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4019",
+    "name": "Heavy Metal",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "5713799401907",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3C3C3B",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e1b887f7-4df4-410e-b554-b6cd7341ce36",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4103",
+    "name": "Frostveil",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799410305",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1A5698",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0d86b134-04ff-476b-8ddc-7674ead0ba10",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4104",
+    "name": "Iceborn",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799410404",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F3E0F4",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bbd0f80c-500b-4499-b916-c6498fe55a01",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4105",
+    "name": "Moonpetal",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799410503",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AB5E76",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c2383e6b-a155-4637-b0d9-1a8af74bde6e",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4106",
+    "name": "Ashroot",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799410602",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#56453F",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "20288223-6aa0-433b-be49-30dad4477150",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4107",
+    "name": "Shadow Thorn",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799410701",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1D425F",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "be3860cc-d36d-4cbd-b4ef-8582766b851c",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4108",
+    "name": "Bramble Grove",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799410800",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#617879",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9d28c34d-0314-4a45-bcc8-a5460f3dd4f8",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4109",
+    "name": "Dewpath",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799410909",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4D8385",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9bd0a215-ff6d-4aaa-ba91-acd6addd4fde",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4110",
+    "name": "Skyshard",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799411005",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DFEDEB",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6a240903-b1a6-4f93-8ab6-08d6eb79aacc",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4111",
+    "name": "Pine Hollow Shade",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "5713799411104",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#335554",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6a8751a4-699a-40d0-8803-4cd422c34659",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4112",
+    "name": "Nightroot Shade",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "5713799411203",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#423A4D",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "de3a1baa-4401-4b19-8ec1-03c7ae2c506c",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4113",
+    "name": "Emberveil",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799411302",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C8341B",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8790a07e-fb68-4476-bc2f-d2a92b6f21f7",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4114",
+    "name": "Hearthborn",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799411401",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EABB8B",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1f3473cb-a6ce-4f51-92f3-45a8039f28ed",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4115",
+    "name": "Sunpetal",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799411500",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F9DE33",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "475e2540-1896-4987-9b75-88037a3d7f6c",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4116",
+    "name": "Umberroot",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799411609",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#56332A",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b72ea059-912d-4e39-8745-8e6556d82520",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4117",
+    "name": "Blood Thorn",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799411708",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9E1E3E",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "239d44c0-14aa-42d6-8cd8-0edb43e773a3",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4118",
+    "name": "Thicket Grove",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799411807",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6F6D40",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fe0cc459-25c5-4297-95f1-10b56389f87b",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4119",
+    "name": "Rootpath",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799411906",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#605031",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d9206e23-280a-4763-b302-fb3f19f57bc0",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4120",
+    "name": "Gladeshard",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "5713799412002",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#93B931",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "22f72daa-a8d0-4db5-94f8-d5752d52c2e4",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4121",
+    "name": "Grove Hollow Shade",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "5713799412101",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#394531",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "66fee909-7d8a-4b59-b1a7-80b43180e7f2",
+    "brand": "The Army Painter",
+    "range": "Masterclass John Blanche",
+    "code": "WP4122",
+    "name": "Vineroot Shade",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "5713799412200",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3D1E1B",
+      "gradient": null,
+      "source": "army-painter-masterclass-swatches"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "d1ec0b58-f600-4374-99dc-1413e19a2c77",
+    "brand": "The Army Painter",
+    "range": "Warpaints (original) Metallic",
+    "code": null,
+    "name": "Azure Magic",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#005D78",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "294688a7-513a-4291-8b14-fe64425b00f3",
+    "brand": "The Army Painter",
+    "range": "Warpaints (original) Metallic",
+    "code": null,
+    "name": "Elven Armour",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#003D81",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e1376596-1ab4-4c5a-a151-e49e63f64c29",
+    "brand": "The Army Painter",
+    "range": "Warpaints (original) Metallic",
+    "code": null,
+    "name": "Evil Chrome",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BA7A57",
+      "gradient": null,
+      "source": "army-painter-fanatic-equivalent"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8ee9e2a9-b9ed-4732-8bc8-c3c71b76a079",
+    "brand": "The Army Painter",
+    "range": "Warpaints (original) Metallic",
+    "code": null,
+    "name": "Gemstone",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C4262C",
+      "gradient": null,
+      "source": "army-painter-fanatic-equivalent"
+    },
+    "status": "current"
+  },
+  {
+    "id": "17b372e4-6bb4-4e79-83af-06882b25015f",
+    "brand": "The Army Painter",
+    "range": "Warpaints (original) Metallic",
+    "code": null,
+    "name": "Glitter Green",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3AA857",
+      "gradient": null,
+      "source": "army-painter-fanatic-equivalent"
+    },
+    "status": "current"
+  },
+  {
+    "id": "800f46ae-fb7b-474b-bb2c-5c27a9222b8c",
+    "brand": "The Army Painter",
+    "range": "Warpaints (original) Metallic",
+    "code": null,
+    "name": "Night Scales",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#312C2F",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f897e020-776f-4cb1-aac9-f39846aafdf0",
+    "brand": "The Army Painter",
+    "range": "Warpaints (original) Metallic",
+    "code": null,
+    "name": "Royal Purple",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#701B55",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8862df3a-83fd-44c2-9704-a0a639fbd225",
+    "brand": "The Army Painter",
+    "range": "Warpaints (original) Metallic",
+    "code": null,
+    "name": "Tainted Gold",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#938B57",
+      "gradient": null,
+      "source": "army-painter-fanatic-equivalent"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6d0ce294-4aeb-4958-bc3d-7aa17ceabf62",
+    "brand": "The Army Painter",
+    "range": "Warpaints (original) Metallic",
+    "code": null,
+    "name": "Zephyr Pink",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B4406F",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  }
+]

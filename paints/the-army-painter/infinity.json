@@ -1,0 +1,122 @@
+[
+  {
+    "id": "58611a0f-661e-4efd-8545-243e6a8827e3",
+    "brand": "The Army Painter",
+    "range": "Infinity",
+    "code": null,
+    "name": "Aegis Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#374671",
+      "gradient": null,
+      "source": "army-painter-licensed-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a852364a-cb85-4c52-aaa1-38678f7ec84c",
+    "brand": "The Army Painter",
+    "range": "Infinity",
+    "code": null,
+    "name": "Afterburner Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#503633",
+      "gradient": null,
+      "source": "army-painter-licensed-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "734f711a-1b03-4964-bb96-9f9ffeb942b5",
+    "brand": "The Army Painter",
+    "range": "Infinity",
+    "code": null,
+    "name": "Aquamarine Seas",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#28B3BA",
+      "gradient": null,
+      "source": "army-painter-licensed-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "75a26f66-fceb-400d-a564-9f3b1416695e",
+    "brand": "The Army Painter",
+    "range": "Infinity",
+    "code": null,
+    "name": "Goldspark",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFE386",
+      "gradient": null,
+      "source": "army-painter-licensed-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e5eb5289-c4b8-4008-bec6-ab60c28f4d2f",
+    "brand": "The Army Painter",
+    "range": "Infinity",
+    "code": null,
+    "name": "Hyperdrive Fluid",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E39C2F",
+      "gradient": null,
+      "source": "army-painter-licensed-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "161eaca1-81b5-482f-b72f-8f6c032a2471",
+    "brand": "The Army Painter",
+    "range": "Infinity",
+    "code": null,
+    "name": "Starboard Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#87CDF2",
+      "gradient": null,
+      "source": "army-painter-licensed-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a8111f44-d1a5-4715-ae51-8f1c68b1aac9",
+    "brand": "The Army Painter",
+    "range": "Infinity",
+    "code": null,
+    "name": "Starmada Navy",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#182D55",
+      "gradient": null,
+      "source": "army-painter-licensed-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "11af4ef5-47fd-4f88-8c82-dccde9b65181",
+    "brand": "The Army Painter",
+    "range": "Infinity",
+    "code": null,
+    "name": "Synth Leather",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D6867C",
+      "gradient": null,
+      "source": "army-painter-licensed-chart-2026"
+    },
+    "status": "current"
+  }
+]

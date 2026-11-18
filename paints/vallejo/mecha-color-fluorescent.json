@@ -1,0 +1,182 @@
+[
+  {
+    "id": "72c55150-9570-4bf8-b8ee-73150c8abac4",
+    "brand": "Vallejo",
+    "range": "Mecha Color Fluorescent",
+    "code": "69.054",
+    "name": "Yellow Fluorescent",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690546",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DFDD12",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "22745814-2875-4e33-9ec0-d14e5358b41b",
+    "brand": "Vallejo",
+    "range": "Mecha Color Fluorescent",
+    "code": "69.055",
+    "name": "Orange Fluorescent",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690553",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E7450F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b6724f3b-7509-4dca-9e41-317db896dade",
+    "brand": "Vallejo",
+    "range": "Mecha Color Fluorescent",
+    "code": "69.056",
+    "name": "Magenta Fluorescent",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690560",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E30074",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b7550206-bc81-422c-801e-463d79578a14",
+    "brand": "Vallejo",
+    "range": "Mecha Color Fluorescent",
+    "code": "69.057",
+    "name": "Green Fluorescent",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551690577",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#27A736",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e5987f93-fd34-4f49-896f-07795ec3fd55",
+    "brand": "Vallejo",
+    "range": "Mecha Color Fluorescent",
+    "code": "70.640",
+    "name": "White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551706407",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a9a83969-bc90-441b-b156-7ef02fe7dc3d",
+    "brand": "Vallejo",
+    "range": "Mecha Color Fluorescent",
+    "code": "70.641",
+    "name": "Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551706414",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C1C1C2",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f164b1a0-1902-44e4-bf45-bf639c016b3b",
+    "brand": "Vallejo",
+    "range": "Mecha Color Fluorescent",
+    "code": "70.642",
+    "name": "Black",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551706421",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#010202",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2da346d2-5cbe-443b-bbc8-2a9aef7c93f3",
+    "brand": "Vallejo",
+    "range": "Mecha Color Fluorescent",
+    "code": "70.643",
+    "name": "Ivory",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551706438",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F0EBCA",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "646852dd-c2a8-4531-ac42-c4e38d0e9271",
+    "brand": "Vallejo",
+    "range": "Mecha Color Fluorescent",
+    "code": "70.644",
+    "name": "Sand",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551706445",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C0A477",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

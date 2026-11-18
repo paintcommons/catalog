@@ -1,0 +1,282 @@
+[
+  {
+    "id": "df7861c9-1cd4-4095-93aa-480d3987c8b4",
+    "brand": "Vallejo",
+    "range": "Model Color Metallic",
+    "code": "70.800",
+    "name": "Gunmetal Blue",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551708005",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#58525D",
+      "gradient": [
+        "#3E3B46",
+        "#726B74",
+        "#B0ABB0",
+        "#EAE8EB",
+        "#B9B4B9",
+        "#7A737B",
+        "#46424D"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "51a17d66-5a3f-480b-9846-2938c695573d",
+    "brand": "Vallejo",
+    "range": "Model Color Metallic",
+    "code": "70.801",
+    "name": "Brass",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551708012",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8D6A4B",
+      "gradient": [
+        "#795231",
+        "#A08065",
+        "#CAB8A9",
+        "#F2EDE9",
+        "#D1C2B5",
+        "#A7886F",
+        "#7F5938"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4018fc0d-4577-41aa-90c6-a7eccab1f87e",
+    "brand": "Vallejo",
+    "range": "Model Color Metallic",
+    "code": "70.863",
+    "name": "Gunmetal",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551708630",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#605456",
+      "gradient": [
+        "#493E42",
+        "#7C7071",
+        "#B5ADAF",
+        "#ECE9EA",
+        "#BBB3B5",
+        "#7F7375",
+        "#4F4447"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6d69d863-839f-440c-8c7b-9ca38c79744d",
+    "brand": "Vallejo",
+    "range": "Model Color Metallic",
+    "code": "70.864",
+    "name": "Natural Steel",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551708647",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#857E82",
+      "gradient": [
+        "#6E696E",
+        "#9C9598",
+        "#CBC5C7",
+        "#F1F0F1",
+        "#CEC9CB",
+        "#A0999B",
+        "#726C71"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "744ec391-9cac-41eb-8af1-d421e2118960",
+    "brand": "Vallejo",
+    "range": "Model Color Metallic",
+    "code": "70.865",
+    "name": "Oily Steel",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551708654",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#786C6E",
+      "gradient": [
+        "#605659",
+        "#8F8486",
+        "#C2BBBC",
+        "#EFEEEE",
+        "#C7C0C1",
+        "#93888A",
+        "#665B5E"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b72c6a0f-8fe3-48f2-9d12-4ac9444af5db",
+    "brand": "Vallejo",
+    "range": "Model Color Metallic",
+    "code": "70.878",
+    "name": "Old Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551708784",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#806448",
+      "gradient": [
+        "#6A4D2F",
+        "#937B61",
+        "#C2B4A5",
+        "#EFEBE7",
+        "#CCC0B4",
+        "#9C846D",
+        "#715436"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6d77618a-1659-4352-be0b-6ce69da310f9",
+    "brand": "Vallejo",
+    "range": "Model Color Metallic",
+    "code": "70.996",
+    "name": "Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551709965",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B89360",
+      "gradient": [
+        "#AA8046",
+        "#C6A77E",
+        "#E0D0BB",
+        "#F7F3EE",
+        "#E2D3BF",
+        "#C7A981",
+        "#AB8147"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "51448e2b-af64-45bb-ad99-d72c307b1440",
+    "brand": "Vallejo",
+    "range": "Model Color Metallic",
+    "code": "70.997",
+    "name": "Silver",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551709972",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B5B2B1",
+      "gradient": [
+        "#A5A3A2",
+        "#C4C0C0",
+        "#DFDDDD",
+        "#F7F6F6",
+        "#E3E1E1",
+        "#C7C4C3",
+        "#A9A7A6"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d43f4092-2eb8-4985-a53c-18c54a441e89",
+    "brand": "Vallejo",
+    "range": "Model Color Metallic",
+    "code": "70.998",
+    "name": "Bronze",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551709989",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#80684B",
+      "gradient": [
+        "#6D5334",
+        "#978168",
+        "#C7BBAD",
+        "#F1EDE9",
+        "#C8BCAF",
+        "#98826A",
+        "#6E5436"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "111f0ec1-18d8-4257-88b8-ec9752a2e3ac",
+    "brand": "Vallejo",
+    "range": "Model Color Metallic",
+    "code": "70.999",
+    "name": "Copper",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551709996",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A26957",
+      "gradient": [
+        "#935140",
+        "#B48574",
+        "#D7BFB5",
+        "#F4EDEA",
+        "#D7BFB5",
+        "#B48574",
+        "#935240"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

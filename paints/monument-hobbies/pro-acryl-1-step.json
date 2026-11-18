@@ -1,0 +1,602 @@
+[
+  {
+    "id": "80966765-4afc-427f-acea-c558a9be797d",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-500",
+    "name": "PRO Acryl 1-Step 500 - Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368408984",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-500-blue"
+      }
+    ],
+    "colour": {
+      "hex": "#086CB1",
+      "gradient": [
+        "#0E447E",
+        "#086CB1",
+        "#0393D7"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "93d4b3c5-25a2-49f5-9335-93c79ac1706b",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-501",
+    "name": "PRO Acryl 1-Step 501 - Royal Purple",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368409059",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-501-royal-purple"
+      }
+    ],
+    "colour": {
+      "hex": "#802682",
+      "gradient": [
+        "#531A58",
+        "#802682",
+        "#8C278B"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b92d9901-00d3-4939-b4f2-58483feccc97",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-502",
+    "name": "PRO Acryl 1-Step 502 - Crimson",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368411717",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-502-crimson"
+      }
+    ],
+    "colour": {
+      "hex": "#CF373B",
+      "gradient": [
+        "#9D1D22",
+        "#CF373B",
+        "#E54A4E"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8c3d5ae0-5985-44a3-96b9-f2ce2774ab5a",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-503",
+    "name": "PRO Acryl 1-Step 503 - Dark Blue Black",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368415692",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-503-dark-blue-black"
+      }
+    ],
+    "colour": {
+      "hex": "#1D3241",
+      "gradient": [
+        "#0F141A",
+        "#1D3241",
+        "#23485B"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6bd000d7-e38b-4a3b-a090-de36044a6dae",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-504",
+    "name": "PRO Acryl 1-Step 504 - Warm Yellow",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368416255",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-504-warm-yellow"
+      }
+    ],
+    "colour": {
+      "hex": "#FCCE08",
+      "gradient": [
+        "#FAB40D",
+        "#FCCE08",
+        "#FBD805"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "49ed4d2f-ae95-49e2-967c-d2855077214d",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-505",
+    "name": "PRO Acryl 1-Step 505 - Dark Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368417054",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-505-dark-green"
+      }
+    ],
+    "colour": {
+      "hex": "#0A4E1F",
+      "gradient": [
+        "#054310",
+        "#0A4E1F",
+        "#0E5929"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d232a059-7291-42bc-b4b3-14767d411d5a",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-506",
+    "name": "PRO Acryl 1-Step 506 - Shadow Flesh",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368417375",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-506-shadow-flesh"
+      }
+    ],
+    "colour": {
+      "hex": "#D77E6D",
+      "gradient": [
+        "#A95548",
+        "#D77E6D",
+        "#E49583"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6d72ac9c-d8aa-4af7-86c5-ed930a79dbd1",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-507",
+    "name": "PRO Acryl 1-Step 507 - Graphite Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368420559",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-507-graphite-green"
+      }
+    ],
+    "colour": {
+      "hex": "#4F8876",
+      "gradient": [
+        "#2B4C41",
+        "#4F8876",
+        "#60A48E"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "80f92bf7-2380-44dd-a8b8-6e4b80ec3ffc",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-508",
+    "name": "PRO Acryl 1-Step 508 - Graphite Grey",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368421884",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-508-graphite-grey"
+      }
+    ],
+    "colour": {
+      "hex": "#606162",
+      "gradient": [
+        "#474845",
+        "#606162",
+        "#6E7075"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "23be4fc8-15e3-4ef2-88da-62eebc18e01c",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-509",
+    "name": "PRO Acryl 1-Step 509 - Dark Green Brown",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368426940",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-509-dark-green-brown"
+      }
+    ],
+    "colour": {
+      "hex": "#413B16",
+      "gradient": [
+        "#312F14",
+        "#413B16",
+        "#50471C"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6905fe46-bfae-4287-aa35-9cc640db2e23",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-510",
+    "name": "PRO Acryl 1-Step 510 - Warm Brown",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368427527",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-510-warm-brown"
+      }
+    ],
+    "colour": {
+      "hex": "#743317",
+      "gradient": [
+        "#572910",
+        "#743317",
+        "#893A1C"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "244ccf07-aec8-4712-9833-cc40c523681e",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-511",
+    "name": "PRO Acryl 1-Step 511 - Orange",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368429989",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-511-orange"
+      }
+    ],
+    "colour": {
+      "hex": "#F05833",
+      "gradient": [
+        "#E53628",
+        "#F05833",
+        "#F16F3B"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a5c44057-6abc-4f16-a43b-0fb9056f4322",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-512",
+    "name": "PRO Acryl 1-Step 512 - Rust",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368431425",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-512-rust"
+      }
+    ],
+    "colour": {
+      "hex": "#9C3F18",
+      "gradient": [
+        "#7A2E09",
+        "#9C3F18",
+        "#BC5A2B"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4b870c24-1b77-42a7-a2ec-635262d44e7f",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-513",
+    "name": "PRO Acryl 1-Step 513 - Scarlet Red",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368446610",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-513-scarlet-red"
+      }
+    ],
+    "colour": {
+      "hex": "#94201D",
+      "gradient": [
+        "#571917",
+        "#94201D",
+        "#C12723"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b5fb3edc-3ba7-4d23-9215-88fa789efc53",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-514",
+    "name": "PRO Acryl 1-Step 514 - Olive Yellow",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368447389",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-513-scarlet-red-copy"
+      }
+    ],
+    "colour": {
+      "hex": "#A28725",
+      "gradient": [
+        "#4E3914",
+        "#A28725",
+        "#DEC330"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bbae546c-1f1f-417b-bb11-a55897730d58",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-515",
+    "name": "PRO Acryl 1-Step 515 - Dark Purple",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368451973",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-514-dark-purple"
+      }
+    ],
+    "colour": {
+      "hex": "#32346E",
+      "gradient": [
+        "#1B1F4A",
+        "#32346E",
+        "#46498C"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "58b98c0b-65be-4f08-bf87-aa7f776da1c5",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-516",
+    "name": "PRO Acryl 1-Step 516 - Dark Brown",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368452666",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-516-dark-brown"
+      }
+    ],
+    "colour": {
+      "hex": "#7B5C4A",
+      "gradient": [
+        "#36231B",
+        "#7B5C4A",
+        "#BB9378"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "95b56301-d61a-444e-aa31-ac429fd83bee",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-517",
+    "name": "PRO Acryl 1-Step 517 - Dark Green Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368459849",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-517-dark-green-blue"
+      }
+    ],
+    "colour": {
+      "hex": "#2B494D",
+      "gradient": [
+        "#132224",
+        "#2B494D",
+        "#44686D"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "74ec2a38-d33e-48a0-98e2-50b0efe11841",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-518",
+    "name": "PRO Acryl 1-Step 518 - Bright Slate Grey",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368467431",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-518-bright-slate-grey"
+      }
+    ],
+    "colour": {
+      "hex": "#ABB4B7",
+      "gradient": [
+        "#7E9096",
+        "#ABB4B7",
+        "#BFC4C6"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "05f67e4b-66a5-4987-ac66-6488df6c75bf",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-519",
+    "name": "PRO Acryl 1-Step 519 - Yellow Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368471285",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-519-yellow-green"
+      }
+    ],
+    "colour": {
+      "hex": "#8CA32B",
+      "gradient": [
+        "#49601F",
+        "#8CA32B",
+        "#A8C734"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7f817b19-cc9b-4714-91a3-80218a87e63b",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-520",
+    "name": "PRO Acryl 1-Step 520 - Deep Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368472923",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-520-deep-blue"
+      }
+    ],
+    "colour": {
+      "hex": "#244786",
+      "gradient": [
+        "#162455",
+        "#244786",
+        "#2D63A9"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "851cb25c-c4ae-4d77-a6b3-b2eca0708310",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-521",
+    "name": "PRO Acryl 1-Step 521 - Bronze Yellow",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368472985",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-521-bronze-yellow"
+      }
+    ],
+    "colour": {
+      "hex": "#A07332",
+      "gradient": [
+        "#54311D",
+        "#A07332",
+        "#D1A044"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "889515e0-f698-42cc-95b4-9e5878cb4f35",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-522",
+    "name": "PRO Acryl 1-Step 522 - Dark Turquoise",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368475894",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-522-dark-turquoise"
+      }
+    ],
+    "colour": {
+      "hex": "#0E6F84",
+      "gradient": [
+        "#084B69",
+        "#0E6F84",
+        "#138A99"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a2360465-d368-4d75-9e25-2998b7d13d36",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "code": "MPA-523",
+    "name": "PRO Acryl 1-Step 523 - Black",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "0655368476426",
+        "source": "published",
+        "source_url": "https://monumenthobbies.com/products/pro-acryl-1-step-523-black"
+      }
+    ],
+    "colour": {
+      "hex": "#49494A",
+      "gradient": [
+        "#302E2E",
+        "#49494A",
+        "#636466"
+      ],
+      "source": "monument-pro-acryl-list"
+    },
+    "status": "current"
+  }
+]

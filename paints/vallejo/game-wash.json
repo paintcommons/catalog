@@ -1,0 +1,162 @@
+[
+  {
+    "id": "d4469957-8e6d-4a35-b41e-32397dd79377",
+    "brand": "Vallejo",
+    "range": "Game Wash",
+    "code": "73.200",
+    "name": "Sepia",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551732000",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8E795A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5f13aa25-f39a-4b32-a817-fb2730b4c69f",
+    "brand": "Vallejo",
+    "range": "Game Wash",
+    "code": "73.201",
+    "name": "Black",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551732017",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6B686C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "75070632-63b5-480c-b032-4e6626c2fffb",
+    "brand": "Vallejo",
+    "range": "Game Wash",
+    "code": "73.203",
+    "name": "Umber",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551732031",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#907F71",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "05b0c422-c431-4af2-8293-74935a9c8316",
+    "brand": "Vallejo",
+    "range": "Game Wash",
+    "code": "73.204",
+    "name": "Fleshtone",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551732048",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BD988B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "17429a7a-b018-42a0-aae2-624130cf6255",
+    "brand": "Vallejo",
+    "range": "Game Wash",
+    "code": "73.206",
+    "name": "Red",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551732062",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CE5B58",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "563dba48-30f1-4411-8375-05bce8a8e18c",
+    "brand": "Vallejo",
+    "range": "Game Wash",
+    "code": "73.207",
+    "name": "Blue",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551732079",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5494C9",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "02ddaf9a-c4b7-4aec-b426-d15fb3f3f480",
+    "brand": "Vallejo",
+    "range": "Game Wash",
+    "code": "73.208",
+    "name": "Yellow",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551732086",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F7ED5A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "84e01cbc-29d2-4696-9eee-31722364d703",
+    "brand": "Vallejo",
+    "range": "Game Wash",
+    "code": "73.209",
+    "name": "Violet",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551732093",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9363A2",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

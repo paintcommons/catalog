@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "colour_sources": [
+    {
+      "id": "vallejo-catalogue-2026",
+      "name": "Vallejo Catalogue 2026 – models & miniatures (R02)",
+      "url": "https://acrylicosvallejo.com/en/",
+      "method": "Sampled from the printed swatches in Vallejo's PDF catalogue; metallics also get a gradient. Approximate.",
+      "status": "published",
+      "licence": "CC0 1.0, with the rest of this catalog"
+    },
+    {
+      "id": "warhammer-colour-chart-2026",
+      "name": "Warhammer Colour chart (2026)",
+      "url": "https://www.warhammer.com/en-US/explore/build-and-paint/paint-colour-chart",
+      "method": "Sampled per tile from Games Workshop's chart image (metallics: median; Shades: where the wash pools, so lighter than the pot).",
+      "status": "published",
+      "licence": "CC0 1.0, with the rest of this catalog"
+    },
+    {
+      "id": "warhammer-tone-pro-chart-2026",
+      "name": "Warhammer Tone Pro chart (2026)",
+      "url": "https://www.warhammer.com/en-US/explore/build-and-paint/paint-colour-chart",
+      "method": "Sampled from each tone square on Games Workshop's chart image.",
+      "status": "published",
+      "licence": "CC0 1.0, with the rest of this catalog"
+    },
+    {
+      "id": "army-painter-fanatic-chart",
+      "name": "The Army Painter Warpaints Fanatic colour conversion chart",
+      "url": "https://thearmypainter.com/blogs/explore/the-warpaints-fanatic-colour-conversion-chart",
+      "method": "Vector swatch fills extracted from the official PDF.",
+      "status": "published",
+      "licence": "CC0 1.0, with the rest of this catalog"
+    },
+    {
+      "id": "army-painter-fanatic-equivalent",
+      "name": "The Army Painter Warpaints Fanatic colour conversion chart (closest equivalent)",
+      "url": "https://thearmypainter.com/blogs/explore/the-warpaints-fanatic-colour-conversion-chart",
+      "method": "The Fanatic swatch Army Painter names as this older paint's closest match.",
+      "status": "published",
+      "licence": "CC0 1.0, with the rest of this catalog"
+    },
+    {
+      "id": "army-painter-speedpaint-2-chart",
+      "name": "The Army Painter Speedpaint 2.0 Practical Naming Chart",
+      "url": "https://thearmypainter.com/",
+      "method": "Sampled from each paint's own swatch in the official PDF.",
+      "status": "published",
+      "licence": "CC0 1.0, with the rest of this catalog"
+    },
+    {
+      "id": "army-painter-licensed-chart-2026",
+      "name": "The Army Painter Licensed Colour Comparison Chart 2026",
+      "url": "https://thearmypainter.com/",
+      "method": "Sampled from each paint's own swatch in the official PDF.",
+      "status": "published",
+      "licence": "CC0 1.0, with the rest of this catalog"
+    },
+    {
+      "id": "army-painter-masterclass-swatches",
+      "name": "The Army Painter Masterclass product swatches",
+      "url": "https://thearmypainter.com/pages/masterclass",
+      "method": "Sampled from each paint's hexagon swatch image; shaded cubes use the middle face.",
+      "status": "published",
+      "licence": "CC0 1.0, with the rest of this catalog"
+    },
+    {
+      "id": "monument-pro-acryl-list",
+      "name": "Monument Hobbies Pro Acryl paint list and colour brochure",
+      "url": "https://monumenthobbies.com",
+      "method": "Manufacturer chart matched by SKU.",
+      "status": "published",
+      "licence": "CC0 1.0, with the rest of this catalog"
+    },
+    {
+      "id": "turbo-dork-swatches",
+      "name": "Turbo Dork product swatches",
+      "url": "https://turbodork.com",
+      "method": "Median of the painted figure in each product swatch photo, shadows and glints trimmed; TurboShift and ZeniShift colours are blends of the shift.",
+      "status": "published",
+      "licence": "CC0 1.0, with the rest of this catalog"
+    },
+    {
+      "id": "miniature-paints",
+      "name": "miniature-paints by b-kelly (MIT licence)",
+      "url": "https://github.com/b-kelly/miniature-paints",
+      "method": "Matched by brand, range and name. MIT licence; credit b-kelly.",
+      "status": "published",
+      "licence": "MIT (keep the credit to b-kelly/miniature-paints)"
+    },
+    {
+      "id": "manual-override",
+      "name": "Hand-checked by Stipplewise",
+      "url": "https://stipplewise.com",
+      "method": "Checked by hand where a printed swatch can't be trusted (true blacks, some metallics).",
+      "status": "published",
+      "licence": "CC0 1.0, with the rest of this catalog"
+    },
+    {
+      "id": "paint-stash-com-zombicide",
+      "name": "paint-stash.com Zombicide swatches",
+      "url": "https://paint-stash.com",
+      "method": "Digital swatch; licence unknown.",
+      "status": "withheld",
+      "licence": "Not published (licence unknown)"
+    }
+  ],
+  "barcode_sources": [
+    {
+      "id": "calculated",
+      "name": "Calculated from the product code",
+      "method": "The Army Painter and Vallejo encode the product code in the EAN-13; the barcode is derived from the code and its check digit."
+    },
+    {
+      "id": "published",
+      "name": "Published by the manufacturer or a retailer",
+      "method": "Read from a product listing; each barcode keeps its source_url."
+    },
+    {
+      "id": "scan",
+      "name": "Confirmed by a scan and approved by a maintainer",
+      "method": "Submitted from a scan in Stipplewise and approved in review."
+    }
+  ]
+}

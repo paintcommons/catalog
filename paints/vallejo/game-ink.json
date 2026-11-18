@@ -1,0 +1,22 @@
+[
+  {
+    "id": "5c6db94a-cb4b-4876-a8b3-ed7d3f01b0b6",
+    "brand": "Vallejo",
+    "range": "Game Ink",
+    "code": "72.094",
+    "name": "Black",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551720946",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

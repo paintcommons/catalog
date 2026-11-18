@@ -1,0 +1,153 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/paintcommons/catalog/schema/paint.schema.json",
+  "title": "Paint Commons range file",
+  "description": "One file per brand and range: paints/<brand>/<range>.json, an array of paints sorted by code then name.",
+  "type": "array",
+  "items": {
+    "$ref": "#/$defs/paint"
+  },
+  "$defs": {
+    "paint": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "brand",
+        "range",
+        "code",
+        "name",
+        "type",
+        "barcodes",
+        "status"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$",
+          "description": "Stable id. Leave it out for a new paint; it's filled in after the paint is imported."
+        },
+        "brand": {
+          "type": "string",
+          "minLength": 1
+        },
+        "range": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Product line as the manufacturer names it."
+        },
+        "code": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Manufacturer product code, e.g. WP3001 or 72.051. Null when none is known."
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Name as printed by the manufacturer."
+        },
+        "type": {
+          "enum": [
+            "acrylic",
+            "wash",
+            "metallic",
+            "effect",
+            "speedpaint",
+            "medium",
+            "ink",
+            "varnish",
+            "primer",
+            "other"
+          ]
+        },
+        "barcodes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "ean",
+              "source"
+            ],
+            "properties": {
+              "ean": {
+                "type": "string",
+                "pattern": "^[0-9]{8,14}$"
+              },
+              "source": {
+                "enum": [
+                  "calculated",
+                  "published",
+                  "scan"
+                ]
+              },
+              "source_url": {
+                "type": "string",
+                "format": "uri"
+              }
+            }
+          }
+        },
+        "colour": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "hex",
+            "gradient",
+            "source"
+          ],
+          "description": "Approximate colour of the paint in the pot. Leave out when there's no published source.",
+          "properties": {
+            "hex": {
+              "type": "string",
+              "pattern": "^#[0-9A-F]{6}$"
+            },
+            "gradient": {
+              "type": [
+                "array",
+                "null"
+              ],
+              "items": {
+                "type": "string",
+                "pattern": "^#[0-9A-F]{6}$"
+              },
+              "description": "For metallics and colour-shift paints: dark-to-light or shift stops."
+            },
+            "source": {
+              "type": "string",
+              "description": "An id from sources.json colour_sources with status published."
+            }
+          }
+        },
+        "status": {
+          "enum": [
+            "current",
+            "discontinued"
+          ],
+          "description": "Paints are never removed; mark them discontinued."
+        },
+        "finish": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1,
+          "maxLength": 120,
+          "description": "Documented paint finish. Omit or use null when unknown; do not infer from the digital swatch."
+        },
+        "manufacturer_colour_family": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1,
+          "maxLength": 200,
+          "description": "Manufacturer-published colour family or triad name; distinct from calculated display families."
+        }
+      }
+    }
+  }
+}

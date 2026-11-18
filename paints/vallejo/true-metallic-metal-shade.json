@@ -1,0 +1,562 @@
+[
+  {
+    "id": "bbbba7b6-2064-49d4-8a43-a79149268e90",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.141",
+    "name": "Sterling Silver",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771412",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#373635",
+      "gradient": [
+        "#252524",
+        "#2D2D2C",
+        "#363534",
+        "#3B3A3A",
+        "#515050",
+        "#676666",
+        "#767676"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3400dce4-aeef-4664-bf54-a58e1632cce5",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.142",
+    "name": "Radiant Yellow",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771429",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5B4118",
+      "gradient": [
+        "#372610",
+        "#463014",
+        "#593F18",
+        "#73551E",
+        "#967428",
+        "#B79639",
+        "#D6B651"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f58788dc-ace7-4a8b-9d2e-cf2f6a8fdeea",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.143",
+    "name": "Imperial Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771436",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5E3B1D",
+      "gradient": [
+        "#36280D",
+        "#402E12",
+        "#4E3518",
+        "#5D3A1D",
+        "#714922",
+        "#875A28",
+        "#A16F2D"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "46a032b9-7c50-49d6-869a-11a13b2a9810",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.144",
+    "name": "Ancient Copper",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771443",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8D3D0A",
+      "gradient": [
+        "#532B00",
+        "#633200",
+        "#773804",
+        "#8D3D0A",
+        "#9F4717",
+        "#B25324",
+        "#C56034"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a00eb788-d8c5-48e5-ac8e-16529a940a89",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.145",
+    "name": "Forged Red",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771450",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#811418",
+      "gradient": [
+        "#510B00",
+        "#5E0E01",
+        "#6D110B",
+        "#811418",
+        "#8C201F",
+        "#972D25",
+        "#A33C2C"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ad3c658-8d9d-4c30-8931-1a8ca27a4aa3",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.146",
+    "name": "Ruby Red",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771467",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7C1F35",
+      "gradient": [
+        "#4C0F2A",
+        "#5A1531",
+        "#6C1C35",
+        "#7B1F33",
+        "#862939",
+        "#913643",
+        "#9D4751"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e833ae8f-e261-4bc6-ab43-68f71dfce892",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.147",
+    "name": "Crimson Magenta",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771474",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#92015B",
+      "gradient": [
+        "#5E0037",
+        "#6C0041",
+        "#7D014D",
+        "#92015B",
+        "#981C63",
+        "#9D2F6D",
+        "#A34179"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ee794273-b72a-4655-9103-2aa289157115",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.148",
+    "name": "Amethyst Purple",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771481",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#45134E",
+      "gradient": [
+        "#21082D",
+        "#2A0D36",
+        "#371242",
+        "#45134E",
+        "#50175B",
+        "#5A1C68",
+        "#652176"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9470c57f-e922-4089-b4ca-c9871be7e380",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.149",
+    "name": "Celestial Violet",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771498",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#311842",
+      "gradient": [
+        "#321843",
+        "#311742",
+        "#301742",
+        "#2F1642",
+        "#361D4D",
+        "#3E2359",
+        "#462966"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "78c5bb5f-c01e-4bb9-9531-54b0cb5cd2ef",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.150",
+    "name": "Ultramarine Blue",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771504",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#003260",
+      "gradient": [
+        "#091037",
+        "#041941",
+        "#00254F",
+        "#003260",
+        "#00386B",
+        "#003C76",
+        "#003F7F"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2b7409e4-d83e-4216-a675-46a8ed133ee6",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.151",
+    "name": "Sapphire Blue",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771511",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#003D6C",
+      "gradient": [
+        "#00183E",
+        "#00234B",
+        "#002F5B",
+        "#003D6C",
+        "#00497B",
+        "#00578B",
+        "#00659D"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "358541ed-fc94-4377-9087-31703489c099",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.152",
+    "name": "Hydra Turquoise",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771528",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#006378",
+      "gradient": [
+        "#002B3C",
+        "#003A4D",
+        "#004D61",
+        "#006378",
+        "#007088",
+        "#007C99",
+        "#0089A9"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "82080ef1-31f3-4eff-87da-a6fa29f92c13",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.153",
+    "name": "Beetle Green",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771535",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#006057",
+      "gradient": [
+        "#003316",
+        "#003F26",
+        "#004E3B",
+        "#005F56",
+        "#006E65",
+        "#007C72",
+        "#008C80"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d781fa98-6c7c-46a7-972c-1e47b34f9129",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.154",
+    "name": "Dusken Green",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771542",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#003317",
+      "gradient": [
+        "#00250C",
+        "#00290F",
+        "#002E13",
+        "#003317",
+        "#003D1E",
+        "#094722",
+        "#1F5227"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "04074462-a1a2-46f4-82af-d1d6efca3c66",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.155",
+    "name": "Amber Green",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771559",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#31492E",
+      "gradient": [
+        "#00220F",
+        "#002D18",
+        "#163A23",
+        "#31492E",
+        "#3A5636",
+        "#3F633C",
+        "#427041"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f48c818c-48ed-44c4-a448-692220b21dd9",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.156",
+    "name": "Greenish Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771566",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2A3310",
+      "gradient": [
+        "#1A280F",
+        "#1E2B10",
+        "#242E10",
+        "#2A3210",
+        "#383F18",
+        "#454D20",
+        "#555C28"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "815f5a54-db24-4ac7-a4fe-d1eecc43ec32",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.157",
+    "name": "Arcane Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771573",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4A3319",
+      "gradient": [
+        "#2C2214",
+        "#332615",
+        "#3E2C18",
+        "#4A3319",
+        "#5F4323",
+        "#75552D",
+        "#8A6735"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e010ce57-6f0c-43b6-b963-b43d79061fb8",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.158",
+    "name": "Rusty Metal",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771580",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#453731",
+      "gradient": [
+        "#1E1E17",
+        "#27231D",
+        "#342C26",
+        "#453731",
+        "#55443D",
+        "#67514C",
+        "#7A625D"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "21bd4fb0-ee02-4f61-837a-1eb2c561e72a",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.159",
+    "name": "Aged Metal",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771597",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3C3908",
+      "gradient": [
+        "#221F00",
+        "#2C2800",
+        "#353105",
+        "#3C3908",
+        "#47420E",
+        "#524C14",
+        "#5D5418"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8969f522-e90e-498d-98a4-bed54caa42de",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Shade",
+    "code": "77.160",
+    "name": "Obsidian Black",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771603",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#262625",
+      "gradient": [
+        "#020202",
+        "#0E0E0E",
+        "#1A1A1A",
+        "#262625",
+        "#30302F",
+        "#373736",
+        "#3D3D3C"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

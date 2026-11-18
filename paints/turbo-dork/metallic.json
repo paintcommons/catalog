@@ -1,0 +1,1040 @@
+[
+  {
+    "id": "5c1d2bc3-b34b-40e2-88f6-6cddb5926627",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK021253",
+    "name": "Gilty Pleasure",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850085781253",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/gilty-pleasure"
+      }
+    ],
+    "colour": {
+      "hex": "#8F8A69",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "43692ef8-87c3-414a-83cf-a9f912d089cc",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK021307",
+    "name": "Knight Night",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850085781307",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/knight-night"
+      }
+    ],
+    "colour": {
+      "hex": "#335385",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "75ac3200-ccd5-43e6-8bcc-edcf0d4c934f",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK021314",
+    "name": "Krillionaire",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850085781314",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/krillionaire"
+      }
+    ],
+    "colour": {
+      "hex": "#92585A",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c53508de-7e55-4de2-a3ce-15fd28e02d58",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK021321",
+    "name": "Lead Balloon",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850085781321",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/lead-balloon"
+      }
+    ],
+    "colour": {
+      "hex": "#90847E",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "61d94e8e-20ad-4588-af53-9fbd93fec78e",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK021338",
+    "name": "Minty Fresh",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850085781338",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/minty-fresh"
+      }
+    ],
+    "colour": {
+      "hex": "#61B3A7",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "31c25279-20a4-47b9-94a4-ec5126222257",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK021345",
+    "name": "New Game Plus",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850085781345",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/new-game-plus"
+      }
+    ],
+    "colour": {
+      "hex": "#166C57",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fc83e677-9e6a-465a-aa99-e5784e8e7dd2",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK021352",
+    "name": "Oxidaze",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850085781352",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/oxidaze"
+      }
+    ],
+    "colour": {
+      "hex": "#A0806C",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5baa6597-55bb-45d5-8d8b-7f4fda6149d7",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK021376",
+    "name": "Sandstorm",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850085781376",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/sandstorm"
+      }
+    ],
+    "colour": {
+      "hex": "#978943",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c5236e87-0b0b-41ac-828f-ec1536ef2325",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK021390",
+    "name": "Sunburst",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850085781390",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/sunburst"
+      }
+    ],
+    "colour": {
+      "hex": "#D66902",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9dee62ae-308f-4a33-8fb7-0fceb927758b",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK021406",
+    "name": "Violet Tendencies",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850085781406",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/violet-tendencies"
+      }
+    ],
+    "colour": {
+      "hex": "#783889",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d1b2e1f8-0f00-44fd-9223-0b6f49a07654",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025076",
+    "name": "Absinthe",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885076",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/absinthe-1"
+      }
+    ],
+    "colour": {
+      "hex": "#0D9978",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e796a7ed-9a6e-41bf-8f9e-bfc546c03757",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025090",
+    "name": "All That Glitters",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885090",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/all-that-glitters-1"
+      }
+    ],
+    "colour": {
+      "hex": "#D5AE29",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f79d5019-c523-4ec3-a338-a032aab3bbfe",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025106",
+    "name": "Appleseed",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885106",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/apple-seed-1"
+      }
+    ],
+    "colour": {
+      "hex": "#439C4D",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "919f99ae-5baa-4df3-bc4e-5ed999f65e83",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025113",
+    "name": "Bees Knees",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885113",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/bees-knees-1"
+      }
+    ],
+    "colour": {
+      "hex": "#E19A04",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4848a212-c666-4a79-90f3-c99c82152520",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025120",
+    "name": "Black Ice",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885120",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/black-ice-1"
+      }
+    ],
+    "colour": {
+      "hex": "#454548",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "26f8ba05-984d-4554-b63b-74c522614f4c",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025144",
+    "name": "Cartridge Family",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885144",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/cartridge-family-1"
+      }
+    ],
+    "colour": {
+      "hex": "#CC760C",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0c22ff27-b2a8-408a-b700-9c7d1b8008e0",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025151",
+    "name": "Blue Steel",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885151",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/blue-steel-1"
+      }
+    ],
+    "colour": {
+      "hex": "#668FA5",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "22f8f9a8-af5b-4ed8-ba1d-057e5e50b69d",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025168",
+    "name": "Box Wine",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885168",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/box-wine-1"
+      }
+    ],
+    "colour": {
+      "hex": "#713F46",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e8022cd0-6a0f-4902-909c-ccd6ee33f2f1",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025182",
+    "name": "Bullion",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885182",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/bullion-1"
+      }
+    ],
+    "colour": {
+      "hex": "#C98618",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "78a0b789-90cc-46f0-a605-0ce97b07c96f",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025212",
+    "name": "Cool Ranch",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#074BB5",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "977b38a4-b73a-4c3d-9620-d5f11221ae36",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025236",
+    "name": "Curacao",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885236",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/curacao-1"
+      }
+    ],
+    "colour": {
+      "hex": "#0596AB",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8dc91af2-8ec1-449f-95b0-da47aee24d63",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025250",
+    "name": "Da Ba Dee",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885250",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/da-ba-dee-1"
+      }
+    ],
+    "colour": {
+      "hex": "#025ABE",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "287c5bcd-2d82-44bc-99f6-cf37adea1662",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025281",
+    "name": "Death By",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885281",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/death-by-1"
+      }
+    ],
+    "colour": {
+      "hex": "#88664B",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c0607708-359c-4c07-a4a7-b23d877f7584",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025298",
+    "name": "Dork",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885298",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/dork-1"
+      }
+    ],
+    "colour": {
+      "hex": "#0B7CA9",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ab040efe-02ac-4e18-9f3b-ff14bf78c81a",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025335",
+    "name": "Fahrenheit",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885335",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/fahrenheit"
+      }
+    ],
+    "colour": {
+      "hex": "#DE2B0C",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "71ace655-a482-4379-b9b3-327c325618e5",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025366",
+    "name": "Gold Rush",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885366",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/gold-rush-1"
+      }
+    ],
+    "colour": {
+      "hex": "#CF992D",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b31291dc-1bc2-45ff-9607-9f542adf006a",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025373",
+    "name": "Gordian Knot",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885373",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/gordian-knot-1"
+      }
+    ],
+    "colour": {
+      "hex": "#59714D",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e67ea4fd-a7da-47f6-ba8d-2d5e37abb265",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025410",
+    "name": "Hotline",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A6336E",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "017e452c-3373-474e-8c18-768983bf0912",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025465",
+    "name": "Life On Mars",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885465",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/life-on-mars-1"
+      }
+    ],
+    "colour": {
+      "hex": "#984B2F",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9a264377-093b-4a02-a83d-a9954afead40",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025489",
+    "name": "Maguro",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885489",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/maguro-1"
+      }
+    ],
+    "colour": {
+      "hex": "#6AABCB",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "56f18134-1a50-4d2d-a4ca-d4fdf91eed10",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025496",
+    "name": "Malum Malus",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885496",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/malum-malus-1"
+      }
+    ],
+    "colour": {
+      "hex": "#8CA458",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "96c45d8c-ec35-4ee7-8139-62083d5e4902",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025540",
+    "name": "Multipass",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885540",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/multi-pass-1"
+      }
+    ],
+    "colour": {
+      "hex": "#D26A13",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5399abea-156c-4e45-83f3-95a307c70245",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025557",
+    "name": "Orange You Glad",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885557",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/orange-you-glad-1"
+      }
+    ],
+    "colour": {
+      "hex": "#E08711",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0ac9f8c3-4503-43ee-a674-f7856b7d8756",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025571",
+    "name": "Pearly Gates",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885571",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/pearly-gates-1"
+      }
+    ],
+    "colour": {
+      "hex": "#CFD2D1",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3fc81987-a32a-456d-9de7-5a746771f6bd",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025588",
+    "name": "People Eater",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885588",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/people-eater-1"
+      }
+    ],
+    "colour": {
+      "hex": "#6320B5",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a60790ff-3d90-474b-af1e-4eb011e4ba57",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025601",
+    "name": "Pucker",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885601",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/pucker-1"
+      }
+    ],
+    "colour": {
+      "hex": "#D8B80D",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fb9a559e-5eab-4841-98c6-8542692fc651",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025618",
+    "name": "Purl Grey",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885618",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/purl-grey-1"
+      }
+    ],
+    "colour": {
+      "hex": "#747CA4",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f782209e-9b19-4045-bde2-f495d93b3dd8",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025649",
+    "name": "Red Queen",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885649",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/red-queen"
+      }
+    ],
+    "colour": {
+      "hex": "#753033",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2ddcf80b-2c8a-42b4-bf49-e34e4fab3230",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025656",
+    "name": "Redrum",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885656",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/redrum-1"
+      }
+    ],
+    "colour": {
+      "hex": "#852B2A",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cd63d36d-00e2-4b39-9c1d-50d1634309a0",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025670",
+    "name": "Sakura",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885670",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/sakura-1"
+      }
+    ],
+    "colour": {
+      "hex": "#D588A7",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "216dbb3a-7d45-4e0f-9ce2-6b97f3c5a51b",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025717",
+    "name": "Silver Fox",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885717",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/silver-fox-1"
+      }
+    ],
+    "colour": {
+      "hex": "#787F85",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a3865f04-d9a5-4514-bc03-b7796e8ad7dd",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025724",
+    "name": "Six Shooter",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885724",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/six-shooter-1"
+      }
+    ],
+    "colour": {
+      "hex": "#50535A",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f8b7e0e8-7287-473b-8281-d324287f4981",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025748",
+    "name": "Sparkle Motion",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885748",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/sparkle-motion-1"
+      }
+    ],
+    "colour": {
+      "hex": "#A39D90",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "662183c3-0d24-41c1-b1fb-15f699eab3e7",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025755",
+    "name": "Spicy Meatball",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885755",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/spicy-meatball-1"
+      }
+    ],
+    "colour": {
+      "hex": "#8A4045",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d718c8b8-b050-4d92-916f-3c1259be3803",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025779",
+    "name": "Summoning Sickness",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885779",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/summoning-sickness-1"
+      }
+    ],
+    "colour": {
+      "hex": "#8F9135",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "59d35031-84a3-412a-8724-9e632820de78",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025786",
+    "name": "Syringa",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885786",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/syringa"
+      }
+    ],
+    "colour": {
+      "hex": "#AF7D9B",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c97aa513-700c-4e0e-b93a-e9efdb762ca6",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025793",
+    "name": "Taro",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885793",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/taro-1"
+      }
+    ],
+    "colour": {
+      "hex": "#9897BC",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e19d431d-6a0f-49cd-9a5f-f91e3b476dab",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025809",
+    "name": "Tin Star",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885809",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/tin-star-1"
+      }
+    ],
+    "colour": {
+      "hex": "#ACAFB1",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b1a22ee9-8cc7-43ae-b0bb-042f96d22dfe",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025816",
+    "name": "Turbo",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885816",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/turbo-1"
+      }
+    ],
+    "colour": {
+      "hex": "#E07175",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0008c1bd-7079-4682-b860-d4a021ddb442",
+    "brand": "Turbo Dork",
+    "range": "Metallic",
+    "code": "TDK025830",
+    "name": "Two Cents",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "0850052885830",
+        "source": "published",
+        "source_url": "https://turbodork.com/products/two-cents-1"
+      }
+    ],
+    "colour": {
+      "hex": "#BF7C48",
+      "gradient": null,
+      "source": "turbo-dork-swatches"
+    },
+    "status": "current"
+  }
+]

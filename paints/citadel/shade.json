@@ -1,0 +1,347 @@
+[
+  {
+    "id": "a058c8b1-db68-42ac-a5fe-82b540c6a145",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Agrax Earthshade",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#734F38",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7df28a8e-0604-4009-a06b-7c1df149303e",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Agrax Earthshade Gloss",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B4AA9E",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "075235aa-778c-4277-9ce2-8d1850ecd60a",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Athonian Camoshade",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#71632F",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "48819490-ac72-4730-8c5d-2b8cad7716a0",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Berserker Bloodshade",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A5753",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ca87d0ad-5887-48c2-a38f-4071256adfb2",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Biel-Tan Green",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#48984E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ec00002-9e54-480c-9b81-b9023f045496",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Carroburg Crimson",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#884355",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "87631e48-7c5f-44f4-879a-db450f1bc807",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Casandora Yellow",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EBAA33",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "589269ab-6d40-4766-835e-f055fdf108db",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Coelia Greenshade",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#447878",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1a3fad70-3c76-4563-93cb-28ef937dc4af",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Cryptek Armourshade Gloss",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#856A67",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5fbf105a-8a49-4f9b-a83f-180beeec784a",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Drakenhof Nightshade",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#41545B",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5f1624da-9dda-4e4f-9417-1564a6f079be",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Druchii Violet",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7A4D8D",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dc844a84-0b53-4075-a299-052cb59db7fa",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Fuegan Orange",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E48B5E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8b435403-0a8d-4627-a146-b50c2d81fddc",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Kroak Green",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AFBE9A",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7f023567-3b3d-4d56-80ba-b19720f78a74",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Mortarion Grime",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BAA576",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "11402f4b-47e6-454f-9447-9b2d825bde2e",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Nuln Oil",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5E554E",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aa943853-bba5-459c-96a0-983ac3277754",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Nuln Oil Gloss",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B3AFAE",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "16c4a5e1-b2d1-4ede-aea8-cfcc6f90ed0d",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Poxwalker",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4C7E69",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0f23fbeb-a6d6-4364-9ac5-07153ebbe68c",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Reikland Fleshshade",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A66645",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7e93b7f5-a9fe-41d0-bbb6-1392dfe8870c",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Reikland Fleshshade Gloss",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C2A896",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e95f69a2-91ef-41a2-b51b-f8937796e748",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Seraphim Sepia",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C58748",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "72259976-6007-46a5-ad78-119c7b8b5ef3",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Soulblight Grey",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8A8683",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "185483db-4631-4339-8a20-bb3e74cdb3c7",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Targor Rageshade",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6B4D48",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f1fe8ff0-1888-4b99-9dfc-0059e80a0568",
+    "brand": "Citadel",
+    "range": "Shade",
+    "code": null,
+    "name": "Tyran Blue",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#436EB3",
+      "gradient": null,
+      "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  }
+]

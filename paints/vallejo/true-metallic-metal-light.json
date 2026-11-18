@@ -1,0 +1,562 @@
+[
+  {
+    "id": "b1fe7614-c0f0-4df3-a01f-d9bcddcbd635",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.101",
+    "name": "Sterling Silver",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771016",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#ECEDEC",
+      "gradient": [
+        "#F6F6F7",
+        "#F6F6F6",
+        "#F1F1F1",
+        "#ECEDEC",
+        "#EAEAEA",
+        "#EAEAEA",
+        "#EAEAEA"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "beee277b-db86-427a-a4f7-80fd0df1da2a",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.102",
+    "name": "Radiant Yellow",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771023",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E5D030",
+      "gradient": [
+        "#F9EB98",
+        "#F6E578",
+        "#F0DC57",
+        "#EAD438",
+        "#E5D037",
+        "#E5D036",
+        "#E5D037"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e9ec6d67-03d6-472f-a529-7387c2f5f4cc",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.103",
+    "name": "Imperial Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771030",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CFA15C",
+      "gradient": [
+        "#F3D99F",
+        "#EFD296",
+        "#E2C082",
+        "#D6AF6D",
+        "#CFA15C",
+        "#CFA15C",
+        "#CFA15C"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9d72dda9-4365-4913-8bd9-f56854a5ceff",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.104",
+    "name": "Ancient Copper",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771047",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E6A27B",
+      "gradient": [
+        "#F1BA92",
+        "#F1B992",
+        "#ECAF88",
+        "#E5A27B",
+        "#E0946D",
+        "#E0936A",
+        "#E09369"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "596938a9-896f-4690-b5f8-136eb438387d",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.105",
+    "name": "Forged Red",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771054",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E97D31",
+      "gradient": [
+        "#F1A660",
+        "#EF9F56",
+        "#EB8D42",
+        "#E87B31",
+        "#E87522",
+        "#E8751F",
+        "#E8751E"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3d2ca1c7-9951-4d48-817c-64a3ceea7ecb",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.106",
+    "name": "Ruby Red",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771061",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EFA08E",
+      "gradient": [
+        "#F6C1B6",
+        "#F5B9AB",
+        "#F2AC9C",
+        "#EF9F8D",
+        "#EC9380",
+        "#EA8D7B",
+        "#E98878"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d2f81ea6-7870-4beb-8a2e-992fcf2e9f96",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.107",
+    "name": "Crimson Magenta",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771078",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E69ABE",
+      "gradient": [
+        "#F3BED6",
+        "#EEB5D0",
+        "#E8A3C3",
+        "#E493BB",
+        "#E493BA",
+        "#E493BA",
+        "#E493BA"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "043aeeb6-d54a-423b-93d0-fe9e893497d2",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.108",
+    "name": "Amethyst Purple",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771085",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C89CC7",
+      "gradient": [
+        "#D6B5D4",
+        "#D4B3D3",
+        "#CDA7CD",
+        "#C79AC6",
+        "#C596C4",
+        "#C596C4",
+        "#C596C4"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c50376b8-7e54-4021-be7b-ac1dda6eeed1",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.109",
+    "name": "Celestial Violet",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771092",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BBA9D2",
+      "gradient": [
+        "#CDC6E1",
+        "#C9C0DE",
+        "#C1B3D7",
+        "#BAA8D1",
+        "#B49DCB",
+        "#B39CCB",
+        "#B29BCA"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "38179132-f191-4330-88a3-5805c1f04f86",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.110",
+    "name": "Ultramarine Blue",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771108",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#81B2CD",
+      "gradient": [
+        "#9DC3DD",
+        "#98C0DA",
+        "#8AB8D2",
+        "#81B2CD",
+        "#7BAFCA",
+        "#7AAECA",
+        "#77ACCA"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f3fb9206-beba-4ca7-abfd-698a685bb706",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.111",
+    "name": "Sapphire Blue",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771115",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#33A9E1",
+      "gradient": [
+        "#9BC7E8",
+        "#91C2E8",
+        "#79B9E5",
+        "#5CB1E3",
+        "#35A9E1",
+        "#25A7DF",
+        "#0AA6DE"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ce25acbd-c62d-454d-9210-a38ee8240601",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.112",
+    "name": "Hydra Turquoise",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771122",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#85CCDE",
+      "gradient": [
+        "#A4D3E8",
+        "#A1D3E6",
+        "#93D0E2",
+        "#85CCDD",
+        "#76C8DB",
+        "#75C8DB",
+        "#75C8DB"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "09834691-94ef-4bbb-a949-850e8fcd0a18",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.113",
+    "name": "Beetle Green",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771139",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#94CBB1",
+      "gradient": [
+        "#B0D2C1",
+        "#AED2C0",
+        "#A1CFB8",
+        "#94CBB1",
+        "#86C7AA",
+        "#86C7A9",
+        "#86C7A9"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "83e7d5eb-ab81-4358-bc96-87e8dd715a5c",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.114",
+    "name": "Dusken Green",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771146",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7EB482",
+      "gradient": [
+        "#A9C7A1",
+        "#9CC196",
+        "#8DBA8B",
+        "#7EB482",
+        "#6CAE78",
+        "#69AA74",
+        "#66A671"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ceddc088-1be7-43b6-b30c-88aa1ce1f11d",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.115",
+    "name": "Amber Green",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771153",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A7B16D",
+      "gradient": [
+        "#C4CA8F",
+        "#B7BD80",
+        "#ACB573",
+        "#A7B16D",
+        "#A4AF69",
+        "#A1AA5C",
+        "#9FA955"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6af214a2-9850-47d8-a2f1-26ef3abb6fb3",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.116",
+    "name": "Greenish Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771160",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EED471",
+      "gradient": [
+        "#EFDC8C",
+        "#EFDB86",
+        "#EFD77A",
+        "#EED36E",
+        "#EDD36D",
+        "#EDD36D",
+        "#ECD36D"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b289f720-e4ce-41c3-b60d-137864c00e4a",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.117",
+    "name": "Arcane Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771177",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E2BC70",
+      "gradient": [
+        "#EDD69E",
+        "#EBD092",
+        "#E6C580",
+        "#E2BB6D",
+        "#DDB168",
+        "#DDB168",
+        "#DCB168"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e92643cc-5db4-464b-b3f4-65c30a807ba5",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.118",
+    "name": "Rusty Metal",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771184",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C8A38E",
+      "gradient": [
+        "#DBBFB0",
+        "#DBBEAE",
+        "#D1B09D",
+        "#C7A28D",
+        "#C49683",
+        "#C49682",
+        "#C49682"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fafd71d2-5507-4b0f-8c2b-fae4eab3481c",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.119",
+    "name": "Aged Metal",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771191",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B0A169",
+      "gradient": [
+        "#DDD0A9",
+        "#D2C496",
+        "#C5B583",
+        "#B9A973",
+        "#B0A169",
+        "#B0A169",
+        "#B0A169"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9e5195f8-ef93-4b4c-89ee-7e85982cc91a",
+    "brand": "Vallejo",
+    "range": "True Metallic Metal Light",
+    "code": "77.120",
+    "name": "Obsidian Black",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551771207",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#999999",
+      "gradient": [
+        "#C1C2C3",
+        "#B5B6B6",
+        "#A9A9A9",
+        "#A0A0A0",
+        "#9A9A99",
+        "#949696",
+        "#909394"
+      ],
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

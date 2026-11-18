@@ -1,0 +1,62 @@
+[
+  {
+    "id": "87a1ff34-f2d5-4a1a-926a-7264f75fbaa2",
+    "brand": "Vallejo",
+    "range": "Game Color Varnish",
+    "code": "72.651",
+    "name": "Matt Polyur. Varnish",
+    "type": "varnish",
+    "barcodes": [
+      {
+        "ean": "8429551726511",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1a9195a9-167e-455a-b8c4-afc8445d52a9",
+    "brand": "Vallejo",
+    "range": "Game Color Varnish",
+    "code": "72.652",
+    "name": "Satin Polyur. Varnish",
+    "type": "varnish",
+    "barcodes": [
+      {
+        "ean": "8429551726528",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f3be4ad9-8d65-48b3-b765-0f91cdf0421b",
+    "brand": "Vallejo",
+    "range": "Game Color Varnish",
+    "code": "72.653",
+    "name": "Ultra Matt Pol. Varnish",
+    "type": "varnish",
+    "barcodes": [
+      {
+        "ean": "8429551726535",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

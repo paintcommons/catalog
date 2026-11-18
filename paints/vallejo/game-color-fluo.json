@@ -1,0 +1,162 @@
+[
+  {
+    "id": "eac4ba71-967a-48c5-a99e-24a6478576f4",
+    "brand": "Vallejo",
+    "range": "Game Color Fluo",
+    "code": "72.103",
+    "name": "Fluorescent Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551721035",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FAEA3D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cc44499b-af0b-485b-81e2-1e3d47168eac",
+    "brand": "Vallejo",
+    "range": "Game Color Fluo",
+    "code": "72.104",
+    "name": "Fluorescent Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551721042",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5AB030",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "48c30641-f4d6-4cd0-a204-f02421b7e363",
+    "brand": "Vallejo",
+    "range": "Game Color Fluo",
+    "code": "72.156",
+    "name": "Fluorescent Orange",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551721561",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E63A11",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "47e7cf85-cece-4add-96f7-e2e39b2ef618",
+    "brand": "Vallejo",
+    "range": "Game Color Fluo",
+    "code": "72.157",
+    "name": "Fluorescent Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551721578",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E32D3E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d848a80d-7381-4cda-9919-d749d2accfc8",
+    "brand": "Vallejo",
+    "range": "Game Color Fluo",
+    "code": "72.158",
+    "name": "Fluorescent Magenta",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551721585",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E8338A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9a0900cf-2319-4071-aa23-2217b7c7745f",
+    "brand": "Vallejo",
+    "range": "Game Color Fluo",
+    "code": "72.159",
+    "name": "Fluorescent Violet",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551721592",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6D2579",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "42bfbc27-e475-4070-ab1b-05073a1558df",
+    "brand": "Vallejo",
+    "range": "Game Color Fluo",
+    "code": "72.160",
+    "name": "Fluorescent Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551721608",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#0079B8",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3c3ef0e0-3f68-4dfc-9caf-362cc85905a1",
+    "brand": "Vallejo",
+    "range": "Game Color Fluo",
+    "code": "72.161",
+    "name": "Fluorescent Cold Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551721615",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#005F4D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

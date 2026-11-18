@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6ad9a5b6-b5b0-4183-a9e0-1d498c9c6cf8",
+    "brand": "Citadel",
+    "range": "Glaze",
+    "code": null,
+    "name": "Bloodletter",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F37355",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9788c0f7-4a8d-45e0-a2f1-e327e1789240",
+    "brand": "Citadel",
+    "range": "Glaze",
+    "code": null,
+    "name": "Guilliman Blue",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2F9AD6",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "477aa58d-7b63-4d26-8905-a1de0c86af09",
+    "brand": "Citadel",
+    "range": "Glaze",
+    "code": null,
+    "name": "Lamenters Yellow",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFF56B",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7cd887a7-7293-4803-a02c-b0592465dbc2",
+    "brand": "Citadel",
+    "range": "Glaze",
+    "code": null,
+    "name": "Waywatcher Green",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6DC066",
+      "gradient": null,
+      "source": "miniature-paints"
+    },
+    "status": "current"
+  }
+]

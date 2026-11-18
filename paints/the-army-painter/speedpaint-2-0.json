@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "ba5ff3c3-e453-4d98-8c88-f2e2fb51c198",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2000",
+    "name": "Speedpaint Medium",
+    "type": "medium",
+    "barcodes": [
+      {
+        "ean": "5713799200081",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bc138115-7d6e-4826-96f6-986cc88d76a8",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2001",
+    "name": "Grim Black",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799200180",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7b7f7528-fee5-4a31-ae84-144350a128dd",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2002",
+    "name": "Gravelord Grey",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799200289",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#43464A",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "578ef913-12ba-4d72-b328-f9c4c1986846",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2003",
+    "name": "Holy White",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799200388",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#ECECEC",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2fe3e541-d275-443e-86b8-3b6c8eb98c71",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2004",
+    "name": "Crusader Skin",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799200487",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F6AA7D",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "13a9079c-dca5-4b26-8fc3-86b2b79510a0",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2005",
+    "name": "Dark Wood",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799200586",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#452B0B",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dcc85ffc-7b65-4d29-94f4-31c361b0492b",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2006",
+    "name": "Pallid Bone",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799200685",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E8D398",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ad8015e6-b75f-48c9-8210-4969704127de",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2007",
+    "name": "Absolution Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799200784",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#0C4720",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "96467144-7043-427f-a1f2-953eef2361f4",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2008",
+    "name": "Camo Cloak",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799200883",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#557237",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c4de1867-f18b-4510-9031-ec11b19c835f",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2009",
+    "name": "Orc Skin",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799200982",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#198220",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a6464c53-e1a1-4527-a50a-2fe9139455ca",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2010",
+    "name": "Blood Red",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799201088",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E92E09",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "aa0349f2-8bdb-4053-a2ee-17aa01268188",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2011",
+    "name": "Malignant Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799201187",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CAD948",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "79ec51fd-6252-46c6-bef7-d0c06b2ac185",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2012",
+    "name": "Slaughter Red",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799201286",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9E1123",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e83b5e26-7ecd-4c01-88ac-e88f26e535df",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2013",
+    "name": "Zealot Yellow",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799201385",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FEC800",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f9af8506-0959-4b25-8c18-88db5d9451ef",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2014",
+    "name": "Magic Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799201484",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#007BB5",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "01242139-9229-402e-ad54-bf8114a9af5d",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2015",
+    "name": "Highlord Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799201583",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#005587",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "db65ffb9-7682-4c83-9a56-f2c1907d683b",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2016",
+    "name": "Runic Grey",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799201682",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#537A8C",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fe294f0f-2e35-48ec-8112-313be2a34db0",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2017",
+    "name": "Fire Giant Orange",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799201781",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F17A1A",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "50f62d8f-896d-4a30-8df9-1d0d731663f4",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2018",
+    "name": "Hive Dweller Purple",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799201880",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#523373",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "56885761-19a1-458e-a251-4fc6376a0fb0",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2019",
+    "name": "Plasmatic Bolt",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799201989",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#49B9AF",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "52844136-5bbe-4a49-98a9-f73949b44e66",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2020",
+    "name": "Sand Golem",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799202085",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CF9800",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d6326562-2398-4397-8b74-87ebedf021e8",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2021",
+    "name": "Purple Alchemy",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799202184",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AF3B6C",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "246a49c5-04c5-4257-b94f-4f43d09d4e13",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2022",
+    "name": "Cloudburst Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799202283",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#38415A",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f328b601-ac8d-49c9-9c72-315e8db08aec",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2023",
+    "name": "Hardened Leather",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799202382",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#945201",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c8d7c50c-29f5-48ca-a816-31cbee99dc8a",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2024",
+    "name": "Battleship Grey",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799202481",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#BBCED7",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fab64c18-96ec-4569-addb-d00401e0a0a7",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2025",
+    "name": "Ashen Stone",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799202580",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B7C1C6",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a5a54880-b870-47df-8732-9e8aab0b734c",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2026",
+    "name": "Burnt Moss",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799202689",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#495C50",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0e586397-1ac6-4824-a6bf-f91f16d1bd4b",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2027",
+    "name": "Occultist Cloak",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799202788",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2E2F3B",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "954e7835-5257-414b-b07a-bca873fbd196",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2028",
+    "name": "Hoplite Gold",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799202887",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FECA03",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c8bc73e9-1c2c-4925-a1cc-e4055b7d9cfd",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2029",
+    "name": "Talos Bronze",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799202986",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DE7A55",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5eb7ddb2-5af3-42b5-8018-dea8fef7455b",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2030",
+    "name": "Broadsword Silver",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799203082",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#777A7A",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "864ada66-2eb7-4659-be72-d34b24cd9152",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2031",
+    "name": "Purple Swarm",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799203181",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#63308A",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b17e523c-545e-4f6d-b818-b7a55f4fb906",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2032",
+    "name": "Moody Mauve",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799203280",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A24E81",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a4013c66-c43d-47f2-8522-16327264f9ff",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2033",
+    "name": "Familiar Pink",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799203389",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E02A88",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ac5fe5b5-ca4d-445c-9931-759343a87327",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2034",
+    "name": "Moonlake Coral",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799203488",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A93571",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d5d4ffc8-85f7-4e7d-885f-e6232b2e46be",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2035",
+    "name": "Periwinkle Purple",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799203587",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#56539E",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "100a5d91-3d83-41be-bd65-ec80190af28e",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2036",
+    "name": "Aged Hide",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799203686",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#DD6D4F",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4dff2d1f-cc0b-4b1c-97ad-a6c92932dced",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2037",
+    "name": "Peachy Flesh",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799203785",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F7A86A",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "05062fec-4d76-4291-add3-a836c6f20812",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2038",
+    "name": "Goddess Glow",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799203884",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9C5651",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d2e70f43-d15d-4244-811d-0cd8573817f9",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2039",
+    "name": "Bony Matter",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799203983",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B79672",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a23e79fc-7a71-4531-9bcd-1f5f0e150431",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2040",
+    "name": "Desolate Brown",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799204089",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#777237",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6a0a9014-28db-46ae-962a-70247a824142",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2041",
+    "name": "Shamrock Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799204188",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5AAF24",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8c009483-c78d-40f5-be4c-f150c99d1253",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2042",
+    "name": "Ghillie Dew",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799204287",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8BBD0D",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "34fbbc5d-33a8-448c-aeb6-ed6451a3e998",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2043",
+    "name": "Gunner Camo",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799204386",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2C523E",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "04595e45-8c42-490a-a18d-48289d310b4f",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2044",
+    "name": "Forest Sprite",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799204485",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6AA343",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9ca981e4-bb32-4df2-ae74-a44a1d7aad61",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2045",
+    "name": "Algae Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799204584",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#98AF52",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d74016fa-f9bf-41f9-a5c8-627430b0ea76",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2046",
+    "name": "Caribbean Ocean",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799204683",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#00ADBE",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "770952da-63a2-4bb3-84fe-006a25a55e76",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2047",
+    "name": "Ghoul Green",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799204782",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3BAE66",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "782b0a97-c37c-44b6-9857-313e5a0032f3",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2048",
+    "name": "Charming Chartreuse",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799204881",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D6DD34",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7968e141-af6e-4658-bcfe-017e3f3f85a5",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2049",
+    "name": "Beowulf Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799204980",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#003F88",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a3370b0c-b5eb-4fbd-b9e2-b6039cdc9b45",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2050",
+    "name": "Royal Robes",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799205086",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3869AF",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "24961700-c5b8-40a0-ae8d-cb96ab92184a",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2051",
+    "name": "Tyrian Navy",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799205185",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#243F4E",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5b882470-f991-43b8-aa99-ec343191a316",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2052",
+    "name": "Tidal Wave",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799205284",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#007BBF",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7683ad95-b03b-4bfd-aa3d-5610a0fbc95f",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2053",
+    "name": "Raging Sea",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799205383",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#009AAA",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "98135c73-0380-415d-82f1-344c8fd6f656",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2054",
+    "name": "Dusk Red",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799205482",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#703C3B",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0331f7a7-9e83-4b67-95c5-0373d94a68af",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2055",
+    "name": "Carmine Dragon",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799205581",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E82E5B",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "516239fc-38f6-427d-9dff-38ed266b2bdc",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2056",
+    "name": "Poppy Red",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799205680",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CF4439",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e77a418d-3fed-45e7-bd69-e9a5100abfd7",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2057",
+    "name": "Murder Scene",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799205789",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6F2638",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f6f9bfaa-ca93-4b97-a3f8-dc941251e93c",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2058",
+    "name": "Bright Red",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799205888",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#ED593B",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7ed753fa-e2b3-4a9c-89e6-c5ac0312a8ff",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2059",
+    "name": "Maize Yellow",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799205987",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFDC00",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ea58b1a4-9d0e-4d5e-9042-f977224dbcc8",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2060",
+    "name": "Ancient Honey",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799206083",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F4C203",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "109d5962-8159-4064-bee1-ff6d44a8c96f",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2061",
+    "name": "Nuclear Sunrise",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799206182",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EF6F1B",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "99b9ab3f-5d71-486e-a4d7-b3e72edc22a4",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2062",
+    "name": "Fire Drake",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799206281",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CB6C3F",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4be53760-9434-4522-aff2-f9df5929a73c",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2063",
+    "name": "Noble Skin",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799206380",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#4C4837",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3298756c-87c3-4400-a12a-a2b745f22e7e",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2064",
+    "name": "Warrior Skin",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799206489",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A67251",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cd9d206a-9944-43f6-ad2d-5ac56cb7dd24",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2065",
+    "name": "Ruddy Fur",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799206588",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A1491E",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "07b468b4-7598-44db-909d-88d592f8b5d4",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2066",
+    "name": "Ochre Clay",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799206687",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B4A40B",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "dd9d38ea-4fd8-403b-83cb-0657bc49168c",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2067",
+    "name": "Brownish Decay",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799206786",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#645520",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2775170f-8f8e-47f5-a15c-448cd9c7fe7d",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2068",
+    "name": "Satchel Brown",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799206885",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5C382A",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3366371d-b982-4c81-8830-293d1aff1b69",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2069",
+    "name": "Golden Armour",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799206984",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C57C00",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "354e567d-6bb4-4370-a71d-e6b4466c3e6a",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2070",
+    "name": "Glittering Loot",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799207080",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E5B100",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "86312879-dd51-4481-b232-0c04a6e98083",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2071",
+    "name": "Polished Silver",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799207189",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EFF0F0",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6763d798-34b9-4b62-bc84-f7d4009e89ab",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2072",
+    "name": "Enchanted Steel",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799207288",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#889DA5",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5325014f-9f9c-43fe-bc77-cc516b208143",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2073",
+    "name": "Brazen Copper",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799207387",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B7695C",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e95af878-600d-4b24-be4b-5c5314fa8e11",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2074",
+    "name": "Hoard Bronze",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799207486",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EBC86E",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0a382d3a-fb2c-43b4-a890-2dac4536085c",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2075",
+    "name": "Aztec Gold",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799207585",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D6DE46",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f067101f-aed4-4daf-b4eb-351fc16ece9d",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2076",
+    "name": "Blinding Light",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799207684",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "41c53d02-2a94-4df6-aeaa-1543ba8b8cbd",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2077",
+    "name": "Howling Sand",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799207783",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D1D6B8",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "38eaddee-571e-44bf-b05c-d5956455f816",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2078",
+    "name": "Mummified Grime",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799207882",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#645E42",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "741b6517-6fc5-4904-abb9-1e8707f7e7c9",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2079",
+    "name": "Maggot Skin",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799207981",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#CCCF60",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "31c4c8e3-5b9b-4d22-a91f-9503ceec6f11",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2080",
+    "name": "Rigor Mortis",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799208087",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#ADB270",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "84e51706-ed01-4bd1-a7a4-553ec0855a7f",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2081",
+    "name": "Thunderbird Blue",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799208186",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#62BD9E",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c1b17ec5-11bc-40cd-9d6e-a935d14f4200",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2082",
+    "name": "Lizardfolk Cyan",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799208285",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#339DA3",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a6bf8a74-129e-4a41-903f-1166ee12cdd0",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2083",
+    "name": "Burnished Red",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799208384",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#653A2E",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3ab9bdf1-1783-409c-9932-71146d0c6775",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2084",
+    "name": "Pastel Yellow",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799208483",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFEB7B",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "11ea7947-4787-403a-8bc0-23d47ddd72a5",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2085",
+    "name": "Pastel Salmon",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799208582",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FBC89B",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ccb92de8-a402-44b4-92ee-5f655286a216",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2086",
+    "name": "Princess Pink",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799208681",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EAA2B7",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2b0fea48-a9d1-4f22-91d8-8e46b6e392d8",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2087",
+    "name": "Pastel Lavender",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799208780",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D9C4DE",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "282dc900-c000-479e-b58a-a180bf7eeca0",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2088",
+    "name": "Pastel Indigo",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799208889",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9FC1E4",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  },
+  {
+    "id": "36d54bb7-3ea8-4cfe-a785-81aaee337597",
+    "brand": "The Army Painter",
+    "range": "Speedpaint 2.0",
+    "code": "WP2089",
+    "name": "Pastel Seafoam",
+    "type": "speedpaint",
+    "barcodes": [
+      {
+        "ean": "5713799208988",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B9DFD1",
+      "gradient": null,
+      "source": "army-painter-speedpaint-2-chart"
+    },
+    "status": "current"
+  }
+]

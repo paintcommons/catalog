@@ -1,0 +1,42 @@
+[
+  {
+    "id": "39e2c2b3-d50e-47be-a431-3cdacf73f527",
+    "brand": "Vallejo",
+    "range": "Model Color Varnish",
+    "code": "70.510",
+    "name": "Gloss Varnish",
+    "type": "varnish",
+    "barcodes": [
+      {
+        "ean": "8429551705103",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cea46fa1-b3c4-4f63-b39c-d776acc5fa9c",
+    "brand": "Vallejo",
+    "range": "Model Color Varnish",
+    "code": "70.522",
+    "name": "Satin Varnish",
+    "type": "varnish",
+    "barcodes": [
+      {
+        "ean": "8429551705226",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

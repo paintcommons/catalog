@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "f805e56f-58a3-449b-b67f-9d728f5fe5a4",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.001",
+    "name": "Dead White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760010",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4e19df27-a3ac-459e-8e4f-494747f7f3ec",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.003",
+    "name": "Pale Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760034",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E0A17B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "51c596fc-7fef-43bc-8ab5-bb35a56961d2",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.004",
+    "name": "Elf Skin Tone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760041",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D68749",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "1945daa3-f66b-4508-be5d-3b180046dd6c",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.005",
+    "name": "Moon Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760058",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EEA200",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "af9bda16-71ab-4828-96ea-1113dc77e29f",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.006",
+    "name": "Sun Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760065",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#F39600",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d8bf6ef6-643f-46ab-81e8-198ffd082ac9",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.007",
+    "name": "Gold Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760072",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#ED6F03",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bed98ca0-0e10-4bfa-a4f6-895610cd83cb",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.008",
+    "name": "Orange Fire",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760089",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E84B0F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9a2873c6-0e8c-43a1-8bed-c97800735abd",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.010",
+    "name": "Bloody Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760102",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9E1D13",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "980abe8f-81f4-420d-8992-688998b364c3",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.012",
+    "name": "Scarlet Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760126",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#3F120E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6be22730-a936-4161-a2ce-4ede61326a0f",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.013",
+    "name": "Squid Pink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760133",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B75E99",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a6ec04ff-70bb-4fbe-80cb-80f627dc2987",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.014",
+    "name": "Warlord Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760140",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5D1737",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2978abf4-df5b-4aee-af32-d8c5411b7837",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.016",
+    "name": "Royal Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760164",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#291D33",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9b2ec0b3-5025-4e05-bfee-9d5ccafb18fc",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.019",
+    "name": "Night Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760195",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1C1A24",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "670141e2-085e-4f13-96b9-ee8c48268e25",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.020",
+    "name": "Imperial Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760201",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#191A2F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bd594aab-86eb-47f7-930a-b407c158c2d3",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.021",
+    "name": "Magic Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760218",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1C3F87",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "18fd3b56-1b59-4457-afe5-3a583534d47c",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.022",
+    "name": "Ultramarine Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760225",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#232340",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c9911511-d9cc-4b80-9ee7-2e3d00a91ff1",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.023",
+    "name": "Electric Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760232",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#337BA4",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5b18bb08-9a55-44ff-a6cd-9fe762455a37",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.024",
+    "name": "Turquoise",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760249",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#004A52",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "27a81ef1-463e-4799-9560-40922f0ebf12",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.026",
+    "name": "Jade Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760263",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#00654C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "52b9be53-2b5a-4e74-88ec-d866483e2fdf",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.027",
+    "name": "Scurvy Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760270",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#183A33",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "743890d1-d4fe-403f-844f-58aa2bc1f5dd",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.028",
+    "name": "Dark Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760287",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#242D22",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4cb6a24d-55f4-4813-98b1-b8fd8b634ae9",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.031",
+    "name": "Camouﬂ age Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760317",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#786A2C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5b0b05fb-3e09-47eb-b88a-85dbdaaee59f",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.032",
+    "name": "Scorpy Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760324",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#527A34",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3901adb6-ea4a-4b9a-8809-5acbaf7d37de",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.034",
+    "name": "Bone White",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760348",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AF976A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "007aefd3-a87f-4218-bde8-9201bde82b4a",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.035",
+    "name": "Dead Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760355",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A58D45",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "e816fb66-8706-4a79-af2e-59eee7ddfb27",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.036",
+    "name": "Bronze Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760362",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#B06721",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "92a7afcb-fa48-48eb-8eac-cc9ced8862ac",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.040",
+    "name": "Leather Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760409",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#5E3D19",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "efe08423-f855-40d7-a5bc-c8c971f4e45a",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.042",
+    "name": "Parasite Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760423",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#67370D",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c76dbfe1-23f1-4a30-9bab-4d18c57f9364",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.043",
+    "name": "Beasty Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760430",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#492D0B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2ec4994f-2971-428d-a14b-fbdf6a4d146b",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.045",
+    "name": "Charred Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760454",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2D1B0F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "83da588d-1ebd-454d-9ecb-94314eab230c",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.047",
+    "name": "Wolf Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760478",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#A7B9BD",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a8a5c0f9-4974-435f-a6ee-b795c717ffd0",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.048",
+    "name": "Sombre Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760485",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#353C43",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0f9904b7-50fb-4403-8827-071156ba658b",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.049",
+    "name": "Stonewall Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760492",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#726C65",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7f88bfc5-4b38-435e-86ed-749fb7ab7f3d",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.050",
+    "name": "Neutral Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760508",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#474747",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "decd903a-751b-4c6d-a854-91244acacb10",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.051",
+    "name": "Black",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760515",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "45ad4afd-cbf8-4af0-bc64-c095a8f5f1ca",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.062",
+    "name": "Earth",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760621",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#413118",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "9d0c1395-8b42-4b9e-95de-adf22b5227d0",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.063",
+    "name": "Desert Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760638",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7C5C29",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3e591e4e-849f-4667-8fa3-2fab4f0214ce",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.071",
+    "name": "Barbarian Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760713",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#7B5B37",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8a04fe03-f2c0-48d5-b01c-2f257190c405",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.076",
+    "name": "Alien Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551760768",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#55407B",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c112febb-1cab-48e5-9d3f-bb4ac261bf49",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.100",
+    "name": "Rosy Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761000",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E16F58",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4309a253-7c73-4e72-b357-4b4318adc707",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.107",
+    "name": "Athena Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761079",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#AF5343",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "525ae4f8-35a1-4ecf-85f0-52863ea77aa5",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.109",
+    "name": "Toxic Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761093",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EDC333",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a30c67d4-9bee-4276-bb56-6f7fdd856eb7",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.111",
+    "name": "Nocturnal Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761116",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#2C1211",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6f0c7ec0-000a-4a70-ae22-621bc405f760",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.114",
+    "name": "Lustful Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761147",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#8965A8",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0a89cd7a-f75c-42f9-8e5f-a7396ad4e695",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.115",
+    "name": "Grunge Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761154",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#633525",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "49afe79a-46de-43b8-bf90-2a546ace249a",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.116",
+    "name": "Midnight Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761161",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#170A17",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2f65462c-4c4e-490f-8bfb-a707a2dd7bee",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.118",
+    "name": "Sunrise Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761185",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#52B0D4",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3bb1ea7b-7163-426f-8f20-4e5e6f880308",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.120",
+    "name": "Abyssal Turquoise",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761208",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#152730",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0c8cdc02-bb65-4b30-80bd-8fb5a223d61d",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.121",
+    "name": "Ghost Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761215",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#54B383",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "413de00b-601e-470f-9006-2293b54a30e9",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.122",
+    "name": "Bile Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761222",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D5D900",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "fc960979-e5b3-4f98-9606-0259c01dbd31",
+    "brand": "Vallejo",
+    "range": "Game Air",
+    "code": "76.123",
+    "name": "Angel Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551761239",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#222C1A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]

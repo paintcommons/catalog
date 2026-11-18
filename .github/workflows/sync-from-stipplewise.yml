@@ -1,0 +1,54 @@
+name: Sync from Stipplewise
+
+# Brings approved catalog changes from Stipplewise into this repository every hour.
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: catalog-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      # The deploy key is the only writer allowed past main's protection (see the "Protect main" ruleset).
+      - uses: actions/checkout@v4
+        with:
+          ssh-key: ${{ secrets.SYNC_DEPLOY_KEY }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fetch the export
+        env:
+          CATALOG_SYNC_SECRET: ${{ secrets.CATALOG_SYNC_SECRET }}
+        run: |
+          # Wait until the latest change made here (not by this job) has been imported into
+          # Stipplewise, so the export can't overwrite a merge with older values.
+          LATEST=$(git log -1 --format=%H --perl-regexp --author='^(?!github-actions\[bot\])')
+          CODE=$(curl -sS --retry 3 --max-time 120 -w '%{http_code}' \
+            -H "Authorization: Bearer $CATALOG_SYNC_SECRET" \
+            -o "$RUNNER_TEMP/export.json" \
+            "https://ibexwyfkzydpgdzkgoma.supabase.co/functions/v1/catalog-export?require=$LATEST")
+          if [ "$CODE" = "409" ]; then echo "Waiting for $LATEST to be imported into Stipplewise; trying again next hour."; echo "SKIP=1" >> "$GITHUB_ENV"; exit 0; fi
+          if [ "$CODE" != "200" ]; then echo "Export failed with HTTP $CODE"; exit 1; fi
+      - name: Apply and check it
+        if: env.SKIP != '1'
+        run: |
+          node scripts/apply-export.mjs "$RUNNER_TEMP/export.json"
+          node scripts/validate.mjs --base HEAD
+      - name: Commit any changes
+        if: env.SKIP != '1'
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then echo "Already in sync."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Sync from Stipplewise"
+          git push

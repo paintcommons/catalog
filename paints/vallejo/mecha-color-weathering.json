@@ -1,0 +1,362 @@
+[
+  {
+    "id": "af4c4626-68ec-4d50-8f38-9215909134ad",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.505",
+    "name": "Light Rust Wash",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551695053",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#EB7717",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "87e13baf-52e7-4d09-b1a6-83f6093ecc86",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.507",
+    "name": "Dark Rust Wash",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551695077",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#E1570A",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "593c08b9-afa6-4368-90f6-d319ef09cf48",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.515",
+    "name": "Light Grey Wash",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551695152",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#C8C7C5",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3cc76130-f43c-4041-a53f-45647a29a7df",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.518",
+    "name": "Black Wash",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551695183",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "58572b1b-947a-4b94-936c-f49e1b9f41cd",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.521",
+    "name": "Oiled Earth Wash",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551695213",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#6C5A4E",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "a2c769cc-1fbe-4e50-b3cc-9fde8d95f752",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.522",
+    "name": "Desert Dust Wash",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551695220",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#D8BC7F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c2438aea-c37a-45ad-bef8-3048ec63a629",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.701",
+    "name": "Mecha Gloss Varnish",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551697019",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "405f6c05-35dd-4479-866e-09e077fe5669",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.702",
+    "name": "Mecha Matt Varnish",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551697026",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "45e9e191-41b6-4a8b-9300-f1e6598dde46",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.703",
+    "name": "Mecha Satin Varnish",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551697033",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d52c8554-90e2-4710-b8b2-9fff744126ff",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.813",
+    "name": "Oil Stains (Gloss)",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551698139",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#745418",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "8b421e48-f39c-4de6-931b-e69bcbb43dbf",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.814",
+    "name": "Fuel Stains (Gloss)",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551698146",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#9F6214",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ed04e0d0-6ede-4028-bc27-1ceac71739b6",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.817",
+    "name": "Petrol Spills (Gloss)",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551698177",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#1A1C1F",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "533d12fa-e801-47d6-8936-82a91eea9b3c",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.818",
+    "name": "Brown Eng. Soot (Matt)",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551698184",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#60351C",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "26a69f9a-44ed-4faf-a0eb-55bbebfdc99d",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "69.821",
+    "name": "Rust Texture (Matt)",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551698214",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#693328",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5774fc8c-3edb-4164-9e37-7f0e5e300cdd",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "71.261",
+    "name": "Airbrush Thinner",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551712613",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "333fe040-088e-48b6-9368-6b5a4576fa20",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "71.262",
+    "name": "Flow Improver",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551712620",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "de9532f1-0580-4a71-a424-2913f7df051e",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "73.212",
+    "name": "Decal Softener",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551732123",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4afdea2b-0818-44fe-93a8-00e7238c4589",
+    "brand": "Vallejo",
+    "range": "Mecha Color Weathering",
+    "code": "73.214",
+    "name": "Chipping Medium",
+    "type": "wash",
+    "barcodes": [
+      {
+        "ean": "8429551732147",
+        "source": "calculated"
+      }
+    ],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "vallejo-catalogue-2026"
+    },
+    "status": "current"
+  }
+]
