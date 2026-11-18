@@ -1,6 +1,6 @@
 # Two Thin Coats manufacturer enrichment
 
-Reviewed 2026-11-18. Based on catalogue commit `6bf3e7ebaa8d6b6e591c79f769844b4594f13138` (the clean Arcturus import, PR #2). This is separate from the proposed Arcturus colour/conflict replacements in PR #3.
+Reviewed 2026-11-18. Based on catalogue commit `d11719db97df70ebd314bc02587f7874d5abc113` (the clean Arcturus import, PR #2). This is separate from the proposed Arcturus colour/conflict replacements in PR #3.
 
 ## Result
 
@@ -9,8 +9,8 @@ Reviewed 2026-11-18. Based on catalogue commit `6bf3e7ebaa8d6b6e591c79f769844b45
 - Match 167 names by normalised exact spelling, and 13 through the explicit alias table below. Manufacturer spelling also changes punctuation/case on four other records, for 17 changed names overall.
 - Preserve every existing colour object (hex, gradient and source), type, range, status and any id. All unrelated paint records are identical to the pinned base.
 - Add 30 **Dark Arts** paints (21 acrylics, three metallics, six inks), eight effects and **Spirit Medium**: **219 TTC paints** total. The effects and medium use the official shop collection name, Effects Paints.
-- All 39 additions have unknown product codes (`null`) and no barcodes. The 30 Dark Arts paints receive exact-name GERInFact numeric hex values, with source `gerinfact-ttc-235dc3f`. The other nine additions have no colour object. The schema represents unknown colours by omitting `colour`, rather than JSON `null`. Set identifiers are not individual-bottle identifiers and are not assigned to paints.
-- Catalogue totals: 9,984 paints, 1,745 barcodes, 9,960 colours. Thirty new swatches were added; no existing swatch values were replaced.
+- All 39 additions have unknown product codes (`null`) and no barcodes. The 30 Dark Arts paints receive exact-name GERInFact numeric hex values, with source `gerinfact-ttc`. The other nine additions have no colour object. The schema represents unknown colours by omitting `colour`, rather than JSON `null`. Set identifiers are not individual-bottle identifiers and are not assigned to paints.
+- Catalogue totals: 9,409 paints, 1,745 barcodes, 9,385 colours. Thirty new swatches were added; no existing swatch values were replaced.
 
 ## Evidence and reproduction
 
@@ -58,7 +58,7 @@ The user supplied the [Academy paint page](https://www.duncanrhodes.com/ttc-pain
 
 **Numeric hex values are a separate question.** The [GERInFact converter](https://gerinfact.github.io/ttc_citadel/) has a [public JSON dataset](https://github.com/GERInFact/ttc_citadel/blob/235dc3f5fda248a2499d68098cbc000e232f413a/colors.json) with 210 numeric swatches, including all 30 Dark Arts names. The repository has no licence file or other verified permission statement at the reviewed revision. Absence of a licence does not establish copyright in individual hex codes: [US Copyright Office guidance](https://www.copyright.gov/comp3/chap300/ch300-copyrightable-authorship.pdf) distinguishes unprotectable facts/colour from copyrightable expression. Potential [UK/EU database rights](https://www.gov.uk/guidance/sui-generis-database-rights), applicability of any terms, and the provenance of the compiled values remain separate questions. We have not established that these rights apply to this particular dataset, nor that reuse is prohibited. The maintainer has directed publication of the numeric values with attribution, treating the individual numbers as factual data. This records the publication decision and remaining provenance limits; it does not claim an open licence or verified upstream permission.
 
-The converter's image credits refer to manufacturer logos in its UI, which does not establish where its hex values came from. The Academy links to the converter; that endorsement alone does not specify downstream data reuse rights. This PR imports the 30 Dark Arts numeric values with full GERInFact attribution and pinned links; no Citadel equivalences, code or images are imported. All existing colours remain unchanged. The draft conflict comparison PR separately reviews differences for the existing 180 TTC paints. Nine effects/medium colours remain absent.
+The converter's image credits refer to manufacturer logos in its UI, which does not establish where its hex values came from. The Academy links to the converter; that endorsement alone does not specify downstream data reuse rights. This PR imports the 30 Dark Arts numeric values with full GERInFact attribution and pinned links; no Citadel equivalences, code or images are imported. All existing colours remain unchanged. The earlier TTC comparisons and Dragon’s Gold gradient decision are retained in [colour-review](colour-review/README.md); Arcturus review PR #3 is now independent. Nine effects/medium colours remain absent.
 
 A [2022 Reddit discussion](https://www.reddit.com/r/minipainting/comments/yei5jm/two_thin_coats_on_paintrack/) contains comments from the paintRACK developer describing manufacturer-supplied target-colour spreadsheets alongside painted samples and website swatches. They also said they had received TTC information for an upcoming update; they did not specify that TTC supplied a spreadsheet. This is a lead to ask TAG/DRPA for an existing numeric table, not a reuse grant or proof of any particular source's accuracy. No paintRACK data were copied.
 

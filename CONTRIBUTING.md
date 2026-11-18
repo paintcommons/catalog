@@ -35,4 +35,18 @@ Run them yourself with `node scripts/validate.mjs` (Node 20 or later).
 
 ## Licence of contributions
 
-By contributing your own work you agree to dedicate your contribution to the public domain under CC0 1.0. Approved third-party imports retain their upstream licence, and must include the full applicable notice in THIRD_PARTY_NOTICES.md, an attributed source entry, and provenance. Do not represent upstream MIT data as notice-free CC0.
+By contributing your own work you agree that it's dedicated to the public domain under CC0 1.0.
+
+### Gradients
+
+Record only colours a source shows. Metallics and colour-shift paints: two or more stops sampled across the swatch; apps draw them dark to light and add a very light end when the source's lightest point isn't near white. Speedpaints (Contrast, Speedpaint, Xpress and the like), washes and glazes: up to three stops in the order pooled, true colour, thinned, where the true colour is the paint's `hex`; put `null` in a position the source doesn't show (for example `[null, "#080605", "#838282"]` when there's no pooled colour) and apps will generate it. Apps draw speedpaints as bands and washes and glazes as a smooth blend, without a metallic's shine. When two sources show different points of the same paint, keep both as stops rather than choosing one.
+
+### Importing from another project
+
+Data from another open project keeps its licence. To import some:
+
+1. Add the project to `sources.json` (`colour_sources`) with an `id`, `name`, `url`, `method`, `status` (`published`), `licence` (an SPDX id: `CC0-1.0`, `CC-BY-4.0`, `MIT`, `BSD-2-Clause`, `BSD-3-Clause` or `ISC`, or `LicenseRef-facts` for factual values such as names and approximate colours from a source that states no licence; anything else can only be `withheld`) and `priority` (community projects 40; manufacturer publications 80). Licences that ask for credit also need an `attribution` and a `notice` pointing at its full text in `THIRD_PARTY_NOTICES.md`.
+2. Mark each imported paint with `"source": "<id>"`, and each colour from it with `"colour": {…, "source": "<id>"}`.
+3. A colour from a lower-priority source can't replace one from a higher-priority source. If the evidence says it should, explain why in the pull request and ask for the `colour-override` label.
+
+The same pull request can add the source and the paints that cite it. Big imports are fine: they reach Stipplewise in batches. If Stipplewise refuses any new paint, the import job opens an issue and the hourly sync pauses until a follow-up pull request fixes it.

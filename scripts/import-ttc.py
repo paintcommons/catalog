@@ -11,11 +11,11 @@ import re
 import subprocess
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-BASE = '6bf3e7ebaa8d6b6e591c79f769844b4594f13138'
+BASE = 'd11719db97df70ebd314bc02587f7874d5abc113'
 SOURCES = ROOT / 'data/sources'
 REPORT = ROOT / 'reports/two-thin-coats'
 SWATCHES = ROOT / 'data/upstream/gerinfact-235dc3f'
-COLOUR_SOURCE = 'gerinfact-ttc-235dc3f'
+COLOUR_SOURCE = 'gerinfact-ttc'
 ALIASES = {
     'Death Metal': 'Doom Metal',
     'Elder Robe': 'Eldar Robe',

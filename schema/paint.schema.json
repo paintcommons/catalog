@@ -111,10 +111,13 @@
                 "null"
               ],
               "items": {
-                "type": "string",
+                "type": [
+                  "string",
+                  "null"
+                ],
                 "pattern": "^#[0-9A-F]{6}$"
               },
-              "description": "For metallics and colour-shift paints: dark-to-light or shift stops."
+              "description": "Only colours a source showed. Metallics and colour-shift paints: two or more stops sampled across the swatch (apps draw them dark to light and add a very light end when the source has none). Speedpaints, washes and glazes: one to three stops in the order pooled, true colour, thinned; the true colour equals hex, a position the source doesn't show is null, and apps generate missing stops (speedpaints drawn as bands, washes and glazes as a smooth blend)."
             },
             "source": {
               "type": "string",
@@ -128,6 +131,10 @@
             "discontinued"
           ],
           "description": "Paints are never removed; mark them discontinued."
+        },
+        "source": {
+          "type": "string",
+          "description": "Where this paint's details (name, code, range) came from, when imported from another project: an id from sources.json with status published. Records citing a source keep that source's licence and credit."
         },
         "finish": {
           "type": [

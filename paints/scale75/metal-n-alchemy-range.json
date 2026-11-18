@@ -4,12 +4,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Amber Alchemy",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B89E85",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -18,12 +19,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Amethyst Alchemy",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9F8EB0",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -32,12 +34,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Black Metal",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#484848",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -46,12 +49,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Citrine Alchemy",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EFE1C7",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -60,12 +64,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Cobalt Metal",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7FA2B5",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -74,12 +79,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Decayed Metal",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5D4038",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -88,12 +94,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Dwarven Gold",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D68D2F",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -102,12 +109,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Elven Gold",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CDAB47",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -116,12 +124,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Emerald Alchemy",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#78A098",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -130,12 +139,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Garnet Alchemy",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#88424D",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -144,12 +154,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Heavy Metal",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9C9DA1",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -158,12 +169,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Kunzite Alchemy",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CA9FBB",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -172,12 +184,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Moonstone Alchemy",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BC937F",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -186,12 +199,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Necro Gold",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#574E31",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -200,12 +214,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Old Copper",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#97604C",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -214,12 +229,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Peridot Alchemy",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8A8D78",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -228,12 +244,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Pure Copper",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CC744C",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -242,12 +259,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Ruby Alchemy",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D37887",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -256,12 +274,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Speed Metal",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D4D4D6",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -270,12 +289,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Thrash Metal",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#544943",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -284,12 +304,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Tourmaline Alchemy",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E7A8B3",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -298,12 +319,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Victorian Brass",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B6843B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -312,12 +334,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Viking Gold",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8D591F",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -326,12 +349,13 @@
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "White Metal",
-    "type": "other",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F1F1F1",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   }
