@@ -212,6 +212,20 @@
   {
     "brand": "Humbrol",
     "range": "Humbrol Acrylics - Gloss",
+    "code": "22",
+    "name": "White",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
     "code": "35",
     "name": "Gloss Varnish",
     "type": "acrylic",

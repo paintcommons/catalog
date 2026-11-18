@@ -38,9 +38,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#775C47",
+      "hex": "#B39E80",
       "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -68,9 +68,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#93784D",
+      "hex": "#D2AD00",
       "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -83,9 +83,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#45565B",
+      "hex": "#767675",
       "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -113,9 +113,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#8D1A1F",
+      "hex": "#600106",
       "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -131,6 +131,20 @@
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "warhammer-colour-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Hexwraith Flame",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#29A236",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -158,9 +172,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#8E403C",
+      "hex": "#CF705D",
       "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -173,9 +187,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#79382F",
+      "hex": "#CF705D",
       "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -195,6 +209,20 @@
     "status": "current"
   },
   {
+    "brand": "Citadel",
+    "range": "Technical",
+    "code": null,
+    "name": "Nighthaunt Gloom",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A686E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
     "id": "ab14d41d-43ec-4d3e-b3cc-495d212b159e",
     "brand": "Citadel",
     "range": "Technical",
@@ -203,9 +231,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#529493",
+      "hex": "#66B39A",
       "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -233,9 +261,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#1A5889",
+      "hex": "#142758",
       "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -248,9 +276,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#C62B20",
+      "hex": "#8A2A1E",
       "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -308,9 +336,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#9FCC3B",
+      "hex": "#65AB46",
       "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -353,9 +381,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#00775B",
+      "hex": "#23513D",
       "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   }

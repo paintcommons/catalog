@@ -16,6 +16,34 @@
   {
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
+    "code": "104",
+    "name": "Blood Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D83F37",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "Fantasy Range",
+    "code": "105",
+    "name": "Flame Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E87651",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "Fantasy Range",
     "code": "106",
     "name": "Enchanted Silver",
     "type": "other",

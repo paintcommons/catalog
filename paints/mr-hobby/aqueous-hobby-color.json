@@ -632,6 +632,20 @@
   {
     "brand": "Mr Hobby",
     "range": "Aqueous Hobby Color",
+    "code": "H320",
+    "name": "Dark Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0A4038",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Aqueous Hobby Color",
     "code": "H321",
     "name": "Light Brown",
     "type": "other",
@@ -652,6 +666,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#1E2D56",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Aqueous Hobby Color",
+    "code": "H323",
+    "name": "Light Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00A8EB",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },
@@ -1534,6 +1562,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#56673A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Aqueous Hobby Color",
+    "code": "H465",
+    "name": "Cobalt Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#003559",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },

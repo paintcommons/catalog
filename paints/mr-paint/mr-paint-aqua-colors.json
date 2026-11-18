@@ -912,6 +912,20 @@
   {
     "brand": "Mr Paint",
     "range": "Mr Paint - Aqua Colors",
+    "code": "MRP-A067",
+    "name": "RLM 76 Variant",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CAC59F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Paint",
+    "range": "Mr Paint - Aqua Colors",
     "code": "MRP-A068",
     "name": "RLM 77",
     "type": "other",

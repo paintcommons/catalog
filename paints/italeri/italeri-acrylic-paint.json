@@ -240,12 +240,40 @@
   {
     "brand": "Italeri",
     "range": "Italeri Acrylic Paint",
+    "code": "4605AP",
+    "name": "Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C13027",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Italeri",
+    "range": "Italeri Acrylic Paint",
     "code": "4632AP",
     "name": "Guards Red",
     "type": "acrylic",
     "barcodes": [],
     "colour": {
       "hex": "#C42127",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Italeri",
+    "range": "Italeri Acrylic Paint",
+    "code": "4636AP",
+    "name": "Clear Acryl",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F9F9F9",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },
@@ -534,12 +562,40 @@
   {
     "brand": "Italeri",
     "range": "Italeri Acrylic Paint",
+    "code": "4682AP",
+    "name": "Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E55C00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Italeri",
+    "range": "Italeri Acrylic Paint",
     "code": "4687AP",
     "name": "Blue Angels Blue",
     "type": "acrylic",
     "barcodes": [],
     "colour": {
       "hex": "#1E2C4F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Italeri",
+    "range": "Italeri Acrylic Paint",
+    "code": "4696AP",
+    "name": "White",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },
@@ -862,6 +918,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#3E6066",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Italeri",
+    "range": "Italeri Acrylic Paint",
+    "code": "4768AP",
+    "name": "Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },

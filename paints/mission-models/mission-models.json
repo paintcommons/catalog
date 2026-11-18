@@ -1542,6 +1542,20 @@
   {
     "brand": "Mission Models",
     "range": "Mission Models",
+    "code": "MMP-096",
+    "name": "Grey Blue Cockpit  / Camo Modern Russian Jets",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6299C4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
     "code": "MMP-097",
     "name": "SAC Bomber Tan FS 34201",
     "type": "other",

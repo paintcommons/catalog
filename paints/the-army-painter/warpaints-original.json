@@ -548,6 +548,20 @@
   {
     "brand": "The Army Painter",
     "range": "Warpaints (original)",
+    "code": "WP1405",
+    "name": "Basilisk Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CF8100",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints (original)",
     "code": "WP1407",
     "name": "Castle Grey",
     "type": "other",

@@ -1,0 +1,15 @@
+{
+  "status": "draft-not-approved",
+  "clean_import_commit": "ddcd495b55ef3e1611a9886affcfa47eaad5092c",
+  "colour_replacements": 370,
+  "flagged_observations": 392,
+  "conflict_source_rows": 127,
+  "candidate_additions": 76,
+  "conflict_dispositions": {
+    "add-candidate": 76,
+    "alternative-to-selected-candidate": 50,
+    "unresolved": 1
+  },
+  "proposed_total_records": 10021,
+  "warning": "Proposals for joint review; upstream is not presumed better than manufacturer values. No existing non-colour fields are changed."
+}

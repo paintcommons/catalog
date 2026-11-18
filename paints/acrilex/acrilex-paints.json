@@ -1276,6 +1276,20 @@
   {
     "brand": "Acrilex",
     "range": "Acrilex Paints",
+    "code": "929",
+    "name": "Amarelo Pêssego",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FAE1D0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Acrilex",
+    "range": "Acrilex Paints",
     "code": "932",
     "name": "Telha",
     "type": "other",

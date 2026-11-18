@@ -675,6 +675,20 @@
     "brand": "Citadel",
     "range": "Foundation (discontinued)",
     "code": null,
+    "name": "Kommando Khaki",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9E915C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Foundation (discontinued)",
+    "code": null,
     "name": "Leprous Brown",
     "type": "acrylic",
     "barcodes": [],

@@ -2,6 +2,20 @@
   {
     "brand": "FolkArt",
     "range": "Multi-Surface Metallic Acrylics",
+    "code": "2570",
+    "name": "Chocolate Brown",
+    "type": "metallic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#523620",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "FolkArt",
+    "range": "Multi-Surface Metallic Acrylics",
     "code": "2965",
     "name": "14K Gold",
     "type": "metallic",

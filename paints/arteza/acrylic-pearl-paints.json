@@ -58,6 +58,48 @@
   {
     "brand": "Arteza",
     "range": "Acrylic Pearl Paints",
+    "code": "A201",
+    "name": "Aztec Gold",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CD8B45",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Arteza",
+    "range": "Acrylic Pearl Paints",
+    "code": "A202",
+    "name": "Bronze",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A8724E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Arteza",
+    "range": "Acrylic Pearl Paints",
+    "code": "A204",
+    "name": "Pearl Space Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#464C51",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Arteza",
+    "range": "Acrylic Pearl Paints",
     "code": "A207",
     "name": "Pearl Papya Orange",
     "type": "acrylic",
@@ -190,6 +232,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#AF5C7D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Arteza",
+    "range": "Acrylic Pearl Paints",
+    "code": "A218",
+    "name": "Pearl Hot Pink",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E0448E",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },

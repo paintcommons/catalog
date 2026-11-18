@@ -3,6 +3,20 @@
     "brand": "P3",
     "range": "Privateer Press Formula P3",
     "code": null,
+    "name": "'Jack Bone",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D6D3AA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "P3",
+    "range": "Privateer Press Formula P3",
+    "code": null,
     "name": "Amethyst Rose",
     "type": "other",
     "barcodes": [],
@@ -106,6 +120,34 @@
     "barcodes": [],
     "colour": {
       "hex": "#777965",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "P3",
+    "range": "Privateer Press Formula P3",
+    "code": null,
+    "name": "Battle Dress Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5E4E14",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "P3",
+    "range": "Privateer Press Formula P3",
+    "code": null,
+    "name": "Battledress Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#757131",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },
@@ -848,6 +890,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#8E959A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "P3",
+    "range": "Privateer Press Formula P3",
+    "code": null,
+    "name": "Jack Bone",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D6D3AE",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },

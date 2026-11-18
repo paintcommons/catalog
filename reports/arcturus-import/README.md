@@ -1,6 +1,6 @@
-# Arcturus import and colour review
+# Clean Arcturus import baseline
 
-Adds **7,964 paints**, bringing the catalogue to **9,945 paints across 30 brands**. All **1,981 existing paint objects** are unchanged, including IDs, names, codes, barcodes, status, colour sources, hex values and gradients. Existing records without colours are also untouched. No existing colour is replaced or backfilled.
+The clean-import PR adds **7,964 paints**, bringing the catalogue to **9,945 paints across 30 brands**. All **1,981 existing paint objects** are unchanged, including IDs, names, codes, barcodes, status, colour sources, hex values and gradients. Existing records without colours are also untouched. No existing colour is replaced or backfilled.
 
 Source: [Arcturus5404/miniature-paints](https://github.com/Arcturus5404/miniature-paints/tree/22791a682e1d155da388f4f856cd7196cd9f2677), published by **Rick Fleuren and the Miniature Painter Pro team**, MIT © 2022 Rick Fleuren. Full notice: [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md). The 32 hobby tables and licence are retained under `data/upstream/arcturus-22791a6/`; Pantone/RAL standards and logos are excluded. Every table matches the pinned Git blob hash; imported hex values are checked against upstream RGB.
 
@@ -24,3 +24,5 @@ node --test scripts/*.test.mjs
 The importer uses the pinned baseline `cc6ddee` to reproduce this one-time import and reports. It verifies the pinned source tables, refuses unrelated paint edits, and preserves baseline objects. It is not a general update/sync tool. Unknown or conflicting records remain available for separate review. No Stipplewise changes, deployment or automatic sync changes are included in this commit.
 
 Detailed colour comparisons, unresolved identities and proposed replacements belong to the separate, stacked review PR. To regenerate the raw review reports before applying any replacement candidates, run `python3 scripts/import-arcturus.py --review-reports`.
+
+On the stacked draft branch, see [proposed replacements and conflict resolutions](../arcturus-review/README.md) for additional changes beyond this clean baseline.

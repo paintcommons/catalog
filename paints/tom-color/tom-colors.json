@@ -1024,6 +1024,20 @@
   {
     "brand": "Tom Color",
     "range": "Tom Colors",
+    "code": "TC-0088",
+    "name": "RAL 7012 Basaltgrau",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#565E61",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors",
     "code": "TC-0089",
     "name": "RAL 6011",
     "type": "other",
@@ -1100,6 +1114,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#648CA6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors",
+    "code": "TC-0097",
+    "name": "A-14 Steel Grey (russian WW2 Cockpit)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#697173",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },
@@ -1626,6 +1654,20 @@
   {
     "brand": "Tom Color",
     "range": "Tom Colors",
+    "code": "TC-0141",
+    "name": "Giallo Mimetico 2",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C2A945",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors",
     "code": "TC-0142",
     "name": "Seafoam Green",
     "type": "other",
@@ -1828,6 +1870,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#FFFC01",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors",
+    "code": "TC-0159",
+    "name": "Ana 607 Sea Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A434C",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },
@@ -2206,6 +2262,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#4B6C73",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors",
+    "code": "TC-0192",
+    "name": "Forerst Green 2",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#375322",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },

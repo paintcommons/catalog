@@ -227,6 +227,20 @@
     "brand": "The Army Painter",
     "range": "D&D Nolzur's Marvelous Pigments",
     "code": null,
+    "name": "Frost Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0080BF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
     "name": "Gelatinous Blue",
     "type": "other",
     "barcodes": [],
@@ -381,6 +395,20 @@
     "brand": "The Army Painter",
     "range": "D&D Nolzur's Marvelous Pigments",
     "code": null,
+    "name": "Orc Skin",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9FA3A3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
     "name": "Otyugh Brown",
     "type": "other",
     "barcodes": [],
@@ -470,6 +498,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#B2B2B3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Skeleton Bone",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#666D74",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },

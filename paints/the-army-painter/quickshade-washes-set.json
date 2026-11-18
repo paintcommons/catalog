@@ -59,6 +59,20 @@
     "brand": "The Army Painter",
     "range": "Quickshade Washes Set",
     "code": null,
+    "name": "Light Tone",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AB3B2C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Quickshade Washes Set",
+    "code": null,
     "name": "Mid Brown",
     "type": "wash",
     "barcodes": [],
@@ -87,6 +101,20 @@
     "brand": "The Army Painter",
     "range": "Quickshade Washes Set",
     "code": null,
+    "name": "Purple Tone",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A194A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Quickshade Washes Set",
+    "code": null,
     "name": "Red Tone",
     "type": "wash",
     "barcodes": [],
@@ -106,6 +134,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#49251E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Quickshade Washes Set",
+    "code": null,
+    "name": "Strong Tone",
+    "type": "wash",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3B2826",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },

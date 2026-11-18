@@ -128,6 +128,20 @@
   {
     "brand": "Kimera Kolors",
     "range": "Kimera Kolors Expansion Set 1",
+    "code": "PR 101",
+    "name": "Mars Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9A5622",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Kimera Kolors Expansion Set 1",
     "code": "PR 179",
     "name": "Alizarin Crimson",
     "type": "other",

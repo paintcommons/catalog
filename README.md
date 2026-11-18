@@ -2,9 +2,9 @@
 
 An open, community-maintained catalog of miniature paints: brands, ranges, product codes, names, paint types, barcodes and approximate colours, each colour with its source.
 
-- **9,945 paints** across 30 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper, Scale75, Tamiya and more
+- **10,021 paints** across 30 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper, Scale75, Tamiya and more
 - **1,565 barcodes**, each marked calculated, published (with its source URL) or confirmed by scan
-- **9,930 colours**, each linked to the chart, catalogue or method it came from
+- **10,006 colours**, each linked to the chart, catalogue or method it came from
 
 Paint Commons is inspired by the commons ethos of Wikipedia and Creative Commons, with no affiliation to either. The catalog is kept in sync with [Stipplewise](https://stipplewise.com), a paint collection app that contributes reviewed corrections and reads the catalog back.
 
@@ -50,7 +50,7 @@ Paint Commons contributions to the data in this repository (`paints/`, `equivale
 
 Data from [Arcturus5404/miniature-paints](https://github.com/Arcturus5404/miniature-paints), published by **Rick Fleuren and the Miniature Painter Pro team**, are under MIT, Copyright (c) 2022 Rick Fleuren. The direct import uses source `arcturus-miniature-paints-22791a6`; existing data imported through Ben Kelly’s package keep the `miniature-paints` source. **Retain the full [third-party notices](THIRD_PARTY_NOTICES.md) with copies or substantial portions of these data.**
 
-The [Arcturus import report](reports/arcturus-import/README.md) documents the pinned revision, matching rules, withheld rows. Proposed colour replacements and conflict resolutions are reviewed in a separate PR. Existing records and their colours were preserved.
+The [Arcturus import report](reports/arcturus-import/README.md) documents the pinned revision, matching rules, withheld rows. Proposed colour replacements and conflict resolutions are reviewed in a separate PR. The clean import preserved existing records and colours. This draft branch additionally proposes replacements and conflict resolutions in the [visual review reports](reports/arcturus-review/README.md); those changes require joint review before merge.
 
 The scripts in `scripts/` are under the [MIT licence](scripts/LICENSE).
 

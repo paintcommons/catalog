@@ -170,6 +170,20 @@
   {
     "brand": "Arteza",
     "range": "Acrylic Premium Paints",
+    "code": "A108",
+    "name": "Light Apricot",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FEE6C2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Arteza",
+    "range": "Acrylic Premium Paints",
     "code": "A109",
     "name": "Orange Red",
     "type": "acrylic",
@@ -190,6 +204,48 @@
     "barcodes": [],
     "colour": {
       "hex": "#F2372B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Arteza",
+    "range": "Acrylic Premium Paints",
+    "code": "A203",
+    "name": "Cochineal Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AE0207",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Arteza",
+    "range": "Acrylic Premium Paints",
+    "code": "A205",
+    "name": "Carmine Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C31723",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Arteza",
+    "range": "Acrylic Premium Paints",
+    "code": "A206",
+    "name": "Crimson Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B11823",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },

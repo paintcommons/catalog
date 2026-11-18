@@ -828,6 +828,20 @@
   {
     "brand": "Mr Hobby",
     "range": "Mr Color",
+    "code": "20",
+    "name": "Light Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4FBAA1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color",
     "code": "21",
     "name": "Middle Stone",
     "type": "other",
@@ -1282,6 +1296,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#193451",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color",
+    "code": "324",
+    "name": "Light Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8DA9A4",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },
@@ -2766,6 +2794,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#CA3A29",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color",
+    "code": "70",
+    "name": "Dark Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#21423A",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },

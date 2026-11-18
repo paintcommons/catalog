@@ -660,6 +660,20 @@
   {
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
+    "code": "XF-70",
+    "name": "Dark green 2",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00250F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
     "code": "XF-71",
     "name": "Cockpit green (IJN)",
     "type": "acrylic",

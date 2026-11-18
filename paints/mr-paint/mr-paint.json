@@ -1192,6 +1192,20 @@
   {
     "brand": "Mr Paint",
     "range": "Mr Paint",
+    "code": "MRP-091",
+    "name": "Light Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#959B99",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Paint",
+    "range": "Mr Paint",
     "code": "MRP-092",
     "name": "Light Green Gray",
     "type": "other",
@@ -1604,6 +1618,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#922A0F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Paint",
+    "range": "Mr Paint",
+    "code": "MRP-124",
+    "name": "Marking Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#224058",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },
@@ -2192,6 +2220,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#422D28",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Paint",
+    "range": "Mr Paint",
+    "code": "MRP-167",
+    "name": "Light Earth",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#997964",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },
@@ -4048,6 +4090,20 @@
   {
     "brand": "Mr Paint",
     "range": "Mr Paint",
+    "code": "MRP-302",
+    "name": "Grigio Azzurro",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#92B1A1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Paint",
+    "range": "Mr Paint",
     "code": "MRP-303",
     "name": "Verde Oliva Scuro",
     "type": "other",
@@ -4110,6 +4166,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#E9ECE5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Paint",
+    "range": "Mr Paint",
+    "code": "MRP-310",
+    "name": "Giallo Cromo",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F1AA00",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },
@@ -4278,6 +4348,34 @@
     "barcodes": [],
     "colour": {
       "hex": "#3F3529",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Paint",
+    "range": "Mr Paint",
+    "code": "MRP-323",
+    "name": "Giallo Mimetico",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D88422",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Paint",
+    "range": "Mr Paint",
+    "code": "MRP-326",
+    "name": "Verde Mimetico",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#728873",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },
@@ -4614,6 +4712,20 @@
     "barcodes": [],
     "colour": {
       "hex": "#94744E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Paint",
+    "range": "Mr Paint",
+    "code": "MRP-352",
+    "name": "Dark Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1E4533",
       "gradient": null,
       "source": "arcturus-miniature-paints-22791a6"
     },

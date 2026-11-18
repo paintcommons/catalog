@@ -236,5 +236,19 @@
       "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Naval",
+    "code": "AK730",
+    "name": "Wooden Deck",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AD9557",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
   }
 ]
