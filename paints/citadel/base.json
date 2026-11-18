@@ -60,21 +60,6 @@
     "status": "current"
   },
   {
-    "brand": "Citadel",
-    "range": "Base",
-    "code": null,
-    "name": "Bugman Glow",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#804C43",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
     "id": "35b54d03-31eb-43c4-b5a1-231fb072bd24",
     "brand": "Citadel",
     "range": "Base",
@@ -146,21 +131,6 @@
       "hex": "#493831",
       "gradient": null,
       "source": "warhammer-colour-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Citadel",
-    "range": "Base",
-    "code": null,
-    "name": "Catachan Fleshtone",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#442B25",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },

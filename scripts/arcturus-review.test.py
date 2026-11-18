@@ -13,7 +13,7 @@ class ReviewPreservation(unittest.TestCase):
     def test_every_record_matches_baseline_or_its_explicit_stop_proposal(self):
         expected = review.baseline()
         rows = json.loads((review.OUT / 'colour-proposals.json').read_text())
-        self.assertEqual(len(rows), 370)
+        self.assertEqual(len(rows), len({r['existing_id'] for r in json.loads((review.imp.REPORT/'colour-disagreements.json').read_text())}))
         applied = {r['id']:r for r in rows if r['apply']}
         self.assertTrue(applied)
         for file, paints in expected.items():

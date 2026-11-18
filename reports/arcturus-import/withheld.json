@@ -659,7 +659,7 @@
     "file": "FolkArt.md",
     "line": 90,
     "url": "https://github.com/Arcturus5404/miniature-paints/blob/22791a682e1d155da388f4f856cd7196cd9f2677/paints/FolkArt.md#L90",
-    "decision": "added-conflict-resolved"
+    "decision": "withheld-conflicting-upstream-identity"
   },
   {
     "brand": "FolkArt",
@@ -893,7 +893,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/ak-interactive/naval.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "AK Interactive",
@@ -907,7 +907,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/ak-interactive/naval.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Humbrol",
@@ -921,7 +921,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/humbrol/humbrol-acrylics-gloss.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Humbrol",
@@ -935,7 +935,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/humbrol/humbrol-acrylics-gloss.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Italeri",
@@ -949,7 +949,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Italeri",
@@ -963,7 +963,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Italeri",
@@ -977,7 +977,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Italeri",
@@ -991,7 +991,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Italeri",
@@ -1005,7 +1005,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Italeri",
@@ -1019,7 +1019,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Italeri",
@@ -1033,7 +1033,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Italeri",
@@ -1047,7 +1047,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Italeri",
@@ -1061,7 +1061,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Italeri",
@@ -1075,7 +1075,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Italeri",
@@ -1089,7 +1089,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/italeri/italeri-acrylic-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1103,7 +1103,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1117,7 +1117,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1131,7 +1131,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1145,7 +1145,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/mr-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1159,7 +1159,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/mr-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1173,7 +1173,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1187,7 +1187,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1201,7 +1201,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/mr-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1215,7 +1215,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1229,7 +1229,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/aqueous-hobby-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1243,7 +1243,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/mr-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1257,7 +1257,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/mr-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Hobby",
@@ -1271,7 +1271,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-hobby/mr-color.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1285,7 +1285,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1299,7 +1299,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1313,7 +1313,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1327,7 +1327,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1341,7 +1341,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1355,7 +1355,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1369,7 +1369,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1383,7 +1383,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1397,7 +1397,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1411,7 +1411,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1425,7 +1425,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1439,7 +1439,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1453,7 +1453,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1467,7 +1467,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1481,7 +1481,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1495,7 +1495,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1509,7 +1509,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint-aqua-colors.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1523,7 +1523,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint-aqua-colors.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1537,7 +1537,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Mr Paint",
@@ -1551,7 +1551,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/mr-paint/mr-paint.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Tamiya",
@@ -1565,7 +1565,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/tamiya/aircraft-spray.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Tamiya",
@@ -1579,7 +1579,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/tamiya/aircraft-spray.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Tamiya",
@@ -1593,7 +1593,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/tamiya/acrylics-mini-flat.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Tamiya",
@@ -1607,7 +1607,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/tamiya/acrylics-mini-flat.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Tamiya",
@@ -1621,7 +1621,7 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/tamiya/aircraft-spray.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   },
   {
     "brand": "Tamiya",
@@ -1635,6 +1635,6 @@
     "decision": "withheld-conflicting-upstream-name",
     "catalogue_file": "paints/tamiya/aircraft-spray.json",
     "type_basis": "explicit range wording where available; otherwise other",
-    "availability_note": "Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification."
+    "availability_note": "Current is the contribution default, not a manufacturer availability verification."
   }
 ]

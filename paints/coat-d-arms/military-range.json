@@ -4,7 +4,7 @@
     "range": "Military Range",
     "code": "102",
     "name": "Black",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -19,7 +19,7 @@
     "range": "Military Range",
     "code": "103",
     "name": "Sun Yellow",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -34,7 +34,7 @@
     "range": "Military Range",
     "code": "206",
     "name": "Light Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -49,7 +49,7 @@
     "range": "Military Range",
     "code": "207",
     "name": "Dark Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -64,7 +64,7 @@
     "range": "Military Range",
     "code": "208",
     "name": "Grass Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -79,7 +79,7 @@
     "range": "Military Range",
     "code": "209",
     "name": "Dark Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -94,7 +94,7 @@
     "range": "Military Range",
     "code": "210",
     "name": "Purple",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -109,7 +109,7 @@
     "range": "Military Range",
     "code": "211",
     "name": "Light Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -124,7 +124,7 @@
     "range": "Military Range",
     "code": "212",
     "name": "Dark Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -139,7 +139,7 @@
     "range": "Military Range",
     "code": "213",
     "name": "Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -154,7 +154,7 @@
     "range": "Military Range",
     "code": "214",
     "name": "Suntanned Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -169,7 +169,7 @@
     "range": "Military Range",
     "code": "215",
     "name": "Oriental Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -184,7 +184,7 @@
     "range": "Military Range",
     "code": "216",
     "name": "Dark Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -199,7 +199,7 @@
     "range": "Military Range",
     "code": "217",
     "name": "Leather Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -214,7 +214,7 @@
     "range": "Military Range",
     "code": "218",
     "name": "Wood Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -229,7 +229,7 @@
     "range": "Military Range",
     "code": "219",
     "name": "Chesnut Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -244,7 +244,7 @@
     "range": "Military Range",
     "code": "220",
     "name": "Silver",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -259,7 +259,7 @@
     "range": "Military Range",
     "code": "221",
     "name": "Horse Tone – Dun",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -274,7 +274,7 @@
     "range": "Military Range",
     "code": "222",
     "name": "Horse Tone – Roan",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -289,7 +289,7 @@
     "range": "Military Range",
     "code": "223",
     "name": "Horse Tone – Chesnut",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -304,7 +304,7 @@
     "range": "Military Range",
     "code": "224",
     "name": "Horse Tone – Bay",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -319,7 +319,7 @@
     "range": "Military Range",
     "code": "225",
     "name": "Khaki",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -334,7 +334,7 @@
     "range": "Military Range",
     "code": "226",
     "name": "Olive",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -349,7 +349,7 @@
     "range": "Military Range",
     "code": "228",
     "name": "Buff",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -364,7 +364,7 @@
     "range": "Military Range",
     "code": "229",
     "name": "Dark Sand",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -379,7 +379,7 @@
     "range": "Military Range",
     "code": "230",
     "name": "Camouflage Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -394,7 +394,7 @@
     "range": "Military Range",
     "code": "231",
     "name": "Mid Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -409,7 +409,7 @@
     "range": "Military Range",
     "code": "232",
     "name": "Bronze",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -424,7 +424,7 @@
     "range": "Military Range",
     "code": "233",
     "name": "Linen",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -439,7 +439,7 @@
     "range": "Military Range",
     "code": "234",
     "name": "Dark Earth",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -454,7 +454,7 @@
     "range": "Military Range",
     "code": "235",
     "name": "Horse Tone – Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -469,7 +469,7 @@
     "range": "Military Range",
     "code": "236",
     "name": "Horse Tone – Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -484,7 +484,7 @@
     "range": "Military Range",
     "code": "237",
     "name": "Russet Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -499,7 +499,7 @@
     "range": "Military Range",
     "code": "238",
     "name": "British Scarlet",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -514,7 +514,7 @@
     "range": "Military Range",
     "code": "239",
     "name": "Bavarian Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -529,7 +529,7 @@
     "range": "Military Range",
     "code": "240",
     "name": "Unbleached Wool",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {

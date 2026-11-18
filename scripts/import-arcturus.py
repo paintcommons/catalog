@@ -5,6 +5,7 @@ are never changed. Ambiguous identities and conflicting upstream codes are withh
 """
 import collections
 import hashlib
+import html
 import json
 import math
 import pathlib
@@ -14,11 +15,13 @@ import sys
 import unicodedata
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-BASE = '1cdcaf9633e88534762133991ea27584e1f16470'
+BASE = '86b53a219983f6a3b73587345bdf0732ce4379dc'
 REVISION = '22791a682e1d155da388f4f856cd7196cd9f2677'
 SOURCE = 'arcturus-miniature-paints'
 VENDOR = ROOT / 'data/upstream/arcturus-22791a6'
 REPORT = ROOT / 'reports/arcturus-import'
+RANGE_TYPES = {}
+REVIEW_URL = 'https://github.com/paintcommons/catalog/pull/2#pullrequestreview-5966040742'
 BRANDS = {'AK': 'AK Interactive', 'AKRC': 'AK Interactive', 'Army_Painter': 'The Army Painter',
           'Citadel_Colour': 'Citadel', 'CoatDArmes': "Coat d'Arms", 'Creature': 'Monument Hobbies',
           'Duncan': 'Duncan Rhodes', 'FolkArt': 'FolkArt', 'GreenStuffWorld': 'Green Stuff World',
@@ -103,14 +106,52 @@ def read_upstream():
             if brand == 'The Army Painter':
                 range_name = {'Warpaints': 'Warpaints (original)', 'Speedpaint Set 2.0': 'Speedpaint 2.0',
                               'Speedpaint Set': 'Speedpaint (original)'}.get(range_name, range_name)
-            rows.append({'brand': brand, 'range': range_name, 'code': code, 'name': raw['Name'],
+            row = {'brand': brand, 'range': range_name, 'code': code, 'name': raw['Name'],
                          'hex': hex_value, 'file': file.name, 'line': line_no,
-                         'url': f'https://github.com/Arcturus5404/miniature-paints/blob/{REVISION}/paints/{file.name}#L{line_no}'})
+                         'url': f'https://github.com/Arcturus5404/miniature-paints/blob/{REVISION}/paints/{file.name}#L{line_no}'}
+            correct_row(row)
+            rows.append(row)
     return rows
+
+
+def correct_row(row):
+    original = row['name'], row['range']
+    if row['brand'] == 'Citadel':
+        row['name'] = {'Bugman Glow': "Bugman's Glow", 'Catachan Fleshtone': 'Catachan Flesh',
+                       'Emperor Children': "Emperor's Children", 'Gehenna Gold': "Gehenna's Gold",
+                       'Cassandora Yellow': 'Casandora Yellow'}.get(row['name'], row['name'])
+    if row['brand'] == 'The Army Painter':
+        fanatic_metals = {'Cobalt Metal','Dark Emerald','Evil Chrome','Gemstone Red','Glittering Green',
+                         'Greedy Gold','Plate Mail Metal','Red Copper','Rough Iron','Shining Silver','Tainted Gold','Weapon Bronze'}
+        if row['range']=='Warpaints Fanatic':
+            row['name'] = {'Boney Spikes':'Bony Spikes', 'Terrestial Titan':'Terrestrial Titan'}.get(row['name'],row['name'])
+        if row['range']=='Warpaints Fanatic' and row['name'] in fanatic_metals:
+            row['range']='Warpaints Fanatic Metallic'
+            row['correction_source']='https://thearmypainter.com/en-gb/products/warpaints-fanatic-warpaints-fanatic-metallic-cobalt-metal-wp3194p'
+        elif row['range']=='Warpaints Fanatic Wash':
+            if row['name']=='Brush-On Primer':
+                row.update(range='Warpaints Fanatic', type_override='primer')
+            elif row['name']=='Wash Medium':
+                row.update(range='Warpaints Fanatic', type_override='medium')
+            elif row['name'] in {'Dry Blood','Fresh Rust','Lens Flare Glow','Oozing Vomit','Plasma Coil Glow',
+                                 'Power Node Glow','Radiation Glow','True Blood'}:
+                row.update(range='Warpaints Fanatic Effects', type_override='effect')
+    if original != (row['name'], row['range']):
+        row.update(upstream_name=original[0], upstream_range=original[1])
+        row.setdefault('correction_source', REVIEW_URL)
+
+
+def paint_status(row):
+    # Current manufacturer-list review and superseded product generations.
+    if row['brand']=='Vallejo' or row['brand']=='The Army Painter' and (
+            (row['range'] or '').startswith('Warpaints (original)') or row['range']=='Speedpaint (original)'):
+        return 'discontinued'
+    return 'discontinued' if 'discontinued' in (row['range'] or '').lower() else 'current'
 
 def paint_type(row):
     # Upstream has no general-purpose paint-type field. Avoid inventing chemistry.
     text = (row['range'] or '').lower()
+    if row.get('type_override'): return row['type_override']
     if row['brand'] == 'Scale75':
         if text == 'instant colors range': return 'speedpaint'
         if text == 'metal n alchemy range': return 'metallic'
@@ -123,6 +164,20 @@ def paint_type(row):
                         ('metallic', 'metallic'), ('metal color', 'metallic'),
                         ('medium', 'medium'), ('effect', 'effect')]:
         if token in text: return kind
+    inherited = RANGE_TYPES.get((row['brand'], row['range']))
+    if inherited: return inherited
+    if row['brand']=='Vallejo':
+        if text in ('model color','game color','model air','game air','panzer aces','premium airbrush color','nocturna models') or text.startswith('arte deco'):
+            return 'acrylic'
+    if row['brand']=='The Army Painter' and text in ('warpaints (original)','warpaints air',"d&d nolzur's marvelous pigments"):
+        return 'acrylic'
+    if row['brand'] in ('Foundry', "Coat d'Arms", 'P3', 'Mission Models', 'Warcolours'):
+        return 'acrylic'
+    if row['brand']=='Mr Hobby' and text in ('aqueous hobby color','acrysion'):
+        return 'acrylic'
+    if row['brand']=='Mr Paint' and text=='mr paint - aqua colors':return 'acrylic'
+    if row['brand']=='AK Interactive' and text in ('afv','air','figures','general','naval'):return 'acrylic'
+    if row['brand']=='Reaper' and text=='master series paints clear colors':return 'acrylic'
     if 'acrylic' in text or '3rd gen' in text or row['brand'] in ('Citadel', 'Monument Hobbies'):
         if text == 'shade': return 'wash'
         if text == 'contrast': return 'speedpaint'
@@ -132,6 +187,8 @@ def paint_type(row):
 
 def scope_reasons(row, new_ranges, existing_ranges):
     reasons = []
+    if row['brand'] in {'FolkArt','Golden','Apple Barrel','Liquitex'}:
+        reasons.append('craft-artist-brand-deferred')
     if row['brand'] in {'Kimera Kolors', 'Arteza', 'Revell', 'Italeri', 'Acrilex'}:
         reasons.append('brand-under-100-deferred')
     if row['brand'] == 'Citadel' and (row['range'] or '').startswith('Foundation'):
@@ -175,7 +232,7 @@ def resolve_conflicts(rows, additions, existing, new_ranges, existing_ranges):
             disposition = 'admitted-normalized-identity'
             p = {k: r[k] for k in ('brand', 'range', 'code', 'name')}
             p.update(type=paint_type(r), source=SOURCE, barcodes=[],
-                     colour=dict(hex=r['hex'], gradient=None, source=SOURCE), status='current')
+                     colour=dict(hex=r['hex'], gradient=None, source=SOURCE), status=paint_status(r))
             path = f"paints/{slug(p['brand'])}/{slug(p['range'])}.json"
             admitted.append((path, p)); used_names.add(name_key)
             if r['code']: used_codes.add(codekey(r['brand'], r['code']))
@@ -185,11 +242,15 @@ def resolve_conflicts(rows, additions, existing, new_ranges, existing_ranges):
     return admitted, ledger
 
 def run():
+    global RANGE_TYPES
     git = lambda *args: subprocess.check_output(['git', *args], cwd=ROOT, text=True)
     baseline = {}
     for file in git('ls-tree', '-r', '--name-only', BASE, '--', 'paints').splitlines():
         if file.endswith('.json'): baseline[file] = json.loads(git('show', f'{BASE}:{file}'))
     existing = [p for values in baseline.values() for p in values]
+    types = collections.defaultdict(set)
+    for p in existing:types[(p['brand'],p['range'])].add(p['type'])
+    RANGE_TYPES = {key:next(iter(values)) for key,values in types.items() if len(values)==1}
     by_code = collections.defaultdict(list)
     by_name = collections.defaultdict(list)
     for p in existing:
@@ -229,7 +290,7 @@ def run():
             continue
         # Uncertain same-name matches in a differently labelled range need review, not a guess.
         same_name = by_name[(r['brand'], norm(r['name']))]
-        distinct_product_range = (r['brand'] == 'Citadel' and (r['range'] == 'Spray' or 'discontinued' in (r['range'] or ''))) or (r['brand'] == 'The Army Painter' and r['range'] in ('Warpaints Air', 'Speedpaint (original)', 'Warpaints Fanatic'))
+        distinct_product_range = (r['brand'] == 'Citadel' and (r['range'] == 'Spray' or 'discontinued' in (r['range'] or ''))) or (r['brand'] == 'The Army Painter' and (r['range'] in ('Warpaints Air', 'Speedpaint (original)') or (r['range'] or '').startswith('Warpaints Fanatic')))
         if same_name and not r['code'] and not distinct_product_range:
             decisions.append({**record, 'decision': 'withheld-ambiguous-existing-range',
                               'existing_ids': [p['id'] for p in same_name]}); held.append(decisions[-1]); continue
@@ -241,12 +302,13 @@ def run():
             decisions.append({**record, 'decision': 'duplicate-upstream', 'canonical_url': seen[key]}); continue
         seen[key] = r['url']
         p = {k: r[k] for k in ('brand', 'range', 'code', 'name')}
-        p.update(type=paint_type(r), source=SOURCE, barcodes=[], colour={'hex': r['hex'], 'gradient': None, 'source': SOURCE}, status='discontinued' if 'discontinued' in (r['range'] or '').lower() else 'current')
+        p.update(type=paint_type(r), source=SOURCE, barcodes=[], colour={'hex': r['hex'], 'gradient': None, 'source': SOURCE}, status=paint_status(r))
         path = f"paints/{slug(p['brand'])}/{slug(p['range'])}.json"
         additions.append((path, p))
         decisions.append({**record, 'decision': 'added', 'catalogue_file': path,
                           'type_basis': 'explicit range wording where available; otherwise other',
-                          'availability_note': 'Discontinued when explicitly stated upstream; otherwise current is the contribution default, not a manufacturer verification.'})
+                          'availability_note': ('Legacy/discontinued classification per current-catalogue and superseded-generation review: '+REVIEW_URL
+                                                if p['status']=='discontinued' else 'Current is the contribution default, not a manufacturer availability verification.')})
     # Preserve schema uniqueness when upstream assigns two codes to the same name/range.
     collisions = collections.Counter((p['brand'], p['range'], p['name'].lower()) for _, p in additions)
     conflicting = {(p['brand'], p['range'], p['name'].lower()) for _, p in additions
@@ -314,6 +376,13 @@ def run():
                     ('colour-disagreements', [c for c in comparisons if c['substantial']])]
     for name, data in outputs:
         (REPORT / (name+'.json')).write_text(json.dumps(data, ensure_ascii=False, indent=2)+'\n')
+    rendered = []
+    for entry in conflict_ledger:
+        row = entry['source']
+        observations = entry.get('alternatives') or [row]
+        swatches = ' '.join(f'<span style="display:inline-block;width:38px;height:26px;background:{p["hex"]};border:1px solid #777"></span> {p["hex"]}' for p in observations)
+        rendered.append('<tr><td>'+html.escape(row['brand']+' / '+row['name'])+'<br>'+html.escape(str(row['range'])+' / '+str(row['code']))+'</td><td>'+html.escape(entry['disposition'])+'</td><td>'+swatches+'</td><td><a href="'+html.escape(row['url'])+'">Pinned source</a></td></tr>')
+    (REPORT/'conflict-review.html').write_text('<!doctype html><html lang="en"><meta charset="utf-8"><title>Arcturus identity review</title><style>body{font:16px/1.5 system-ui;margin:28px;color:#17202a}table{border-collapse:collapse;width:100%}td,th{padding:12px;border-bottom:1px solid #ccd3dc;text-align:left;vertical-align:top}th{background:#edf1f5;position:sticky;top:0}a{color:#075aaa}</style><h1>Arcturus identity review</h1><p>MIT data by Rick Fleuren / Miniature Painter Pro. Three normalized identities admitted; ambiguous identities and excluded scope remain withheld. All colour observations are approximate. See the adjacent README and JSON ledger for decisions and attribution.</p><table><thead><tr><th>Paint / range / code</th><th>Disposition</th><th>Upstream colour observations</th><th>Evidence</th></tr></thead><tbody>'+''.join(rendered)+'</tbody></table></html>')
     print(json.dumps(summary, indent=2))
 
 if __name__ == '__main__': run()

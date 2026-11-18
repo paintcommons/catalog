@@ -2,9 +2,9 @@
 
 An open, community-maintained catalog of miniature paints: brands, ranges, product codes, names, paint types, barcodes and approximate colours, each colour with its source.
 
-- **9,370 paints** across 25 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper and Scale75
+- **8,268 paints** across 21 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper and Scale75
 - **1,565 barcodes**, each marked calculated, published (with its source URL) or confirmed by scan
-- **9,355 colours**, each linked to its source
+- **8,253 colours**, each linked to its source
 
 Paint Commons is inspired by the commons ethos of Wikipedia and Creative Commons, with no affiliation to either. The catalog is kept in sync with [Stipplewise](https://stipplewise.com), a paint collection app that contributes reviewed corrections and reads the catalog back.
 
@@ -48,6 +48,10 @@ Every colour is an approximation of paint in the pot, taken from printed or rend
 
 The data in this repository (`paints/`, `equivalents.json`, `sources.json`) is dedicated to the public domain under [CC0 1.0](LICENSE), except records that cite a source with its own licence. Every colour names its source (`colour.source`), and a paint imported from another project names it too (`source`). [sources.json](sources.json) lists each source with its licence, credit (`attribution`) and where its full notice lives; [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) holds those notices. If you reuse records from an MIT- or CC-BY-licensed source, keep its credit and notice with them. Credit for the rest is appreciated but not required.
 
+Colours from sources marked `CC0-1.0` were measured by Paint Commons maintainers from manufacturers' published charts and swatches. They're approximate facts about each paint: one number sampled per swatch. The CC0 dedication covers our measurements and the way we put the catalog together. It doesn't claim rights in the manufacturers' own charts, artwork, photos or descriptions, none of which are copied here, and manufacturers keep whatever rights they have in their publications. Names, product codes and barcodes are facts published to identify products.
+
+If you make paints and object to how your information appears here, open an issue or write to hello@stipplewise.com and we'll look at it promptly.
+
 The scripts in `scripts/` are under the [MIT licence](scripts/LICENSE).
 
 Paint and brand names are trademarks of their owners. Paint Commons isn't affiliated with or endorsed by any paint manufacturer.
@@ -62,6 +66,6 @@ Check your changes with:
 node scripts/validate.mjs
 ```
 
-The [scoped Arcturus import](reports/arcturus-import/README.md) adds 7,389 paints from the MIT-licensed miniature-paints project, credited to Rick Fleuren and Miniature Painter Pro. Every imported record and colour cites `arcturus-miniature-paints`; existing records and manufacturer colours are preserved. The pinned snapshot and full MIT notice are distributed with the data. Identity conflicts are documented separately in the import report; colour/gradient enrichments remain a separate review.
+The [scoped Arcturus import](reports/arcturus-import/README.md) adds 6,287 paints from the MIT-licensed miniature-paints project, credited to Rick Fleuren and Miniature Painter Pro. Every imported record and colour cites `arcturus-miniature-paints`; existing records and manufacturer colours are preserved. The pinned snapshot and full MIT notice are distributed with the data. Identity conflicts are documented separately in the import report; colour/gradient enrichments remain a separate review.
 
-This draft adds 49 Arcturus pooled-stop candidates under the [tonal review](reports/arcturus-review/README.md). Every existing main hex and manual override is preserved; metallic and flat-colour differences remain review evidence rather than bulk replacements.
+This draft retains all current hex values and adds only the stop candidates documented in [the Arcturus tonal review](reports/arcturus-review/README.md).

@@ -18,21 +18,6 @@
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
-    "name": "Brush-On Primer",
-    "type": "wash",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#727475",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "The Army Painter",
-    "range": "Warpaints Fanatic Wash",
-    "code": null,
     "name": "Dark Blue Tone",
     "type": "wash",
     "source": "arcturus-miniature-paints",
@@ -93,57 +78,12 @@
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
-    "name": "Dry Blood",
-    "type": "wash",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#24000E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "The Army Painter",
-    "range": "Warpaints Fanatic Wash",
-    "code": null,
-    "name": "Fresh Rust",
-    "type": "wash",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C25428",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "The Army Painter",
-    "range": "Warpaints Fanatic Wash",
-    "code": null,
     "name": "Green Tone",
     "type": "wash",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1F3625",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "The Army Painter",
-    "range": "Warpaints Fanatic Wash",
-    "code": null,
-    "name": "Lens Flare Glow",
-    "type": "wash",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFF464",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
@@ -206,57 +146,12 @@
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
-    "name": "Oozing Vomit",
-    "type": "wash",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#7B5C1D",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "The Army Painter",
-    "range": "Warpaints Fanatic Wash",
-    "code": null,
     "name": "Orange Tone",
     "type": "wash",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#64300F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "The Army Painter",
-    "range": "Warpaints Fanatic Wash",
-    "code": null,
-    "name": "Plasma Coil Glow",
-    "type": "wash",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#5ECDF4",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "The Army Painter",
-    "range": "Warpaints Fanatic Wash",
-    "code": null,
-    "name": "Power Node Glow",
-    "type": "wash",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F286B5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
@@ -277,21 +172,6 @@
         "#50375D",
         null
       ],
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "The Army Painter",
-    "range": "Warpaints Fanatic Wash",
-    "code": null,
-    "name": "Radiation Glow",
-    "type": "wash",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FBB375",
-      "gradient": null,
       "source": "arcturus-miniature-paints"
     },
     "status": "current"
@@ -390,36 +270,6 @@
         "#47331B",
         null
       ],
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "The Army Painter",
-    "range": "Warpaints Fanatic Wash",
-    "code": null,
-    "name": "True Blood",
-    "type": "wash",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#8D0422",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "The Army Painter",
-    "range": "Warpaints Fanatic Wash",
-    "code": null,
-    "name": "Wash Medium",
-    "type": "wash",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B1B3B4",
-      "gradient": null,
       "source": "arcturus-miniature-paints"
     },
     "status": "current"

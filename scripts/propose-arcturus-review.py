@@ -15,7 +15,7 @@ import subprocess
 import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-CLEAN = 'd11719db97df70ebd314bc02587f7874d5abc113'
+CLEAN = '12a3154807c3708ca169e2cd095528f504776404'
 OUT = ROOT / 'reports/arcturus-review'
 spec = importlib.util.spec_from_file_location('arcturus', ROOT / 'scripts/import-arcturus.py')
 imp = importlib.util.module_from_spec(spec)
@@ -105,7 +105,7 @@ def render(proposals):
 def main():
     files, proposals = prepare()
     summary = dict(status='draft-not-approved',review_base_commit=CLEAN, compared_paints=len(proposals),
-                   source_observations=392, pooled_stop_proposals=sum(r['apply'] for r in proposals),
+                   source_observations=sum(1+len(r["alternatives"]) for r in proposals), pooled_stop_proposals=sum(r['apply'] for r in proposals),
                    main_hex_replacements=0, conflict_additions=0,
                    dispositions=dict(collections.Counter(r['disposition'] for r in proposals)),
                    gradient_near_path_threshold=.04)
