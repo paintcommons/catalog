@@ -1,0 +1,1202 @@
+[
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10001",
+    "name": "Berserker Red",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920005",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#4D1A15",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10002",
+    "name": "Sanguine Scarlet",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920012",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#961714",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10003",
+    "name": "Demon Red",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920029",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#D21116",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10004",
+    "name": "Dark Sun Yellow",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920036",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#C38639",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10005",
+    "name": "Skulker Yellow",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920043",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#F49E00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10006",
+    "name": "Yellow Flame",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920050",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#F8AF2B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10007",
+    "name": "Marine Blue",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920067",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#43496F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10008",
+    "name": "Elysium Blue",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920074",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#5179AB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10009",
+    "name": "Celestial Blue",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920081",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#6991C0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10010",
+    "name": "Rust Orange",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920098",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#B94D37",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10011",
+    "name": "Fanatic Orange",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920104",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#D94A2E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10012",
+    "name": "Orange Flare",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920111",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#EB7140",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10013",
+    "name": "Wyvern Green",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920128",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#404942",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10014",
+    "name": "Emerald Green",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920135",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#3C5C43",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10015",
+    "name": "Ethereal Green",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920142",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#567F2D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10016",
+    "name": "Amethyst Rayne",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920159",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#524169",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10017",
+    "name": "Sorcerer’s Cloak",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920166",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#78588D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10018",
+    "name": "Runic Purple",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920173",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#9B8DB4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10019",
+    "name": "Doom Death Black",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920180",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#3C3936",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10020",
+    "name": "Death Reaper",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920197",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#434142",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10021",
+    "name": "Dungeon Stone Grey",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920203",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#5C5E5F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10022",
+    "name": "Wizard Grey",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920210",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#6D6B6C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10023",
+    "name": "Carcharodon Grey",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920227",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#959496",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10024",
+    "name": "White Star",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920234",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#F9F9F9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10025",
+    "name": "Barbarian Brawn",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920241",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#8F5E54",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10026",
+    "name": "Dwarven Skin",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920258",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#B07C62",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10027",
+    "name": "Elven Skin",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920265",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#C49774",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10028",
+    "name": "Cuirass Leather",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920272",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#514239",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10029",
+    "name": "Boar Hide",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920289",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#724438",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10030",
+    "name": "Fur Cloak",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920296",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#91524D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10031",
+    "name": "Dragon Fang",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920302",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#9E8461",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10032",
+    "name": "Skeleton Legion",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920319",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#AF966C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10033",
+    "name": "Vampire Fang",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920326",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#CBB89B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10034",
+    "name": "Griffon Claw",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920333",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#9E9084",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10035",
+    "name": "Ivory Tusk",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920340",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#D2C7BF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10036",
+    "name": "Trooper White",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920357",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#ECEADF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10037",
+    "name": "Dust Bowl",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920364",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#7D6349",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10038",
+    "name": "Sandstone",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920371",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#927B68",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10039",
+    "name": "Temple Stone",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920388",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#A39179",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10040",
+    "name": "Sir Coates Silver",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920395",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#4D4F4F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10041",
+    "name": "Plate Armour",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920401",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#787979",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10042",
+    "name": "Mythril Blade",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920418",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#7D7F7F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10043",
+    "name": "Spartan Bronze",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920425",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#644534",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10044",
+    "name": "Dragon’s Gold",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920432",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#CDA24E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10045",
+    "name": "Glistening Gold",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920449",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#9B8664",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10046",
+    "name": "Royal Cloak",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920456",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#5B4249",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10047",
+    "name": "Sword Hilt Burgundy",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920463",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#773D4A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10048",
+    "name": "Glistening Gums",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920470",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#995779",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10049",
+    "name": "Cold Corpse Blue",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920487",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#50555C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10050",
+    "name": "Wolf Grey",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920494",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#627587",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10051",
+    "name": "Gravestone Blue",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920500",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#7A8896",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10052",
+    "name": "Scorched Earth",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920517",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#594C48",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10053",
+    "name": "Ancient Forest",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920524",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#715B52",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10054",
+    "name": "Wasteland Brown",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920531",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#856C5C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10055",
+    "name": "Oblivion Black Wash",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920548",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#454344",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10056",
+    "name": "Battle Mud Wash",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920555",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#796A5D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10057",
+    "name": "Flesh Wash",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920562",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#C4A678",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10058",
+    "name": "Orc Flesh Wash",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920579",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#52854C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10059",
+    "name": "Necrosis Green Wash",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920586",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#7B8A69",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Two Thin Coats",
+    "range": "Wave 1",
+    "code": "10060",
+    "name": "Archaic Sepia Wash",
+    "type": "other",
+    "barcodes": [
+      {
+        "ean": "5060951920593",
+        "source": "published",
+        "source_url": "https://transatlantisgames.com/product-list/"
+      }
+    ],
+    "colour": {
+      "hex": "#A48773",
+      "gradient": null,
+      "source": "arcturus-miniature-paints-22791a6"
+    },
+    "status": "current"
+  }
+]

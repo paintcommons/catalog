@@ -19,9 +19,11 @@ class ImportInvariants(unittest.TestCase):
         old = [p for f in files if f.endswith('.json') for p in json.loads(subprocess.check_output(['git', 'show', f'{module.BASE}:{f}'], cwd=ROOT, text=True))]
         self.assertEqual(len(old), 1981)
         for p in old: self.assertEqual(by_id[p['id']], p, p['name'])
-        self.assertEqual(len(current), len(old) + 7964)
+        # The separately tested TTC follow-up adds 39 paints and enriches its
+        # 180 Arcturus records with manufacturer identifiers.
+        self.assertEqual(len(current), len(old) + 7964 + 39)
         for p in current:
-            if not p.get('id'):
+            if not p.get('id') and p['brand'] != 'Two Thin Coats':
                 self.assertEqual(p['colour']['source'], module.SOURCE)
                 self.assertEqual(p['barcodes'], [])
 
