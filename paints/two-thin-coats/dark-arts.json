@@ -6,7 +6,12 @@
     "name": "Abhorrent Ochre",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#CBA633",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -15,7 +20,12 @@
     "name": "Altar Ivory",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#EBE9DA",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -24,7 +34,12 @@
     "name": "Ancient Iron",
     "type": "metallic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#B49679",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -33,7 +48,12 @@
     "name": "Animus Black",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#414740",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -42,7 +62,12 @@
     "name": "Archon Orange",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#ED8433",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -51,7 +76,12 @@
     "name": "Betrayer Green",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#5E7966",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -60,7 +90,12 @@
     "name": "Black Ink",
     "type": "ink",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#7E8276",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -69,7 +104,12 @@
     "name": "Blight Cream",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#F3E7D2",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -78,7 +118,12 @@
     "name": "Blood Red Sky",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#593F32",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -87,7 +132,12 @@
     "name": "Brown Ink",
     "type": "ink",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#4D5045",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -96,7 +146,12 @@
     "name": "Cherubic White",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#FBFBF8",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -105,7 +160,12 @@
     "name": "Cinderborn Brown",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#997462",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -114,7 +174,12 @@
     "name": "Crypt Grey",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#99A189",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -123,7 +188,12 @@
     "name": "Cultmaster Green",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#47605C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -132,7 +202,12 @@
     "name": "Deep Red Ink",
     "type": "ink",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#B26B56",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -141,7 +216,12 @@
     "name": "Diablo Red",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#E74E25",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -150,7 +230,12 @@
     "name": "Diabolical Green",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#3D4224",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -159,7 +244,12 @@
     "name": "Divination White",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#F8F7ED",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -168,7 +258,12 @@
     "name": "Dystopian Dust",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#BDA599",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -177,7 +272,12 @@
     "name": "Flayer Red",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#D94045",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -186,7 +286,12 @@
     "name": "Grindhouse Orange",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#B36648",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -195,7 +300,12 @@
     "name": "Ironclad Silver",
     "type": "metallic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#A89271",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -204,7 +314,12 @@
     "name": "Malign Yellow",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#D2B750",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -213,7 +328,12 @@
     "name": "Masque Flesh",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#C4866D",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -222,7 +342,12 @@
     "name": "Noir Brown",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#5A4B38",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -231,7 +356,12 @@
     "name": "Old Brown Metal",
     "type": "metallic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#A59275",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -240,7 +370,12 @@
     "name": "Pustule Ochre",
     "type": "acrylic",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#E7B230",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -249,7 +384,12 @@
     "name": "Tobacco Ink",
     "type": "ink",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#E6C46F",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -258,7 +398,12 @@
     "name": "Warm Brown Ink",
     "type": "ink",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#8B2411",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   },
   {
     "brand": "Two Thin Coats",
@@ -267,6 +412,11 @@
     "name": "White Ink",
     "type": "ink",
     "barcodes": [],
-    "status": "current"
+    "status": "current",
+    "colour": {
+      "hex": "#FCFDF7",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    }
   }
 ]

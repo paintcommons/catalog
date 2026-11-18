@@ -52,7 +52,7 @@ class TTCPreservation(unittest.TestCase):
         self.assertEqual(total, 180)
         self.assertEqual([(x['before'], x['after']) for x in changes], expected_pairs)
 
-    def test_missing_paints_have_primary_evidence_and_no_assumed_identifiers_or_colours(self):
+    def test_new_colours_are_limited_to_exact_dark_arts_source_matches(self):
         facts = json.loads((ttc.SOURCES / 'ttc-additions.json').read_text())
         added = [p for f, rows in self.current.items()
                  if f in ('paints/two-thin-coats/dark-arts.json', 'paints/two-thin-coats/effects-paints.json')
@@ -61,8 +61,13 @@ class TTCPreservation(unittest.TestCase):
         self.assertEqual(collections.Counter(p['type'] for p in added),
                          {'acrylic': 21, 'metallic': 3, 'ink': 6, 'effect': 8, 'medium': 1})
         self.assertEqual({p['name'] for p in added}, {p['name'] for p in facts})
+        swatches = {p['name']: p for p in ttc.read_swatches()}
+        self.assertEqual(sum('colour' in p for p in added), 30)
         for p in added:
-            self.assertNotIn('colour', p)
+            if p['range'] == 'Dark Arts':
+                self.assertEqual(p['colour'], dict(hex=swatches[p['name']]['hex'], gradient=None, source=ttc.COLOUR_SOURCE))
+            else:
+                self.assertNotIn('colour', p)
             self.assertNotIn('id', p)
             self.assertIsNone(p['code'])
             self.assertEqual(p['barcodes'], [])

@@ -4,7 +4,7 @@ An open, community-maintained catalog of miniature paints: brands, ranges, produ
 
 - **9,984 paints** across 30 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper, Scale75, Tamiya, Two Thin Coats and more
 - **1,745 barcodes**, each marked calculated, published (with its source URL) or confirmed by scan
-- **9,930 colours**, each linked to the chart, catalogue or method it came from
+- **9,960 colours**, each linked to the chart, catalogue or method it came from
 
 Paint Commons is inspired by the commons ethos of Wikipedia and Creative Commons, with no affiliation to either. The catalog is kept in sync with [Stipplewise](https://stipplewise.com), a paint collection app that contributes reviewed corrections and reads the catalog back.
 
@@ -52,7 +52,9 @@ Data from [Arcturus5404/miniature-paints](https://github.com/Arcturus5404/miniat
 
 The [Arcturus import report](reports/arcturus-import/README.md) documents the pinned revision, matching rules, withheld rows. Proposed colour replacements and conflict resolutions are reviewed in a separate PR. Existing records and their colours were preserved.
 
-The [Two Thin Coats report](reports/two-thin-coats/README.md) documents the brand rename, manufacturer identifiers, name corrections and 39 additions. Existing colours retain their MIT provenance; new paints have no colour pending a documented reuse basis.
+The [Two Thin Coats report](reports/two-thin-coats/README.md) documents the brand rename, manufacturer identifiers, name corrections and 39 additions. Existing colours retain their MIT provenance; 30 new Dark Arts paints use attributed GERInFact numeric values; the other nine additions have no colour.
+
+Numeric swatches from [GERInFact’s TTC–Citadel Converter](https://github.com/GERInFact/ttc_citadel) are attributed separately in [third-party notices](THIRD_PARTY_NOTICES.md). No explicit upstream licence was found; these values are not represented as an MIT or CC0 import.
 
 The scripts in `scripts/` are under the [MIT licence](scripts/LICENSE).
 

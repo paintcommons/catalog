@@ -51,3 +51,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## GERInFact — TTC–Citadel Converter numeric colour data
+
+Attribution: **GERInFact**, author of the [TTC–Citadel Converter](https://gerinfact.github.io/ttc_citadel/), [repository](https://github.com/GERInFact/ttc_citadel). Numeric paint-name/hex pairs are taken from [`colors.json` at revision 235dc3f5fda248a2499d68098cbc000e232f413a](https://github.com/GERInFact/ttc_citadel/blob/235dc3f5fda248a2499d68098cbc000e232f413a/colors.json).
+
+No explicit upstream licence was found at that revision. Paint Commons publishes these numeric factual values at its maintainer’s direction, with source attribution. This is not an MIT or CC0 licence assertion, an upstream permission grant, or a claim that source code, logos, chart artwork or photographs are freely reusable. Any rights that apply to the source data remain unaffected by this repository’s dedication of its own contributions. Retain this attribution, provenance and rights disclosure with redistributed copies of these imported values.
+
+Thirty exact-name Dark Arts matches supply new colours. Existing colours are preserved in the TTC import; alternative values are pending review separately. The derived snapshot retains only TTC names, uppercase hex values and original array indices, excluding Citadel matches, code and images. Its provenance and integrity hashes are in `data/upstream/gerinfact-235dc3f/SOURCE.json`.

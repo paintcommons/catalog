@@ -1,0 +1,1052 @@
+[
+  {
+    "name": "Berserker Red",
+    "hex": "#4D1B16",
+    "source_index": 0
+  },
+  {
+    "name": "Sanguine Scarlet",
+    "hex": "#961914",
+    "source_index": 1
+  },
+  {
+    "name": "Demon Red",
+    "hex": "#D21215",
+    "source_index": 2
+  },
+  {
+    "name": "Dark Sun Yellow",
+    "hex": "#C48638",
+    "source_index": 3
+  },
+  {
+    "name": "Skulker Yellow",
+    "hex": "#F59E02",
+    "source_index": 4
+  },
+  {
+    "name": "Yellow Flame",
+    "hex": "#F8B02C",
+    "source_index": 5
+  },
+  {
+    "name": "Marine Blue",
+    "hex": "#44496F",
+    "source_index": 6
+  },
+  {
+    "name": "Elysium Blue",
+    "hex": "#5179AC",
+    "source_index": 7
+  },
+  {
+    "name": "Celestial Blue",
+    "hex": "#6992C0",
+    "source_index": 8
+  },
+  {
+    "name": "Rust Orange",
+    "hex": "#BA4D37",
+    "source_index": 9
+  },
+  {
+    "name": "Fanatic Orange",
+    "hex": "#D94A2F",
+    "source_index": 10
+  },
+  {
+    "name": "Orange Flare",
+    "hex": "#F29D7B",
+    "source_index": 11
+  },
+  {
+    "name": "Wyvern Green",
+    "hex": "#404A42",
+    "source_index": 12
+  },
+  {
+    "name": "Emerald Green",
+    "hex": "#3C5C43",
+    "source_index": 13
+  },
+  {
+    "name": "Ethereal Green",
+    "hex": "#56802E",
+    "source_index": 14
+  },
+  {
+    "name": "Amethyst Rayne",
+    "hex": "#524169",
+    "source_index": 15
+  },
+  {
+    "name": "Sorceror's Cloak",
+    "hex": "#79588D",
+    "source_index": 16
+  },
+  {
+    "name": "Runic Purple",
+    "hex": "#9C8CB3",
+    "source_index": 17
+  },
+  {
+    "name": "Doom Death Black",
+    "hex": "#3D3937",
+    "source_index": 18
+  },
+  {
+    "name": "Death Reaper",
+    "hex": "#434142",
+    "source_index": 19
+  },
+  {
+    "name": "Dungeon Stone Grey",
+    "hex": "#5C5E60",
+    "source_index": 20
+  },
+  {
+    "name": "Wizard Grey",
+    "hex": "#6D6C6C",
+    "source_index": 21
+  },
+  {
+    "name": "Carcharodon Grey",
+    "hex": "#959596",
+    "source_index": 22
+  },
+  {
+    "name": "White Star",
+    "hex": "#F8F9F8",
+    "source_index": 23
+  },
+  {
+    "name": "Barbarian Brawn",
+    "hex": "#8F5F55",
+    "source_index": 24
+  },
+  {
+    "name": "Dwarven Skin",
+    "hex": "#B07C62",
+    "source_index": 25
+  },
+  {
+    "name": "Elven Skin",
+    "hex": "#C49774",
+    "source_index": 26
+  },
+  {
+    "name": "Cuirass Leather",
+    "hex": "#52433A",
+    "source_index": 27
+  },
+  {
+    "name": "Boar Hide",
+    "hex": "#73453A",
+    "source_index": 28
+  },
+  {
+    "name": "Fur Cloak",
+    "hex": "#92534E",
+    "source_index": 29
+  },
+  {
+    "name": "Dragon Fang",
+    "hex": "#9E8460",
+    "source_index": 30
+  },
+  {
+    "name": "Skeleton Legion",
+    "hex": "#B0966C",
+    "source_index": 31
+  },
+  {
+    "name": "Vampire Fang",
+    "hex": "#CCB899",
+    "source_index": 32
+  },
+  {
+    "name": "Griffon Claw",
+    "hex": "#9F8F85",
+    "source_index": 33
+  },
+  {
+    "name": "Ivory Tusk",
+    "hex": "#D2C8C0",
+    "source_index": 34
+  },
+  {
+    "name": "Trooper White",
+    "hex": "#EDEBE0",
+    "source_index": 35
+  },
+  {
+    "name": "Dust Bowl",
+    "hex": "#7E634B",
+    "source_index": 36
+  },
+  {
+    "name": "Sandstone",
+    "hex": "#927B68",
+    "source_index": 37
+  },
+  {
+    "name": "Temple Stone",
+    "hex": "#A39179",
+    "source_index": 38
+  },
+  {
+    "name": "Sir Coates Silver",
+    "hex": "#494A4A",
+    "source_index": 39
+  },
+  {
+    "name": "Plate Armour",
+    "hex": "#757677",
+    "source_index": 40
+  },
+  {
+    "name": "Mythril Blade",
+    "hex": "#818283",
+    "source_index": 41
+  },
+  {
+    "name": "Spartan Bronze",
+    "hex": "#604332",
+    "source_index": 42
+  },
+  {
+    "name": "Dragon's Gold",
+    "hex": "#4F442C",
+    "source_index": 43
+  },
+  {
+    "name": "Glistening Gold",
+    "hex": "#5C5241",
+    "source_index": 44
+  },
+  {
+    "name": "Royal Cloak",
+    "hex": "#5B4349",
+    "source_index": 45
+  },
+  {
+    "name": "Sword Hilt Burgundy",
+    "hex": "#773D4B",
+    "source_index": 46
+  },
+  {
+    "name": "Glistening Gums",
+    "hex": "#995879",
+    "source_index": 47
+  },
+  {
+    "name": "Cold Corpse Blue",
+    "hex": "#51555C",
+    "source_index": 48
+  },
+  {
+    "name": "Wolf Grey",
+    "hex": "#627688",
+    "source_index": 49
+  },
+  {
+    "name": "Gravestone Blue",
+    "hex": "#7C8897",
+    "source_index": 50
+  },
+  {
+    "name": "Scorched Earth",
+    "hex": "#5A4D49",
+    "source_index": 51
+  },
+  {
+    "name": "Ancient Forest",
+    "hex": "#725B52",
+    "source_index": 52
+  },
+  {
+    "name": "Wasteland Brown",
+    "hex": "#856C5C",
+    "source_index": 53
+  },
+  {
+    "name": "Oblivion Black Wash",
+    "hex": "#3C3A3A",
+    "source_index": 54
+  },
+  {
+    "name": "Battle Mud Wash",
+    "hex": "#756659",
+    "source_index": 55
+  },
+  {
+    "name": "Flesh Wash",
+    "hex": "#BB9B66",
+    "source_index": 56
+  },
+  {
+    "name": "Orc Flesh Wash",
+    "hex": "#3E7C41",
+    "source_index": 57
+  },
+  {
+    "name": "Necrosis Green Wash",
+    "hex": "#718362",
+    "source_index": 58
+  },
+  {
+    "name": "Archaic Sepia Wash",
+    "hex": "#9A7B66",
+    "source_index": 59
+  },
+  {
+    "name": "Perisher Pink",
+    "hex": "#BA6367",
+    "source_index": 60
+  },
+  {
+    "name": "Hot Pink",
+    "hex": "#E284A6",
+    "source_index": 61
+  },
+  {
+    "name": "Neo Pink",
+    "hex": "#F3BCDA",
+    "source_index": 62
+  },
+  {
+    "name": "Dread Red",
+    "hex": "#6F3F3F",
+    "source_index": 63
+  },
+  {
+    "name": "Asmodeus Red",
+    "hex": "#8E4847",
+    "source_index": 64
+  },
+  {
+    "name": "Evil Eye Red",
+    "hex": "#C15E50",
+    "source_index": 65
+  },
+  {
+    "name": "Sentient Turquoise",
+    "hex": "#3A84A2",
+    "source_index": 66
+  },
+  {
+    "name": "Cursed Blue",
+    "hex": "#4199B4",
+    "source_index": 67
+  },
+  {
+    "name": "Ray Gun Blue",
+    "hex": "#47B0C3",
+    "source_index": 68
+  },
+  {
+    "name": "Abyss Blue",
+    "hex": "#344B67",
+    "source_index": 69
+  },
+  {
+    "name": "Witching Hour Blue",
+    "hex": "#326AB4",
+    "source_index": 70
+  },
+  {
+    "name": "Leviathan Blue",
+    "hex": "#3A7CBF",
+    "source_index": 71
+  },
+  {
+    "name": "Orc Hide",
+    "hex": "#7B9C69",
+    "source_index": 72
+  },
+  {
+    "name": "Goblinoid Green",
+    "hex": "#8AB86A",
+    "source_index": 73
+  },
+  {
+    "name": "Troll Snot Green",
+    "hex": "#9DC576",
+    "source_index": 74
+  },
+  {
+    "name": "Field Grey",
+    "hex": "#6D725E",
+    "source_index": 75
+  },
+  {
+    "name": "Ranger Cloak",
+    "hex": "#7E8352",
+    "source_index": 76
+  },
+  {
+    "name": "Kobold Grey",
+    "hex": "#868B75",
+    "source_index": 77
+  },
+  {
+    "name": "Fury Green",
+    "hex": "#6C6C4C",
+    "source_index": 78
+  },
+  {
+    "name": "Gung-Ho Green",
+    "hex": "#A8A264",
+    "source_index": 79
+  },
+  {
+    "name": "Green Beret",
+    "hex": "#ABAC87",
+    "source_index": 80
+  },
+  {
+    "name": "Hydra Green",
+    "hex": "#354C4E",
+    "source_index": 81
+  },
+  {
+    "name": "Jade Green",
+    "hex": "#2F7967",
+    "source_index": 82
+  },
+  {
+    "name": "Ghoul Green",
+    "hex": "#52BD97",
+    "source_index": 83
+  },
+  {
+    "name": "Ashen Grey",
+    "hex": "#4F5249",
+    "source_index": 84
+  },
+  {
+    "name": "Eidolon Grey",
+    "hex": "#535549",
+    "source_index": 85
+  },
+  {
+    "name": "Rodent Grey",
+    "hex": "#707264",
+    "source_index": 86
+  },
+  {
+    "name": "Noble Steed Brown",
+    "hex": "#765439",
+    "source_index": 87
+  },
+  {
+    "name": "Dry Rust Brown",
+    "hex": "#B97740",
+    "source_index": 88
+  },
+  {
+    "name": "Satyr Brown",
+    "hex": "#D59658",
+    "source_index": 89
+  },
+  {
+    "name": "Gyzmo Fur",
+    "hex": "#D38A51",
+    "source_index": 90
+  },
+  {
+    "name": "Manticore Ochre",
+    "hex": "#D79845",
+    "source_index": 91
+  },
+  {
+    "name": "Cerberus Brown",
+    "hex": "#E0AE59",
+    "source_index": 92
+  },
+  {
+    "name": "Argonaut Skin",
+    "hex": "#A78E6D",
+    "source_index": 93
+  },
+  {
+    "name": "Kronos Flesh",
+    "hex": "#C09B70",
+    "source_index": 94
+  },
+  {
+    "name": "Ares Flesh",
+    "hex": "#DEC287",
+    "source_index": 95
+  },
+  {
+    "name": "Druid Flesh",
+    "hex": "#543D32",
+    "source_index": 96
+  },
+  {
+    "name": "Paladin Flesh",
+    "hex": "#77564B",
+    "source_index": 97
+  },
+  {
+    "name": "Bard Skin",
+    "hex": "#946F61",
+    "source_index": 98
+  },
+  {
+    "name": "Hellspawn Red",
+    "hex": "#BE3A2E",
+    "source_index": 99
+  },
+  {
+    "name": "Craven Yellow",
+    "hex": "#ECEB69",
+    "source_index": 100
+  },
+  {
+    "name": "Gigawatt Blue",
+    "hex": "#56B7E8",
+    "source_index": 101
+  },
+  {
+    "name": "Flaming Forge Orange",
+    "hex": "#EAA545",
+    "source_index": 102
+  },
+  {
+    "name": "Talisman Green",
+    "hex": "#7AC142",
+    "source_index": 103
+  },
+  {
+    "name": "Amulet Purple",
+    "hex": "#BFACD3",
+    "source_index": 104
+  },
+  {
+    "name": "Dwarven Iron",
+    "hex": "#91928E",
+    "source_index": 105
+  },
+  {
+    "name": "Battle Axe Brass",
+    "hex": "#C09A74",
+    "source_index": 106
+  },
+  {
+    "name": "Steampunk Copper",
+    "hex": "#BE673F",
+    "source_index": 107
+  },
+  {
+    "name": "Overlord Brass",
+    "hex": "#B39471",
+    "source_index": 108
+  },
+  {
+    "name": "Top Brass",
+    "hex": "#EFB96D",
+    "source_index": 109
+  },
+  {
+    "name": "Platinum Crown",
+    "hex": "#EDE0CA",
+    "source_index": 110
+  },
+  {
+    "name": "Red Glaze",
+    "hex": "#FBCCBA",
+    "source_index": 111
+  },
+  {
+    "name": "Yellow Glaze",
+    "hex": "#F8F7C3",
+    "source_index": 112
+  },
+  {
+    "name": "Blue Glaze",
+    "hex": "#B0BBE0",
+    "source_index": 113
+  },
+  {
+    "name": "Orange Glaze",
+    "hex": "#FCBC89",
+    "source_index": 114
+  },
+  {
+    "name": "Green Glaze",
+    "hex": "#C3E3AC",
+    "source_index": 115
+  },
+  {
+    "name": "Purple Glaze",
+    "hex": "#CEA7C7",
+    "source_index": 116
+  },
+  {
+    "name": "Hellion Red Wash",
+    "hex": "#9E7371",
+    "source_index": 117
+  },
+  {
+    "name": "Tempest Blue Wash",
+    "hex": "#2C465A",
+    "source_index": 118
+  },
+  {
+    "name": "Magi Purple Wash",
+    "hex": "#6A516A",
+    "source_index": 119
+  },
+  {
+    "name": "Amphora Red",
+    "hex": "#481F24",
+    "source_index": 120
+  },
+  {
+    "name": "Emporer Red",
+    "hex": "#9F3041",
+    "source_index": 121
+  },
+  {
+    "name": "Centurion Red",
+    "hex": "#E83032",
+    "source_index": 122
+  },
+  {
+    "name": "Red Rage",
+    "hex": "#6B342B",
+    "source_index": 123
+  },
+  {
+    "name": "Apocalypse Sky",
+    "hex": "#E54D40",
+    "source_index": 124
+  },
+  {
+    "name": "Inferno Orange",
+    "hex": "#A68E42",
+    "source_index": 125
+  },
+  {
+    "name": "Panzer Yellow",
+    "hex": "#A68E42",
+    "source_index": 126
+  },
+  {
+    "name": "Flak Gun Yellow",
+    "hex": "#C7AB5C",
+    "source_index": 127
+  },
+  {
+    "name": "Ambush Yellow",
+    "hex": "#E4CC74",
+    "source_index": 128
+  },
+  {
+    "name": "Serpent Eye Yellow",
+    "hex": "#F5D30E",
+    "source_index": 129
+  },
+  {
+    "name": "Sun Bleach Yellow",
+    "hex": "#F4E752",
+    "source_index": 130
+  },
+  {
+    "name": "Twin Suns Yellow",
+    "hex": "#E5E9AF",
+    "source_index": 131
+  },
+  {
+    "name": "War Master Green",
+    "hex": "#394142",
+    "source_index": 132
+  },
+  {
+    "name": "Traitor Green",
+    "hex": "#2D534F",
+    "source_index": 133
+  },
+  {
+    "name": "Legion Green",
+    "hex": "#276C67",
+    "source_index": 134
+  },
+  {
+    "name": "Contagion Green",
+    "hex": "#8E9F7F",
+    "source_index": 135
+  },
+  {
+    "name": "Zombie Rot",
+    "hex": "#B3B87A",
+    "source_index": 136
+  },
+  {
+    "name": "Pestilence Green",
+    "hex": "#D4E197",
+    "source_index": 137
+  },
+  {
+    "name": "Oxidation Green",
+    "hex": "#33444D",
+    "source_index": 138
+  },
+  {
+    "name": "Antiquity Green",
+    "hex": "#317F7D",
+    "source_index": 139
+  },
+  {
+    "name": "Mythic Turquoise",
+    "hex": "#589E9D",
+    "source_index": 140
+  },
+  {
+    "name": "Eldar Robe",
+    "hex": "#1D5AA3",
+    "source_index": 141
+  },
+  {
+    "name": "Relic Blue",
+    "hex": "#237FBE",
+    "source_index": 142
+  },
+  {
+    "name": "Seafarer Blue",
+    "hex": "#469CC8",
+    "source_index": 143
+  },
+  {
+    "name": "Faust Blue",
+    "hex": "#47525C",
+    "source_index": 144
+  },
+  {
+    "name": "Shadow Blue",
+    "hex": "#4F646C",
+    "source_index": 145
+  },
+  {
+    "name": "Frost Blue",
+    "hex": "#79979F",
+    "source_index": 146
+  },
+  {
+    "name": "Von Evile Purple",
+    "hex": "#5A3764",
+    "source_index": 147
+  },
+  {
+    "name": "Enchantress Purple",
+    "hex": "#5A3764",
+    "source_index": 148
+  },
+  {
+    "name": "Spectral Purple",
+    "hex": "#9A5A9B",
+    "source_index": 149
+  },
+  {
+    "name": "Incubus Purple",
+    "hex": "#6B6A6D",
+    "source_index": 150
+  },
+  {
+    "name": "Enticing Purple",
+    "hex": "#817B8C",
+    "source_index": 151
+  },
+  {
+    "name": "Decadent Purple",
+    "hex": "#C2BFD5",
+    "source_index": 152
+  },
+  {
+    "name": "Scabbard Brown",
+    "hex": "#7C5E48",
+    "source_index": 153
+  },
+  {
+    "name": "Boot Strap Brown",
+    "hex": "#835F44",
+    "source_index": 154
+  },
+  {
+    "name": "Vambrace Brown",
+    "hex": "#9C755D",
+    "source_index": 155
+  },
+  {
+    "name": "Cyber Pink",
+    "hex": "#C64C8B",
+    "source_index": 156
+  },
+  {
+    "name": "Elixir Green",
+    "hex": "#7CC78F",
+    "source_index": 157
+  },
+  {
+    "name": "Solar Flare",
+    "hex": "#F18021",
+    "source_index": 158
+  },
+  {
+    "name": "Ion Blue",
+    "hex": "#B7D8DA",
+    "source_index": 159
+  },
+  {
+    "name": "Septic Green",
+    "hex": "#CBAB7B",
+    "source_index": 160
+  },
+  {
+    "name": "Pale Skin",
+    "hex": "#CBAB7B",
+    "source_index": 161
+  },
+  {
+    "name": "Scarab Red",
+    "hex": "#BB4448",
+    "source_index": 162
+  },
+  {
+    "name": "Omega Blue",
+    "hex": "#58BFBE",
+    "source_index": 163
+  },
+  {
+    "name": "Enchantment Blue",
+    "hex": "#337FAE",
+    "source_index": 164
+  },
+  {
+    "name": "Emporer's Purple",
+    "hex": "#836493",
+    "source_index": 165
+  },
+  {
+    "name": "Carapace Green",
+    "hex": "#4F9A5A",
+    "source_index": 166
+  },
+  {
+    "name": "Fire Opal",
+    "hex": "#A56447",
+    "source_index": 167
+  },
+  {
+    "name": "Ancient Gold",
+    "hex": "#6D5E3F",
+    "source_index": 168
+  },
+  {
+    "name": "Doom Metal",
+    "hex": "#686559",
+    "source_index": 169
+  },
+  {
+    "name": "Chaos Bronze",
+    "hex": "#B59774",
+    "source_index": 170
+  },
+  {
+    "name": "Blue Steel",
+    "hex": "#7E8C8B",
+    "source_index": 171
+  },
+  {
+    "name": "Heirloom Gold",
+    "hex": "#C8A058",
+    "source_index": 172
+  },
+  {
+    "name": "Bits O' Tin",
+    "hex": "#6D6157",
+    "source_index": 173
+  },
+  {
+    "name": "Smoke Grey Wash",
+    "hex": "#C3BFB7",
+    "source_index": 174
+  },
+  {
+    "name": "Hazard Yellow Wash",
+    "hex": "#C27555",
+    "source_index": 175
+  },
+  {
+    "name": "Aztec Turquoise Wash",
+    "hex": "#596969",
+    "source_index": 176
+  },
+  {
+    "name": "Bone Wash",
+    "hex": "#80645C",
+    "source_index": 177
+  },
+  {
+    "name": "Satin Varnish",
+    "hex": "#777475",
+    "source_index": 178
+  },
+  {
+    "name": "Blood Red Sky",
+    "hex": "#593F32",
+    "source_index": 179
+  },
+  {
+    "name": "Flayer Red",
+    "hex": "#D94045",
+    "source_index": 180
+  },
+  {
+    "name": "Diablo Red",
+    "hex": "#E74E25",
+    "source_index": 181
+  },
+  {
+    "name": "Archon Orange",
+    "hex": "#ED8433",
+    "source_index": 182
+  },
+  {
+    "name": "Pustule Ochre",
+    "hex": "#E7B230",
+    "source_index": 183
+  },
+  {
+    "name": "Abhorrent Ochre",
+    "hex": "#CBA633",
+    "source_index": 184
+  },
+  {
+    "name": "Malign Yellow",
+    "hex": "#D2B750",
+    "source_index": 185
+  },
+  {
+    "name": "Cultmaster Green",
+    "hex": "#47605C",
+    "source_index": 186
+  },
+  {
+    "name": "Betrayer Green",
+    "hex": "#5E7966",
+    "source_index": 187
+  },
+  {
+    "name": "Diabolical Green",
+    "hex": "#3D4224",
+    "source_index": 188
+  },
+  {
+    "name": "Crypt Grey",
+    "hex": "#99A189",
+    "source_index": 189
+  },
+  {
+    "name": "Altar Ivory",
+    "hex": "#EBE9DA",
+    "source_index": 190
+  },
+  {
+    "name": "Grindhouse Orange",
+    "hex": "#B36648",
+    "source_index": 191
+  },
+  {
+    "name": "Masque Flesh",
+    "hex": "#C4866D",
+    "source_index": 192
+  },
+  {
+    "name": "Noir Brown",
+    "hex": "#5A4B38",
+    "source_index": 193
+  },
+  {
+    "name": "Cinderborn Brown",
+    "hex": "#997462",
+    "source_index": 194
+  },
+  {
+    "name": "Dystopian Dust",
+    "hex": "#BDA599",
+    "source_index": 195
+  },
+  {
+    "name": "Blight Cream",
+    "hex": "#F3E7D2",
+    "source_index": 196
+  },
+  {
+    "name": "Divination White",
+    "hex": "#F8F7ED",
+    "source_index": 197
+  },
+  {
+    "name": "Animus Black",
+    "hex": "#414740",
+    "source_index": 198
+  },
+  {
+    "name": "Cherubic White",
+    "hex": "#FBFBF8",
+    "source_index": 199
+  },
+  {
+    "name": "Old Brown Metal",
+    "hex": "#A59275",
+    "source_index": 200
+  },
+  {
+    "name": "Ancient Iron",
+    "hex": "#B49679",
+    "source_index": 201
+  },
+  {
+    "name": "Ironclad Silver",
+    "hex": "#A89271",
+    "source_index": 202
+  },
+  {
+    "name": "Brown Ink",
+    "hex": "#4D5045",
+    "source_index": 203
+  },
+  {
+    "name": "Warm Brown Ink",
+    "hex": "#8B2411",
+    "source_index": 204
+  },
+  {
+    "name": "Deep Red Ink",
+    "hex": "#B26B56",
+    "source_index": 205
+  },
+  {
+    "name": "Tobacco Ink",
+    "hex": "#E6C46F",
+    "source_index": 206
+  },
+  {
+    "name": "Black Ink",
+    "hex": "#7E8276",
+    "source_index": 207
+  },
+  {
+    "name": "White Ink",
+    "hex": "#FCFDF7",
+    "source_index": 208
+  },
+  {
+    "name": "Gloss Varnish",
+    "hex": "#666161",
+    "source_index": 209
+  }
+]

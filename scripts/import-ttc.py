@@ -1,17 +1,21 @@
 """Reproduce the TTC factual enrichment from pinned catalogue data, offline.
 
-No swatches are sampled or imported by this script. See reports/two-thin-coats.
+Only the 30 new Dark Arts paints receive GERInFact numeric hex values.
+Existing colours are preserved. See reports/two-thin-coats.
 """
 import copy
+import hashlib
 import json
 import pathlib
 import re
 import subprocess
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-BASE = 'ddcd495b55ef3e1611a9886affcfa47eaad5092c'
+BASE = '6bf3e7ebaa8d6b6e591c79f769844b4594f13138'
 SOURCES = ROOT / 'data/sources'
 REPORT = ROOT / 'reports/two-thin-coats'
+SWATCHES = ROOT / 'data/upstream/gerinfact-235dc3f'
+COLOUR_SOURCE = 'gerinfact-ttc-235dc3f'
 ALIASES = {
     'Death Metal': 'Doom Metal',
     'Elder Robe': 'Eldar Robe',
@@ -42,9 +46,21 @@ def baseline():
         for f in files if f.endswith('.json')}
 
 
+def read_swatches():
+    metadata = json.loads((SWATCHES / 'SOURCE.json').read_text())
+    raw = (SWATCHES / metadata['derived_file']).read_bytes()
+    if hashlib.sha256(raw).hexdigest() != metadata['derived_sha256']:
+        raise ValueError('GERInFact numeric snapshot failed its integrity check')
+    rows = json.loads(raw)
+    assert len(rows) == len({r['name'] for r in rows}) == 210
+    assert all(re.fullmatch('#[0-9A-F]{6}', r['hex']) for r in rows)
+    return rows
+
+
 def build():
     products = json.loads((SOURCES / 'ttc-manufacturer-products.json').read_text())
     additions = json.loads((SOURCES / 'ttc-additions.json').read_text())
+    swatches = {p['name']: p for p in read_swatches()}
     by_name = {normalise(p['name']): p for p in products}
     assert len(by_name) == len(products) == 180
     output, changes, used = {}, [], set()
@@ -70,6 +86,8 @@ def build():
     for fact in additions:
         paint = dict(brand='Two Thin Coats', range=fact['range'], code=None,
                      name=fact['name'], type=fact['type'], barcodes=[], status='current')
+        if fact['range'] == 'Dark Arts':
+            paint['colour'] = dict(hex=swatches[fact['name']]['hex'], gradient=None, source=COLOUR_SOURCE)
         slug = fact['range'].lower().replace(' ', '-')
         output.setdefault(f'paints/two-thin-coats/{slug}.json', []).append(paint)
     for paints in output.values():
@@ -98,7 +116,7 @@ def main():
     write_json(REPORT / 'existing-record-changes.json', changes)
     write_json(REPORT / 'summary.json', dict(
         baseline=BASE, renamed_and_enriched=180, explicit_name_aliases=len(ALIASES),
-        added=39, total_ttc=219, existing_colours_changed=0, added_colours=0,
+        added=39, total_ttc=219, existing_colours_changed=0, added_colours=30,
         added_skus=180, added_barcodes=180))
 
 
