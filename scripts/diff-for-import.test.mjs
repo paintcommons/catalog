@@ -11,3 +11,16 @@ test('optional metadata is diffed for imports and missing/null values are equiva
  assert.deepEqual(diffSnapshots(snap(paint),snap({...paint,finish:null,manufacturer_colour_family:null})),[]);
  assert.deepEqual(diffSnapshots(snap(after),snap(paint)).find(c=>c.field==='finish').after,null);
 });
+
+test('sources are diffed first-class, and paints without an id are always sent',()=>{
+ const src={id:'arcturus',name:'A',status:'published',licence:'MIT',attribution:'© A',notice:'THIRD_PARTY_NOTICES.md',priority:40};
+ const fresh={...paint,id:undefined,name:'New'};
+ const base={paints:[paint,fresh],equivalents:[],sources:[]};
+ const head={paints:[paint,fresh],equivalents:[],sources:[src]};
+ const changes=diffSnapshots(base,head);
+ assert.deepEqual(changes.map(c=>c.op),['source_upsert','insert']);
+ assert.equal(changes[0].before,null);
+ assert.deepEqual(diffSnapshots({...head},{...head,sources:[{...src,priority:45}]}).filter(c=>c.op==='source_upsert')[0].before,src);
+ const tagged=diffSnapshots(snap(paint),snap({...paint,source:'arcturus'}));
+ assert.deepEqual(tagged,[{op:'update',id:paint.id,field:'source',before:null,after:'arcturus'}]);
+});

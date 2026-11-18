@@ -35,4 +35,14 @@ Run them yourself with `node scripts/validate.mjs` (Node 20 or later).
 
 ## Licence of contributions
 
-By contributing you agree that your contribution is dedicated to the public domain under CC0 1.0, like the rest of the data.
+By contributing your own work you agree that it's dedicated to the public domain under CC0 1.0.
+
+### Importing from another project
+
+Data from another open project keeps its licence. To import some:
+
+1. Add the project to `sources.json` (`colour_sources`) with an `id`, `name`, `url`, `method`, `status` (`published`), `licence` (an SPDX id: `CC0-1.0`, `CC-BY-4.0`, `MIT`, `BSD-2-Clause`, `BSD-3-Clause` or `ISC`; anything else can only be `withheld`) and `priority` (community projects 40; manufacturer publications 80). Licences that ask for credit also need an `attribution` and a `notice` pointing at its full text in `THIRD_PARTY_NOTICES.md`.
+2. Mark each imported paint with `"source": "<id>"`, and each colour from it with `"colour": {…, "source": "<id>"}`.
+3. A colour from a lower-priority source can't replace one from a higher-priority source. If the evidence says it should, explain why in the pull request and ask for the `colour-override` label.
+
+The same pull request can add the source and the paints that cite it. Big imports are fine: they reach Stipplewise in batches. If Stipplewise refuses any new paint, the import job opens an issue and the hourly sync pauses until a follow-up pull request fixes it.
