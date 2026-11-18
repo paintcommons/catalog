@@ -4,7 +4,7 @@
     "range": "Foundry Paint System",
     "code": "100A",
     "name": "British Uniform Brown Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -19,7 +19,7 @@
     "range": "Foundry Paint System",
     "code": "100B",
     "name": "British Uniform Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -34,7 +34,7 @@
     "range": "Foundry Paint System",
     "code": "100C",
     "name": "British Uniform Brown Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -49,7 +49,7 @@
     "range": "Foundry Paint System",
     "code": "101A",
     "name": "Equipment Black Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -64,7 +64,7 @@
     "range": "Foundry Paint System",
     "code": "101B",
     "name": "Equipment Black",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -79,7 +79,7 @@
     "range": "Foundry Paint System",
     "code": "101C",
     "name": "Equipment Black Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -94,7 +94,7 @@
     "range": "Foundry Paint System",
     "code": "102A",
     "name": "Red Oxide Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -109,7 +109,7 @@
     "range": "Foundry Paint System",
     "code": "102B",
     "name": "Red Oxide",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -124,7 +124,7 @@
     "range": "Foundry Paint System",
     "code": "102C",
     "name": "Red Oxide Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -139,7 +139,7 @@
     "range": "Foundry Paint System",
     "code": "103A",
     "name": "Bronze Barrel Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -154,7 +154,7 @@
     "range": "Foundry Paint System",
     "code": "103B",
     "name": "Bronze Barrel",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -169,7 +169,7 @@
     "range": "Foundry Paint System",
     "code": "103C",
     "name": "Bronze Barrel Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -184,7 +184,7 @@
     "range": "Foundry Paint System",
     "code": "104A",
     "name": "Gun Metal Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -199,7 +199,7 @@
     "range": "Foundry Paint System",
     "code": "104B",
     "name": "Gun Metal",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -214,7 +214,7 @@
     "range": "Foundry Paint System",
     "code": "104C",
     "name": "Gun Metal Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -229,7 +229,7 @@
     "range": "Foundry Paint System",
     "code": "105A",
     "name": "Blackened Barrel Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -244,7 +244,7 @@
     "range": "Foundry Paint System",
     "code": "105B",
     "name": "Blackened Barrel",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -259,7 +259,7 @@
     "range": "Foundry Paint System",
     "code": "105C",
     "name": "Blackened Barrel Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -274,7 +274,7 @@
     "range": "Foundry Paint System",
     "code": "106A",
     "name": "Prussian Gun Mid Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -289,7 +289,7 @@
     "range": "Foundry Paint System",
     "code": "106B",
     "name": "Prussian Gun Mid Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -304,7 +304,7 @@
     "range": "Foundry Paint System",
     "code": "106C",
     "name": "Prussian Gun Mid Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -319,7 +319,7 @@
     "range": "Foundry Paint System",
     "code": "107A",
     "name": "Austrian Gun Ochre Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -334,7 +334,7 @@
     "range": "Foundry Paint System",
     "code": "107B",
     "name": "Austrian Gun Ochre",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -349,7 +349,7 @@
     "range": "Foundry Paint System",
     "code": "107C",
     "name": "Austrian Gun Ochre Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -364,7 +364,7 @@
     "range": "Foundry Paint System",
     "code": "108A",
     "name": "British Gun Grey Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -379,7 +379,7 @@
     "range": "Foundry Paint System",
     "code": "108B",
     "name": "British Gun Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -394,7 +394,7 @@
     "range": "Foundry Paint System",
     "code": "108C",
     "name": "British Gun Grey Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -409,7 +409,7 @@
     "range": "Foundry Paint System",
     "code": "109A",
     "name": "French Gun Olive Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -424,7 +424,7 @@
     "range": "Foundry Paint System",
     "code": "109B",
     "name": "French Gun Olive Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -439,7 +439,7 @@
     "range": "Foundry Paint System",
     "code": "109C",
     "name": "French Gun Olive Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -454,7 +454,7 @@
     "range": "Foundry Paint System",
     "code": "10A",
     "name": "Base Sand Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -469,7 +469,7 @@
     "range": "Foundry Paint System",
     "code": "10B",
     "name": "Base Sand",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -484,7 +484,7 @@
     "range": "Foundry Paint System",
     "code": "10C",
     "name": "Base Sand Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -499,7 +499,7 @@
     "range": "Foundry Paint System",
     "code": "110A",
     "name": "Russian Gun Apple Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -514,7 +514,7 @@
     "range": "Foundry Paint System",
     "code": "110B",
     "name": "Russian Gun Apple Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -529,7 +529,7 @@
     "range": "Foundry Paint System",
     "code": "110C",
     "name": "Russian Gun Apple Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -544,7 +544,7 @@
     "range": "Foundry Paint System",
     "code": "111A",
     "name": "Union Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -559,7 +559,7 @@
     "range": "Foundry Paint System",
     "code": "111B",
     "name": "Union Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -574,7 +574,7 @@
     "range": "Foundry Paint System",
     "code": "111C",
     "name": "Union Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -589,7 +589,7 @@
     "range": "Foundry Paint System",
     "code": "112A",
     "name": "Union Trouser Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -604,7 +604,7 @@
     "range": "Foundry Paint System",
     "code": "112B",
     "name": "Union Trouser Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -619,7 +619,7 @@
     "range": "Foundry Paint System",
     "code": "112C",
     "name": "Union Trouser Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -634,7 +634,7 @@
     "range": "Foundry Paint System",
     "code": "115A",
     "name": "Rich Butternut Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -649,7 +649,7 @@
     "range": "Foundry Paint System",
     "code": "115B",
     "name": "Rich Butternut",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -664,7 +664,7 @@
     "range": "Foundry Paint System",
     "code": "115C",
     "name": "Rich Butternut Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -679,7 +679,7 @@
     "range": "Foundry Paint System",
     "code": "116A",
     "name": "Drab Butternut Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -694,7 +694,7 @@
     "range": "Foundry Paint System",
     "code": "116B",
     "name": "Drab Butternut",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -709,7 +709,7 @@
     "range": "Foundry Paint System",
     "code": "116C",
     "name": "Drab Butternut Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -724,7 +724,7 @@
     "range": "Foundry Paint System",
     "code": "117A",
     "name": "Confederate Grey Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -739,7 +739,7 @@
     "range": "Foundry Paint System",
     "code": "117B",
     "name": "Confederate Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -754,7 +754,7 @@
     "range": "Foundry Paint System",
     "code": "117C",
     "name": "Confederate Grey Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -769,7 +769,7 @@
     "range": "Foundry Paint System",
     "code": "118A",
     "name": "Rebel Grey Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -784,7 +784,7 @@
     "range": "Foundry Paint System",
     "code": "118B",
     "name": "Rebel Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -799,7 +799,7 @@
     "range": "Foundry Paint System",
     "code": "118C",
     "name": "Rebel Grey Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -814,7 +814,7 @@
     "range": "Foundry Paint System",
     "code": "119A",
     "name": "South American Flesh Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -829,7 +829,7 @@
     "range": "Foundry Paint System",
     "code": "119B",
     "name": "South American Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -844,7 +844,7 @@
     "range": "Foundry Paint System",
     "code": "119C",
     "name": "South American Flesh Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -859,7 +859,7 @@
     "range": "Foundry Paint System",
     "code": "11A",
     "name": "Rawhide Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -874,7 +874,7 @@
     "range": "Foundry Paint System",
     "code": "11B",
     "name": "Rawhide",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -889,7 +889,7 @@
     "range": "Foundry Paint System",
     "code": "11C",
     "name": "Rawhide Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -904,7 +904,7 @@
     "range": "Foundry Paint System",
     "code": "120A",
     "name": "Native American Flesh Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -919,7 +919,7 @@
     "range": "Foundry Paint System",
     "code": "120B",
     "name": "Native American Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -934,7 +934,7 @@
     "range": "Foundry Paint System",
     "code": "120C",
     "name": "Native American Flesh Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -949,7 +949,7 @@
     "range": "Foundry Paint System",
     "code": "121A",
     "name": "Dark African Flesh Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -964,7 +964,7 @@
     "range": "Foundry Paint System",
     "code": "121B",
     "name": "Dark African Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -979,7 +979,7 @@
     "range": "Foundry Paint System",
     "code": "121C",
     "name": "Dark African Flesh Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -994,7 +994,7 @@
     "range": "Foundry Paint System",
     "code": "122A",
     "name": "Oriental Flesh Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1009,7 +1009,7 @@
     "range": "Foundry Paint System",
     "code": "122B",
     "name": "Oriental Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1024,7 +1024,7 @@
     "range": "Foundry Paint System",
     "code": "122C",
     "name": "Oriental Flesh Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1039,7 +1039,7 @@
     "range": "Foundry Paint System",
     "code": "123A",
     "name": "Near Eastern Flesh Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1054,7 +1054,7 @@
     "range": "Foundry Paint System",
     "code": "123B",
     "name": "Near Eastern Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1069,7 +1069,7 @@
     "range": "Foundry Paint System",
     "code": "123C",
     "name": "Near Eastern Flesh Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1084,7 +1084,7 @@
     "range": "Foundry Paint System",
     "code": "124A",
     "name": "North African Flesh Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1099,7 +1099,7 @@
     "range": "Foundry Paint System",
     "code": "124B",
     "name": "North African Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1114,7 +1114,7 @@
     "range": "Foundry Paint System",
     "code": "124C",
     "name": "North African Flesh Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1129,7 +1129,7 @@
     "range": "Foundry Paint System",
     "code": "125A",
     "name": "Mediterranean Flesh Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1144,7 +1144,7 @@
     "range": "Foundry Paint System",
     "code": "125B",
     "name": "Mediterranean Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1159,7 +1159,7 @@
     "range": "Foundry Paint System",
     "code": "125C",
     "name": "Mediterranean Flesh Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1174,7 +1174,7 @@
     "range": "Foundry Paint System",
     "code": "126A",
     "name": "African Flesh Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1189,7 +1189,7 @@
     "range": "Foundry Paint System",
     "code": "126B",
     "name": "African Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1204,7 +1204,7 @@
     "range": "Foundry Paint System",
     "code": "126C",
     "name": "African Flesh Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1219,7 +1219,7 @@
     "range": "Foundry Paint System",
     "code": "127A",
     "name": "Expert Flesh Deep Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1234,7 +1234,7 @@
     "range": "Foundry Paint System",
     "code": "127B",
     "name": "Expert Flesh Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1249,7 +1249,7 @@
     "range": "Foundry Paint System",
     "code": "127C",
     "name": "Expert Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1264,7 +1264,7 @@
     "range": "Foundry Paint System",
     "code": "127D",
     "name": "Expert Flesh Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1279,7 +1279,7 @@
     "range": "Foundry Paint System",
     "code": "127E",
     "name": "Expert Flesh Ultra Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1294,7 +1294,7 @@
     "range": "Foundry Paint System",
     "code": "127F",
     "name": "Expert Flesh Final Highlight",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1309,7 +1309,7 @@
     "range": "Foundry Paint System",
     "code": "12A",
     "name": "Drab Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1324,7 +1324,7 @@
     "range": "Foundry Paint System",
     "code": "12B",
     "name": "Drab",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1339,7 +1339,7 @@
     "range": "Foundry Paint System",
     "code": "12C",
     "name": "Drab Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1354,7 +1354,7 @@
     "range": "Foundry Paint System",
     "code": "13A",
     "name": "Spearshaft Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1369,7 +1369,7 @@
     "range": "Foundry Paint System",
     "code": "13B",
     "name": "Spearshaft",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1384,7 +1384,7 @@
     "range": "Foundry Paint System",
     "code": "13C",
     "name": "Spearshaft Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1399,7 +1399,7 @@
     "range": "Foundry Paint System",
     "code": "14A",
     "name": "Tan Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1414,7 +1414,7 @@
     "range": "Foundry Paint System",
     "code": "14B",
     "name": "Tan",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1429,7 +1429,7 @@
     "range": "Foundry Paint System",
     "code": "14C",
     "name": "Tan Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1444,7 +1444,7 @@
     "range": "Foundry Paint System",
     "code": "15A",
     "name": "Bright Red Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1459,7 +1459,7 @@
     "range": "Foundry Paint System",
     "code": "15B",
     "name": "Bright Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1474,7 +1474,7 @@
     "range": "Foundry Paint System",
     "code": "15C",
     "name": "Bright Red Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1489,7 +1489,7 @@
     "range": "Foundry Paint System",
     "code": "16A",
     "name": "Nipple Pink Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1504,7 +1504,7 @@
     "range": "Foundry Paint System",
     "code": "16B",
     "name": "Nipple Pink",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1519,7 +1519,7 @@
     "range": "Foundry Paint System",
     "code": "16C",
     "name": "Nipple Pink Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1534,7 +1534,7 @@
     "range": "Foundry Paint System",
     "code": "17A",
     "name": "Wine Stain Red Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1549,7 +1549,7 @@
     "range": "Foundry Paint System",
     "code": "17B",
     "name": "Wine Stain Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1564,7 +1564,7 @@
     "range": "Foundry Paint System",
     "code": "17C",
     "name": "Wine Stain Red Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1579,7 +1579,7 @@
     "range": "Foundry Paint System",
     "code": "18A",
     "name": "Shadow Pink Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1594,7 +1594,7 @@
     "range": "Foundry Paint System",
     "code": "18B",
     "name": "Shadow Pink",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1609,7 +1609,7 @@
     "range": "Foundry Paint System",
     "code": "18C",
     "name": "Shadow Pink Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1624,7 +1624,7 @@
     "range": "Foundry Paint System",
     "code": "19A",
     "name": "Royal Purple Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1639,7 +1639,7 @@
     "range": "Foundry Paint System",
     "code": "19B",
     "name": "Royal Purple",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1654,7 +1654,7 @@
     "range": "Foundry Paint System",
     "code": "19C",
     "name": "Royal Purple Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1669,7 +1669,7 @@
     "range": "Foundry Paint System",
     "code": "1A",
     "name": "Lemon Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1684,7 +1684,7 @@
     "range": "Foundry Paint System",
     "code": "1B",
     "name": "Lemon",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1699,7 +1699,7 @@
     "range": "Foundry Paint System",
     "code": "1C",
     "name": "Lemon Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1714,7 +1714,7 @@
     "range": "Foundry Paint System",
     "code": "20A",
     "name": "Deep Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1729,7 +1729,7 @@
     "range": "Foundry Paint System",
     "code": "20B",
     "name": "Deep Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1744,7 +1744,7 @@
     "range": "Foundry Paint System",
     "code": "20C",
     "name": "Deep Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1759,7 +1759,7 @@
     "range": "Foundry Paint System",
     "code": "21A",
     "name": "Sky Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1774,7 +1774,7 @@
     "range": "Foundry Paint System",
     "code": "21B",
     "name": "Sky Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1789,7 +1789,7 @@
     "range": "Foundry Paint System",
     "code": "21C",
     "name": "Sky Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1804,7 +1804,7 @@
     "range": "Foundry Paint System",
     "code": "22A",
     "name": "Vivid Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1819,7 +1819,7 @@
     "range": "Foundry Paint System",
     "code": "22B",
     "name": "Vivid Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1834,7 +1834,7 @@
     "range": "Foundry Paint System",
     "code": "22C",
     "name": "Vivid Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1849,7 +1849,7 @@
     "range": "Foundry Paint System",
     "code": "23A",
     "name": "Tomb Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1864,7 +1864,7 @@
     "range": "Foundry Paint System",
     "code": "23B",
     "name": "Tomb Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1879,7 +1879,7 @@
     "range": "Foundry Paint System",
     "code": "23C",
     "name": "Tomb Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1894,7 +1894,7 @@
     "range": "Foundry Paint System",
     "code": "24A",
     "name": "Teal Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1909,7 +1909,7 @@
     "range": "Foundry Paint System",
     "code": "24B",
     "name": "Teal Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1924,7 +1924,7 @@
     "range": "Foundry Paint System",
     "code": "24C",
     "name": "Teal Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1939,7 +1939,7 @@
     "range": "Foundry Paint System",
     "code": "25A",
     "name": "Bright Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1954,7 +1954,7 @@
     "range": "Foundry Paint System",
     "code": "25B",
     "name": "Bright Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1969,7 +1969,7 @@
     "range": "Foundry Paint System",
     "code": "25C",
     "name": "Bright Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1984,7 +1984,7 @@
     "range": "Foundry Paint System",
     "code": "26A",
     "name": "Forest Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -1999,7 +1999,7 @@
     "range": "Foundry Paint System",
     "code": "26B",
     "name": "Forest Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2014,7 +2014,7 @@
     "range": "Foundry Paint System",
     "code": "26C",
     "name": "Forest Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2029,7 +2029,7 @@
     "range": "Foundry Paint System",
     "code": "27A",
     "name": "Storm Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2044,7 +2044,7 @@
     "range": "Foundry Paint System",
     "code": "27B",
     "name": "Storm Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2059,7 +2059,7 @@
     "range": "Foundry Paint System",
     "code": "27C",
     "name": "Storm Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2074,7 +2074,7 @@
     "range": "Foundry Paint System",
     "code": "28A",
     "name": "Phlegm Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2089,7 +2089,7 @@
     "range": "Foundry Paint System",
     "code": "28B",
     "name": "Phlegm Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2104,7 +2104,7 @@
     "range": "Foundry Paint System",
     "code": "28C",
     "name": "Phlegm Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2119,7 +2119,7 @@
     "range": "Foundry Paint System",
     "code": "29A",
     "name": "Moss Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2134,7 +2134,7 @@
     "range": "Foundry Paint System",
     "code": "29B",
     "name": "Moss",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2149,7 +2149,7 @@
     "range": "Foundry Paint System",
     "code": "29C",
     "name": "Moss Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2164,7 +2164,7 @@
     "range": "Foundry Paint System",
     "code": "2A",
     "name": "Yellow Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2179,7 +2179,7 @@
     "range": "Foundry Paint System",
     "code": "2B",
     "name": "Yellow",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2194,7 +2194,7 @@
     "range": "Foundry Paint System",
     "code": "2C",
     "name": "Yellow Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2209,7 +2209,7 @@
     "range": "Foundry Paint System",
     "code": "30A",
     "name": "Raw Linen Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2224,7 +2224,7 @@
     "range": "Foundry Paint System",
     "code": "30B",
     "name": "Raw Linen",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2239,7 +2239,7 @@
     "range": "Foundry Paint System",
     "code": "30C",
     "name": "Raw Linen Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2254,7 +2254,7 @@
     "range": "Foundry Paint System",
     "code": "31A",
     "name": "Granite Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2269,7 +2269,7 @@
     "range": "Foundry Paint System",
     "code": "31B",
     "name": "Granite",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2284,7 +2284,7 @@
     "range": "Foundry Paint System",
     "code": "31C",
     "name": "Granite Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2299,7 +2299,7 @@
     "range": "Foundry Paint System",
     "code": "32A",
     "name": "Slate Grey Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2314,7 +2314,7 @@
     "range": "Foundry Paint System",
     "code": "32B",
     "name": "Slate Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2329,7 +2329,7 @@
     "range": "Foundry Paint System",
     "code": "32C",
     "name": "Slate Grey Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2344,7 +2344,7 @@
     "range": "Foundry Paint System",
     "code": "33A",
     "name": "Arctic Grey Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2359,7 +2359,7 @@
     "range": "Foundry Paint System",
     "code": "33B",
     "name": "Arctic Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2374,7 +2374,7 @@
     "range": "Foundry Paint System",
     "code": "33C",
     "name": "White",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2389,7 +2389,7 @@
     "range": "Foundry Paint System",
     "code": "34A",
     "name": "Charcoal Black Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2404,7 +2404,7 @@
     "range": "Foundry Paint System",
     "code": "34B",
     "name": "Charcoal Black",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2419,7 +2419,7 @@
     "range": "Foundry Paint System",
     "code": "34C",
     "name": "Charcoal Black Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2434,7 +2434,7 @@
     "range": "Foundry Paint System",
     "code": "35A",
     "name": "Armour Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2449,7 +2449,7 @@
     "range": "Foundry Paint System",
     "code": "35B",
     "name": "Armour",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2464,7 +2464,7 @@
     "range": "Foundry Paint System",
     "code": "35C",
     "name": "Armour Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2479,7 +2479,7 @@
     "range": "Foundry Paint System",
     "code": "36A",
     "name": "Gold Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2494,7 +2494,7 @@
     "range": "Foundry Paint System",
     "code": "36B",
     "name": "Gold",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2509,7 +2509,7 @@
     "range": "Foundry Paint System",
     "code": "36C",
     "name": "Shiny",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2524,7 +2524,7 @@
     "range": "Foundry Paint System",
     "code": "37A",
     "name": "Teracotta Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2539,7 +2539,7 @@
     "range": "Foundry Paint System",
     "code": "37B",
     "name": "Teracotta",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2554,7 +2554,7 @@
     "range": "Foundry Paint System",
     "code": "37C",
     "name": "Teracotta Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2569,7 +2569,7 @@
     "range": "Foundry Paint System",
     "code": "38A",
     "name": "Scarlet Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2584,7 +2584,7 @@
     "range": "Foundry Paint System",
     "code": "38B",
     "name": "Scarlet",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2599,7 +2599,7 @@
     "range": "Foundry Paint System",
     "code": "38C",
     "name": "Scarlet Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2614,7 +2614,7 @@
     "range": "Foundry Paint System",
     "code": "39A",
     "name": "Storm Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2629,7 +2629,7 @@
     "range": "Foundry Paint System",
     "code": "39B",
     "name": "Storm Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2644,7 +2644,7 @@
     "range": "Foundry Paint System",
     "code": "39C",
     "name": "Storm Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2659,7 +2659,7 @@
     "range": "Foundry Paint System",
     "code": "3A",
     "name": "Orange Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2674,7 +2674,7 @@
     "range": "Foundry Paint System",
     "code": "3B",
     "name": "Orange",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2689,7 +2689,7 @@
     "range": "Foundry Paint System",
     "code": "3C",
     "name": "Orange Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2704,7 +2704,7 @@
     "range": "Foundry Paint System",
     "code": "40A",
     "name": "Violet Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2719,7 +2719,7 @@
     "range": "Foundry Paint System",
     "code": "40B",
     "name": "Violet",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2734,7 +2734,7 @@
     "range": "Foundry Paint System",
     "code": "40C",
     "name": "Violet Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2749,7 +2749,7 @@
     "range": "Foundry Paint System",
     "code": "41A",
     "name": "Bright Bottle Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2764,7 +2764,7 @@
     "range": "Foundry Paint System",
     "code": "41B",
     "name": "Bright Bottle Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2779,7 +2779,7 @@
     "range": "Foundry Paint System",
     "code": "41C",
     "name": "Bright Bottle Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2794,7 +2794,7 @@
     "range": "Foundry Paint System",
     "code": "42A",
     "name": "Bay Brown Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2809,7 +2809,7 @@
     "range": "Foundry Paint System",
     "code": "42B",
     "name": "Bay Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2824,7 +2824,7 @@
     "range": "Foundry Paint System",
     "code": "42C",
     "name": "Bay Brown Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2839,7 +2839,7 @@
     "range": "Foundry Paint System",
     "code": "43A",
     "name": "Burnished Copper Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2854,7 +2854,7 @@
     "range": "Foundry Paint System",
     "code": "43B",
     "name": "Burnished Copper",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2869,7 +2869,7 @@
     "range": "Foundry Paint System",
     "code": "43C",
     "name": "Burnished Copper Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2884,7 +2884,7 @@
     "range": "Foundry Paint System",
     "code": "44A",
     "name": "Burning Gold Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2899,7 +2899,7 @@
     "range": "Foundry Paint System",
     "code": "44B",
     "name": "Burning Gold",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2914,7 +2914,7 @@
     "range": "Foundry Paint System",
     "code": "44C",
     "name": "Burning Gold Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2929,7 +2929,7 @@
     "range": "Foundry Paint System",
     "code": "45A",
     "name": "Deep Brown Leather Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2944,7 +2944,7 @@
     "range": "Foundry Paint System",
     "code": "45B",
     "name": "Deep Brown Leather",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2959,7 +2959,7 @@
     "range": "Foundry Paint System",
     "code": "45C",
     "name": "Deep Brown Leather Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2974,7 +2974,7 @@
     "range": "Foundry Paint System",
     "code": "46A",
     "name": "Cadaverous Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -2989,7 +2989,7 @@
     "range": "Foundry Paint System",
     "code": "46B",
     "name": "Cadaverous Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3004,7 +3004,7 @@
     "range": "Foundry Paint System",
     "code": "46C",
     "name": "Cadaverous Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3019,7 +3019,7 @@
     "range": "Foundry Paint System",
     "code": "47A",
     "name": "Leather & Metal Washes Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3034,7 +3034,7 @@
     "range": "Foundry Paint System",
     "code": "47B",
     "name": "Leather & Metal Washes",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3049,7 +3049,7 @@
     "range": "Foundry Paint System",
     "code": "47C",
     "name": "Leather & Metal Washes Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3064,7 +3064,7 @@
     "range": "Foundry Paint System",
     "code": "4A",
     "name": "Ochre Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3079,7 +3079,7 @@
     "range": "Foundry Paint System",
     "code": "4B",
     "name": "Ochre",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3094,7 +3094,7 @@
     "range": "Foundry Paint System",
     "code": "4C",
     "name": "Ochre Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3109,7 +3109,7 @@
     "range": "Foundry Paint System",
     "code": "53A",
     "name": "Chestnut Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3124,7 +3124,7 @@
     "range": "Foundry Paint System",
     "code": "53B",
     "name": "Chestnut",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3139,7 +3139,7 @@
     "range": "Foundry Paint System",
     "code": "53C",
     "name": "Chestnut Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3154,7 +3154,7 @@
     "range": "Foundry Paint System",
     "code": "54A",
     "name": "Conker Brown Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3169,7 +3169,7 @@
     "range": "Foundry Paint System",
     "code": "54B",
     "name": "Conker Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3184,7 +3184,7 @@
     "range": "Foundry Paint System",
     "code": "54C",
     "name": "Conker Brown Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3199,7 +3199,7 @@
     "range": "Foundry Paint System",
     "code": "55A",
     "name": "Butter Fudge Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3214,7 +3214,7 @@
     "range": "Foundry Paint System",
     "code": "55B",
     "name": "Butter Fudge",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3229,7 +3229,7 @@
     "range": "Foundry Paint System",
     "code": "55C",
     "name": "Butter Fudge Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3244,7 +3244,7 @@
     "range": "Foundry Paint System",
     "code": "56A",
     "name": "Palomino Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3259,7 +3259,7 @@
     "range": "Foundry Paint System",
     "code": "56B",
     "name": "Palomino",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3274,7 +3274,7 @@
     "range": "Foundry Paint System",
     "code": "56C",
     "name": "Palomino Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3289,7 +3289,7 @@
     "range": "Foundry Paint System",
     "code": "57A",
     "name": "Stone Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3304,7 +3304,7 @@
     "range": "Foundry Paint System",
     "code": "57B",
     "name": "Stone",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3319,7 +3319,7 @@
     "range": "Foundry Paint System",
     "code": "57C",
     "name": "Stone Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3334,7 +3334,7 @@
     "range": "Foundry Paint System",
     "code": "58A",
     "name": "Deep Mauve Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3349,7 +3349,7 @@
     "range": "Foundry Paint System",
     "code": "58B",
     "name": "Deep Mauve",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3364,7 +3364,7 @@
     "range": "Foundry Paint System",
     "code": "58C",
     "name": "Deep Mauve Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3379,7 +3379,7 @@
     "range": "Foundry Paint System",
     "code": "5A",
     "name": "Flesh Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3394,7 +3394,7 @@
     "range": "Foundry Paint System",
     "code": "5B",
     "name": "Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3409,7 +3409,7 @@
     "range": "Foundry Paint System",
     "code": "5C",
     "name": "Flesh Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3424,7 +3424,7 @@
     "range": "Foundry Paint System",
     "code": "60A",
     "name": "Madder Red Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3439,7 +3439,7 @@
     "range": "Foundry Paint System",
     "code": "60B",
     "name": "Madder Red",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3454,7 +3454,7 @@
     "range": "Foundry Paint System",
     "code": "60C",
     "name": "Madder Red Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3469,7 +3469,7 @@
     "range": "Foundry Paint System",
     "code": "61A",
     "name": "Peaty Brown Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3484,7 +3484,7 @@
     "range": "Foundry Paint System",
     "code": "61B",
     "name": "Peaty Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3499,7 +3499,7 @@
     "range": "Foundry Paint System",
     "code": "61C",
     "name": "Peaty Brown Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3514,7 +3514,7 @@
     "range": "Foundry Paint System",
     "code": "62A",
     "name": "Night Sky Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3529,7 +3529,7 @@
     "range": "Foundry Paint System",
     "code": "62B",
     "name": "Night Sky",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3544,7 +3544,7 @@
     "range": "Foundry Paint System",
     "code": "62C",
     "name": "Night Sky Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3559,7 +3559,7 @@
     "range": "Foundry Paint System",
     "code": "63A",
     "name": "Quagmire Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3574,7 +3574,7 @@
     "range": "Foundry Paint System",
     "code": "63B",
     "name": "Quagmire",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3589,7 +3589,7 @@
     "range": "Foundry Paint System",
     "code": "63C",
     "name": "Quagmire Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3604,7 +3604,7 @@
     "range": "Foundry Paint System",
     "code": "64A",
     "name": "Deep Maroon Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3619,7 +3619,7 @@
     "range": "Foundry Paint System",
     "code": "64B",
     "name": "Deep Maroon",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3634,7 +3634,7 @@
     "range": "Foundry Paint System",
     "code": "64C",
     "name": "Deep Maroon Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3649,7 +3649,7 @@
     "range": "Foundry Paint System",
     "code": "65A",
     "name": "French Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3664,7 +3664,7 @@
     "range": "Foundry Paint System",
     "code": "65B",
     "name": "French Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3679,7 +3679,7 @@
     "range": "Foundry Paint System",
     "code": "65C",
     "name": "French Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3694,7 +3694,7 @@
     "range": "Foundry Paint System",
     "code": "66A",
     "name": "Prussian Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3709,7 +3709,7 @@
     "range": "Foundry Paint System",
     "code": "66B",
     "name": "Prussian Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3724,7 +3724,7 @@
     "range": "Foundry Paint System",
     "code": "66C",
     "name": "Prussian Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3739,7 +3739,7 @@
     "range": "Foundry Paint System",
     "code": "67A",
     "name": "Austrian White Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3754,7 +3754,7 @@
     "range": "Foundry Paint System",
     "code": "67B",
     "name": "Austrian White",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3769,7 +3769,7 @@
     "range": "Foundry Paint System",
     "code": "67C",
     "name": "Austrian White Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3784,7 +3784,7 @@
     "range": "Foundry Paint System",
     "code": "68A",
     "name": "British Redcoat Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3799,7 +3799,7 @@
     "range": "Foundry Paint System",
     "code": "68B",
     "name": "British Redcoat",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3814,7 +3814,7 @@
     "range": "Foundry Paint System",
     "code": "68C",
     "name": "British Redcoat Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3829,7 +3829,7 @@
     "range": "Foundry Paint System",
     "code": "69A",
     "name": "Russian Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3844,7 +3844,7 @@
     "range": "Foundry Paint System",
     "code": "69B",
     "name": "Russian Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3859,7 +3859,7 @@
     "range": "Foundry Paint System",
     "code": "69C",
     "name": "Russian Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3874,7 +3874,7 @@
     "range": "Foundry Paint System",
     "code": "6A",
     "name": "Dusky Flesh Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3889,7 +3889,7 @@
     "range": "Foundry Paint System",
     "code": "6B",
     "name": "Dusky Flesh",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3904,7 +3904,7 @@
     "range": "Foundry Paint System",
     "code": "6C",
     "name": "Dusky Flesh Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3919,7 +3919,7 @@
     "range": "Foundry Paint System",
     "code": "70A",
     "name": "French Dragoon Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3934,7 +3934,7 @@
     "range": "Foundry Paint System",
     "code": "70B",
     "name": "French Dragoon Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3949,7 +3949,7 @@
     "range": "Foundry Paint System",
     "code": "70C",
     "name": "French Dragoon Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3964,7 +3964,7 @@
     "range": "Foundry Paint System",
     "code": "71A",
     "name": "French Chasseur A Cheval Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3979,7 +3979,7 @@
     "range": "Foundry Paint System",
     "code": "71B",
     "name": "French Chasseur A Cheval Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -3994,7 +3994,7 @@
     "range": "Foundry Paint System",
     "code": "71C",
     "name": "French Chasseur A Cheval Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4009,7 +4009,7 @@
     "range": "Foundry Paint System",
     "code": "72A",
     "name": "Musket Stock Brown Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4024,7 +4024,7 @@
     "range": "Foundry Paint System",
     "code": "72B",
     "name": "Musket Stock Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4039,7 +4039,7 @@
     "range": "Foundry Paint System",
     "code": "72C",
     "name": "Musket Stock Brown Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4054,7 +4054,7 @@
     "range": "Foundry Paint System",
     "code": "73A",
     "name": "Bavarian Cornflower Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4069,7 +4069,7 @@
     "range": "Foundry Paint System",
     "code": "73B",
     "name": "Bavarian Cornflower Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4084,7 +4084,7 @@
     "range": "Foundry Paint System",
     "code": "73C",
     "name": "Bavarian Cornflower Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4099,7 +4099,7 @@
     "range": "Foundry Paint System",
     "code": "74A",
     "name": "British Royal Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4114,7 +4114,7 @@
     "range": "Foundry Paint System",
     "code": "74B",
     "name": "British Royal Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4129,7 +4129,7 @@
     "range": "Foundry Paint System",
     "code": "74C",
     "name": "British Royal Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4144,7 +4144,7 @@
     "range": "Foundry Paint System",
     "code": "75A",
     "name": "British Blue Grey Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4159,7 +4159,7 @@
     "range": "Foundry Paint System",
     "code": "75B",
     "name": "British Blue Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4174,7 +4174,7 @@
     "range": "Foundry Paint System",
     "code": "75C",
     "name": "British Blue Grey Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4189,7 +4189,7 @@
     "range": "Foundry Paint System",
     "code": "76A",
     "name": "French Hussar Sky Blue Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4204,7 +4204,7 @@
     "range": "Foundry Paint System",
     "code": "76B",
     "name": "French Hussar Sky Blue",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4219,7 +4219,7 @@
     "range": "Foundry Paint System",
     "code": "76C",
     "name": "French Hussar Sky Blue Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4234,7 +4234,7 @@
     "range": "Foundry Paint System",
     "code": "77A",
     "name": "German Early Field Grey Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4249,7 +4249,7 @@
     "range": "Foundry Paint System",
     "code": "77B",
     "name": "German Early Field Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4264,7 +4264,7 @@
     "range": "Foundry Paint System",
     "code": "77C",
     "name": "German Early Field Grey Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4279,7 +4279,7 @@
     "range": "Foundry Paint System",
     "code": "78A",
     "name": "German Late Field Grey Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4294,7 +4294,7 @@
     "range": "Foundry Paint System",
     "code": "78B",
     "name": "German Late Field Grey",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4309,7 +4309,7 @@
     "range": "Foundry Paint System",
     "code": "78C",
     "name": "German Late Field Grey Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4324,7 +4324,7 @@
     "range": "Foundry Paint System",
     "code": "79A",
     "name": "Soviet Summer Tan Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4339,7 +4339,7 @@
     "range": "Foundry Paint System",
     "code": "79B",
     "name": "Soviet Summer Tan",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4354,7 +4354,7 @@
     "range": "Foundry Paint System",
     "code": "79C",
     "name": "Soviet Summer Tan Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4369,7 +4369,7 @@
     "range": "Foundry Paint System",
     "code": "7A",
     "name": "Buff Leather Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4384,7 +4384,7 @@
     "range": "Foundry Paint System",
     "code": "7B",
     "name": "Buff Leather",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4399,7 +4399,7 @@
     "range": "Foundry Paint System",
     "code": "7C",
     "name": "Buff Leather Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4414,7 +4414,7 @@
     "range": "Foundry Paint System",
     "code": "80A",
     "name": "Soviet Summer Drab Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4429,7 +4429,7 @@
     "range": "Foundry Paint System",
     "code": "80B",
     "name": "Soviet Summer Drab",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4444,7 +4444,7 @@
     "range": "Foundry Paint System",
     "code": "80C",
     "name": "Soviet Summer Drab Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4459,7 +4459,7 @@
     "range": "Foundry Paint System",
     "code": "81A",
     "name": "Soviet Equipment Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4474,7 +4474,7 @@
     "range": "Foundry Paint System",
     "code": "81B",
     "name": "Soviet Equipment Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4489,7 +4489,7 @@
     "range": "Foundry Paint System",
     "code": "81C",
     "name": "Soviet Equipment Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4504,7 +4504,7 @@
     "range": "Foundry Paint System",
     "code": "82A",
     "name": "Soviet Helmet Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4519,7 +4519,7 @@
     "range": "Foundry Paint System",
     "code": "82B",
     "name": "Soviet Helmet Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4534,7 +4534,7 @@
     "range": "Foundry Paint System",
     "code": "82C",
     "name": "Soviet Helmet Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4549,7 +4549,7 @@
     "range": "Foundry Paint System",
     "code": "83A",
     "name": "German Splinter Brown Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4564,7 +4564,7 @@
     "range": "Foundry Paint System",
     "code": "83B",
     "name": "German Splinter Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4579,7 +4579,7 @@
     "range": "Foundry Paint System",
     "code": "83C",
     "name": "German Splinter Brown Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4594,7 +4594,7 @@
     "range": "Foundry Paint System",
     "code": "84A",
     "name": "German Splinter Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4609,7 +4609,7 @@
     "range": "Foundry Paint System",
     "code": "84B",
     "name": "German Splinter Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4624,7 +4624,7 @@
     "range": "Foundry Paint System",
     "code": "84C",
     "name": "German Splinter Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4639,7 +4639,7 @@
     "range": "Foundry Paint System",
     "code": "85A",
     "name": "German Splinter Tan Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4654,7 +4654,7 @@
     "range": "Foundry Paint System",
     "code": "85B",
     "name": "German Splinter Tan",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4669,7 +4669,7 @@
     "range": "Foundry Paint System",
     "code": "85C",
     "name": "German Splinter Tan Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4684,7 +4684,7 @@
     "range": "Foundry Paint System",
     "code": "86A",
     "name": "German Oak Leaf Orange Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4699,7 +4699,7 @@
     "range": "Foundry Paint System",
     "code": "86B",
     "name": "German Oak Leaf Orange",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4714,7 +4714,7 @@
     "range": "Foundry Paint System",
     "code": "86C",
     "name": "German Oak Leaf Orange Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4729,7 +4729,7 @@
     "range": "Foundry Paint System",
     "code": "87A",
     "name": "German Pea Pattern Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4744,7 +4744,7 @@
     "range": "Foundry Paint System",
     "code": "87B",
     "name": "German Pea Pattern Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4759,7 +4759,7 @@
     "range": "Foundry Paint System",
     "code": "87C",
     "name": "German Pea Pattern Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4774,7 +4774,7 @@
     "range": "Foundry Paint System",
     "code": "88A",
     "name": "German Pea Pattern Tan Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4789,7 +4789,7 @@
     "range": "Foundry Paint System",
     "code": "88B",
     "name": "German Pea Pattern Tan",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4804,7 +4804,7 @@
     "range": "Foundry Paint System",
     "code": "88C",
     "name": "German Pea Pattern Tan Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4819,7 +4819,7 @@
     "range": "Foundry Paint System",
     "code": "89A",
     "name": "British Equipment Tan Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4834,7 +4834,7 @@
     "range": "Foundry Paint System",
     "code": "89B",
     "name": "British Equipment Tan",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4849,7 +4849,7 @@
     "range": "Foundry Paint System",
     "code": "89C",
     "name": "British Equipment Tan Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4864,7 +4864,7 @@
     "range": "Foundry Paint System",
     "code": "8A",
     "name": "Canvas Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4879,7 +4879,7 @@
     "range": "Foundry Paint System",
     "code": "8B",
     "name": "Canvas",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4894,7 +4894,7 @@
     "range": "Foundry Paint System",
     "code": "8C",
     "name": "Canvas Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4909,7 +4909,7 @@
     "range": "Foundry Paint System",
     "code": "90A",
     "name": "British Equipment Canvas Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4924,7 +4924,7 @@
     "range": "Foundry Paint System",
     "code": "90B",
     "name": "British Equipment Canvas",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4939,7 +4939,7 @@
     "range": "Foundry Paint System",
     "code": "90C",
     "name": "British Equipment Canvas Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4954,7 +4954,7 @@
     "range": "Foundry Paint System",
     "code": "91A",
     "name": "British Blanco Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4969,7 +4969,7 @@
     "range": "Foundry Paint System",
     "code": "91B",
     "name": "British Blanco Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4984,7 +4984,7 @@
     "range": "Foundry Paint System",
     "code": "91C",
     "name": "British Blanco Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -4999,7 +4999,7 @@
     "range": "Foundry Paint System",
     "code": "92A",
     "name": "American Tan Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5014,7 +5014,7 @@
     "range": "Foundry Paint System",
     "code": "92B",
     "name": "American Tan",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5029,7 +5029,7 @@
     "range": "Foundry Paint System",
     "code": "92C",
     "name": "American Tan Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5044,7 +5044,7 @@
     "range": "Foundry Paint System",
     "code": "93A",
     "name": "American Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5059,7 +5059,7 @@
     "range": "Foundry Paint System",
     "code": "93B",
     "name": "American Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5074,7 +5074,7 @@
     "range": "Foundry Paint System",
     "code": "93C",
     "name": "American Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5089,7 +5089,7 @@
     "range": "Foundry Paint System",
     "code": "94A",
     "name": "American Olive Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5104,7 +5104,7 @@
     "range": "Foundry Paint System",
     "code": "94B",
     "name": "American Olive Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5119,7 +5119,7 @@
     "range": "Foundry Paint System",
     "code": "94C",
     "name": "American Olive Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5134,7 +5134,7 @@
     "range": "Foundry Paint System",
     "code": "95A",
     "name": "Soviet Winter Brown Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5149,7 +5149,7 @@
     "range": "Foundry Paint System",
     "code": "95B",
     "name": "Soviet Winter Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5164,7 +5164,7 @@
     "range": "Foundry Paint System",
     "code": "95C",
     "name": "Soviet Winter Brown Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5179,7 +5179,7 @@
     "range": "Foundry Paint System",
     "code": "96A",
     "name": "Soviet Winter Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5194,7 +5194,7 @@
     "range": "Foundry Paint System",
     "code": "96B",
     "name": "Soviet Winter Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5209,7 +5209,7 @@
     "range": "Foundry Paint System",
     "code": "96C",
     "name": "Soviet Winter Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5224,7 +5224,7 @@
     "range": "Foundry Paint System",
     "code": "97A",
     "name": "British Denison Brown Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5239,7 +5239,7 @@
     "range": "Foundry Paint System",
     "code": "97B",
     "name": "British Denison Brown",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5254,7 +5254,7 @@
     "range": "Foundry Paint System",
     "code": "97C",
     "name": "British Denison Brown Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5269,7 +5269,7 @@
     "range": "Foundry Paint System",
     "code": "98A",
     "name": "British Denison Green Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5284,7 +5284,7 @@
     "range": "Foundry Paint System",
     "code": "98B",
     "name": "British Denison Green",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5299,7 +5299,7 @@
     "range": "Foundry Paint System",
     "code": "98C",
     "name": "British Denison Green Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5314,7 +5314,7 @@
     "range": "Foundry Paint System",
     "code": "99A",
     "name": "British Denison Tan Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5329,7 +5329,7 @@
     "range": "Foundry Paint System",
     "code": "99B",
     "name": "British Denison Tan",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5344,7 +5344,7 @@
     "range": "Foundry Paint System",
     "code": "99C",
     "name": "British Denison Tan Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5359,7 +5359,7 @@
     "range": "Foundry Paint System",
     "code": "9A",
     "name": "Bone yard Shade",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5374,7 +5374,7 @@
     "range": "Foundry Paint System",
     "code": "9B",
     "name": "Bone yard",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
@@ -5389,7 +5389,7 @@
     "range": "Foundry Paint System",
     "code": "9C",
     "name": "Bone yard Light",
-    "type": "other",
+    "type": "acrylic",
     "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
