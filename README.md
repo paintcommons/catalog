@@ -70,4 +70,4 @@ Check your changes with:
 node scripts/validate.mjs
 ```
 
-This draft review branch also proposes 537 colour replacements and 76 conflict additions. See [the joint comparison report](reports/arcturus-review/README.md), including a standalone HTML review of 180 existing Two Thin Coats colours. Existing colours are preserved in the clean TTC import PR; replacements here remain pending review.
+This draft review branch also proposes 536 main-hex replacements, one metallic gradient proposal and 76 conflict additions. See [the joint comparison report](reports/arcturus-review/README.md), including a standalone HTML review of 180 existing Two Thin Coats colours. Existing colours are preserved in the clean TTC import PR; replacements here remain pending review.

@@ -48,6 +48,12 @@
     "oklab_distance": 0.002312,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#4D1B16",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -101,6 +107,12 @@
     "oklab_distance": 0.002167,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#961914",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -154,6 +166,12 @@
     "oklab_distance": 0.00088,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#D21215",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -207,6 +225,12 @@
     "oklab_distance": 0.001771,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#C48638",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -260,6 +284,12 @@
     "oklab_distance": 0.001787,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#F59E02",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -313,6 +343,12 @@
     "oklab_distance": 0.002326,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#F8B02C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -366,6 +402,12 @@
     "oklab_distance": 0.001522,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#44496F",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -419,6 +461,12 @@
     "oklab_distance": 0.001587,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#5179AC",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -472,6 +520,12 @@
     "oklab_distance": 0.002838,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#6992C0",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -525,6 +579,12 @@
     "oklab_distance": 0.001932,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#BA4D37",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -578,6 +638,12 @@
     "oklab_distance": 0.000846,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#D94A2F",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -631,6 +697,12 @@
     "oklab_distance": 0.102651,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#F29D7B",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -684,6 +756,12 @@
     "oklab_distance": 0.00329,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#404A42",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -737,6 +815,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#3C5C43",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -790,6 +874,12 @@
     "oklab_distance": 0.002889,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#56802E",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -843,6 +933,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#524169",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -896,6 +992,12 @@
     "oklab_distance": 0.001742,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#79588D",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "explicit alias",
     "identity_review": false,
     "note": "Explicit spelling alias; review the source name."
@@ -949,6 +1051,12 @@
     "oklab_distance": 0.002871,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#9C8CB3",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1002,6 +1110,12 @@
     "oklab_distance": 0.002589,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#3D3937",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1055,6 +1169,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#434142",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1108,6 +1228,12 @@
     "oklab_distance": 0.00162,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#5C5E60",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1161,6 +1287,12 @@
     "oklab_distance": 0.002997,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#6D6C6C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1214,6 +1346,12 @@
     "oklab_distance": 0.002832,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#959596",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1267,6 +1405,12 @@
     "oklab_distance": 0.001979,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#F8F9F8",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1320,6 +1464,12 @@
     "oklab_distance": 0.002596,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#8F5F55",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1373,6 +1523,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#B07C62",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1426,6 +1582,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#C49774",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1479,6 +1641,12 @@
     "oklab_distance": 0.003734,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#52433A",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1532,6 +1700,12 @@
     "oklab_distance": 0.004044,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#73453A",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1585,6 +1759,12 @@
     "oklab_distance": 0.003377,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#92534E",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1638,6 +1818,12 @@
     "oklab_distance": 0.001322,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#9E8460",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1691,6 +1877,12 @@
     "oklab_distance": 0.001561,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#B0966C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1744,6 +1936,12 @@
     "oklab_distance": 0.002885,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#CCB899",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1797,6 +1995,12 @@
     "oklab_distance": 0.00384,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#9F8F85",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1850,6 +2054,12 @@
     "oklab_distance": 0.002543,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#D2C8C0",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1903,6 +2113,12 @@
     "oklab_distance": 0.003022,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#EDEBE0",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -1956,6 +2172,12 @@
     "oklab_distance": 0.003456,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#7E634B",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2009,6 +2231,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#927B68",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2062,6 +2290,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#A39179",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2115,6 +2349,12 @@
     "oklab_distance": 0.017623,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#494A4A",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2168,6 +2408,12 @@
     "oklab_distance": 0.010059,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#757677",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2221,6 +2467,12 @@
     "oklab_distance": 0.011463,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#818283",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2274,6 +2526,12 @@
     "oklab_distance": 0.010144,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#604332",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2306,7 +2564,7 @@
       "range": "Wave 1",
       "code": "10044",
       "name": "Dragon’s Gold",
-      "type": "other",
+      "type": "metallic",
       "barcodes": [
         {
           "ean": "5060951920432",
@@ -2315,9 +2573,12 @@
         }
       ],
       "colour": {
-        "hex": "#4F442C",
-        "gradient": null,
-        "source": "gerinfact-ttc-235dc3f"
+        "hex": "#CDA24E",
+        "gradient": [
+          "#4F442C",
+          "#CDA24E"
+        ],
+        "source": "ttc-dragons-gold-composite-review"
       },
       "status": "current"
     },
@@ -2327,9 +2588,15 @@
     "oklab_distance": 0.351881,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#4F442C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": "retain-arcturus-hex-add-dark-to-light-gradient",
     "match": "normalised exact name",
     "identity_review": false,
-    "note": "Numeric comparison only; source is not presumed more accurate."
+    "note": "Retain Arcturus #CDA24E as the main colour; propose GERInFact #4F442C → Arcturus #CDA24E as a metallic gradient. The Wave 1 PDF supports a shadow-to-highlight interpretation; endpoints are existing numeric values, not extracted manufacturer stops. Metallic type is documented in the manufacturer product guide."
   },
   {
     "status": "pending-review",
@@ -2380,6 +2647,12 @@
     "oklab_distance": 0.188739,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#5C5241",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2433,6 +2706,12 @@
     "oklab_distance": 0.003015,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#5B4349",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2486,6 +2765,12 @@
     "oklab_distance": 0.00162,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#773D4B",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2539,6 +2824,12 @@
     "oklab_distance": 0.002525,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#995879",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2592,6 +2883,12 @@
     "oklab_distance": 0.001541,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#51555C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2645,6 +2942,12 @@
     "oklab_distance": 0.002916,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#627688",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2698,6 +3001,12 @@
     "oklab_distance": 0.003294,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#7C8897",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2751,6 +3060,12 @@
     "oklab_distance": 0.003662,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#5A4D49",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2804,6 +3119,12 @@
     "oklab_distance": 0.001726,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#725B52",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2857,6 +3178,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#856C5C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2910,6 +3237,12 @@
     "oklab_distance": 0.034763,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#3C3A3A",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -2963,6 +3296,12 @@
     "oklab_distance": 0.013914,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#756659",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3016,6 +3355,12 @@
     "oklab_distance": 0.03564,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#BB9B66",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3069,6 +3414,12 @@
     "oklab_distance": 0.037803,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#3E7C41",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3122,6 +3473,12 @@
     "oklab_distance": 0.026166,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#718362",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3175,6 +3532,12 @@
     "oklab_distance": 0.038175,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#9A7B66",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3228,6 +3591,12 @@
     "oklab_distance": 0.001431,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#BA6367",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3281,6 +3650,12 @@
     "oklab_distance": 0.002264,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#E284A6",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3334,6 +3709,12 @@
     "oklab_distance": 0.004231,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#F3BCDA",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3387,6 +3768,12 @@
     "oklab_distance": 0.003554,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#6F3F3F",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3440,6 +3827,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#8E4847",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3493,6 +3886,12 @@
     "oklab_distance": 0.002168,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#C15E50",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3546,6 +3945,12 @@
     "oklab_distance": 0.003734,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#3A84A2",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3599,6 +4004,12 @@
     "oklab_distance": 0.001554,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#4199B4",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3652,6 +4063,12 @@
     "oklab_distance": 0.001516,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#47B0C3",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "explicit alias",
     "identity_review": true,
     "note": "Possible source-name mismatch: Ray Gun Blue versus Ray Gun Glow; verify identity before accepting."
@@ -3705,6 +4122,12 @@
     "oklab_distance": 0.003663,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#344B67",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3758,6 +4181,12 @@
     "oklab_distance": 0.001592,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#326AB4",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3811,6 +4240,12 @@
     "oklab_distance": 0.002841,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#3A7CBF",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3864,6 +4299,12 @@
     "oklab_distance": 0.002773,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#7B9C69",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3917,6 +4358,12 @@
     "oklab_distance": 0.0032,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#8AB86A",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -3970,6 +4417,12 @@
     "oklab_distance": 0.001856,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#9DC576",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4023,6 +4476,12 @@
     "oklab_distance": 0.003503,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#6D725E",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4076,6 +4535,12 @@
     "oklab_distance": 0.002112,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#7E8352",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4129,6 +4594,12 @@
     "oklab_distance": 0.00144,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#868B75",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4182,6 +4653,12 @@
     "oklab_distance": 0.002851,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#6C6C4C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4235,6 +4712,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#A8A264",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4288,6 +4771,12 @@
     "oklab_distance": 0.002781,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#ABAC87",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4341,6 +4830,12 @@
     "oklab_distance": 0.003712,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#354C4E",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4394,6 +4889,12 @@
     "oklab_distance": 0.001598,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#2F7967",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4447,6 +4948,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#52BD97",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4500,6 +5007,12 @@
     "oklab_distance": 0.002399,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#4F5249",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4553,6 +5066,12 @@
     "oklab_distance": 0.001585,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#535549",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4606,6 +5125,12 @@
     "oklab_distance": 0.001512,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#707264",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4659,6 +5184,12 @@
     "oklab_distance": 0.003566,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#765439",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4712,6 +5243,12 @@
     "oklab_distance": 0.001901,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#B97740",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4765,6 +5302,12 @@
     "oklab_distance": 0.001057,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#D59658",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4818,6 +5361,12 @@
     "oklab_distance": 0.003146,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#D38A51",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4871,6 +5420,12 @@
     "oklab_distance": 0.003123,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#D79845",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4924,6 +5479,12 @@
     "oklab_distance": 0.003099,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#E0AE59",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -4977,6 +5538,12 @@
     "oklab_distance": 0.001337,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#A78E6D",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5030,6 +5597,12 @@
     "oklab_distance": 0.003204,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#C09B70",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5083,6 +5656,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#DEC287",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5136,6 +5715,12 @@
     "oklab_distance": 0.002335,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#543D32",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5189,6 +5774,12 @@
     "oklab_distance": 0.001793,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#77564B",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5242,6 +5833,12 @@
     "oklab_distance": 0.001705,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#946F61",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5295,6 +5892,12 @@
     "oklab_distance": 0.001655,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#BE3A2E",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5348,6 +5951,12 @@
     "oklab_distance": 0.0,
     "substantial": false,
     "colour_differs": false,
+    "gerinfact_colour": {
+      "hex": "#ECEB69",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5401,6 +6010,12 @@
     "oklab_distance": 0.000742,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#56B7E8",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5454,6 +6069,12 @@
     "oklab_distance": 0.001935,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#EAA545",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5507,6 +6128,12 @@
     "oklab_distance": 0.003124,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#7AC142",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5560,6 +6187,12 @@
     "oklab_distance": 0.002135,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#BFACD3",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5613,6 +6246,12 @@
     "oklab_distance": 0.031611,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#91928E",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5666,6 +6305,12 @@
     "oklab_distance": 0.052224,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#C09A74",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5719,6 +6364,12 @@
     "oklab_distance": 0.021678,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#BE673F",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5772,6 +6423,12 @@
     "oklab_distance": 0.093114,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#B39471",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5825,6 +6482,12 @@
     "oklab_distance": 0.14416,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#EFB96D",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5878,6 +6541,12 @@
     "oklab_distance": 0.095863,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#EDE0CA",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5931,6 +6600,12 @@
     "oklab_distance": 0.097296,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#9E7371",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -5984,6 +6659,12 @@
     "oklab_distance": 0.045869,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#2C465A",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6037,6 +6718,12 @@
     "oklab_distance": 0.104632,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#6A516A",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6090,6 +6777,12 @@
     "oklab_distance": 0.175444,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#FBCCBA",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6143,6 +6836,12 @@
     "oklab_distance": 0.084485,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#F8F7C3",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6196,6 +6895,12 @@
     "oklab_distance": 0.220924,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#B0BBE0",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6249,6 +6954,12 @@
     "oklab_distance": 0.073079,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#FCBC89",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6302,6 +7013,12 @@
     "oklab_distance": 0.106297,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#C3E3AC",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6355,6 +7072,12 @@
     "oklab_distance": 0.124102,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#CEA7C7",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6408,6 +7131,12 @@
     "oklab_distance": 0.005528,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#481F24",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6461,6 +7190,12 @@
     "oklab_distance": 0.003661,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#9F3041",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "explicit alias",
     "identity_review": false,
     "note": "Explicit spelling alias; review the source name."
@@ -6514,6 +7249,12 @@
     "oklab_distance": 0.00378,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#E83032",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6567,6 +7308,12 @@
     "oklab_distance": 0.002557,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#6B342B",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6620,6 +7367,12 @@
     "oklab_distance": 0.004115,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#E54D40",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6673,6 +7426,12 @@
     "oklab_distance": 0.16258,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#A68E42",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6726,6 +7485,12 @@
     "oklab_distance": 0.001594,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#A68E42",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6779,6 +7544,12 @@
     "oklab_distance": 0.004558,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#C7AB5C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6832,6 +7603,12 @@
     "oklab_distance": 0.001944,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#E4CC74",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6885,6 +7662,12 @@
     "oklab_distance": 0.004947,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#F5D30E",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6938,6 +7721,12 @@
     "oklab_distance": 0.009742,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#F4E752",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -6991,6 +7780,12 @@
     "oklab_distance": 0.007466,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#E5E9AF",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7044,6 +7839,12 @@
     "oklab_distance": 0.003628,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#394142",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7097,6 +7898,12 @@
     "oklab_distance": 0.002177,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#2D534F",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7150,6 +7957,12 @@
     "oklab_distance": 0.006048,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#276C67",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7203,6 +8016,12 @@
     "oklab_distance": 0.007354,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#8E9F7F",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7256,6 +8075,12 @@
     "oklab_distance": 0.006251,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#B3B87A",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7309,6 +8134,12 @@
     "oklab_distance": 0.00544,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#D4E197",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7362,6 +8193,12 @@
     "oklab_distance": 0.002116,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#33444D",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7415,6 +8252,12 @@
     "oklab_distance": 0.006588,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#317F7D",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7468,6 +8311,12 @@
     "oklab_distance": 0.001653,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#589E9D",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7521,6 +8370,12 @@
     "oklab_distance": 0.005619,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#1D5AA3",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7574,6 +8429,12 @@
     "oklab_distance": 0.005959,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#237FBE",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7627,6 +8488,12 @@
     "oklab_distance": 0.003208,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#469CC8",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7680,6 +8547,12 @@
     "oklab_distance": 0.004639,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#47525C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7733,6 +8606,12 @@
     "oklab_distance": 0.00164,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#4F646C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7786,6 +8665,12 @@
     "oklab_distance": 0.003921,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#79979F",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7839,6 +8724,12 @@
     "oklab_distance": 0.208014,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#5A3764",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7892,6 +8783,12 @@
     "oklab_distance": 0.004439,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#5A3764",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7945,6 +8842,12 @@
     "oklab_distance": 0.002383,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#9A5A9B",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -7998,6 +8901,12 @@
     "oklab_distance": 0.003494,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#6B6A6D",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8051,6 +8960,12 @@
     "oklab_distance": 0.004443,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#817B8C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8104,6 +9019,12 @@
     "oklab_distance": 0.003723,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#C2BFD5",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8157,6 +9078,12 @@
     "oklab_distance": 0.003482,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#7C5E48",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8210,6 +9137,12 @@
     "oklab_distance": 0.030886,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#835F44",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8263,6 +9196,12 @@
     "oklab_distance": 0.002605,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#9C755D",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8316,6 +9255,12 @@
     "oklab_distance": 0.002054,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#C64C8B",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8369,6 +9314,12 @@
     "oklab_distance": 0.003262,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#7CC78F",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8422,6 +9373,12 @@
     "oklab_distance": 0.006065,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#F18021",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8475,6 +9432,12 @@
     "oklab_distance": 0.007674,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#B7D8DA",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8528,6 +9491,12 @@
     "oklab_distance": 0.096319,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#CBAB7B",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8581,6 +9550,12 @@
     "oklab_distance": 0.003162,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#CBAB7B",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8634,6 +9609,12 @@
     "oklab_distance": 0.024582,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#BB4448",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8687,6 +9668,12 @@
     "oklab_distance": 0.017762,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#58BFBE",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8740,6 +9727,12 @@
     "oklab_distance": 0.007417,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#337FAE",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8793,6 +9786,12 @@
     "oklab_distance": 0.023741,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#836493",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "explicit alias",
     "identity_review": false,
     "note": "Explicit spelling alias; review the source name."
@@ -8846,6 +9845,12 @@
     "oklab_distance": 0.015089,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#4F9A5A",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8899,6 +9904,12 @@
     "oklab_distance": 0.06266,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#A56447",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -8952,6 +9963,12 @@
     "oklab_distance": 0.032269,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#6D5E3F",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -9005,6 +10022,12 @@
     "oklab_distance": 0.006576,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#686559",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -9058,6 +10081,12 @@
     "oklab_distance": 0.04158,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#B59774",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -9111,6 +10140,12 @@
     "oklab_distance": 0.001377,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#7E8C8B",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -9164,6 +10199,12 @@
     "oklab_distance": 0.011063,
     "substantial": false,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#C8A058",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -9217,6 +10258,12 @@
     "oklab_distance": 0.120215,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#6D6157",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "explicit alias",
     "identity_review": false,
     "note": "Explicit spelling alias; review the source name."
@@ -9270,6 +10317,12 @@
     "oklab_distance": 0.184764,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#C3BFB7",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -9323,6 +10376,12 @@
     "oklab_distance": 0.207215,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#C27555",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -9376,6 +10435,12 @@
     "oklab_distance": 0.18372,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#596969",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -9429,6 +10494,12 @@
     "oklab_distance": 0.216297,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#80645C",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -9482,6 +10553,12 @@
     "oklab_distance": 0.332854,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#777475",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."
@@ -9535,6 +10612,12 @@
     "oklab_distance": 0.224504,
     "substantial": true,
     "colour_differs": true,
+    "gerinfact_colour": {
+      "hex": "#666161",
+      "gradient": null,
+      "source": "gerinfact-ttc-235dc3f"
+    },
+    "review_decision": null,
     "match": "normalised exact name",
     "identity_review": false,
     "note": "Numeric comparison only; source is not presumed more accurate."

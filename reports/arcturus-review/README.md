@@ -26,3 +26,15 @@ Five source-name differences are explicit aliases: Emperor Red → Emporer Red; 
 Reproduce TTC comparisons with `python3 scripts/propose-ttc-review.py --apply`. It refuses to overwrite TTC records edited away from the pinned baseline or the generated proposals. The TTC import tests check the pinned #4 baseline in this draft; the review invariant tests separately check every current record and all 537 proposed replacements against it. Do not rerun the clean importer over review edits.
 
 Merge after #4, then rebase onto synchronized ids before final review/merge if catalogue sync has assigned them. This branch remains a draft for joint review.
+
+## Official chart reference and Dragon’s Gold review decision
+
+The 180 TTC comparisons now include a **reference-only** numeric sample of the official Wave 1/2 conversion PDFs and Wave 3 comparison PDF. No PDF artwork is committed, and these samples do not populate catalogue swatches. [Reference samples and distances](ttc-chart-references.json) disclose chart URLs, SHA-256 hashes, grid positions, native image coordinates, sampling masks, and RGB/lightness statistics. Reproduce with `python3 scripts/compare-ttc-chart-reference.py --evidence-dir <local-PDF-directory>` (requires pypdf and Pillow), then regenerate the HTML with the TTC review script.
+
+The chart column uses the per-channel median of the circular interior (radius ≤ 0.85) and actual pixels at the 10th/50th/90th OKLab-lightness percentiles. Wave 1/2 central badges are excluded. This describes an illustration rather than measured paint; gradient percentiles are not manufacturer-specified stops.
+
+**Dragon’s Gold, Wave 1, SKU 10044:** retain Arcturus’s **#CDA24E** as the main colour and bright stop; use GERInFact’s **#4F442C** as the dark stop. The proposed gradient is **[#4F442C, #CDA24E]**. Type is corrected from `other` to `metallic`, as documented in the manufacturer product guide. This is the only non-colour field changed by a TTC review proposal.
+
+The official chart’s interior median is #A78644: OKLab distance 0.100046 from Arcturus and 0.251843 from GERInFact. However, both candidates closely match different portions of its illustrated gradient: nearest chart pixels are #CCA24E (distance 0.001596, radius 0.5088) and #50442C (distance 0.001787, radius 0.9305), respectively. Those radii are fractions of the illustrated swatch radius, not paint measurements. This supports the interpretation of the two candidates as brighter and shadow tones. The proposed endpoints come from the attributed existing numeric datasets, not PDF extraction.
+
+The composite source entry preserves both upstream attributions and distinguishes the PDF’s reference role. The clean TTC import remains unchanged. There are still 167 TTC colour proposals, now comprising **166 main-hex replacements and one metallic gradient**; all 180 alternative-source differences remain visible for comparison. Total joint colour proposals remain 537.

@@ -120,6 +120,14 @@
       "method": "Exact paint-name matches to the pinned numeric dataset. Hex values uppercased; no image sampling or Citadel equivalences imported. Used for 30 new Dark Arts paints; existing-colour differences are separate pending-review proposals. Snapshot and provenance: data/upstream/gerinfact-235dc3f/.",
       "status": "published",
       "licence": "No explicit upstream licence found. Numeric factual values published at the Paint Commons maintainer’s direction with attribution to GERInFact; this does not assert MIT, CC0, an upstream permission grant, or permission to reuse code/images. See THIRD_PARTY_NOTICES.md."
+    },
+    {
+      "id": "ttc-dragons-gold-composite-review",
+      "name": "Two Thin Coats Dragon’s Gold — Arcturus / GERInFact composite gradient",
+      "url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "method": "Review proposal for SKU 10044 only: retain Arcturus #CDA24E as the representative hex and bright stop; use GERInFact #4F442C as the dark stop. The official PDF is visual reference for a shadow-to-highlight interpretation, not the source of these numeric endpoints. Metallic type is documented at https://transatlantisgames.com/product-list/. Provenance and the reference comparison are in reports/arcturus-review/.",
+      "status": "published",
+      "licence": "Arcturus endpoint: MIT, Copyright (c) 2022 Rick Fleuren / Miniature Painter Pro; retain THIRD_PARTY_NOTICES.md. GERInFact endpoint: no explicit upstream licence found; numeric factual reuse directed by the maintainer, with attribution and pinned provenance in data/upstream/gerinfact-235dc3f/. No permission to redistribute PDF artwork or manufacturer-specified gradient stops is asserted."
     }
   ],
   "barcode_sources": [

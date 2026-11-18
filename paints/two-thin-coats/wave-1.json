@@ -864,7 +864,7 @@
     "range": "Wave 1",
     "code": "10044",
     "name": "Dragon’s Gold",
-    "type": "other",
+    "type": "metallic",
     "barcodes": [
       {
         "ean": "5060951920432",
@@ -873,9 +873,12 @@
       }
     ],
     "colour": {
-      "hex": "#4F442C",
-      "gradient": null,
-      "source": "gerinfact-ttc-235dc3f"
+      "hex": "#CDA24E",
+      "gradient": [
+        "#4F442C",
+        "#CDA24E"
+      ],
+      "source": "ttc-dragons-gold-composite-review"
     },
     "status": "current"
   },

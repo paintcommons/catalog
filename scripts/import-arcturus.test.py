@@ -30,8 +30,13 @@ class ImportInvariants(unittest.TestCase):
                 candidate = changes[key(p)]
                 self.assertEqual(candidate['before'], p)
                 self.assertEqual(by_key[key(p)], candidate['after'])
-                self.assertEqual({k:v for k,v in p.items() if k != 'colour'},
-                                 {k:v for k,v in candidate['after'].items() if k != 'colour'})
+                allowed = {'colour'}
+                if candidate.get('review_decision'):
+                    self.assertEqual((p['brand'], p['code']), ('Two Thin Coats', '10044'))
+                    self.assertEqual(candidate['after']['type'], 'metallic')
+                    allowed.add('type')
+                self.assertEqual({k:v for k,v in p.items() if k not in allowed},
+                                 {k:v for k,v in candidate['after'].items() if k not in allowed})
             else:
                 self.assertIn(p, current)
         additions = [c['after'] for c in conflicts if c['proposal'] == 'add-candidate']
@@ -58,13 +63,39 @@ class ImportInvariants(unittest.TestCase):
         for row in rows:
             source = swatches[row['source_index']]
             self.assertEqual(row['source_name'], source['name'])
-            self.assertEqual(row['after']['colour']['hex'], source['hex'])
+            self.assertEqual(row['gerinfact_colour']['hex'], source['hex'])
+            if row['review_decision']:
+                self.assertEqual(row['before']['code'], '10044')
+                self.assertEqual(row['after']['colour'], dict(hex='#CDA24E', gradient=['#4F442C', '#CDA24E'], source='ttc-dragons-gold-composite-review'))
+                self.assertEqual(row['after']['type'], 'metallic')
+            else:
+                self.assertEqual(row['after']['colour']['hex'], source['hex'])
             self.assertEqual(row['substantial'], module.distance(row['before']['colour']['hex'], source['hex']) >= .08)
             if row['colour_differs']:
                 self.assertEqual(row['status'], 'pending-review')
-                self.assertEqual(row['after']['colour']['source'], ttc.COLOUR_SOURCE)
+                if not row['review_decision']:
+                    self.assertEqual(row['after']['colour']['source'], ttc.COLOUR_SOURCE)
             else:
                 self.assertEqual(row['before'], row['after'])
+
+    def test_chart_samples_are_reference_only_and_distances_are_consistent(self):
+        report = json.loads((ROOT / 'reports/arcturus-review/ttc-chart-references.json').read_text())
+        rows = report['comparisons']
+        self.assertEqual(len(rows), 180)
+        self.assertEqual(len({r['code'] for r in rows}), 180)
+        self.assertEqual(len(report['charts']), 3)
+        by_code = {r['code']: r for r in rows}
+        # Wave 2 places glazes before washes in the PDF, unlike SKU order.
+        self.assertEqual((by_code['10115']['grid_row'], by_code['10115']['grid_column']), (9, 4))
+        self.assertEqual((by_code['10112']['grid_row'], by_code['10112']['grid_column']), (10, 4))
+        for row in rows:
+            self.assertGreater(row['samples'], 1000)
+            self.assertAlmostEqual(row['current_to_reference'], module.distance(row['current_hex'], row['reference_median']), places=6)
+            self.assertAlmostEqual(row['gerinfact_to_reference'], module.distance(row['gerinfact_hex'], row['reference_median']), places=6)
+        gold = next(r for r in rows if r['code'] == '10044')
+        self.assertLess(gold['current_to_reference'], gold['gerinfact_to_reference'])
+        self.assertLess(gold['nearest_chart_pixels']['current']['normalised_radius'],
+                        gold['nearest_chart_pixels']['gerinfact']['normalised_radius'])
 
     def test_source_integrity_and_decision_accounting(self):
         # Parsing verifies every snapshot's Git blob hash and RGB/hex consistency.
