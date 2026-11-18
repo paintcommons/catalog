@@ -1,7 +1,7 @@
 {
   "status": "draft-not-approved",
-  "clean_import_commit": "ddcd495b55ef3e1611a9886affcfa47eaad5092c",
-  "colour_replacements": 370,
+  "clean_import_commit": "6bf3e7ebaa8d6b6e591c79f769844b4594f13138",
+  "colour_replacements": 537,
   "flagged_observations": 392,
   "conflict_source_rows": 127,
   "candidate_additions": 76,
@@ -10,6 +10,10 @@
     "alternative-to-selected-candidate": 50,
     "unresolved": 1
   },
-  "proposed_total_records": 10021,
-  "warning": "Proposals for joint review; upstream is not presumed better than manufacturer values. No existing non-colour fields are changed."
+  "proposed_total_records": 10060,
+  "warning": "Proposals for joint review; upstream is not presumed better than manufacturer values. No existing non-colour fields are changed.",
+  "review_base_commit": "df41f4fd93363ae9ce7cf80a31d6defc621e1397",
+  "arcturus_colour_replacements": 370,
+  "ttc_colour_replacements": 167,
+  "ttc_substantial_disagreements": 23
 }

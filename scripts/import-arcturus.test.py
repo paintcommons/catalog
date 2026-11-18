@@ -15,18 +15,21 @@ class ImportInvariants(unittest.TestCase):
     def test_review_changes_are_limited_to_listed_candidates(self):
         review = ROOT / 'reports/arcturus-review'
         proposals = json.loads((review / 'colour-proposals.json').read_text())
+        ttc_rows = json.loads((review / 'ttc-colour-comparisons.json').read_text())
+        ttc_proposals = [p for p in ttc_rows if p['colour_differs']]
         conflicts = json.loads((review / 'conflict-proposals.json').read_text())
-        base = json.loads((review / 'summary.json').read_text())['clean_import_commit']
+        base = json.loads((review / 'summary.json').read_text())['review_base_commit']
         files = subprocess.check_output(['git', 'ls-tree', '-r', '--name-only', base, '--', 'paints'], cwd=ROOT, text=True).splitlines()
         old = [p for f in files if f.endswith('.json') for p in json.loads(subprocess.check_output(['git', 'show', f'{base}:{f}'], cwd=ROOT, text=True))]
         current = [p for f in (ROOT / 'paints').glob('*/*.json') for p in json.loads(f.read_text())]
-        by_id = {p['id']: p for p in current if p.get('id')}
-        changes = {p['id']: p for p in proposals}
+        key = lambda p: p.get('id') or (p['brand'], p['range'], p['code'], p['name'])
+        by_key = {key(p): p for p in current}
+        changes = {key(p['before']): p for p in proposals + ttc_proposals}
         for p in old:
-            if p.get('id') in changes:
-                candidate = changes[p['id']]
+            if key(p) in changes:
+                candidate = changes[key(p)]
                 self.assertEqual(candidate['before'], p)
-                self.assertEqual(by_id[p['id']], candidate['after'])
+                self.assertEqual(by_key[key(p)], candidate['after'])
                 self.assertEqual({k:v for k,v in p.items() if k != 'colour'},
                                  {k:v for k,v in candidate['after'].items() if k != 'colour'})
             else:
@@ -34,13 +37,34 @@ class ImportInvariants(unittest.TestCase):
         additions = [c['after'] for c in conflicts if c['proposal'] == 'add-candidate']
         for p in additions: self.assertIn(p, current)
         self.assertEqual(len(current), len(old) + len(additions))
-        self.assertEqual(len(changes), 370)
+        self.assertEqual(len(changes), 370 + 167)
         self.assertEqual(len(additions), 76)
         for p in proposals:
             source = p['selected_source']
             self.assertGreaterEqual(module.distance(p['before']['colour']['hex'], p['after']['colour']['hex']), .08)
             self.assertEqual(p['after']['colour']['hex'], source['hex'])
             self.assertEqual(p['status'], 'pending-review')
+
+    def test_ttc_comparisons_match_pinned_values_and_keep_unchanged_hex_provenance(self):
+        spec = importlib.util.spec_from_file_location('ttc', ROOT / 'scripts/import-ttc.py')
+        ttc = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(ttc)
+        swatches = {p['source_index']: p for p in ttc.read_swatches()}
+        rows = json.loads((ROOT / 'reports/arcturus-review/ttc-colour-comparisons.json').read_text())
+        self.assertEqual(len(rows), 180)
+        self.assertEqual(sum(r['substantial'] for r in rows), 23)
+        self.assertEqual(sum(r['match'] == 'explicit alias' for r in rows), 5)
+        self.assertEqual(sum(r['identity_review'] for r in rows), 1)
+        for row in rows:
+            source = swatches[row['source_index']]
+            self.assertEqual(row['source_name'], source['name'])
+            self.assertEqual(row['after']['colour']['hex'], source['hex'])
+            self.assertEqual(row['substantial'], module.distance(row['before']['colour']['hex'], source['hex']) >= .08)
+            if row['colour_differs']:
+                self.assertEqual(row['status'], 'pending-review')
+                self.assertEqual(row['after']['colour']['source'], ttc.COLOUR_SOURCE)
+            else:
+                self.assertEqual(row['before'], row['after'])
 
     def test_source_integrity_and_decision_accounting(self):
         # Parsing verifies every snapshot's Git blob hash and RGB/hex consistency.

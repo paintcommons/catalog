@@ -14,7 +14,7 @@ import sys
 import zlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-CLEAN = 'ddcd495b55ef3e1611a9886affcfa47eaad5092c'
+CLEAN = '6bf3e7ebaa8d6b6e591c79f769844b4594f13138'
 OUT = ROOT / 'reports/arcturus-review'
 spec = importlib.util.spec_from_file_location('arcturus', ROOT / 'scripts/import-arcturus.py')
 imp = importlib.util.module_from_spec(spec)
