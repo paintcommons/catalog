@@ -5,11 +5,12 @@
     "code": "AMIG0918",
     "name": "Red Primer Shadow",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#321819",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -19,11 +20,12 @@
     "code": "AMIG0919",
     "name": "Red Primer Dark Base",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#593B23",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -33,11 +35,12 @@
     "code": "AMIG0920",
     "name": "Red Primer Base",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#491404",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -47,11 +50,12 @@
     "code": "AMIG0921",
     "name": "Red Primer Light Base",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#63250C",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -61,11 +65,12 @@
     "code": "AMIG0922",
     "name": "Red Primer  High Lights",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7F3D1A",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -75,11 +80,12 @@
     "code": "AMIG0923",
     "name": "Red Primer  Shine",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9E5922",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -89,11 +95,12 @@
     "code": "AMIG2022",
     "name": "One Shot Primer - White",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E4E4E4",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -103,11 +110,12 @@
     "code": "AMIG2023",
     "name": "One Shot Primer - Black",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#181818",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -117,11 +125,12 @@
     "code": "AMIG2024",
     "name": "One Shot Primer - Grey",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6B6B6B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -131,11 +140,12 @@
     "code": "AMIG2026",
     "name": "One Shot Primer - Brown Oxide",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#412017",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -145,11 +155,12 @@
     "code": "AMIG2027",
     "name": "One Shot Primer - Sand Flesh",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B7A371",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -159,11 +170,12 @@
     "code": "AMIG2028",
     "name": "One Shot Primer - Green",
     "type": "primer",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#263427",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   }

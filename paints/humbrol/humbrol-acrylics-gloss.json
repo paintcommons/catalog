@@ -5,11 +5,12 @@
     "code": "10",
     "name": "Service Brown",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#433323",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -19,11 +20,12 @@
     "code": "123",
     "name": "Extra Dark Sea Grey",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6E6D75",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -33,11 +35,12 @@
     "code": "135",
     "name": "Satin Varnish",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -47,11 +50,12 @@
     "code": "14",
     "name": "French Blue",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0E4595",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -61,11 +65,12 @@
     "code": "15",
     "name": "Midnight Blue",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#212F5E",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -75,11 +80,12 @@
     "code": "156",
     "name": "Dark Camouflage Grey Satin",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#827773",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -89,11 +95,12 @@
     "code": "163",
     "name": "Dark Green",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#232B13",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -103,11 +110,12 @@
     "code": "174",
     "name": "Signal Red",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D32C19",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -117,11 +125,12 @@
     "code": "18",
     "name": "Orange",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E7650D",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -131,11 +140,12 @@
     "code": "19",
     "name": "Red",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D80D20",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -145,11 +155,12 @@
     "code": "2",
     "name": "Emerald Green",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#037C35",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -159,11 +170,12 @@
     "code": "20",
     "name": "Crimson",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#93161E",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -173,11 +185,12 @@
     "code": "208",
     "name": "Fluorescent Signal Green",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5AAA31",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -187,11 +200,12 @@
     "code": "209",
     "name": "Fire Orange",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E0181B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -201,25 +215,12 @@
     "code": "21",
     "name": "Black",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "22",
-    "name": "White",
-    "type": "acrylic",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -229,11 +230,12 @@
     "code": "35",
     "name": "Gloss Varnish",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -243,11 +245,12 @@
     "code": "38",
     "name": "Lime",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7EAD2B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -257,11 +260,12 @@
     "code": "41",
     "name": "Ivory",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F8F4C7",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -271,11 +275,12 @@
     "code": "48",
     "name": "Mediterranean Blue",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#328AB0",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -285,11 +290,12 @@
     "code": "68",
     "name": "Purple",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2A1744",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -299,11 +305,12 @@
     "code": "69",
     "name": "Yellow",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FCDB00",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -313,11 +320,12 @@
     "code": "9",
     "name": "Tan",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B05318",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   }

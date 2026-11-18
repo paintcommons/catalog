@@ -5,11 +5,12 @@
     "code": "85.132",
     "name": "Neon Yellow",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFF170",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -19,11 +20,12 @@
     "code": "85.133",
     "name": "Orange Pearl",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F58841",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -33,11 +35,12 @@
     "code": "85.134",
     "name": "Neon Red",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EB4E22",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -47,11 +50,12 @@
     "code": "85.135",
     "name": "Neon Pink",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E50058",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -61,11 +65,12 @@
     "code": "85.136",
     "name": "Neon Magenta",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E60068",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -75,11 +80,12 @@
     "code": "85.137",
     "name": "Neon Blue",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#06266D",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -89,11 +95,12 @@
     "code": "85.138",
     "name": "Neon Green",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#009331",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   }

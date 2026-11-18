@@ -5,11 +5,12 @@
     "code": null,
     "name": "Primer Black",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1A1A1A",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -19,11 +20,12 @@
     "code": null,
     "name": "Primer Green",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#485A04",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -33,11 +35,12 @@
     "code": null,
     "name": "Primer Grey",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CCCCCC",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -47,11 +50,12 @@
     "code": null,
     "name": "Primer Red",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#882A1E",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -61,11 +65,12 @@
     "code": null,
     "name": "Primer White",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FDFDFD",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   }

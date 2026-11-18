@@ -5,11 +5,12 @@
     "code": "AK11191",
     "name": "Gold",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9E6806",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -19,11 +20,12 @@
     "code": "AK11192",
     "name": "Old Gold",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B89402",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -33,11 +35,12 @@
     "code": "AK11193",
     "name": "Rusty Gold",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#734B03",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -47,11 +50,12 @@
     "code": "AK11194",
     "name": "Brass",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A55D09",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -61,11 +65,12 @@
     "code": "AK11195",
     "name": "Rusty Brass",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A04D0B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -75,11 +80,12 @@
     "code": "AK11196",
     "name": "Bronze",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7F5405",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -89,11 +95,12 @@
     "code": "AK11197",
     "name": "Copper",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BD500B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -103,11 +110,12 @@
     "code": "AK11198",
     "name": "Burnt Tin",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#331702",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -117,11 +125,12 @@
     "code": "AK11199",
     "name": "Metallic Blue",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#829C99",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -131,11 +140,12 @@
     "code": "AK11200",
     "name": "Astral Beryllium",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#799E8D",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -145,11 +155,12 @@
     "code": "AK11201",
     "name": "Cobalt Blue",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#012136",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -159,11 +170,12 @@
     "code": "AK11202",
     "name": "Anodized Violet",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9D8696",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -173,11 +185,12 @@
     "code": "AK11203",
     "name": "Foundry Red",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C53733",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -187,11 +200,12 @@
     "code": "AK11204",
     "name": "Emerald Metallic Green",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#21753A",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -201,11 +215,12 @@
     "code": "AK11206",
     "name": "Pearl",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F5EFD5",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -215,11 +230,12 @@
     "code": "AK11207",
     "name": "Aluminium",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AFAFAF",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -229,11 +245,12 @@
     "code": "AK11208",
     "name": "Dark Aluminium",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#787878",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -243,11 +260,12 @@
     "code": "AK11209",
     "name": "Silver",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A0AAAC",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -257,11 +275,12 @@
     "code": "AK11210",
     "name": "Natural Steel",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A7A6A1",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -271,11 +290,12 @@
     "code": "AK11211",
     "name": "Oily Steel",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A7A491",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -285,11 +305,12 @@
     "code": "AK11212",
     "name": "Gun Metal",
     "type": "metallic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4E4E4C",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   }

@@ -7,7 +7,8 @@
       "url": "https://acrylicosvallejo.com/en/",
       "method": "Sampled from the printed swatches in Vallejo's PDF catalogue; metallics also get a gradient. Approximate.",
       "status": "published",
-      "licence": "CC0 1.0, with the rest of this catalog"
+      "licence": "CC0-1.0",
+      "priority": 80
     },
     {
       "id": "warhammer-colour-chart-2026",
@@ -15,7 +16,8 @@
       "url": "https://www.warhammer.com/en-US/explore/build-and-paint/paint-colour-chart",
       "method": "Sampled per tile from Games Workshop's chart image (metallics: median; Shades: where the wash pools, so lighter than the pot).",
       "status": "published",
-      "licence": "CC0 1.0, with the rest of this catalog"
+      "licence": "CC0-1.0",
+      "priority": 80
     },
     {
       "id": "warhammer-tone-pro-chart-2026",
@@ -23,7 +25,8 @@
       "url": "https://www.warhammer.com/en-US/explore/build-and-paint/paint-colour-chart",
       "method": "Sampled from each tone square on Games Workshop's chart image.",
       "status": "published",
-      "licence": "CC0 1.0, with the rest of this catalog"
+      "licence": "CC0-1.0",
+      "priority": 80
     },
     {
       "id": "army-painter-fanatic-chart",
@@ -31,7 +34,8 @@
       "url": "https://thearmypainter.com/blogs/explore/the-warpaints-fanatic-colour-conversion-chart",
       "method": "Vector swatch fills extracted from the official PDF.",
       "status": "published",
-      "licence": "CC0 1.0, with the rest of this catalog"
+      "licence": "CC0-1.0",
+      "priority": 80
     },
     {
       "id": "army-painter-fanatic-equivalent",
@@ -39,7 +43,8 @@
       "url": "https://thearmypainter.com/blogs/explore/the-warpaints-fanatic-colour-conversion-chart",
       "method": "The Fanatic swatch Army Painter names as this older paint's closest match.",
       "status": "published",
-      "licence": "CC0 1.0, with the rest of this catalog"
+      "licence": "CC0-1.0",
+      "priority": 70
     },
     {
       "id": "army-painter-speedpaint-2-chart",
@@ -47,7 +52,8 @@
       "url": "https://thearmypainter.com/",
       "method": "Sampled from each paint's own swatch in the official PDF.",
       "status": "published",
-      "licence": "CC0 1.0, with the rest of this catalog"
+      "licence": "CC0-1.0",
+      "priority": 80
     },
     {
       "id": "army-painter-licensed-chart-2026",
@@ -55,7 +61,8 @@
       "url": "https://thearmypainter.com/",
       "method": "Sampled from each paint's own swatch in the official PDF.",
       "status": "published",
-      "licence": "CC0 1.0, with the rest of this catalog"
+      "licence": "CC0-1.0",
+      "priority": 80
     },
     {
       "id": "army-painter-masterclass-swatches",
@@ -63,7 +70,8 @@
       "url": "https://thearmypainter.com/pages/masterclass",
       "method": "Sampled from each paint's hexagon swatch image; shaded cubes use the middle face.",
       "status": "published",
-      "licence": "CC0 1.0, with the rest of this catalog"
+      "licence": "CC0-1.0",
+      "priority": 80
     },
     {
       "id": "monument-pro-acryl-list",
@@ -71,7 +79,8 @@
       "url": "https://monumenthobbies.com",
       "method": "Manufacturer chart matched by SKU.",
       "status": "published",
-      "licence": "CC0 1.0, with the rest of this catalog"
+      "licence": "CC0-1.0",
+      "priority": 80
     },
     {
       "id": "turbo-dork-swatches",
@@ -79,23 +88,30 @@
       "url": "https://turbodork.com",
       "method": "Median of the painted figure in each product swatch photo, shadows and glints trimmed; TurboShift and ZeniShift colours are blends of the shift.",
       "status": "published",
-      "licence": "CC0 1.0, with the rest of this catalog"
+      "licence": "CC0-1.0",
+      "priority": 80
     },
     {
       "id": "miniature-paints",
-      "name": "miniature-paints by b-kelly (MIT licence)",
+      "name": "miniature-paints by Ben Kelly",
       "url": "https://github.com/b-kelly/miniature-paints",
-      "method": "Matched by brand, range and name. MIT licence; credit b-kelly.",
+      "method": "Matched by brand, range and name.",
       "status": "published",
-      "licence": "MIT (keep the credit to b-kelly/miniature-paints)"
+      "licence": "MIT",
+      "attribution": "miniature-paints © 2022 Ben Kelly (MIT), based on miniature-paints © 2022 Rick Fleuren (MIT)",
+      "notice": "THIRD_PARTY_NOTICES.md",
+      "priority": 40
     },
     {
-      "id": "arcturus-miniature-paints-22791a6",
+      "id": "arcturus-miniature-paints",
       "name": "Miniature Painter Pro miniature-paints — Rick Fleuren (MIT)",
       "url": "https://github.com/Arcturus5404/miniature-paints/tree/22791a682e1d155da388f4f856cd7196cd9f2677",
       "method": "Imported directly from the pinned upstream Markdown tables. Approximate manufacturer/community RGB/hex values; not laboratory measurements. Existing Paint Commons records and manufacturer swatches take precedence. Per-row source URLs and decisions: reports/arcturus-import/decisions.json.",
       "status": "published",
-      "licence": "MIT — Copyright (c) 2022 Rick Fleuren. Published by Rick Fleuren and the Miniature Painter Pro team. Full notice: THIRD_PARTY_NOTICES.md and data/upstream/arcturus-22791a6/LICENSE."
+      "licence": "MIT",
+      "attribution": "miniature-paints © 2022 Rick Fleuren (MIT), Miniature Painter Pro",
+      "notice": "THIRD_PARTY_NOTICES.md",
+      "priority": 40
     },
     {
       "id": "manual-override",
@@ -103,7 +119,8 @@
       "url": "https://stipplewise.com",
       "method": "Checked by hand where a printed swatch can't be trusted (true blacks, some metallics).",
       "status": "published",
-      "licence": "CC0 1.0, with the rest of this catalog"
+      "licence": "CC0-1.0",
+      "priority": 100
     },
     {
       "id": "paint-stash-com-zombicide",
@@ -111,23 +128,8 @@
       "url": "https://paint-stash.com",
       "method": "Digital swatch; licence unknown.",
       "status": "withheld",
-      "licence": "Not published (licence unknown)"
-    },
-    {
-      "id": "gerinfact-ttc-235dc3f",
-      "name": "GERInFact — TTC–Citadel Converter numeric swatches",
-      "url": "https://github.com/GERInFact/ttc_citadel/blob/235dc3f5fda248a2499d68098cbc000e232f413a/colors.json",
-      "method": "Exact paint-name matches to the pinned numeric dataset. Hex values uppercased; no image sampling or Citadel equivalences imported. Used for 30 new Dark Arts paints; existing-colour differences are separate pending-review proposals. Snapshot and provenance: data/upstream/gerinfact-235dc3f/.",
-      "status": "published",
-      "licence": "No explicit upstream licence found. Numeric factual values published at the Paint Commons maintainer’s direction with attribution to GERInFact; this does not assert MIT, CC0, an upstream permission grant, or permission to reuse code/images. See THIRD_PARTY_NOTICES.md."
-    },
-    {
-      "id": "ttc-dragons-gold-composite-review",
-      "name": "Two Thin Coats Dragon’s Gold — Arcturus / GERInFact composite gradient",
-      "url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
-      "method": "Review proposal for SKU 10044 only: retain Arcturus #CDA24E as the representative hex and bright stop; use GERInFact #4F442C as the dark stop. The official PDF is visual reference for a shadow-to-highlight interpretation, not the source of these numeric endpoints. Metallic type is documented at https://transatlantisgames.com/product-list/. Provenance and the reference comparison are in reports/arcturus-review/.",
-      "status": "published",
-      "licence": "Arcturus endpoint: MIT, Copyright (c) 2022 Rick Fleuren / Miniature Painter Pro; retain THIRD_PARTY_NOTICES.md. GERInFact endpoint: no explicit upstream licence found; numeric factual reuse directed by the maintainer, with attribution and pinned provenance in data/upstream/gerinfact-235dc3f/. No permission to redistribute PDF artwork or manufacturer-specified gradient stops is asserted."
+      "licence": "unknown",
+      "priority": 30
     }
   ],
   "barcode_sources": [

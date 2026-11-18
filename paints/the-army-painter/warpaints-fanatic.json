@@ -1453,9 +1453,9 @@
       }
     ],
     "colour": {
-      "hex": "#443A40",
+      "hex": "#2C241F",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "army-painter-fanatic-chart"
     },
     "status": "current"
   },
@@ -1473,9 +1473,9 @@
       }
     ],
     "colour": {
-      "hex": "#5D4D4D",
+      "hex": "#4C332C",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "army-painter-fanatic-chart"
     },
     "status": "current"
   },
@@ -1493,9 +1493,9 @@
       }
     ],
     "colour": {
-      "hex": "#7C5B54",
+      "hex": "#694433",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "army-painter-fanatic-chart"
     },
     "status": "current"
   },
@@ -3260,11 +3260,12 @@
     "code": null,
     "name": "Boney Spikes",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E6D4C1",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3274,11 +3275,12 @@
     "code": null,
     "name": "Cobalt Metal",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2E4249",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3288,11 +3290,12 @@
     "code": null,
     "name": "Dark Emerald",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3B4A25",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3302,11 +3305,12 @@
     "code": null,
     "name": "Evil Chrome",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5B3B2F",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3316,11 +3320,12 @@
     "code": null,
     "name": "Gemstone Red",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#821D23",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3330,11 +3335,12 @@
     "code": null,
     "name": "Glittering Green",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2E794A",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3344,11 +3350,12 @@
     "code": null,
     "name": "Greedy Gold",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#745218",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3358,11 +3365,12 @@
     "code": null,
     "name": "Plate Mail Metal",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#686A6E",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3372,11 +3380,12 @@
     "code": null,
     "name": "Red Copper",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4D2C30",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3386,11 +3395,12 @@
     "code": null,
     "name": "Rough Iron",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#352D25",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3400,11 +3410,12 @@
     "code": null,
     "name": "Shining Silver",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#86888C",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3414,11 +3425,12 @@
     "code": null,
     "name": "Tainted Gold",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#575235",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3428,11 +3440,12 @@
     "code": null,
     "name": "Terrestial Titan",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#303149",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -3442,11 +3455,12 @@
     "code": null,
     "name": "Weapon Bronze",
     "type": "other",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#955610",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   }

@@ -38,9 +38,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#B39E80",
+      "hex": "#775C47",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -68,9 +68,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#D2AD00",
+      "hex": "#93784D",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -83,9 +83,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#767675",
+      "hex": "#45565B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -113,9 +113,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#600106",
+      "hex": "#8D1A1F",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -131,20 +131,6 @@
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "warhammer-colour-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Citadel",
-    "range": "Technical",
-    "code": null,
-    "name": "Hexwraith Flame",
-    "type": "acrylic",
-    "barcodes": [],
-    "colour": {
-      "hex": "#29A236",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
     },
     "status": "current"
   },
@@ -172,9 +158,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#CF705D",
+      "hex": "#8E403C",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -187,9 +173,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#CF705D",
+      "hex": "#79382F",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -209,20 +195,6 @@
     "status": "current"
   },
   {
-    "brand": "Citadel",
-    "range": "Technical",
-    "code": null,
-    "name": "Nighthaunt Gloom",
-    "type": "acrylic",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3A686E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
-    },
-    "status": "current"
-  },
-  {
     "id": "ab14d41d-43ec-4d3e-b3cc-495d212b159e",
     "brand": "Citadel",
     "range": "Technical",
@@ -231,9 +203,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#66B39A",
+      "hex": "#529493",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -261,9 +233,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#142758",
+      "hex": "#1A5889",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -276,9 +248,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#8A2A1E",
+      "hex": "#C62B20",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -336,9 +308,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#65AB46",
+      "hex": "#9FCC3B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -381,9 +353,9 @@
     "type": "effect",
     "barcodes": [],
     "colour": {
-      "hex": "#23513D",
+      "hex": "#00775B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   }

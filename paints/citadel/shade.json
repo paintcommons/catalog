@@ -8,9 +8,9 @@
     "type": "wash",
     "barcodes": [],
     "colour": {
-      "hex": "#A99D8D",
+      "hex": "#734F38",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -38,9 +38,9 @@
     "type": "wash",
     "barcodes": [],
     "colour": {
-      "hex": "#B6B788",
+      "hex": "#71632F",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -68,9 +68,9 @@
     "type": "wash",
     "barcodes": [],
     "colour": {
-      "hex": "#7DA57A",
+      "hex": "#48984E",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -83,9 +83,9 @@
     "type": "wash",
     "barcodes": [],
     "colour": {
-      "hex": "#BE80A4",
+      "hex": "#884355",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -110,11 +110,12 @@
     "code": null,
     "name": "Cassandora Yellow",
     "type": "wash",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F5CC92",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -157,9 +158,9 @@
     "type": "wash",
     "barcodes": [],
     "colour": {
-      "hex": "#A1A5AF",
+      "hex": "#41545B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -187,9 +188,13 @@
     "type": "wash",
     "barcodes": [],
     "colour": {
-      "hex": "#BB7648",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#E48B5E",
+      "gradient": [
+        "#BB7648",
+        "#E48B5E",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -232,9 +237,9 @@
     "type": "wash",
     "barcodes": [],
     "colour": {
-      "hex": "#9E9A98",
+      "hex": "#5E554E",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -277,9 +282,9 @@
     "type": "wash",
     "barcodes": [],
     "colour": {
-      "hex": "#BE9A80",
+      "hex": "#A66645",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },

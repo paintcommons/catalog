@@ -1133,9 +1133,9 @@
       }
     ],
     "colour": {
-      "hex": "#2D2E30",
+      "hex": "#000000",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "manual-override"
     },
     "status": "current"
   },
@@ -1209,9 +1209,17 @@
       }
     ],
     "colour": {
-      "hex": "#A8A8B2",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#C3C1CB",
+      "gradient": [
+        "#B7B6C1",
+        "#CECDD4",
+        "#E5E4E9",
+        "#F8F8FA",
+        "#E8E7EB",
+        "#D2D0D7",
+        "#BAB9C4"
+      ],
+      "source": "vallejo-catalogue-2026"
     },
     "status": "current"
   },
@@ -1257,9 +1265,17 @@
       }
     ],
     "colour": {
-      "hex": "#9E8155",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#BBA586",
+      "gradient": [
+        "#AD9470",
+        "#C8B69D",
+        "#E1D8CB",
+        "#F7F5F2",
+        "#E3DBCF",
+        "#CAB9A1",
+        "#B09876"
+      ],
+      "source": "vallejo-catalogue-2026"
     },
     "status": "current"
   },
@@ -1277,9 +1293,17 @@
       }
     ],
     "colour": {
-      "hex": "#9F8F5B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#BDAF8D",
+      "gradient": [
+        "#B0A078",
+        "#CABEA3",
+        "#E3DCCF",
+        "#F8F5F3",
+        "#E5DED2",
+        "#CCC0A6",
+        "#B2A27B"
+      ],
+      "source": "vallejo-catalogue-2026"
     },
     "status": "current"
   },
@@ -1297,9 +1321,17 @@
       }
     ],
     "colour": {
-      "hex": "#8C5C48",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#AC8777",
+      "gradient": [
+        "#9D7362",
+        "#BB9E91",
+        "#DACAC3",
+        "#F5F1F0",
+        "#DDCEC7",
+        "#BDA194",
+        "#A17867"
+      ],
+      "source": "vallejo-catalogue-2026"
     },
     "status": "current"
   },
@@ -1317,9 +1349,17 @@
       }
     ],
     "colour": {
-      "hex": "#755445",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#9D8375",
+      "gradient": [
+        "#8C6F60",
+        "#AF998D",
+        "#D3C7C0",
+        "#F3F0EF",
+        "#D5C9C4",
+        "#B09A8E",
+        "#8D7061"
+      ],
+      "source": "vallejo-catalogue-2026"
     },
     "status": "current"
   },
@@ -1357,9 +1397,17 @@
       }
     ],
     "colour": {
-      "hex": "#373C4F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#706C7B",
+      "gradient": [
+        "#5A5767",
+        "#898592",
+        "#C0BCC4",
+        "#EFEEF0",
+        "#C1BEC5",
+        "#8A8693",
+        "#5B5868"
+      ],
+      "source": "vallejo-catalogue-2026"
     },
     "status": "current"
   },
@@ -1377,9 +1425,17 @@
       }
     ],
     "colour": {
-      "hex": "#7A7B80",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#A3A0A7",
+      "gradient": [
+        "#918F96",
+        "#B4B1B6",
+        "#D6D4D7",
+        "#F5F4F5",
+        "#DDDADD",
+        "#BAB6BB",
+        "#96949B"
+      ],
+      "source": "vallejo-catalogue-2026"
     },
     "status": "current"
   },
@@ -1397,9 +1453,17 @@
       }
     ],
     "colour": {
-      "hex": "#625E6C",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#918B95",
+      "gradient": [
+        "#7F7985",
+        "#A7A1AA",
+        "#D1CDD2",
+        "#F2F0F2",
+        "#D1CDD2",
+        "#A6A0A9",
+        "#7F7985"
+      ],
+      "source": "vallejo-catalogue-2026"
     },
     "status": "current"
   },
@@ -1677,9 +1741,9 @@
       }
     ],
     "colour": {
-      "hex": "#195770",
+      "hex": "#1C3F54",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "vallejo-catalogue-2026"
     },
     "status": "current"
   },
@@ -3997,9 +4061,9 @@
       }
     ],
     "colour": {
-      "hex": "#B9B0AB",
+      "hex": "#9C998D",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "vallejo-catalogue-2026"
     },
     "status": "current"
   },
@@ -4397,9 +4461,9 @@
       }
     ],
     "colour": {
-      "hex": "#C4D4D1",
+      "hex": "#89B0C5",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "vallejo-catalogue-2026"
     },
     "status": "current"
   },

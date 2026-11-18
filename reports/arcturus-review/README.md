@@ -1,40 +1,28 @@
-# Draft Arcturus replacements and conflict resolutions
+# Arcturus tonal-stop and colour review
 
-Stacked on the TTC import PR #4, commit `df41f4fd93363ae9ce7cf80a31d6defc621e1397`, which follows clean import PR #2. **Not approved for merging.**
+Draft stacked directly on revised import PR #2, commit `d11719db97df70ebd314bc02587f7874d5abc113`. This review is Arcturus-only; TTC / GERInFact work remains separate in PR #4 and its retained review evidence. **No existing main hex is replaced.**
 
-- Proposes 370 existing colour replacements from 392 substantial disagreement observations. Existing names, IDs, codes, barcodes and status are unchanged.
-- Proposes 76 candidate additions from the 127 withheld source rows; competing alternatives remain in the review ledger, and the empty-name row remains unresolved.
-- [Colour review with rendered swatches](colour-review.md): current colour on the left, proposed colour on the right.
-- [Conflict review with rendered swatches](conflict-review.md): each upstream candidate and any selected competing colour.
-- Full before/after records and alternative source observations: `colour-proposals.json`, `conflict-proposals.json`.
+[Open the CSS-rendered review](colour-review.html): 370 unique paints / 392 substantial source observations, with search and disposition filters. [Full before/after ledger](colour-proposals.json) and [per-range review](per-range-review.json) retain every observation and alternate source. Attribution: Rick Fleuren / Miniature Painter Pro, MIT; stable source `arcturus-miniature-paints`, full licence in [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md).
 
-Selections are deterministic starting points, not endorsements of Arcturus over manufacturer swatches. Reviewers should edit or reject individual changes. This PR clears gradients only on the proposed colour replacements because upstream publishes a single hex. All original colours and gradients are retained in the before/after ledger.
+## Proposed and preserved outcomes
 
-Validate with `node scripts/validate.mjs --base df41f4fd93363ae9ce7cf80a31d6defc621e1397` and `PYTHONDONTWRITEBYTECODE=1 python3 scripts/import-arcturus.test.py`. The one-time proposal script defaults to a dry run; `--apply` refuses any tree already changed from its clean baseline. Do not rerun the clean importer over accepted review edits.
+- **49 matching-name, darker transparent observations** propose `[Arcturus pooled candidate, retained current hex, null]`. These cover speedpaints/washes; the thinned position is unknown and left null. Existing names, ids, types, ranges, codes, barcodes, status and main hexes are preserved. Per-stop provenance identifies both Arcturus and the retained source. The darker-tone interpretation follows the approved stop convention; neither numeric observation is a laboratory measurement.
+- **Two manual overrides** remain exactly unchanged, including Vallejo Blacks 70.950 and 71.057.
+- **27 metallic observations near existing gradients** remain unchanged. The classification uses nearest distance to a straight polyline between existing OKLab stops, with threshold 0.04. This is a review heuristic, not proof that a value is physically inside a metallic gamut; it differs from the earlier comment’s counts.
+- **25 metallic observations outside that threshold** remain unchanged for manual review.
+- **50 missing metallic gradients** (including all 34 Turbo Dork cases) remain unchanged pending sampling from approved source images. No single upstream hex replaces them.
+- **194 other colour differences** remain unchanged for per-range spot checks. No bulk override is proposed.
+- **15 lighter transparent observations** remain unchanged until their pooled/true/thinned role is established. Brightness alone does not establish dilution.
+- **Eight identity/name mismatches** remain unchanged for identity review.
 
-## GERInFact / Two Thin Coats comparison
+The 49 actual stop enrichments cite community priority 40, below their existing manufacturer sources. They require `colour-override` **after joint review**, rather than disguising imported stops as manufacturer values. No such label is added automatically. The original source and main hex remain explicitly recorded in each before/after pair and stop-provenance list.
 
-The clean TTC import preserves all 180 existing colours and fills only the 30 new Dark Arts colours. This draft additionally compares GERInFact values for **all 180 existing TTC paints**, with **167 proposed replacements**, **23 substantial differences** (Euclidean OKLab ≥ 0.08), and 13 identical hex values. Together with the 370 Arcturus replacements, this branch proposes **537 colour replacements** and 76 candidate additions. Total catalogue: 10,060 paints and 1,745 barcodes.
+## Identity candidates are part of the import review
 
-- [TTC comparison with CSS-rendered colours](ttc-colour-review.html): standalone HTML, no image files, searchable and filterable by substantial difference or identity review.
-- [Full comparison ledger](ttc-colour-comparisons.json): all current/proposed colours, full before/after records, source names and pinned links.
-- [TTC comparison summary](ttc-colour-summary.json).
-- Numeric source: [GERInFact’s TTC–Citadel Converter](https://gerinfact.github.io/ttc_citadel/), [pinned colors.json](https://github.com/GERInFact/ttc_citadel/blob/235dc3f5fda248a2499d68098cbc000e232f413a/colors.json); see the attribution and rights disclosure in [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md). No upstream open licence is asserted.
+All 127 original identity observations moved to [PR #2’s conflict review](../arcturus-import/conflict-review.json), including 76 prior selected candidates. The revised import admits four normalized identities, collapses two spelling aliases, excludes 37 selected rows by scope, and withholds 33 selected identities. This PR adds no paints and restores none of the excluded ranges.
 
-Five source-name differences are explicit aliases: Emperor Red → Emporer Red; Emperor’s Purple → Emporer's Purple; Bitz O’ Tin → Bits O' Tin; Sorcerer’s Cloak → Sorceror's Cloak; and **Ray Gun Glow → Ray Gun Blue**, which is flagged for identity review. These source-name differences do not rename catalogue paints. Neither numeric source is presumed better; even small differences remain reviewable. Identical hex values keep their original provenance unchanged. Existing ids, names, types, ranges, SKUs, barcodes and status are preserved by every replacement.
+## Reproduction and checks
 
-Reproduce TTC comparisons with `python3 scripts/propose-ttc-review.py --apply`. It refuses to overwrite TTC records edited away from the pinned baseline or the generated proposals. The TTC import tests check the pinned #4 baseline in this draft; the review invariant tests separately check every current record and all 537 proposed replacements against it. Do not rerun the clean importer over review edits.
+`python3 scripts/propose-arcturus-review.py` prints the summary; `--apply` generates the proposals, HTML and paint changes. It refuses records edited away from the pinned baseline or its own previous ledger. Do not rerun the clean importer over review edits.
 
-Merge after #4, then rebase onto synchronized ids before final review/merge if catalogue sync has assigned them. This branch remains a draft for joint review.
-
-## Official chart reference and Dragon’s Gold review decision
-
-The 180 TTC comparisons now include a **reference-only** numeric sample of the official Wave 1/2 conversion PDFs and Wave 3 comparison PDF. No PDF artwork is committed, and these samples do not populate catalogue swatches. [Reference samples and distances](ttc-chart-references.json) disclose chart URLs, SHA-256 hashes, grid positions, native image coordinates, sampling masks, and RGB/lightness statistics. Reproduce with `python3 scripts/compare-ttc-chart-reference.py --evidence-dir <local-PDF-directory>` (requires pypdf and Pillow), then regenerate the HTML with the TTC review script.
-
-The chart column uses the per-channel median of the circular interior (radius ≤ 0.85) and actual pixels at the 10th/50th/90th OKLab-lightness percentiles. Wave 1/2 central badges are excluded. This describes an illustration rather than measured paint; gradient percentiles are not manufacturer-specified stops.
-
-**Dragon’s Gold, Wave 1, SKU 10044:** retain Arcturus’s **#CDA24E** as the main colour and bright stop; use GERInFact’s **#4F442C** as the dark stop. The proposed gradient is **[#4F442C, #CDA24E]**. Type is corrected from `other` to `metallic`, as documented in the manufacturer product guide. This is the only non-colour field changed by a TTC review proposal.
-
-The official chart’s interior median is #A78644: OKLab distance 0.100046 from Arcturus and 0.251843 from GERInFact. However, both candidates closely match different portions of its illustrated gradient: nearest chart pixels are #CCA24E (distance 0.001596, radius 0.5088) and #50442C (distance 0.001787, radius 0.9305), respectively. Those radii are fractions of the illustrated swatch radius, not paint measurements. This supports the interpretation of the two candidates as brighter and shadow tones. The proposed endpoints come from the attributed existing numeric datasets, not PDF extraction.
-
-The composite source entry preserves both upstream attributions and distinguishes the PDF’s reference role. The clean TTC import remains unchanged. There are still 167 TTC colour proposals, now comprising **166 main-hex replacements and one metallic gradient**; all 180 alternative-source differences remain visible for comparison. Total joint colour proposals remain 537.
+Validation: `python3 scripts/import-arcturus.test.py`, `python3 scripts/arcturus-review.test.py`, `node --test scripts/*.test.mjs`, and `node scripts/validate.mjs --base pr/arcturus-clean-imports`. Tests compare every record against the revised baseline and its explicit proposal, require exact main-hex preservation, prohibit manual override edits, and validate true-colour stop position and source attribution. Counts remain 9,370 paints, 1,565 barcodes and seven equivalents.

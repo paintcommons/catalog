@@ -98,9 +98,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#875408",
+      "hex": "#9E722B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -128,9 +128,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#D08951",
+      "hex": "#F9A976",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -143,9 +143,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#6A4848",
+      "hex": "#4E2627",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -173,9 +173,9 @@
     "type": "metallic",
     "barcodes": [],
     "colour": {
-      "hex": "#A65D2C",
+      "hex": "#BA8D6C",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -203,9 +203,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#2A497F",
+      "hex": "#4779AA",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -233,9 +233,9 @@
     "type": "metallic",
     "barcodes": [],
     "colour": {
-      "hex": "#C68351",
+      "hex": "#846758",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -308,9 +308,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#A9B79F",
+      "hex": "#CDD0C7",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -365,11 +365,12 @@
     "code": null,
     "name": "Emperor Children",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B74073",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -457,9 +458,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#FFF300",
+      "hex": "#FBB12E",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -502,9 +503,9 @@
     "type": "metallic",
     "barcodes": [],
     "colour": {
-      "hex": "#CE8D51",
+      "hex": "#E2BA90",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -529,11 +530,12 @@
     "code": null,
     "name": "Gehenna Gold",
     "type": "acrylic",
+    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C96B18",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -621,9 +623,9 @@
     "type": "metallic",
     "barcodes": [],
     "colour": {
-      "hex": "#899092",
+      "hex": "#BCBBB7",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -636,9 +638,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#008962",
+      "hex": "#086258",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -861,9 +863,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#8E2757",
+      "hex": "#C44B5A",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -906,9 +908,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#B9C099",
+      "hex": "#E2D2B8",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -966,9 +968,9 @@
     "type": "metallic",
     "barcodes": [],
     "colour": {
-      "hex": "#F4CB7A",
+      "hex": "#D8B07B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -1071,9 +1073,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#597F1C",
+      "hex": "#7C8B6E",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -1116,9 +1118,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#A07409",
+      "hex": "#BB9662",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -1131,9 +1133,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#BC6B10",
+      "hex": "#E69448",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -1266,9 +1268,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#223C2E",
+      "hex": "#3F5549",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -1326,9 +1328,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#880804",
+      "hex": "#A4183D",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   },
@@ -1416,9 +1418,9 @@
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#D89D1B",
+      "hex": "#AE7929",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "warhammer-colour-chart-2026"
     },
     "status": "current"
   }

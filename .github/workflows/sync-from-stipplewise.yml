@@ -36,6 +36,11 @@ jobs:
             -H "Authorization: Bearer $CATALOG_SYNC_SECRET" \
             -o "$RUNNER_TEMP/export.json" \
             "https://ibexwyfkzydpgdzkgoma.supabase.co/functions/v1/catalog-export?require=$LATEST")
+          if [ "$CODE" = "409" ] && grep -q '"incomplete":true' "$RUNNER_TEMP/export.json"; then
+            # Some new paints from that commit were refused; syncing now would drop them from here.
+            # The import job opened an issue listing them; stay paused until a later commit imports completely.
+            echo "::warning::Paused: $LATEST didn't import completely into Stipplewise. See the open 'Changes not imported' issue."; echo "SKIP=1" >> "$GITHUB_ENV"; exit 0
+          fi
           if [ "$CODE" = "409" ]; then echo "Waiting for $LATEST to be imported into Stipplewise; trying again next hour."; echo "SKIP=1" >> "$GITHUB_ENV"; exit 0; fi
           if [ "$CODE" != "200" ]; then echo "Export failed with HTTP $CODE"; exit 1; fi
       - name: Apply and check it

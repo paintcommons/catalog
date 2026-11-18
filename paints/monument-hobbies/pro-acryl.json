@@ -14,9 +14,9 @@
       }
     ],
     "colour": {
-      "hex": "#E7E3E2",
+      "hex": "#FFFFFF",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -35,9 +35,9 @@
       }
     ],
     "colour": {
-      "hex": "#0B0B0B",
+      "hex": "#262626",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -56,9 +56,9 @@
       }
     ],
     "colour": {
-      "hex": "#A90F0F",
+      "hex": "#CF2031",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -161,9 +161,9 @@
       }
     ],
     "colour": {
-      "hex": "#631410",
+      "hex": "#7F3636",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -182,9 +182,9 @@
       }
     ],
     "colour": {
-      "hex": "#261410",
+      "hex": "#4E3C39",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -203,9 +203,9 @@
       }
     ],
     "colour": {
-      "hex": "#63306B",
+      "hex": "#7E4F7D",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -371,9 +371,9 @@
       }
     ],
     "colour": {
-      "hex": "#663820",
+      "hex": "#6E5649",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -392,9 +392,9 @@
       }
     ],
     "colour": {
-      "hex": "#2F1C10",
+      "hex": "#51413C",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -413,9 +413,9 @@
       }
     ],
     "colour": {
-      "hex": "#2C4D22",
+      "hex": "#51604B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -497,9 +497,9 @@
       }
     ],
     "colour": {
-      "hex": "#C39F85",
+      "hex": "#E0B5A5",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -518,9 +518,12 @@
       }
     ],
     "colour": {
-      "hex": "#B3B8BC",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#929697",
+      "gradient": [
+        "#929697",
+        "#C8CACB"
+      ],
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -563,9 +566,12 @@
       }
     ],
     "colour": {
-      "hex": "#AE7849",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#915A38",
+      "gradient": [
+        "#915A38",
+        "#C8AC9B"
+      ],
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -632,9 +638,12 @@
       }
     ],
     "colour": {
-      "hex": "#25292C",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#4B4D4D",
+      "gradient": [
+        "#4B4D4D",
+        "#A5A6A6"
+      ],
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -677,9 +686,12 @@
       }
     ],
     "colour": {
-      "hex": "#78685B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "hex": "#5D4835",
+      "gradient": [
+        "#5D4835",
+        "#AEA39A"
+      ],
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -756,9 +768,9 @@
       }
     ],
     "colour": {
-      "hex": "#313C2C",
+      "hex": "#4F5449",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -777,9 +789,9 @@
       }
     ],
     "colour": {
-      "hex": "#802715",
+      "hex": "#9C473B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -798,9 +810,9 @@
       }
     ],
     "colour": {
-      "hex": "#AE7F31",
+      "hex": "#CF9B4A",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -840,9 +852,9 @@
       }
     ],
     "colour": {
-      "hex": "#2C2D28",
+      "hex": "#474241",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -924,9 +936,9 @@
       }
     ],
     "colour": {
-      "hex": "#292D2F",
+      "hex": "#424549",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -945,9 +957,9 @@
       }
     ],
     "colour": {
-      "hex": "#ABAEA7",
+      "hex": "#DAD9D9",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -966,9 +978,9 @@
       }
     ],
     "colour": {
-      "hex": "#09125D",
+      "hex": "#2D3A73",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1008,9 +1020,9 @@
       }
     ],
     "colour": {
-      "hex": "#082930",
+      "hex": "#154B35",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1029,9 +1041,9 @@
       }
     ],
     "colour": {
-      "hex": "#E6B802",
+      "hex": "#9E9932",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1050,9 +1062,9 @@
       }
     ],
     "colour": {
-      "hex": "#A22207",
+      "hex": "#A57332",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1071,9 +1083,9 @@
       }
     ],
     "colour": {
-      "hex": "#16172B",
+      "hex": "#382A50",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1092,9 +1104,9 @@
       }
     ],
     "colour": {
-      "hex": "#120B0A",
+      "hex": "#42352D",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1134,9 +1146,9 @@
       }
     ],
     "colour": {
-      "hex": "#75F1F1",
+      "hex": "#12A1B3",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1155,9 +1167,9 @@
       }
     ],
     "colour": {
-      "hex": "#BCE3F2",
+      "hex": "#7FA2C0",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1176,9 +1188,9 @@
       }
     ],
     "colour": {
-      "hex": "#517283",
+      "hex": "#40474F",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1197,9 +1209,9 @@
       }
     ],
     "colour": {
-      "hex": "#3F5F50",
+      "hex": "#38413B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1239,9 +1251,9 @@
       }
     ],
     "colour": {
-      "hex": "#AD4E32",
+      "hex": "#743424",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1281,9 +1293,9 @@
       }
     ],
     "colour": {
-      "hex": "#AC9E6B",
+      "hex": "#D2C69C",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1302,9 +1314,9 @@
       }
     ],
     "colour": {
-      "hex": "#A58F56",
+      "hex": "#5E481B",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1323,9 +1335,9 @@
       }
     ],
     "colour": {
-      "hex": "#C8B5D5",
+      "hex": "#A08CB5",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1344,9 +1356,9 @@
       }
     ],
     "colour": {
-      "hex": "#F5F5F5",
+      "hex": "#D0CDCC",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1365,9 +1377,9 @@
       }
     ],
     "colour": {
-      "hex": "#879245",
+      "hex": "#6C7746",
       "gradient": null,
-      "source": "arcturus-miniature-paints-22791a6"
+      "source": "monument-pro-acryl-list"
     },
     "status": "current"
   },
@@ -1598,6 +1610,7 @@
     "colour": {
       "hex": "#080605",
       "gradient": [
+        null,
         "#080605",
         "#838282"
       ],
@@ -1622,6 +1635,7 @@
     "colour": {
       "hex": "#2B160D",
       "gradient": [
+        null,
         "#2B160D",
         "#958A86"
       ],
@@ -1646,6 +1660,7 @@
     "colour": {
       "hex": "#734137",
       "gradient": [
+        null,
         "#734137",
         "#B9A09B"
       ],

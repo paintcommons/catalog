@@ -2,9 +2,9 @@
 
 An open, community-maintained catalog of miniature paints: brands, ranges, product codes, names, paint types, barcodes and approximate colours, each colour with its source.
 
-- **10,060 paints** across 30 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper, Scale75, Tamiya, Two Thin Coats and more
-- **1,745 barcodes**, each marked calculated, published (with its source URL) or confirmed by scan
-- **10,036 colours**, each linked to the chart, catalogue or method it came from
+- **9,370 paints** across 25 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper and Scale75
+- **1,565 barcodes**, each marked calculated, published (with its source URL) or confirmed by scan
+- **9,355 colours**, each linked to its source
 
 Paint Commons is inspired by the commons ethos of Wikipedia and Creative Commons, with no affiliation to either. The catalog is kept in sync with [Stipplewise](https://stipplewise.com), a paint collection app that contributes reviewed corrections and reads the catalog back.
 
@@ -46,15 +46,7 @@ Every colour is an approximation of paint in the pot, taken from printed or rend
 
 ## Licence
 
-Paint Commons contributions to the data in this repository (`paints/`, `equivalents.json`, `sources.json`) are dedicated to the public domain under [CC0 1.0](LICENSE). Imported third-party data retain their original terms; the CC0 dedication does not replace those terms.
-
-Data from [Arcturus5404/miniature-paints](https://github.com/Arcturus5404/miniature-paints), published by **Rick Fleuren and the Miniature Painter Pro team**, are under MIT, Copyright (c) 2022 Rick Fleuren. The direct import uses source `arcturus-miniature-paints-22791a6`; existing data imported through Ben Kelly’s package keep the `miniature-paints` source. **Retain the full [third-party notices](THIRD_PARTY_NOTICES.md) with copies or substantial portions of these data.**
-
-The [Arcturus import report](reports/arcturus-import/README.md) documents the pinned revision, matching rules, withheld rows. Proposed colour replacements and conflict resolutions are reviewed in a separate PR. Existing records and their colours were preserved.
-
-The [Two Thin Coats report](reports/two-thin-coats/README.md) documents the brand rename, manufacturer identifiers, name corrections and 39 additions. Existing colours retain their MIT provenance; 30 new Dark Arts paints use attributed GERInFact numeric values; the other nine additions have no colour.
-
-Numeric swatches from [GERInFact’s TTC–Citadel Converter](https://github.com/GERInFact/ttc_citadel) are attributed separately in [third-party notices](THIRD_PARTY_NOTICES.md). No explicit upstream licence was found; these values are not represented as an MIT or CC0 import.
+The data in this repository (`paints/`, `equivalents.json`, `sources.json`) is dedicated to the public domain under [CC0 1.0](LICENSE), except records that cite a source with its own licence. Every colour names its source (`colour.source`), and a paint imported from another project names it too (`source`). [sources.json](sources.json) lists each source with its licence, credit (`attribution`) and where its full notice lives; [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) holds those notices. If you reuse records from an MIT- or CC-BY-licensed source, keep its credit and notice with them. Credit for the rest is appreciated but not required.
 
 The scripts in `scripts/` are under the [MIT licence](scripts/LICENSE).
 
@@ -70,4 +62,6 @@ Check your changes with:
 node scripts/validate.mjs
 ```
 
-This draft review branch also proposes 536 main-hex replacements, one metallic gradient proposal and 76 conflict additions. See [the joint comparison report](reports/arcturus-review/README.md), including a standalone HTML review of 180 existing Two Thin Coats colours. Existing colours are preserved in the clean TTC import PR; replacements here remain pending review.
+The [scoped Arcturus import](reports/arcturus-import/README.md) adds 7,389 paints from the MIT-licensed miniature-paints project, credited to Rick Fleuren and Miniature Painter Pro. Every imported record and colour cites `arcturus-miniature-paints`; existing records and manufacturer colours are preserved. The pinned snapshot and full MIT notice are distributed with the data. Identity conflicts are documented separately in the import report; colour/gradient enrichments remain a separate review.
+
+This draft adds 49 Arcturus pooled-stop candidates under the [tonal review](reports/arcturus-review/README.md). Every existing main hex and manual override is preserved; metallic and flat-colour differences remain review evidence rather than bulk replacements.

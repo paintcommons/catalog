@@ -1,22 +1,20 @@
 {
   "status": "draft-not-approved",
-  "clean_import_commit": "6bf3e7ebaa8d6b6e591c79f769844b4594f13138",
-  "colour_replacements": 537,
-  "flagged_observations": 392,
-  "conflict_source_rows": 127,
-  "candidate_additions": 76,
-  "conflict_dispositions": {
-    "add-candidate": 76,
-    "alternative-to-selected-candidate": 50,
-    "unresolved": 1
+  "review_base_commit": "d11719db97df70ebd314bc02587f7874d5abc113",
+  "compared_paints": 370,
+  "source_observations": 392,
+  "pooled_stop_proposals": 49,
+  "main_hex_replacements": 0,
+  "conflict_additions": 0,
+  "dispositions": {
+    "hold-flat-range-spot-check": 194,
+    "propose-pooled-stop": 49,
+    "preserve-manual-override": 2,
+    "needs-approved-image-gradient-sampling": 50,
+    "preserve-near-existing-gradient": 27,
+    "hold-lighter-transparent-observation": 15,
+    "hold-outside-existing-gradient": 25,
+    "hold-identity-review": 8
   },
-  "proposed_total_records": 10060,
-  "warning": "Proposals for joint review; upstream is not presumed better than manufacturer values. No existing non-colour fields are changed.",
-  "review_base_commit": "df41f4fd93363ae9ce7cf80a31d6defc621e1397",
-  "arcturus_colour_replacements": 370,
-  "ttc_colour_replacements": 167,
-  "ttc_substantial_disagreements": 23,
-  "ttc_main_hex_replacements": 166,
-  "ttc_metallic_gradient_proposals": 1,
-  "chart_reference_comparisons": 180
+  "gradient_near_path_threshold": 0.04
 }
