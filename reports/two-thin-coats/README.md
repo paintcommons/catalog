@@ -59,6 +59,8 @@ The user supplied the [Academy paint page](https://www.duncanrhodes.com/ttc-pain
 
 The converter's image credits refer to manufacturer logos in its UI, which does not establish where its hex values came from. The Academy links to the converter; that endorsement alone does not specify downstream data reuse rights. No converter hex values or Citadel equivalences have been imported in this PR. A documented permission or other reviewed reuse basis could enable those 30 colours in a follow-up while preserving this factual import.
 
+A [2022 Reddit discussion](https://www.reddit.com/r/minipainting/comments/yei5jm/two_thin_coats_on_paintrack/) contains comments from the paintRACK developer describing manufacturer-supplied target-colour spreadsheets alongside painted samples and website swatches. They also said they had received TTC information for an upcoming update; they did not specify that TTC supplied a spreadsheet. This is a lead to ask TAG/DRPA for an existing numeric table, not a reuse grant or proof of any particular source's accuracy. No paintRACK data were copied.
+
 ## Review and merge sequencing
 
 This PR is stacked on the clean import (#2), and should merge after it. The 180 imported TTC records do not yet have assigned catalogue ids. If merging #2 causes ids or other fields to be written back before this PR merges, rebase this change onto that synchronized state and carry those ids forward through the rename. Do not merge a stale no-id rename after ids have appeared. The before/after report provides the full identity mapping; no live application changes are included here.
