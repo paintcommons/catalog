@@ -132,15 +132,28 @@ equivalents.forEach((e, i) => {
   if (e.paint_a === e.paint_b) fail(at, "a paint can't be its own equivalent");
 });
 
+// A merged duplicate remains addressable through its alias; unrelated removals are forbidden.
+const aliases = existsSync(join(root, "aliases.json")) ? readJson(join(root, "aliases.json")) : [];
+const aliasTargets = new Map();
+if (!Array.isArray(aliases)) fail("aliases.json", "must be an array");
+for (const a of Array.isArray(aliases) ? aliases : []) {
+  if (!a || Object.keys(a).sort().join(",") !== "alias_id,canonical_id" || !UUID.test(a.alias_id) || !UUID.test(a.canonical_id)) { fail("aliases.json", "each alias needs two UUIDs"); continue; }
+  if (a.alias_id === a.canonical_id || ids.has(a.alias_id) || !ids.has(a.canonical_id) || aliasTargets.has(a.alias_id)) fail("aliases.json", "alias must be unique, retired, and point directly to an existing paint");
+  aliasTargets.set(a.alias_id, a.canonical_id);
+}
+
 // Compared with a base commit: paints are never removed and ids never change.
 const baseAt = process.argv.indexOf("--base");
 if (baseAt > 0) {
   const base = process.argv[baseAt + 1];
+  let previousAliases = [];
+  try { previousAliases = JSON.parse(execFileSync("git", ["show", `${base}:aliases.json`], { cwd: root, encoding: "utf8", stdio: ["ignore","pipe","ignore"] })); } catch { /* older catalogue */ }
+  for (const a of previousAliases) if (aliasTargets.get(a.alias_id) !== a.canonical_id) fail("aliases.json", `Existing redirect ${a.alias_id} must be preserved.`);
   const listed = execFileSync("git", ["ls-tree", "-r", "--name-only", base, "paints"], { cwd: root, encoding: "utf8" }).split("\n").filter((f) => f.endsWith(".json"));
   for (const file of listed) {
     let old;
     try { old = JSON.parse(execFileSync("git", ["show", `${base}:${file}`], { cwd: root, encoding: "utf8" })); } catch { continue; }
-    for (const p of old) if (p.id && !ids.has(p.id)) fail(file, `"${p.name}" (${p.id}) was removed. Paints are never deleted; set "status": "discontinued" instead.`);
+    for (const p of old) if (p.id && !ids.has(p.id) && !aliasTargets.has(p.id)) fail(file, `"${p.name}" (${p.id}) was removed. Paints are never deleted; set "status": "discontinued" instead.`);
   }
 }
 

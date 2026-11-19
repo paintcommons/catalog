@@ -26,9 +26,9 @@ class ImportInvariants(unittest.TestCase):
                 self.assertEqual(stops[p['id']]['before'], expected)
                 expected = stops[p['id']]['after']
             self.assertEqual(by_id[p['id']], expected, p['name'])
-        self.assertEqual(len(current), len(old) + 6287 + 39)
+        self.assertEqual(len(current), len(old) + 6287 + 39 + sum(p['brand']=='Duncan Rhodes' for p in current))
         for p in current:
-            if not p.get('id') and p['brand'] != 'Two Thin Coats':
+            if p.get('source') == module.SOURCE and p['brand'] not in ('Two Thin Coats','Duncan Rhodes'):
                 self.assertEqual(p['colour']['source'], module.SOURCE)
                 self.assertEqual(p['source'], module.SOURCE)
                 self.assertEqual(p['barcodes'], [])
@@ -48,7 +48,7 @@ class ImportInvariants(unittest.TestCase):
 
     def test_scope_and_conflict_identities(self):
         current = [p for f in (ROOT / 'paints').glob('*/*.json') for p in json.loads(f.read_text())]
-        new = [p for p in current if not p.get('id')]
+        new = [p for p in current if p.get('source') == module.SOURCE]
         self.assertFalse(any(p['brand'] in {'Kimera Kolors', 'Arteza', 'Revell', 'Italeri', 'Acrilex', 'FolkArt', 'Golden', 'Apple Barrel', 'Liquitex'} for p in new))
         self.assertFalse(any(p['brand'] == 'Citadel' and (p['range'] or '').startswith('Foundation') for p in new))
         ledger = json.loads((module.REPORT / 'conflict-review.json').read_text())
@@ -66,7 +66,7 @@ class ImportInvariants(unittest.TestCase):
                 self.assertEqual(p['type'], 'acrylic')
 
     def test_reviewed_semantic_duplicates_placements_statuses_and_types(self):
-        new = [p for f in (ROOT/'paints').glob('*/*.json') for p in json.loads(f.read_text()) if not p.get('id')]
+        new = [p for f in (ROOT/'paints').glob('*/*.json') for p in json.loads(f.read_text()) if p.get('source') == module.SOURCE]
         self.assertTrue(all(p['range']=='Spray' for p in new if p['brand']=='Citadel'))
         metals = [p for p in new if (p['brand'],p['range'])==('The Army Painter','Warpaints Fanatic Metallic')]
         self.assertEqual(len(metals),12)

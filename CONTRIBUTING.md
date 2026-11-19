@@ -50,3 +50,7 @@ Data from another open project keeps its licence. To import some:
 3. A colour from a lower-priority source can't replace one from a higher-priority source. If the evidence says it should, explain why in the pull request and ask for the `colour-override` label.
 
 The same pull request can add the source and the paints that cite it. Big imports are fine: they reach Stipplewise in batches. If Stipplewise refuses any new paint, the import job opens an issue and the hourly sync pauses until a follow-up pull request fixes it.
+
+### Duplicate identities
+
+Do not delete an ID to merge duplicates. A reviewed `aliases.json` entry maps the retired ID to an existing canonical paint. The backend retains old IDs and private collection references; public exports omit the duplicate. Aliases cannot point to another alias or to a missing paint. The validator permits removing an existing public record only when its ID has such a redirect.
