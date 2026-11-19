@@ -20,6 +20,8 @@ jobs:
           node-version: 22
       - name: Check import diffs
         run: node --test scripts/*.test.mjs
+      - name: Check Arcturus import invariants
+        run: PYTHONDONTWRITEBYTECODE=1 python3 scripts/import-arcturus.test.py
       - name: Check the data
         run: |
           if [ "${{ github.event_name }}" = "pull_request" ]; then

@@ -1,0 +1,467 @@
+[
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.001",
+    "name": "Panzer Yellow",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#94854E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.002",
+    "name": "Panzer Grey",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4B4C50",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.003",
+    "name": "Russian Green 4BO",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#575546",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.004",
+    "name": "UK Bronze Green",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#535554",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.005",
+    "name": "US Olive Drab",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#635C4C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.006",
+    "name": "German Field Grey",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#62625A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.007",
+    "name": "Russian Uniform",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6B6452",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.008",
+    "name": "English Uniform",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#755D41",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.009",
+    "name": "US Khaki",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#86785E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.010",
+    "name": "White",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.011",
+    "name": "Grey",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E7E7E7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.012",
+    "name": "Black",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.013",
+    "name": "Bone White",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D4BE99",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.014",
+    "name": "Leather Brown",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#87643C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.015",
+    "name": "Desert Yellow",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9D7D4A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.016",
+    "name": "Scarlet Red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AA3935",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.017",
+    "name": "Ultramarine Blue",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4C5990",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.018",
+    "name": "Sun Yellow",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F59C00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.019",
+    "name": "Beasty Brown",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#785841",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.020",
+    "name": "Wolf Grey",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B0C0D0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.021",
+    "name": "Silver",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A6AAB3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.022",
+    "name": "Dead Flesh",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B6A26F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.023",
+    "name": "Bloody Red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BF1B33",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.024",
+    "name": "Pale Flesh",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ECBDA9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.025",
+    "name": "Alien Purple",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7161A8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.026",
+    "name": "Dark Green",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3C463E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.027",
+    "name": "Goblin Green",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C7445",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.028",
+    "name": "Sick Green",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4E7055",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.029",
+    "name": "Gory Red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#783C3C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.030",
+    "name": "Magic Blue",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#126DB4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Hobby Paint",
+    "code": "28.031",
+    "name": "Gunmetal",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#65646A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  }
+]

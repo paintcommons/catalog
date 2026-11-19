@@ -1,0 +1,92 @@
+[
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-001",
+    "name": "Primer Acrílico Cinza",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A1ABAD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-002",
+    "name": "Primer Acrílico Preto",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#060608",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-003",
+    "name": "Primer Acrílico Branco",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-004",
+    "name": "Primer Acrílico Flesh Base",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DFCB90",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-005",
+    "name": "Primer Acrílico Zinc Chromate Yellow",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EBD238",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tom Color",
+    "range": "Tom Colors - Primer",
+    "code": "TCP-006",
+    "name": "Primer Acrílico Olive Drab",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A4032",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

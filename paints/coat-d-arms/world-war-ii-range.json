@@ -1,0 +1,572 @@
+[
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "227",
+    "name": "Field Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5A6658",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "501",
+    "name": "British Khaki",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7A6844",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "502",
+    "name": "Field Drab",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#797864",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "503",
+    "name": "Military Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D5C4D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "504",
+    "name": "Panzer Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A453D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "505",
+    "name": "Green Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4C665D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "506",
+    "name": "Desert Sand",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DFA96B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "507",
+    "name": "Sea Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#97C9C0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "508",
+    "name": "Olive Drab",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#545744",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "509",
+    "name": "Brick Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#794D40",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "510",
+    "name": "Mid Stone",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9A7C33",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "511",
+    "name": "Tank Blue Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D5B5B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "512",
+    "name": "Tank Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#397D4A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "513",
+    "name": "Faded Olive",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6F926A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "514",
+    "name": "Pale Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7BB783",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "515",
+    "name": "Black Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#405046",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "516",
+    "name": "Iron Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#475555",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "517",
+    "name": "Desert Yellow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E1C96F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "518",
+    "name": "Field Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#616F6F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "519",
+    "name": "Chocolate Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5A5444",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "520",
+    "name": "Red Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#79493D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "521",
+    "name": "Army Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4C5947",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "522",
+    "name": "Pale Sand",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E7CD90",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "523",
+    "name": "Us Dark Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#455B4F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "524",
+    "name": "Tan Earth",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#91824B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "525",
+    "name": "Uniform Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A8893",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "526",
+    "name": "Tank Light Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F0F5EF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "527",
+    "name": "Tank Drab",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C6D4D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "528",
+    "name": "Russian Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7A8461",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "529",
+    "name": "Beige Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8A654B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "530",
+    "name": "Russian Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D5D38",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "531",
+    "name": "Japanese Uniform",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B59816",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "532",
+    "name": "Italian Red Earth",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D66C30",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "533",
+    "name": "Slate Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#556363",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "534",
+    "name": "Dark Leather",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5E533D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "535",
+    "name": "Jungle Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3F8431",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "536",
+    "name": "Forest Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4B8634",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Coat d'Arms",
+    "range": "World War II Range",
+    "code": "537",
+    "name": "Faded Khaki",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#838270",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

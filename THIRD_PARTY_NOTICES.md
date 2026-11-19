@@ -49,3 +49,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+The direct miniature-paints import credits **Rick Fleuren and Miniature Painter Pro**. It uses the stable source id `arcturus-miniature-paints`, pinned to upstream revision `22791a682e1d155da388f4f856cd7196cd9f2677`. Retain the MIT notice with copies or substantial portions of these data.

@@ -1,0 +1,182 @@
+[
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Chaos Black",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Corax White",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Death Guard Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#556229",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Grey Seer",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A2A5A7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Leadbelcher",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#868686",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Macragge Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#103E7C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Mechanicus Standard Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#39484A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Mephiston Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#960D0A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Munitorum Varnish",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FAFAFA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Retributor Armour",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EDC06A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Wraithbone",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DBD1B2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Citadel",
+    "range": "Spray",
+    "code": null,
+    "name": "Zandri Dust",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#988E56",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

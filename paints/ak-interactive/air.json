@@ -1,0 +1,1802 @@
+[
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2002",
+    "name": "RLM 02",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5A5E45",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2003",
+    "name": "RLM 65",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#829A84",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2004",
+    "name": "RLM 66",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2D2E29",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2005",
+    "name": "RLM 70",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#272924",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2006",
+    "name": "RLM 71",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3E4130",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2007",
+    "name": "RLM 74",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#423F2E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2008",
+    "name": "RLM 75",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#40413C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2009",
+    "name": "RLM 76",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#93A58B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2011",
+    "name": "Raf Dark Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2E2E26",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2012",
+    "name": "Raf Dark Earth",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A4132",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2013",
+    "name": "Raf Medium Sea Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6B6B63",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2014",
+    "name": "Raf Ocean Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F5458",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2015",
+    "name": "Raf Sky",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A9C29B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2016",
+    "name": "Raf Middle Stone",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#867338",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2017",
+    "name": "Raf Azure Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#38668A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2018",
+    "name": "Aircraft Grey Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#494E38",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2021",
+    "name": "RLM 72",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1F1F1D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2022",
+    "name": "RLM 73",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#22231B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2023",
+    "name": "RLM 78",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A807E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2024",
+    "name": "RLM 79",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#694724",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2025",
+    "name": "RLM 80",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#332F23",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2026",
+    "name": "RLM 61 / RLM 81",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3C3429",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2027",
+    "name": "RLM 62 / RLM 82",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D472C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2028",
+    "name": "RLM 83",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1B1E27",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2034",
+    "name": "RLM 63",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#819071",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2051",
+    "name": "FS 16440 Light Gull Gray",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A6A68A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2052",
+    "name": "FS 17875 White",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FBFBFB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2053",
+    "name": "FS 33613 Radome Tan",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EDB94C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2054",
+    "name": "FS 35164 Intermediate Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#364143",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2055",
+    "name": "FS 36307 Light Sea Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#847E5C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2056",
+    "name": "FS 35237 Medium Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#61696B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2057",
+    "name": "FS 36375 Light Ghost Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A4A38F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2058",
+    "name": "FS 36320 Dark Ghost Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#757E7B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2061",
+    "name": "J3 Hai-iro (grey)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#828771",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2062",
+    "name": "J3 Sp (amber Grey)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#807641",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2063",
+    "name": "D1 Deep Green Black",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#181F18",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2064",
+    "name": "D2 Green Black",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1A2425",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2065",
+    "name": "C2 Trainer Yellow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E08D15",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2066",
+    "name": "Q1 Anti-glare Blue-blacl",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#151716",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2067",
+    "name": "M3 (m) Mitsubishi Interior Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#545C2D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2068",
+    "name": "M3 (n) Kakajima Interior Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A4A30",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2091",
+    "name": "RLM 04",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F8AC09",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2101",
+    "name": "FS 34079 Dark Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#36382A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2102",
+    "name": "FS 34102 Medium Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#484735",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2103",
+    "name": "FS 30219 Dark Tan",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6B4C2D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2104",
+    "name": "FS 36622 Camouflage Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A19E8D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2105",
+    "name": "Grey (fs 36081)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#25221D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2106",
+    "name": "Dull Dark Green (fs 34092) 17 Ml",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#252F24",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2111",
+    "name": "FS 30279 Desert Tan",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#805C38",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2141",
+    "name": "FS 36270 Medium Grey 17 Ml",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#767F86",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2142",
+    "name": "FS 36251 Agressor Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#75807C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2143",
+    "name": "FS 36176 F-15 Dark Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6E7A90",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2144",
+    "name": "FS 36118 Medium Gunship Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A5664",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2145",
+    "name": "FS 35450 Air Superiority Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6E7A90",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2146",
+    "name": "FS 16473 Adc Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AEBBC1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2147",
+    "name": "FS 37886 Offwhite",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EEE5DC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2151",
+    "name": "FS 33531 Sand",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D9C0A2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2152",
+    "name": "FS 34227 Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#779579",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2153",
+    "name": "FS 34258 Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#80915A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2154",
+    "name": "FS 35622 Light Blue 17 Ml",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CDDBCE",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2161",
+    "name": "Mno 2036 Smalt Khaki Avion",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#868267",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2162",
+    "name": "RAL 5008 Grey-blue (graublau)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#293A42",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2163",
+    "name": "RAL 7044 Silk Grey (seidengrau)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B7B5A9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2164",
+    "name": "RAL 8008 Olive Brown (olivbraun)17ml",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9F7B5B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2171",
+    "name": "RAL 2005 Luminous Orange (leuchtorange)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DA7F0D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2172",
+    "name": "RAL 6014 Yellow Olive (gelboliv)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6E705B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2173",
+    "name": "RAL 7001 Silver Grey (silbergrau)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A5B2BA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2174",
+    "name": "RAL 7012 Basalt Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#778C91",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2175",
+    "name": "RAL 7030 Stone (steingrau) Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#908D84",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2201",
+    "name": "Dark Olive Drab 41",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#524F40",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2202",
+    "name": "Medium Green 42",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4B5443",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2203",
+    "name": "Neutral Grey 43",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#696E72",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2204",
+    "name": "Ana613 Olive Drab",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5A564A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2205",
+    "name": "Bronze Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#283524",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2206",
+    "name": "Yellow Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#898555",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2207",
+    "name": "Zinc Chromate Yellow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E2D200",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2231",
+    "name": "M-485 Light Gray",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#959686",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2232",
+    "name": "M-485 Blue Gray",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6B7E85",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2233",
+    "name": "Sea Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#232F3B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2234",
+    "name": "Dark Sea Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#082533",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2241",
+    "name": "A-14 Interior Steel Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A4A4A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2242",
+    "name": "Amt-4 (a-24m) Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2C2B19",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2243",
+    "name": "Amt-7 (a-26m) Black",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0A0A0A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2244",
+    "name": "Amt-7 (a-28m) Light Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#688490",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2245",
+    "name": "Amt-11 Blue Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#353638",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2246",
+    "name": "Amt-12 Dark Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#292929",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2247",
+    "name": "Amt-1 Light Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#635B48",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2248",
+    "name": "A-21m Light Yellowish Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#83744B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2251",
+    "name": "Ae-9/aii Light Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#858C62",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2252",
+    "name": "Aii Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#343F21",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2253",
+    "name": "Aii Light Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7FA6AD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2254",
+    "name": "A-18f Light Grey-blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#87A6A0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2255",
+    "name": "A-19f Grass Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#536639",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2261",
+    "name": "HairAKyokushoku (grey-green)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A7A898",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2262",
+    "name": "HairAKanshoku (grey Indigo)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#485B59",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2263",
+    "name": "Ohryuko Nana Go Shoru (olive Brown)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4E472A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2264",
+    "name": "Midori Iro (green)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#304327",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2265",
+    "name": "Ao Midori Iro (blue -green)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0D352C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2266",
+    "name": "Ki Midori Iro (yellow-green)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#766F27",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2267",
+    "name": "Karekusa Iro (dry Grass)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#87784F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2268",
+    "name": "Cha Kasshoku (tea Colour)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#685245",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2271",
+    "name": "WWI German Fokker Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A3F39",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2272",
+    "name": "WWI German Light Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#404D31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2273",
+    "name": "WWI German Dark Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#262A29",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2274",
+    "name": "WWI German Mauve",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D3C4C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2275",
+    "name": "WWI German Red Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#482D1A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2276",
+    "name": "WWI German Light Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9FB0BA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2277",
+    "name": "WWI German Lilac",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#523839",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2278",
+    "name": "WWI German Grey-green Primer",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#70735E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2281",
+    "name": "Pc10 Early",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#403D2C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2282",
+    "name": "Pc10 Late",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#36362A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2283",
+    "name": "Pc12",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3E352C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2284",
+    "name": "Battleship Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#768A89",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2291",
+    "name": "Clear Doped Linen",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C8BB8F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2292",
+    "name": "Clear Doped Lenen Ver.2",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DCC985",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2293",
+    "name": "Bleached Linen",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F5E8B4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2301",
+    "name": "Cockpit Turqoise",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#367665",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2302",
+    "name": "Radome Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3F5232",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2303",
+    "name": "Interior Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#41472D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Air",
+    "code": "AK2304",
+    "name": "Cockpit Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#858579",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "range": "Wash Ink",
+    "code": null,
+    "name": "Aether Blue",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#666ED0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Wash Ink",
+    "code": null,
+    "name": "Ancient Sepia",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AAA168",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Wash Ink",
+    "code": null,
+    "name": "Andalusian Earth",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#766B59",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Wash Ink",
+    "code": null,
+    "name": "Atramentum Black",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#515151",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Wash Ink",
+    "code": null,
+    "name": "Blush Red",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DB746D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Wash Ink",
+    "code": null,
+    "name": "Moss Green",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6EAC56",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Wash Ink",
+    "code": null,
+    "name": "Pecatum Flesh",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F4929F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Wash Ink",
+    "code": null,
+    "name": "Vicious Purple",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8767BA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

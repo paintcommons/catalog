@@ -1,0 +1,947 @@
+[
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Abyssal Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#292A2F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Adriatic Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#128A9B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "African Shadow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#56424B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Aldebaran Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BE331E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Antares Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C11E21",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Anthartic Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#42424C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Arabic Shadow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7C6833",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Ardenes Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#566345",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Artic Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9FB3BC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Basic Flesh",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D0B393",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Bering Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C8997",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Birch",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EFD2B0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Black",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2C2C2C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Black Forest Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004834",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Black Leather",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#422A2A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Blood Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#912727",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Boreal Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00563E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Brown Gray",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7B7170",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Brown Leather",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D2C1D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Cantabric Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#164765",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Caribbean Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#75B6B0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Caspian Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A4F58",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Deep Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#383B4A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Deep Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#701B20",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Dubai Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#583D22",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Eclipse Grey",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#363636",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Fall Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C9D161",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Field Gray",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#66736C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Fuchsia",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AA336B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Gobi Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6E5A3F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Golden Skin",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EDC89C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Graphene Gray",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A515B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Graphite",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8B8C87",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Indian Shadow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#673D3F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Irati Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#008721",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Iroko",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B28F4D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Kalahari Orange",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A3563C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Light Skin",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E2B890",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Mars Orange",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AF6631",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Mediterranean Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D73B2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Mojave White",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D2CEB5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Nacar",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9B9F90",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Navy Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#253B6D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Orange Leather",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A06337",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Pale Skin",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F1D9CF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Petroleum Gray",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#554D4B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Pink Flesh",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D1928D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Rainy Gray",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8B8683",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Red Leather",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5F3634",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Sahara Yellow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AA852D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Sandalwood",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B89086",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Sherwood Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7D853A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Sky Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2496C8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Sol Yellow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ECCB00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Spring Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7FB953",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Sunset Purple",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#622E54",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Tenere Yellow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E5C76F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Tesla Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#414D97",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Thar Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B09F81",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Violet Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#604673",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "Walnut",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7D6450",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "White",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Scale75",
+    "range": "Scale Color Range",
+    "code": null,
+    "name": "White Sands",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F6E1C6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

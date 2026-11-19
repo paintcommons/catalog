@@ -1,0 +1,392 @@
+[
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.801",
+    "name": "European Splash Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#563F37",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.802",
+    "name": "Russian Splash Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D3334",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.803",
+    "name": "Industrial Splash Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#73746E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.804",
+    "name": "Light Brown Splash Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C7BBAF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.805",
+    "name": "Brown Splash Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#342A29",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.806",
+    "name": "Black Splash Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#27262B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.807",
+    "name": "European Thick Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#423930",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.808",
+    "name": "Russian Thick Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#343434",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.809",
+    "name": "Industrial Thick Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#53564D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.810",
+    "name": "Light Brown Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#818376",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.811",
+    "name": "Brown Thick Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#46413E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.812",
+    "name": "Black Thick Mud",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#262626",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.813",
+    "name": "Oil Stains",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6E502E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.814",
+    "name": "Fuel Stains",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8D5D39",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.815",
+    "name": "Engine Grime",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#605A5A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.816",
+    "name": "Diesel Stains",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A44C34",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.817",
+    "name": "Petrol Spills",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#211F22",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.818",
+    "name": "Brown Engine Soot",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#584E45",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.819",
+    "name": "Rain Marks",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6D635A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.820",
+    "name": "Snow",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.821",
+    "name": "Rust Texture",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#463C3A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.822",
+    "name": "Slimy Grime Dark",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#484B3A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.825",
+    "name": "Crushed Grass",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8E906B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.826",
+    "name": "Mud and Grass",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4C4C44",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.827",
+    "name": "Moss and Lichen",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BD9C3B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  },
+  {
+    "brand": "Vallejo",
+    "range": "Weathering FX",
+    "code": "73.828",
+    "name": "Wet Effects",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BDBAA7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "discontinued"
+  }
+]

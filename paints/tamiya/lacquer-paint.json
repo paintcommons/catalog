@@ -1,0 +1,1247 @@
+[
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-1",
+    "name": "Black",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#040000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-10",
+    "name": "Lacquer thinner",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-11",
+    "name": "Silver",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DFDFDF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-12",
+    "name": "IJN gray<br>(Kure Arsenal)",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#717B85",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-13",
+    "name": "IJN gray<br>(Sasebo Arsenal)",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#535760",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-14",
+    "name": "IJN gray<br>(Maizuru Arsenal)",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7D8087",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-15",
+    "name": "IJN gray<br>(Yokosuka Arsenal)",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#646B75",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-16",
+    "name": "Wooden deck tan",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ACA184",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-17",
+    "name": "Linoleum deck brown.jpeg",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#564A3A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-18",
+    "name": "Dull red.jpeg",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7B4538",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-19",
+    "name": "Gun metal",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D4E4D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-2",
+    "name": "White",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-20",
+    "name": "Light gun metal",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#777776",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-21",
+    "name": "Italian red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C63834",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-22",
+    "name": "Flat base",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFE",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-23",
+    "name": "Flat clear",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9DB3BF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-24",
+    "name": "Semi gloss clear",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFE",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-25",
+    "name": "Brown (JGSDF)",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#715A3D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-26",
+    "name": "Dark green (JGSDF).jpeg",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D593F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-27",
+    "name": "German gray",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#415862",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-28",
+    "name": "Olive drab",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D5641",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-29",
+    "name": "Olive drab 2",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#47573E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-3",
+    "name": "Flat black",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#040000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-30",
+    "name": "Light sand",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D1AB7C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-31",
+    "name": "Dark green 2 (IJN)",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004234",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-32",
+    "name": "Light gray (IJN)",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C9D1C2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-33",
+    "name": "Gray green (IJN)",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B9C4A6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-34",
+    "name": "Light gray",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D0CCC0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-35",
+    "name": "Insignia white",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DDDCD7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-36",
+    "name": "Dark ghost gray",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#80A1B0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-37",
+    "name": "Light ghost gray",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#98B4C0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-38",
+    "name": "Flat aluminum",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DCDEDD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-39",
+    "name": "Racing white",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-4",
+    "name": "Flat white",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-40",
+    "name": "Metallic black",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3F3B3A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-41",
+    "name": "Mica blue",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#01398E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-42",
+    "name": "Mica red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C8171D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-43",
+    "name": "Pearl white",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-44",
+    "name": "Metallic orange",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EF7800",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-45",
+    "name": "Racing blue",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#013B8F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-46",
+    "name": "Pure metallic red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DF0012",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-47",
+    "name": "Pearl blue",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#013B8F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-48",
+    "name": "Sparkling silver",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DEE0DF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-49",
+    "name": "Pearl clear",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F7F9F8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-5",
+    "name": "Semi gloss black",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#040000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-50",
+    "name": "Bright red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E50014",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-51",
+    "name": "Pure orange",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F18D01",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-52",
+    "name": "Clear red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E5007F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-53",
+    "name": "Clear orange",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F08900",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-54",
+    "name": "Dark iron",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#534334",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-55",
+    "name": "Dark yellow 2",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C9B44B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-56",
+    "name": "Dark green 2",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5B8361",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-57",
+    "name": "Red brown 2",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F3733",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-58",
+    "name": "NATO green",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#295438",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-59",
+    "name": "NATO brown",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A4A31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-6",
+    "name": "Pure blue",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#005BAC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-60",
+    "name": "NATO black",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-61",
+    "name": "Metallic gray",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#727071",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-62",
+    "name": "Titanium gold",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DAC993",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-63",
+    "name": "Titanium silver",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DBDCCE",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-64",
+    "name": "Olive drab (JGSDF)",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#295438",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-65",
+    "name": "Rubber black",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-66",
+    "name": "Flat flesh",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FACC8E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-67",
+    "name": "Smoke",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C7C9C8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-68",
+    "name": "Clear blue",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00A6EA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-69",
+    "name": "Clear yellow",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFE500",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-7",
+    "name": "Pure red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E70012",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-70",
+    "name": "Gloss aluminum",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DCDEDD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-71",
+    "name": "Champagne gold",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D2C79A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-72",
+    "name": "Mica silver",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D4D9DC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-73",
+    "name": "Khaki",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9A8F33",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-74",
+    "name": "Flat earth",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#99472F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-75",
+    "name": "Buff",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CCA77B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-76",
+    "name": "Yellow-brown (DAK 1941)",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B18150",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-77",
+    "name": "Light brown (DAK 1941)",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E5B36E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-78",
+    "name": "Flat blue",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#006A94",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-79",
+    "name": "Flat red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E6001C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-8",
+    "name": "Pure yellow",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFF001",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-80",
+    "name": "Flat yellow",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FEE101",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-81",
+    "name": "Mixing blue",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#202A67",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-82",
+    "name": "Mixing red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C8113D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-83",
+    "name": "Mixing yellow",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FED700",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Tamiya",
+    "range": "Lacquer Paint",
+    "code": "LP-9",
+    "name": "Clear",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

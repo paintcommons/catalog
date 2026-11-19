@@ -1,0 +1,2912 @@
+[
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMC-001",
+    "name": "Chrome",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B5B4B2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMC-002",
+    "name": "Brass",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AE8E5B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMC-003",
+    "name": "Gold",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DFB231",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMGBB-001",
+    "name": "Gloss Black Base for Chrome",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMGWB-002",
+    "name": "Gloss White Base for Chrome",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMM-001",
+    "name": "Metallic Burnt Iron 1",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D4845",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMM-002",
+    "name": "Cold Rolled Steel",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F4F4F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMM-003",
+    "name": "Aluminum",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BBBBBB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMM-004",
+    "name": "Copper",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9D6743",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMM-005",
+    "name": "Duraluminum",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6F7075",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMM-006",
+    "name": "Silver",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B4B8B7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMM-007",
+    "name": "Dark Aluminum",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8B8B8D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMM-008",
+    "name": "White Aluminum",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9B9EA5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMM-009",
+    "name": "RAF High Speed Silver",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FAFAFC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMM-010",
+    "name": "Gun Metal",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#373735",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-001",
+    "name": "White",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-002",
+    "name": "Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3B220E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-003",
+    "name": "Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C3122F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-004",
+    "name": "Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#235937",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-005",
+    "name": "Orange",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E15402",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-006",
+    "name": "Light Neutral",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A59480",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-007",
+    "name": "Yellow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FCDE09",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-008",
+    "name": "Graugrun Khakibrun RAL 7008",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#786749",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-009",
+    "name": "Olivegrun RAL 6003",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#586629",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-010",
+    "name": "Gelbbraun  RAL 8020",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CFAF80",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-011",
+    "name": "Dunkelgelb  RAL 7028",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BBA059",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-012",
+    "name": "Rotbraun  RAL 8017",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#45302B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-013",
+    "name": "Red Oxide German WWII RAL 3009",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#772420",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-014",
+    "name": "Panzer Grey  RAL 7021",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4B5459",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-015",
+    "name": "Rotbraun RAL 8012",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#592321",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-016",
+    "name": "Sandgrau RAL 7027",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9A8B6A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-017",
+    "name": "Grunbraun RAL 8000",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#826C33",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-018",
+    "name": "Resedagrun RAL 6011",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#68825F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-019",
+    "name": "Dunkelgelb Late  1944 RAL 7028",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D4BE8C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-020",
+    "name": "US Army Olive Drab Faded 1 FS 34088",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#797B54",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-021",
+    "name": "US Army Olive Drab Faded 2",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#94976A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-022",
+    "name": "US Army Olive Drab Faded 3",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9A9052",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-023",
+    "name": "US Army Khaki Drab FS 34088",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#69634B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-024",
+    "name": "US Army Olive Drab FS 319",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#69634B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-025",
+    "name": "US Army Olive Drab FS 34088",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A6931",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-026",
+    "name": "US Army Olive Drab FS 33070",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#505338",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-027",
+    "name": "Russian 6k FS 30117",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9D4F29",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-028",
+    "name": "Russian Dark Olive FS 34102",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A523A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-029",
+    "name": "Russian Dark Olive 2 FS 34096",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#566743",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-030",
+    "name": "Russian Dark Olive Faded 1  FS 34096",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#566743",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-031",
+    "name": "Russian Dark Green 4BO FS 34079",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D4335",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-032",
+    "name": "Russian Green Modern AFV",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#455D39",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-033",
+    "name": "NATO Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#543425",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-034",
+    "name": "NATO Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#557536",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-035",
+    "name": "NATO Black",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2E2D2D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-036",
+    "name": "IDF Sand Grey Version 2",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A98E79",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-037",
+    "name": "IDF Sand Grey Version 1",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#836E41",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-038",
+    "name": "US Desert Tan Modern 2 FS 33446",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C19D79",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-039",
+    "name": "British Sand Yellow Modern AFV",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DDC893",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-040",
+    "name": "Tire Black 1",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-041",
+    "name": "Hiway Yellow 1930 / 1990 Heavy Equipment",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FEC009",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-042",
+    "name": "British Light Silver Grey RAL 7001",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#798A91",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-043",
+    "name": "British Portland Stone RAL 64",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F5EEDB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-044",
+    "name": "British Light Stone RAL 61",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D4BE8C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-045",
+    "name": "British Slate Grey 34",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ABA0B0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-046",
+    "name": "German Field Grey 6006",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F6C56",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-047",
+    "name": "Black",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-048",
+    "name": "Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#002059",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-049",
+    "name": "Graugrun RLM 74",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#344756",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-050",
+    "name": "Grauviolet RLM 75",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A4D52",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-051",
+    "name": "Lichtblau RLM 76",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A3BAB2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-052",
+    "name": "Braunviolet RLM 81",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#383C25",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-053",
+    "name": "Hellgrun RLM 82",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#687C4B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-054",
+    "name": "Dunkelgrün RLM 83",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#64723D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-055",
+    "name": "Hellblau RLM 78",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A4ADBC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-056",
+    "name": "Grau RLM 02",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9A9581",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-057",
+    "name": "Hellblau RLM 65",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#93B1AF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-058",
+    "name": "US Dark Green FS 34079",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2B302A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-059",
+    "name": "US Interior Green FS 34151",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#677E50",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-060",
+    "name": "Dark Tan FS 30219",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#674539",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-061",
+    "name": "US Blue Grey FS35189",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#759EA2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-062",
+    "name": "USN/USMC Sea Blue FS 35042",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#122742",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-063",
+    "name": "Light Gull Grey FS 36440",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C1BEB7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-064",
+    "name": "Dark Gull Grey FS 36231",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7D8790",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-065",
+    "name": "Gloss Sea Blue FS 15042",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#154B63",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-066",
+    "name": "US Medium Green FS 34102",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A523A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-067",
+    "name": "Yellow Zinc Chromate",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E3D209",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-068",
+    "name": "Green Zinc Chromate",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A9735",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-069",
+    "name": "Light Gull Grey FS 16440",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DADADA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-070",
+    "name": "Radome Tan FS 33613",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EEDFB4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-071",
+    "name": "Intermediate Blue FS 35164",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4B5C6C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-072",
+    "name": "Medium Grey FS 35237",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6E8188",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-073",
+    "name": "Light Ghost Grey FS 36375",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#83878A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-074",
+    "name": "Dark Ghost Grey  FS 36320",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6D717A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-075",
+    "name": "Light Sea Grey  FS 36307",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C7C7C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-076",
+    "name": "RAF Middle Stone",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AB9353",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-077",
+    "name": "RAF Dark Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#435638",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-078",
+    "name": "RAF Dark Earth",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#80683A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-079",
+    "name": "RAF Interior Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7A8F62",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-080",
+    "name": "RAF underside Sky 610",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AAB08E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-081",
+    "name": "LRDG Pink",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ECCAA4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-082",
+    "name": "German WWII Elfenbein Interior White",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EFE3BB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-083",
+    "name": "Have Glass Grey FS36170",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#696866",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-084",
+    "name": "Gunship Grey FS 36118",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4B5561",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-085",
+    "name": "Russian WWII 4B0 FS 34257",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8D9132",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-086",
+    "name": "US Army Sand FS 30277",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A39179",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-087",
+    "name": "Dunkelgrün RLM 71",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#384C27",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-088",
+    "name": "Schwarzgrun RLM 70 German WWII",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#585B4F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-089",
+    "name": "Dark Grey RLM 66 German WWII Late War Cockpits, etc",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#595B50",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-090",
+    "name": "Gelb (Yellow) RLM 04 German WWII",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FDBE1A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-091",
+    "name": "USAAF Olive Drab 41 WWII",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5F5935",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-092",
+    "name": "Azure Blue RAF / FS 35231",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7F85C3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-093",
+    "name": "Ocean Grey RAF WWII Mid/Late  FS 36173",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6B7775",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-094",
+    "name": "Sea Grey Medium RAF WWII BS 637",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#809495",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-095",
+    "name": "US Camouflage Grey FS 36622",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D6CFC5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-096",
+    "name": "Grey Blue Cockpit  / Camo Modern Russian Jets",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6299C4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-097",
+    "name": "SAC Bomber Tan FS 34201",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7B7962",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-098",
+    "name": "SAC bomber Green FS 34159",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5F7066",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-099",
+    "name": "Gloss Grey USN FS 16081",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1A4752",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-100",
+    "name": "Russian Cockpit Emerald Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#28845D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-101",
+    "name": "Insignia Red FS 31136",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ED1B24",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-102",
+    "name": "Aircraft Grey Gloss FS 16473",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AFB0B5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-103",
+    "name": "Haze Grey US Navy 5H",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B9BAB2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-104",
+    "name": "Insignia White FS 17875",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-105",
+    "name": "Worn Black Grey Tires / Camo",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0E1116",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-106",
+    "name": "Bronze Green British AFV",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D605C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-107",
+    "name": "Japanese J3 Hai-Iro Lt Grey (Zero)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#77856C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-108",
+    "name": "Japanese Q1 Anti Glare Blue Black Cowl WWII",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2E2C2F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-109",
+    "name": "Japanese M3 Mitsubishi Interior Green WWII",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#77987D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-110",
+    "name": "J3 SP Lt Grey Japanese Zero (Amber)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9B9C8D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-111",
+    "name": "Hull Red Anti Fouling Norfolk 65A",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#791402",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-112",
+    "name": "Japanese D1 Deep Green WWII  (IJN)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#374E47",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-113",
+    "name": "Aotaki Blue Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2D8287",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-114",
+    "name": "Neutral Haze Grey US Navy (WWII/Post)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#818779",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-115",
+    "name": "Japanese Propeller Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#82483A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-116",
+    "name": "Light Grey FS 36495",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C1BEB7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-117",
+    "name": "High Low Visibility Grey FS (595)  FS 36373",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A2A9B3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-118",
+    "name": "Medium Grey FS 36270",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#88929B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-119",
+    "name": "Sandgelb RLM 79",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B78240",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-120",
+    "name": "Olivegrun RLM 80 (Trop)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#62693D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-121",
+    "name": "Purple (Purple Violet)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#554F8F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-122",
+    "name": "Bright Blue (Mecha etc)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0F74BA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-123",
+    "name": "Rail Tie Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5E4D33",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-124",
+    "name": "Farm Tractor Green (Bright Green)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#20730D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-125",
+    "name": "New Construction Yellow (1990 to present)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E4AE44",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-126",
+    "name": "Farm Tractor Yellow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F7DC13",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-127",
+    "name": "Concrete 1",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AEA67F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-128",
+    "name": "IDF Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#39431E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-129",
+    "name": "Earth Yellow Tan Merdec FS 30257",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F3BB44",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-130",
+    "name": "Earth Red Brown Merdec FS 30117",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#763B01",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-131",
+    "name": "Sand Merdec",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7E6219",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-132",
+    "name": "USN Flight Deck Blue 21",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#475C6D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-133",
+    "name": "USN Pale Grey Blue 5P",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B4BCBF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-134",
+    "name": "Surf Green (CH 1957)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B3F7E0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-135",
+    "name": "Coral (CH 1955/626)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DD786E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-136",
+    "name": "Arcadian Blue (F 1965)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B7C8D2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-137",
+    "name": "Lilac (Chrysler 1966)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C79AB9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-138",
+    "name": "Extra Dark Sea Grey BS381 RAF",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#505E67",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-139",
+    "name": "Dunkelbraun RAL 7017",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5C5334",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-140",
+    "name": "Anthrazitgrau RAL 7016 (Anthracite Grey)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#303433",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-141",
+    "name": "Signalbraun RAL 8002",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#733C28",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-142",
+    "name": "Mahogany (Flight Decks, Tools)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#784C43",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-143",
+    "name": "Pearl Starship White",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E3DEDA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-144",
+    "name": "Pearl Deep Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#238F55",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-145",
+    "name": "Pearl Solid Gold",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B8A443",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-146",
+    "name": "Pearl Deep Charcoal",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#35363A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-147",
+    "name": "Pearl Deep Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#064BCA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-148",
+    "name": "Pearl Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9F0016",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-149",
+    "name": "Pearl Copper",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9E5739",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-150",
+    "name": "Pearl Deep Black",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A2B30",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-151",
+    "name": "Pearl Tropical Orange",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D74514",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-152",
+    "name": "Pearl Wild Berry",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B7478F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-153",
+    "name": "Pearl Kiwi Lime",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#84B905",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-154",
+    "name": "Pearl Root Beer Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#33211F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-155",
+    "name": "Iridescent Cherry",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A6041B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-156",
+    "name": "Iridescent Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0149B8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-157",
+    "name": "Iridescent Plum Purple",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#231962",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-158",
+    "name": "Iridescent Candy Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C0273B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-159",
+    "name": "Iridescent Lemon Yellow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F3C901",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-160",
+    "name": "Iridescent Duck Teal",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#02ADA5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-161",
+    "name": "Iridescent Turquoise",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#146F8A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-167",
+    "name": "Transparent Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AE0001",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-168",
+    "name": "Transparent Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#040293",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-169",
+    "name": "Transparent Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00783A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-170",
+    "name": "Transparent Smoke",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8F908B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-171",
+    "name": "Transparent Orange",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FB6C04",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-172",
+    "name": "Olive Drab / Dark Green 1968-74 FS 24087",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#504D3A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-173",
+    "name": "Light Blue (Mecha)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3779DA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-174",
+    "name": "Lavender",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E7D1E6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-175",
+    "name": "Pink",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E5B1B5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-177",
+    "name": "Gelbolive RAL 6014",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#55481E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-178",
+    "name": "French Blue (Cobalt Blue)",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#02538B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMP-179",
+    "name": "Crocus Yellow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EEE5BA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMW-001",
+    "name": "Dark Rust 1",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A24536",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMW-002",
+    "name": "Light Rust 1",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DD732B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMW-003",
+    "name": "Transparent Light Rust 1",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#993128",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMW-004",
+    "name": "Transparent Medium",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMW-005",
+    "name": "Standard Rust",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#993128",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mission Models",
+    "range": "Mission Models",
+    "code": "MMW-006",
+    "name": "Transparent Dust",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DDC9AB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

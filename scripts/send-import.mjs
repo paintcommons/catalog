@@ -3,7 +3,8 @@
 //   node scripts/send-import.mjs <changes.json> <result.json>
 // Environment: CATALOG_SYNC_SECRET, GITHUB_SHA, AUTHOR, PR_URL (optional), OVERRIDE ("true" when the
 // pull request carries the colour-override label), IMPORT_URL (optional, for testing).
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync, realpathSync } from "node:fs";
+import { pathToFileURL } from "node:url";
 
 export const BATCH_SIZE = 1000;
 
@@ -35,7 +36,7 @@ export function combine(responses) {
   };
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+if (process.argv[1] && import.meta.url === pathToFileURL(realpathSync(process.argv[1])).href) {
   const [changesFile, resultFile] = process.argv.slice(2);
   const { CATALOG_SYNC_SECRET, GITHUB_SHA, AUTHOR, PR_URL, OVERRIDE } = process.env;
   const url = process.env.IMPORT_URL ?? "https://ibexwyfkzydpgdzkgoma.supabase.co/functions/v1/catalog-import";

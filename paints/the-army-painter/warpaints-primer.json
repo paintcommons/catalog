@@ -1,0 +1,392 @@
+[
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3001",
+    "name": "Matt Black",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3002",
+    "name": "Matt White",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3003",
+    "name": "Anti-Shine Matt Varnish",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F0F0F0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3004",
+    "name": "Leather Brown",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#713E29",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3005",
+    "name": "Army Green",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#66693A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3006",
+    "name": "Pure Red",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C3231E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3007",
+    "name": "Barbarian Flesh",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E59B66",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3008",
+    "name": "Plate Mail Metal",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#858584",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3011",
+    "name": "Desert Yellow",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C18C17",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3012",
+    "name": "Skeleton Bone",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D0C59A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3013",
+    "name": "Necrotic Flesh",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BCBE8C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3014",
+    "name": "Greenskin",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1B613A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3015",
+    "name": "Daemonic Yellow",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F7D201",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3016",
+    "name": "Fur Brown",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#993822",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3017",
+    "name": "Crystal Blue",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2580BA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3018",
+    "name": "Dragon Red",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#952526",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3019",
+    "name": "Alien Purple",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#492B79",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3020",
+    "name": "Angel Green",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#273B2F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3021",
+    "name": "Wolf Grey",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#517383",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3022",
+    "name": "Ultramarine Blue",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#154275",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3024",
+    "name": "Goblin Green",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1E8430",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3025",
+    "name": "Gun Metal",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#858180",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3026",
+    "name": "Chaotic Red",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C2A31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "CP3027",
+    "name": "Aegis Suit Satin Varnish",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F4F7F7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "WP1118P",
+    "name": "Uniform Grey",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#545D62",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Primer",
+    "code": "WP1472",
+    "name": "Brush-On Primer",
+    "type": "primer",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A0A3A2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

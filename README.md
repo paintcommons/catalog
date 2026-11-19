@@ -2,9 +2,9 @@
 
 An open, community-maintained catalog of miniature paints: brands, ranges, product codes, names, paint types, barcodes and approximate colours, each colour with its source.
 
-- **1,981 paints** from The Army Painter, Citadel (Warhammer Colour and Tone Pro), Monument Hobbies (Pro Acryl), Turbo Dork and Vallejo
+- **8,268 paints** across 21 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper and Scale75
 - **1,565 barcodes**, each marked calculated, published (with its source URL) or confirmed by scan
-- **1,966 colours**, each linked to the chart, catalogue or method it came from
+- **8,253 colours**, each linked to its source
 
 Paint Commons is inspired by the commons ethos of Wikipedia and Creative Commons, with no affiliation to either. The catalog is kept in sync with [Stipplewise](https://stipplewise.com), a paint collection app that contributes reviewed corrections and reads the catalog back.
 
@@ -65,3 +65,5 @@ Check your changes with:
 ```sh
 node scripts/validate.mjs
 ```
+
+The [scoped Arcturus import](reports/arcturus-import/README.md) adds 6,287 paints from the MIT-licensed miniature-paints project, credited to Rick Fleuren and Miniature Painter Pro. Every imported record and colour cites `arcturus-miniature-paints`; existing records and manufacturer colours are preserved. The pinned snapshot and full MIT notice are distributed with the data. Identity conflicts are documented separately in the import report; colour/gradient enrichments remain a separate review.

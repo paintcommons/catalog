@@ -1,0 +1,572 @@
+[
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": "WP1712",
+    "name": "Purple Worm",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#826D8D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": "WP1720",
+    "name": "Goblin Skin",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E0B26A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": "WP1731",
+    "name": "Grung Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9DC29E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Abyssal Black",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#21201D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Angelic Yellow",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F9DF1C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Beholder Purple",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A893B3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Bugbear Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7B561E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Cambion Crimson",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9C1A1D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Dragonfire Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CF2529",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Dungeon Stone",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#666D74",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Dwarven Bronze",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CD601F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Eternal Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5A7F93",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Fair Skin",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EACDAD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Feywild Emerald",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#006E40",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Firenewt Orange",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F6AA0D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Flumph Pink",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E69D63",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Gelatinous Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C7CFE3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Ghostly Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A9DD5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Green Flame",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#81AC36",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Ki-Rin Gold",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AF8102",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Kobold Red",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6D1F0C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Kraken Blue",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#055E8F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Lawfull White",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FEFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Lich Skin",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#83827B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Merfolk Turquoise",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#019096",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Minotaur Hide",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A34521",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Mithral Silver",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#808182",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Otyugh Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DEB57D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Owlbear Brown",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5F3D27",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Pixiedust Pink",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D27F84",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Rosy Skin",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F7BF96",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Ruddy Skin",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BB7962",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Rust Monster",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E5581E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Silver Dragon",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B2B2B3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Treant Green",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#409B4B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Troll Skin",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#06381F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Underdark Indigo",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#205286",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "D&D Nolzur's Marvelous Pigments",
+    "code": null,
+    "name": "Zombie Flesh",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B0C194",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

@@ -35,6 +35,51 @@
     "status": "current"
   },
   {
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Dry Blood",
+    "type": "effect",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#24000E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Fresh Rust",
+    "type": "effect",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C25428",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Lens Flare Glow",
+    "type": "effect",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFF464",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
     "id": "6c348cc1-c406-4e89-bb4f-64a0df17eddf",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Effects",
@@ -42,6 +87,81 @@
     "name": "Oil Stains",
     "type": "effect",
     "barcodes": [],
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Oozing Vomit",
+    "type": "effect",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7B5C1D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Plasma Coil Glow",
+    "type": "effect",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5ECDF4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Power Node Glow",
+    "type": "effect",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F286B5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "Radiation Glow",
+    "type": "effect",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FBB375",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic Effects",
+    "code": null,
+    "name": "True Blood",
+    "type": "effect",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8D0422",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
     "status": "current"
   },
   {

@@ -1,0 +1,167 @@
+[
+  {
+    "brand": "Warcolours",
+    "range": "Inks for Shading and Glazing",
+    "code": null,
+    "name": "Black",
+    "type": "ink",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Inks for Shading and Glazing",
+    "code": null,
+    "name": "Burnt Sienna",
+    "type": "ink",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CE2B00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Inks for Shading and Glazing",
+    "code": null,
+    "name": "Dark Green",
+    "type": "ink",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#006215",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Inks for Shading and Glazing",
+    "code": null,
+    "name": "Orange",
+    "type": "ink",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FF6801",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Inks for Shading and Glazing",
+    "code": null,
+    "name": "Raw Sienna",
+    "type": "ink",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D88100",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Inks for Shading and Glazing",
+    "code": null,
+    "name": "Red",
+    "type": "ink",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E00809",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Inks for Shading and Glazing",
+    "code": null,
+    "name": "Sepia",
+    "type": "ink",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8B4201",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Inks for Shading and Glazing",
+    "code": null,
+    "name": "Ultramarine",
+    "type": "ink",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#420CFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Inks for Shading and Glazing",
+    "code": null,
+    "name": "Vermilion",
+    "type": "ink",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A70003",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Inks for Shading and Glazing",
+    "code": null,
+    "name": "White",
+    "type": "ink",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Warcolours",
+    "range": "Inks for Shading and Glazing",
+    "code": null,
+    "name": "Yellow",
+    "type": "ink",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFC208",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

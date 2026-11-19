@@ -6,6 +6,8 @@
 // back; Stipplewise answers "unchanged" once it has it, and a commit that fixes a refused paint
 // completes the import.
 import { execFileSync } from "node:child_process";
+import { fileURLToPath, pathToFileURL } from "node:url";
+import { realpathSync } from "node:fs";
 
 const FIELDS = ["brand", "range", "code", "name", "type", "status", "finish", "manufacturer_colour_family", "source"];
 const same = (a, b) => JSON.stringify(a ?? null) === JSON.stringify(b ?? null);
@@ -43,7 +45,7 @@ export function diffSnapshots(base, head) {
 }
 
 /** Reads every paint, the equivalents and the sources at a commit. */
-export function snapshotAt(ref, cwd = new URL("..", import.meta.url).pathname) {
+export function snapshotAt(ref, cwd = fileURLToPath(new URL("..", import.meta.url))) {
   const git = (...args) => execFileSync("git", args, { cwd, encoding: "utf8", maxBuffer: 64 * 1024 * 1024 });
   const files = git("ls-tree", "-r", "--name-only", ref, "--", "paints").split("\n").filter((f) => f.endsWith(".json"));
   const paints = files.flatMap((f) => JSON.parse(git("show", `${ref}:${f}`)));
@@ -54,7 +56,7 @@ export function snapshotAt(ref, cwd = new URL("..", import.meta.url).pathname) {
   return { paints, equivalents, sources };
 }
 
-if (import.meta.url === `file://${process.argv[1]}`) {
+if (process.argv[1] && import.meta.url === pathToFileURL(realpathSync(process.argv[1])).href) {
   const [base, head] = process.argv.slice(2);
   if (!base || !head) { console.error("Usage: node scripts/diff-for-import.mjs <base> <head>"); process.exit(1); }
   process.stdout.write(JSON.stringify(diffSnapshots(snapshotAt(base), snapshotAt(head)), null, 1) + "\n");

@@ -1,0 +1,122 @@
+[
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color GX",
+    "code": "GX1",
+    "name": "Cool White",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color GX",
+    "code": "GX100",
+    "name": "Super Clear III",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color GX",
+    "code": "GX114",
+    "name": "Super Smooth Clear",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DCDDDD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color GX",
+    "code": "GX2",
+    "name": "Ueno Black",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color GX",
+    "code": "GX3",
+    "name": "Harmann Red",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E60012",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color GX",
+    "code": "GX4",
+    "name": "Chiara Yellow",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFE100",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color GX",
+    "code": "GX5",
+    "name": "Susie Blue",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004EA2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Mr Hobby",
+    "range": "Mr Color GX",
+    "code": "GX6",
+    "name": "Morrie Green",
+    "type": "other",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#006830",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

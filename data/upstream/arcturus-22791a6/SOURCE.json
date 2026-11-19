@@ -1,0 +1,42 @@
+{
+  "repository": "https://github.com/Arcturus5404/miniature-paints",
+  "revision": "22791a682e1d155da388f4f856cd7196cd9f2677",
+  "excluded_tables": [
+    "Pantone.md",
+    "RAL.md"
+  ],
+  "git_blob_sha1": {
+    "AK.md": "339caf935f2c254243118bd51897baf7ff10c69f",
+    "AKRC.md": "fdfd5d71a8a07b742ac1874566b4b73298c67a2d",
+    "Acrilex.md": "3b7b5b854720f7a38d14482b6723742f3cd7b48a",
+    "AppleBarrel.md": "8b6588909dcc118172a3073164c1744e3937c44c",
+    "Army_Painter.md": "7cf21dd3b4181bcdefc83e4fdd7774db657dc4dc",
+    "Arteza.md": "2794b320a2ff7289d620744a7697b33a7638866d",
+    "Citadel_Colour.md": "d537d259acdda0bb2f38cf4762835a7269ef4443",
+    "CoatDArmes.md": "c2876338b447d375e3c80ee4db96621731da2f89",
+    "Creature.md": "ff5b7d97039c5f57dbb9a48bca86886e5fae9166",
+    "Duncan.md": "ecb82ca2f8b7cf4e4daf3d12955a5c6ddf54a5c3",
+    "FolkArt.md": "cf22fcaed9dd15ae4c34280df09c340cda7a217a",
+    "Foundry.md": "9a1966a5b2ed499fae5f95bedd9e8f42725e77c2",
+    "Golden.md": "b15ccd0eea021fa9ecb87110312377bf29f1beef",
+    "GreenStuffWorld.md": "d37d2f9a47c1ccba2d674ad281a516f92f6e6b39",
+    "Humbrol.md": "8c1592e4c191616d204bdd17620a77673b490791",
+    "Italeri.md": "d37f004e8a2134eaf4b5b1190b100554ad3fa84b",
+    "KimeraKolors.md": "c662d0ae0f0d72713548ff03659e041f64523f5d",
+    "Liquitex.md": "a20275fab8a5a36923ce91d76d259dab451ed824",
+    "Mig.md": "adc9b1ecb28029cec8350b76a28a19f876848a1e",
+    "MissionModels.md": "cb1c42702b46998273466a769161ab659d86fdc2",
+    "Monument.md": "befc522afa47fa213ff829f47f5a0a6f49dab85a",
+    "MrHobby.md": "195647181be92032542a18ad4f4ed938e4a0b64f",
+    "MrPaint.md": "b1007578001065d3baae70b7051afe4d2d655149",
+    "P3.md": "f739d0011bc121489b5a7ac16540ef4c8e010127",
+    "Reaper.md": "ecedfe152da27469882efb715fbe2d41ff9ddb60",
+    "Revell.md": "ad2632b09dfdaa6090e27b3edb32d4d11f898ada",
+    "Scale75.md": "a1b75d47f7af0200bc75a1869fca3fc99b6f3585",
+    "Tamiya.md": "195707d77e56324b04ab1c6403249542d25da731",
+    "TomColor.md": "313c056d90033ef903b08a2dc0a55e79a2c046c0",
+    "TurboDork.md": "d04e9593f4719cd82fd239d57f1b65cb0a05f1e7",
+    "Vallejo.md": "6b3a8afbd17938fd0c7dedcbb6d9887515d7ab69",
+    "Warcolours.md": "437921b209e2739f13fb32729440099d75645348"
+  }
+}

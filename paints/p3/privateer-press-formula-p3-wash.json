@@ -1,0 +1,77 @@
+[
+  {
+    "brand": "P3",
+    "range": "Privateer Press Formula P3 Wash",
+    "code": null,
+    "name": "Armor Wash",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#879284",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "P3",
+    "range": "Privateer Press Formula P3 Wash",
+    "code": null,
+    "name": "Caspian Flesh Wash",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A49881",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "P3",
+    "range": "Privateer Press Formula P3 Wash",
+    "code": null,
+    "name": "Flesh Wash",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CCB19D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "P3",
+    "range": "Privateer Press Formula P3 Wash",
+    "code": null,
+    "name": "Kossite Flesh Wash",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AA9883",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "P3",
+    "range": "Privateer Press Formula P3 Wash",
+    "code": null,
+    "name": "Muddy Wash",
+    "type": "wash",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8A7F6E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

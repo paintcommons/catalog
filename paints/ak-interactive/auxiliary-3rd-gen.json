@@ -1,0 +1,92 @@
+[
+  {
+    "brand": "AK Interactive",
+    "range": "Auxiliary (3rd Gen)",
+    "code": "AK11231",
+    "name": "Retarder",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D5D5D5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Auxiliary (3rd Gen)",
+    "code": "AK11232",
+    "name": "Metal Medium",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E0E0E0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Auxiliary (3rd Gen)",
+    "code": "AK11233",
+    "name": "Glaze Medium",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D5D5D5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Auxiliary (3rd Gen)",
+    "code": "AK11234",
+    "name": "Matte Medium",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AFAFAF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Auxiliary (3rd Gen)",
+    "code": "AK11235",
+    "name": "Gloss Medium",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D9D9D9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "AK Interactive",
+    "range": "Auxiliary (3rd Gen)",
+    "code": "AK11236",
+    "name": "Crackle Medium",
+    "type": "acrylic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ACACAC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

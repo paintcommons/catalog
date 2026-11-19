@@ -1,0 +1,137 @@
+[
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Metallics",
+    "code": "11",
+    "name": "Silver",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DADADA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Metallics",
+    "code": "12",
+    "name": "Copper",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A44F18",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Metallics",
+    "code": "16",
+    "name": "Gold",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E2AE00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Metallics",
+    "code": "171",
+    "name": "Antique Bronze",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A16742",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Metallics",
+    "code": "191",
+    "name": "Chrome Silver",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E5E9EC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Metallics",
+    "code": "53",
+    "name": "Gunmetal",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A2A2A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Metallics",
+    "code": "54",
+    "name": "Brass Metallic",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E29207",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Metallics",
+    "code": "55",
+    "name": "Bronze Metallic",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B45815",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Metallics",
+    "code": "56",
+    "name": "Aluminium",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CAD1D7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]

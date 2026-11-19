@@ -1,0 +1,137 @@
+[
+  {
+    "brand": "Green Stuff World",
+    "range": "Fluor Metallic",
+    "code": null,
+    "name": "Blue",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5E88FF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Fluor Metallic",
+    "code": null,
+    "name": "Lime",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4EFF71",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Fluor Metallic",
+    "code": null,
+    "name": "Orange",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F96E33",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Fluor Metallic",
+    "code": null,
+    "name": "Red",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F03C25",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Fluor Metallic",
+    "code": null,
+    "name": "Rose",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F470A1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Fluor Metallic",
+    "code": null,
+    "name": "Violet",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BE68E3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Fluor Metallic",
+    "code": null,
+    "name": "White",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Fluor Metallic",
+    "code": null,
+    "name": "Yellow",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F8FB48",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Green Stuff World",
+    "range": "Fluor Metallic",
+    "code": null,
+    "name": "Yellow-orange",
+    "type": "metallic",
+    "source": "arcturus-miniature-paints",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F89D68",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "status": "current"
+  }
+]
