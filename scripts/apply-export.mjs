@@ -3,13 +3,14 @@
 // "Sync from Stipplewise" workflow; validate.mjs --base HEAD then refuses removed paints.
 //   node scripts/apply-export.mjs <export.json>
 import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
+import { fileURLToPath } from "node:url";
 import { dirname, resolve, relative } from "node:path";
 
-const root = new URL("..", import.meta.url).pathname;
+const root = fileURLToPath(new URL("..", import.meta.url));
 const { files, report } = JSON.parse(readFileSync(process.argv[2], "utf8"));
 if (!files || typeof files !== "object" || !files["sources.json"]) throw new Error("Not a catalog export");
 
-const ALLOWED = /^(paints\/[a-z0-9-]+\/[a-z0-9-]+\.json|sources\.json|equivalents\.json)$/;
+const ALLOWED = /^(paints\/[a-z0-9-]+\/[a-z0-9-]+\.json|sources\.json|equivalents\.json|aliases\.json)$/;
 const writes = Object.entries(files).map(([path, text]) => {
   const target = resolve(root, path);
   const inside = relative(root, target);

@@ -69,3 +69,5 @@ node scripts/validate.mjs
 The [scoped Arcturus import](reports/arcturus-import/README.md) adds 6,287 paints from the MIT-licensed miniature-paints project, credited to Rick Fleuren and Miniature Painter Pro. Every imported record and colour cites `arcturus-miniature-paints`; existing records and manufacturer colours are preserved. The pinned snapshot and full MIT notice are distributed with the data. Identity conflicts are documented separately in the import report; colour/gradient enrichments remain a separate review.
 
 The separate [Two Thin Coats import](reports/two-thin-coats/README.md) preserves existing colours, adds identifiers and 39 paints. Its approved GERInFact numeric values use credited `LicenseRef-facts` under this PR’s convention extension; the matching downstream release must be deployed before merge. Arcturus work proceeds independently.
+
+`aliases.json` preserves retired duplicate IDs as direct redirects to canonical paints. The 180 former Duncan Rhodes identities resolve to the enriched Two Thin Coats records; private collection references remain valid in Stipplewise.

@@ -1,0 +1,27 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {mkdtempSync,mkdirSync,writeFileSync,copyFileSync,rmSync} from 'node:fs';
+import {tmpdir} from 'node:os';
+import {join} from 'node:path';
+import {execFileSync,spawnSync} from 'node:child_process';
+test('duplicate redirects permit only explicit retired IDs with live canonical targets',t=>{
+ const root=mkdtempSync(join(tmpdir(),'catalog-aliases-'));t.after(()=>rmSync(root,{recursive:true,force:true}));
+ mkdirSync(join(root,'scripts'));mkdirSync(join(root,'paints','brand'),{recursive:true});
+ copyFileSync(new URL('./validate.mjs',import.meta.url),join(root,'scripts','validate.mjs'));
+ writeFileSync(join(root,'sources.json'),JSON.stringify({colour_sources:[]}));writeFileSync(join(root,'equivalents.json'),'[]');
+ const ids=[1,2,3].map(n=>`00000000-0000-4000-8000-${String(n).padStart(12,'0')}`);
+ const paints=ids.map((id,i)=>({id,brand:'Brand',range:'Range',code:null,name:`Paint ${i}`,type:'acrylic',barcodes:[],status:'current'}));
+ const file=join(root,'paints','brand','range.json');writeFileSync(file,JSON.stringify(paints));
+ const git=(...args)=>execFileSync('git',['-C',root,...args],{stdio:'pipe'});
+ git('init');git('add','.');git('-c','user.name=Left47','-c','user.email=8242332+Left47@users.noreply.github.com','commit','-m','Test fixture');
+ const validate=()=>spawnSync(process.execPath,[join(root,'scripts','validate.mjs'),'--base','HEAD'],{encoding:'utf8'});
+ writeFileSync(file,JSON.stringify(paints.slice(1)));
+ assert.notEqual(validate().status,0,'unexplained deletion is rejected');
+ writeFileSync(join(root,'aliases.json'),JSON.stringify([{alias_id:ids[0],canonical_id:ids[1]}]));
+ assert.equal(validate().status,0,'explicit redirect retains the old identity');
+ writeFileSync(file,JSON.stringify(paints.slice(1,2)));
+ assert.notEqual(validate().status,0,'unrelated deletion remains rejected');
+ writeFileSync(file,JSON.stringify(paints.slice(1)));
+ writeFileSync(join(root,'aliases.json'),JSON.stringify([{alias_id:ids[0],canonical_id:ids[0]}]));
+ assert.notEqual(validate().status,0,'cycles and missing targets are rejected');
+});

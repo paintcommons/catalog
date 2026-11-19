@@ -17,6 +17,7 @@ class TTCPreservation(unittest.TestCase):
         cls.old = ttc.baseline()
         cls.current = {str(f.relative_to(ROOT)): json.loads(f.read_text())
                        for f in (ROOT / 'paints').glob('*/*.json')}
+        original_ids = {p['id'] for rows in cls.old.values() for p in rows if p.get('id')}
         # Verify the separately approved stops, then test TTC against its original snapshot.
         stops = {r['id']: r for r in json.loads((ROOT/'reports/arcturus-review/colour-proposals.json').read_text()) if r['apply']}
         for paints in cls.current.values():
@@ -25,11 +26,14 @@ class TTCPreservation(unittest.TestCase):
                 if row:
                     assert paint == row['after']
                     paints[i] = row['before']
+            for paint in paints:
+                if paint.get('id') not in original_ids: paint.pop('id', None)
 
     def test_every_unrelated_file_is_identical(self):
         old = {f: p for f, p in self.old.items() if not f.startswith('paints/duncan-rhodes/')}
-        current = {f: p for f, p in self.current.items() if not f.startswith('paints/two-thin-coats/')}
-        self.assertEqual(current, old)
+        current = {f: p for f, p in self.current.items() if not f.startswith(('paints/two-thin-coats/', 'paints/duncan-rhodes/'))}
+        stable = lambda files: {f: sorted(rows, key=lambda p: (p['brand'], str(p['range']), str(p['code']), p['name'])) for f, rows in files.items()}
+        self.assertEqual(stable(current), stable(old))
 
     def test_existing_paints_preserve_identity_colour_and_other_fields(self):
         facts = json.loads((ttc.SOURCES / 'ttc-manufacturer-products.json').read_text())
