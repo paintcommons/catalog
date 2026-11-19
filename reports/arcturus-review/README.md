@@ -1,6 +1,6 @@
 # Arcturus tonal-stop and colour review
 
-Draft stacked directly on revised import PR #2, commit `12a3154807c3708ca169e2cd095528f504776404`. This review is Arcturus-only; TTC / GERInFact work remains separate in PR #4 and its retained review evidence. **No existing main hex is replaced.**
+Reconciled with merged imports #2 and #4, baseline `a0e31092c7a63ca1ee8a330cb025105775a7bce8`. TTC names, identifiers, additions and source notices are preserved. The 49 pooled stops were approved for merging; all other observations remain for review. **No existing main hex is replaced.**
 
 [Open the CSS-rendered review](colour-review.html): 373 unique paints / 395 substantial source observations, with search and disposition filters. [Full before/after ledger](colour-proposals.json) and [per-range review](per-range-review.json) retain every observation and alternate source. Attribution: Rick Fleuren / Miniature Painter Pro, MIT; stable source `arcturus-miniature-paints`, full licence in [THIRD_PARTY_NOTICES.md](../../THIRD_PARTY_NOTICES.md).
 

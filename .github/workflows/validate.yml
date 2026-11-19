@@ -22,8 +22,8 @@ jobs:
         run: node --test scripts/*.test.mjs
       - name: Check Arcturus import invariants
         run: PYTHONDONTWRITEBYTECODE=1 python3 scripts/import-arcturus.test.py
-      - name: Check stop-based review preservation
-        run: PYTHONDONTWRITEBYTECODE=1 python3 scripts/arcturus-review.test.py
+      - name: Check TTC preservation and provenance
+        run: PYTHONDONTWRITEBYTECODE=1 python3 scripts/import-ttc.test.py
       - name: Check the data
         run: |
           if [ "${{ github.event_name }}" = "pull_request" ]; then

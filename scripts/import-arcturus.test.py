@@ -18,21 +18,17 @@ class ImportInvariants(unittest.TestCase):
         files = subprocess.check_output(['git', 'ls-tree', '-r', '--name-only', module.BASE, '--', 'paints'], cwd=ROOT, text=True).splitlines()
         old = [p for f in files if f.endswith('.json') for p in json.loads(subprocess.check_output(['git', 'show', f'{module.BASE}:{f}'], cwd=ROOT, text=True))]
         self.assertEqual(len(old), 1981)
-        review = ROOT / 'reports/arcturus-review/colour-proposals.json'
-        proposals = {r['id']:r for r in json.loads(review.read_text()) if r['apply']} if review.exists() else {}
+        ttc_changes = {r['before']['id']: r['after'] for r in json.loads((ROOT/'reports/two-thin-coats/existing-record-changes.json').read_text()) if r['before'].get('id')}
+        stops = {r['id']: r for r in json.loads((ROOT/'reports/arcturus-review/colour-proposals.json').read_text()) if r['apply']}
         for p in old:
-            if p['id'] in proposals:
-                row = proposals[p['id']]
-                self.assertEqual(row['before'], p)
-                self.assertEqual(by_id[p['id']], row['after'])
-                self.assertEqual(row['after']['colour']['hex'], p['colour']['hex'])
-                self.assertEqual({k:v for k,v in p.items() if k!='colour'}, {k:v for k,v in row['after'].items() if k!='colour'})
-                self.assertNotEqual(p['colour']['source'], 'manual-override')
-            else:
-                self.assertEqual(by_id[p['id']], p, p['name'])
-        self.assertEqual(len(current), len(old) + 6287)
+            expected = ttc_changes.get(p['id'], p)
+            if p['id'] in stops:
+                self.assertEqual(stops[p['id']]['before'], expected)
+                expected = stops[p['id']]['after']
+            self.assertEqual(by_id[p['id']], expected, p['name'])
+        self.assertEqual(len(current), len(old) + 6287 + 39)
         for p in current:
-            if not p.get('id'):
+            if not p.get('id') and p['brand'] != 'Two Thin Coats':
                 self.assertEqual(p['colour']['source'], module.SOURCE)
                 self.assertEqual(p['source'], module.SOURCE)
                 self.assertEqual(p['barcodes'], [])

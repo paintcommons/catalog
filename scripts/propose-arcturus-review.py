@@ -15,7 +15,7 @@ import subprocess
 import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-CLEAN = '12a3154807c3708ca169e2cd095528f504776404'
+CLEAN = 'a0e31092c7a63ca1ee8a330cb025105775a7bce8'
 OUT = ROOT / 'reports/arcturus-review'
 spec = importlib.util.spec_from_file_location('arcturus', ROOT / 'scripts/import-arcturus.py')
 imp = importlib.util.module_from_spec(spec)

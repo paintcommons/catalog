@@ -45,7 +45,7 @@ Record only colours a source shows. Metallics and colour-shift paints: two or mo
 
 Data from another open project keeps its licence. To import some:
 
-1. Add the project to `sources.json` (`colour_sources`) with an `id`, `name`, `url`, `method`, `status` (`published`), `licence` (an SPDX id: `CC0-1.0`, `CC-BY-4.0`, `MIT`, `BSD-2-Clause`, `BSD-3-Clause` or `ISC`; anything else can only be `withheld`) and `priority` (community projects 40; manufacturer publications 80). Licences that ask for credit also need an `attribution` and a `notice` pointing at its full text in `THIRD_PARTY_NOTICES.md`.
+1. Add the project to `sources.json` (`colour_sources`) with an `id`, `name`, `url`, `method`, `status` (`published`), `licence` (an SPDX id: `CC0-1.0`, `CC-BY-4.0`, `MIT`, `BSD-2-Clause`, `BSD-3-Clause` or `ISC`, or `LicenseRef-facts` for factual values such as names and approximate colours from a source that states no licence; anything else can only be `withheld`) and `priority` (community projects 40; manufacturer publications 80). Licences that ask for credit also need an `attribution` and a `notice` pointing at its full text in `THIRD_PARTY_NOTICES.md`.
 2. Mark each imported paint with `"source": "<id>"`, and each colour from it with `"colour": {…, "source": "<id>"}`.
 3. A colour from a lower-priority source can't replace one from a higher-priority source. If the evidence says it should, explain why in the pull request and ask for the `colour-override` label.
 

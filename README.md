@@ -2,9 +2,9 @@
 
 An open, community-maintained catalog of miniature paints: brands, ranges, product codes, names, paint types, barcodes and approximate colours, each colour with its source.
 
-- **8,268 paints** across 21 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper and Scale75
-- **1,565 barcodes**, each marked calculated, published (with its source URL) or confirmed by scan
-- **8,253 colours**, each linked to its source
+- **8,307 paints** across 21 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper and Scale75
+- **1,745 barcodes**, each marked calculated, published (with its source URL) or confirmed by scan
+- **8,283 colours**, each linked to its source
 
 Paint Commons is inspired by the commons ethos of Wikipedia and Creative Commons, with no affiliation to either. The catalog is kept in sync with [Stipplewise](https://stipplewise.com), a paint collection app that contributes reviewed corrections and reads the catalog back.
 
@@ -68,4 +68,4 @@ node scripts/validate.mjs
 
 The [scoped Arcturus import](reports/arcturus-import/README.md) adds 6,287 paints from the MIT-licensed miniature-paints project, credited to Rick Fleuren and Miniature Painter Pro. Every imported record and colour cites `arcturus-miniature-paints`; existing records and manufacturer colours are preserved. The pinned snapshot and full MIT notice are distributed with the data. Identity conflicts are documented separately in the import report; colour/gradient enrichments remain a separate review.
 
-This draft retains all current hex values and adds only the stop candidates documented in [the Arcturus tonal review](reports/arcturus-review/README.md).
+The separate [Two Thin Coats import](reports/two-thin-coats/README.md) preserves existing colours, adds identifiers and 39 paints. Its approved GERInFact numeric values use credited `LicenseRef-facts` under this PR’s convention extension; the matching downstream release must be deployed before merge. Arcturus work proceeds independently.
