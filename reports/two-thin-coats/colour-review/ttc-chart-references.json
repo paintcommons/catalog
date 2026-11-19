@@ -1,0 +1,4573 @@
+{
+  "purpose": "Reference comparisons only; no catalogue swatches are populated from PDFs.",
+  "attribution": "Trans Atlantis Games and Duncan Rhodes Painting Academy, official Two Thin Coats conversion/comparison charts.",
+  "method": "Decode the single embedded raster at native resolution; composite alpha on white. Use circular interiors r ≤ 0.85; Wave 1/2 exclude the central badge rectangle |x| < 0.30r, |y| < 0.45r. Report per-channel median RGB and actual pixels at the 10th, 50th and 90th OKLab-lightness percentiles. Compare each numeric candidate with the median using Euclidean OKLab on a 0–1 scale, not CIEDE2000. Dragon’s Gold additionally checks nearest pixels out to r ≤ 0.97.",
+  "limitations": "Reference graphic samples depend on ROI and PDF image decoding; metallic gradients are not a single paint measurement. Quantile colours are not manufacturer-specified gradient stops. No chart artwork is redistributed and no artwork licence is asserted.",
+  "charts": [
+    {
+      "wave": 1,
+      "file": "wave1-conversion.pdf",
+      "x0": 90,
+      "dx": 350,
+      "y0": 303.5,
+      "dy": 109.3,
+      "radius": 45,
+      "badge": true,
+      "url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "page": 1,
+      "embedded_image_pixels": [
+        2500,
+        1788
+      ]
+    },
+    {
+      "wave": 2,
+      "file": "wave2-conversion.pdf",
+      "x0": 100,
+      "dx": 350,
+      "y0": 307,
+      "dy": 109,
+      "radius": 45,
+      "badge": true,
+      "url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "page": 1,
+      "embedded_image_pixels": [
+        3579,
+        2512
+      ]
+    },
+    {
+      "wave": 3,
+      "file": "wave3.pdf",
+      "x0": 67.8,
+      "dx": 362.75,
+      "y0": 317.2,
+      "dy": 111.2,
+      "radius": 46.4,
+      "badge": false,
+      "url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "page": 1,
+      "embedded_image_pixels": [
+        3508,
+        2480
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "code": "10001",
+      "name": "Berserker Red",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 1,
+      "grid_column": 1,
+      "native_sample_centre": [
+        102.273,
+        344.886
+      ],
+      "native_radius": 51.136,
+      "samples": 4516,
+      "reference_median": "#4D1A16",
+      "reference_lightness_quantiles": [
+        "#4D1A16",
+        "#4D1A16",
+        "#4D1A16"
+      ],
+      "current_hex": "#4D1A15",
+      "gerinfact_hex": "#4D1B16",
+      "current_to_reference": 0.001413,
+      "gerinfact_to_reference": 0.002413
+    },
+    {
+      "code": "10002",
+      "name": "Sanguine Scarlet",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 1,
+      "grid_column": 2,
+      "native_sample_centre": [
+        500.0,
+        344.886
+      ],
+      "native_radius": 51.136,
+      "samples": 4515,
+      "reference_median": "#971714",
+      "reference_lightness_quantiles": [
+        "#971714",
+        "#971714",
+        "#971714"
+      ],
+      "current_hex": "#961714",
+      "gerinfact_hex": "#961914",
+      "current_to_reference": 0.002171,
+      "gerinfact_to_reference": 0.002529
+    },
+    {
+      "code": "10003",
+      "name": "Demon Red",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 1,
+      "grid_column": 3,
+      "native_sample_centre": [
+        897.727,
+        344.886
+      ],
+      "native_radius": 51.136,
+      "samples": 4516,
+      "reference_median": "#D31217",
+      "reference_lightness_quantiles": [
+        "#D31217",
+        "#D31217",
+        "#D31217"
+      ],
+      "current_hex": "#D21116",
+      "gerinfact_hex": "#D21215",
+      "current_to_reference": 0.002343,
+      "gerinfact_to_reference": 0.002364
+    },
+    {
+      "code": "10004",
+      "name": "Dark Sun Yellow",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 1,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1295.455,
+        344.886
+      ],
+      "native_radius": 51.136,
+      "samples": 4552,
+      "reference_median": "#C48639",
+      "reference_lightness_quantiles": [
+        "#C48639",
+        "#C48639",
+        "#C48639"
+      ],
+      "current_hex": "#C38639",
+      "gerinfact_hex": "#C48638",
+      "current_to_reference": 0.001711,
+      "gerinfact_to_reference": 0.000827
+    },
+    {
+      "code": "10005",
+      "name": "Skulker Yellow",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 1,
+      "grid_column": 5,
+      "native_sample_centre": [
+        1693.182,
+        344.886
+      ],
+      "native_radius": 51.136,
+      "samples": 4512,
+      "reference_median": "#F59E00",
+      "reference_lightness_quantiles": [
+        "#F59E00",
+        "#F59E00",
+        "#F59E00"
+      ],
+      "current_hex": "#F49E00",
+      "gerinfact_hex": "#F59E02",
+      "current_to_reference": 0.001694,
+      "gerinfact_to_reference": 0.000321
+    },
+    {
+      "code": "10006",
+      "name": "Yellow Flame",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 1,
+      "grid_column": 6,
+      "native_sample_centre": [
+        2090.909,
+        344.886
+      ],
+      "native_radius": 51.136,
+      "samples": 4518,
+      "reference_median": "#F8AF2C",
+      "reference_lightness_quantiles": [
+        "#F8AF2C",
+        "#F8AF2C",
+        "#F8AF2C"
+      ],
+      "current_hex": "#F8AF2B",
+      "gerinfact_hex": "#F8B02C",
+      "current_to_reference": 0.00047,
+      "gerinfact_to_reference": 0.002433
+    },
+    {
+      "code": "10007",
+      "name": "Marine Blue",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 2,
+      "grid_column": 1,
+      "native_sample_centre": [
+        102.273,
+        469.091
+      ],
+      "native_radius": 51.136,
+      "samples": 4514,
+      "reference_median": "#44496F",
+      "reference_lightness_quantiles": [
+        "#44496F",
+        "#44496F",
+        "#44496F"
+      ],
+      "current_hex": "#43496F",
+      "gerinfact_hex": "#44496F",
+      "current_to_reference": 0.001522,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10008",
+      "name": "Elysium Blue",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 2,
+      "grid_column": 2,
+      "native_sample_centre": [
+        500.0,
+        469.091
+      ],
+      "native_radius": 51.136,
+      "samples": 4517,
+      "reference_median": "#5179AC",
+      "reference_lightness_quantiles": [
+        "#5179AC",
+        "#5179AC",
+        "#5179AC"
+      ],
+      "current_hex": "#5179AB",
+      "gerinfact_hex": "#5179AC",
+      "current_to_reference": 0.001587,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10009",
+      "name": "Celestial Blue",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 2,
+      "grid_column": 3,
+      "native_sample_centre": [
+        897.727,
+        469.091
+      ],
+      "native_radius": 51.136,
+      "samples": 4514,
+      "reference_median": "#6992C0",
+      "reference_lightness_quantiles": [
+        "#6992C0",
+        "#6992C0",
+        "#6992C0"
+      ],
+      "current_hex": "#6991C0",
+      "gerinfact_hex": "#6992C0",
+      "current_to_reference": 0.002838,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10010",
+      "name": "Rust Orange",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 2,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1295.455,
+        469.091
+      ],
+      "native_radius": 51.136,
+      "samples": 4548,
+      "reference_median": "#BA4D38",
+      "reference_lightness_quantiles": [
+        "#BA4D38",
+        "#BA4D38",
+        "#BA4D38"
+      ],
+      "current_hex": "#B94D37",
+      "gerinfact_hex": "#BA4D37",
+      "current_to_reference": 0.00227,
+      "gerinfact_to_reference": 0.001085
+    },
+    {
+      "code": "10011",
+      "name": "Fanatic Orange",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 2,
+      "grid_column": 5,
+      "native_sample_centre": [
+        1693.182,
+        469.091
+      ],
+      "native_radius": 51.136,
+      "samples": 4514,
+      "reference_median": "#DA4A2F",
+      "reference_lightness_quantiles": [
+        "#DA4A2F",
+        "#DA4A2F",
+        "#DA4A2F"
+      ],
+      "current_hex": "#D94A2E",
+      "gerinfact_hex": "#D94A2F",
+      "current_to_reference": 0.002153,
+      "gerinfact_to_reference": 0.001933
+    },
+    {
+      "code": "10012",
+      "name": "Orange Flare",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 2,
+      "grid_column": 6,
+      "native_sample_centre": [
+        2090.909,
+        469.091
+      ],
+      "native_radius": 51.136,
+      "samples": 4517,
+      "reference_median": "#EB7140",
+      "reference_lightness_quantiles": [
+        "#EB7140",
+        "#EB7140",
+        "#EB7140"
+      ],
+      "current_hex": "#EB7140",
+      "gerinfact_hex": "#F29D7B",
+      "current_to_reference": 0.0,
+      "gerinfact_to_reference": 0.102651
+    },
+    {
+      "code": "10013",
+      "name": "Wyvern Green",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 3,
+      "grid_column": 1,
+      "native_sample_centre": [
+        102.273,
+        593.295
+      ],
+      "native_radius": 51.136,
+      "samples": 4510,
+      "reference_median": "#404A42",
+      "reference_lightness_quantiles": [
+        "#404A42",
+        "#404A42",
+        "#404A42"
+      ],
+      "current_hex": "#404942",
+      "gerinfact_hex": "#404A42",
+      "current_to_reference": 0.00329,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10014",
+      "name": "Emerald Green",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 3,
+      "grid_column": 2,
+      "native_sample_centre": [
+        500.0,
+        593.295
+      ],
+      "native_radius": 51.136,
+      "samples": 4513,
+      "reference_median": "#3C5C44",
+      "reference_lightness_quantiles": [
+        "#3C5C44",
+        "#3C5C44",
+        "#3C5C44"
+      ],
+      "current_hex": "#3C5C43",
+      "gerinfact_hex": "#3C5C43",
+      "current_to_reference": 0.001546,
+      "gerinfact_to_reference": 0.001546
+    },
+    {
+      "code": "10015",
+      "name": "Ethereal Green",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 3,
+      "grid_column": 3,
+      "native_sample_centre": [
+        897.727,
+        593.295
+      ],
+      "native_radius": 51.136,
+      "samples": 4510,
+      "reference_median": "#56802E",
+      "reference_lightness_quantiles": [
+        "#56802E",
+        "#56802E",
+        "#56802E"
+      ],
+      "current_hex": "#567F2D",
+      "gerinfact_hex": "#56802E",
+      "current_to_reference": 0.002889,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10016",
+      "name": "Amethyst Rayne",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 3,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1295.455,
+        593.295
+      ],
+      "native_radius": 51.136,
+      "samples": 4553,
+      "reference_median": "#524269",
+      "reference_lightness_quantiles": [
+        "#524269",
+        "#524269",
+        "#524269"
+      ],
+      "current_hex": "#524169",
+      "gerinfact_hex": "#524169",
+      "current_to_reference": 0.002908,
+      "gerinfact_to_reference": 0.002908
+    },
+    {
+      "code": "10017",
+      "name": "Sorcerer’s Cloak",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 3,
+      "grid_column": 5,
+      "native_sample_centre": [
+        1693.182,
+        593.295
+      ],
+      "native_radius": 51.136,
+      "samples": 4510,
+      "reference_median": "#79588D",
+      "reference_lightness_quantiles": [
+        "#79588D",
+        "#79588D",
+        "#79588D"
+      ],
+      "current_hex": "#78588D",
+      "gerinfact_hex": "#79588D",
+      "current_to_reference": 0.001742,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10018",
+      "name": "Runic Purple",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 3,
+      "grid_column": 6,
+      "native_sample_centre": [
+        2090.909,
+        593.295
+      ],
+      "native_radius": 51.136,
+      "samples": 4512,
+      "reference_median": "#9C8DB4",
+      "reference_lightness_quantiles": [
+        "#9C8DB4",
+        "#9C8DB4",
+        "#9C8DB4"
+      ],
+      "current_hex": "#9B8DB4",
+      "gerinfact_hex": "#9C8CB3",
+      "current_to_reference": 0.001503,
+      "gerinfact_to_reference": 0.002685
+    },
+    {
+      "code": "10019",
+      "name": "Doom Death Black",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 4,
+      "grid_column": 1,
+      "native_sample_centre": [
+        102.273,
+        717.5
+      ],
+      "native_radius": 51.136,
+      "samples": 4504,
+      "reference_median": "#3D3936",
+      "reference_lightness_quantiles": [
+        "#3D3936",
+        "#3D3936",
+        "#3D3936"
+      ],
+      "current_hex": "#3C3936",
+      "gerinfact_hex": "#3D3937",
+      "current_to_reference": 0.001748,
+      "gerinfact_to_reference": 0.001727
+    },
+    {
+      "code": "10020",
+      "name": "Death Reaper",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 4,
+      "grid_column": 2,
+      "native_sample_centre": [
+        500.0,
+        717.5
+      ],
+      "native_radius": 51.136,
+      "samples": 4492,
+      "reference_median": "#434142",
+      "reference_lightness_quantiles": [
+        "#434142",
+        "#434142",
+        "#434142"
+      ],
+      "current_hex": "#434142",
+      "gerinfact_hex": "#434142",
+      "current_to_reference": 0.0,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10021",
+      "name": "Dungeon Stone Grey",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 4,
+      "grid_column": 3,
+      "native_sample_centre": [
+        897.727,
+        717.5
+      ],
+      "native_radius": 51.136,
+      "samples": 4504,
+      "reference_median": "#5D5E60",
+      "reference_lightness_quantiles": [
+        "#5D5E60",
+        "#5D5E60",
+        "#5D5E60"
+      ],
+      "current_hex": "#5C5E5F",
+      "gerinfact_hex": "#5C5E60",
+      "current_to_reference": 0.00236,
+      "gerinfact_to_reference": 0.001549
+    },
+    {
+      "code": "10022",
+      "name": "Wizard Grey",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 4,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1295.455,
+        717.5
+      ],
+      "native_radius": 51.136,
+      "samples": 4546,
+      "reference_median": "#6D6B6C",
+      "reference_lightness_quantiles": [
+        "#6D6B6C",
+        "#6D6B6C",
+        "#6D6B6C"
+      ],
+      "current_hex": "#6D6B6C",
+      "gerinfact_hex": "#6D6C6C",
+      "current_to_reference": 0.0,
+      "gerinfact_to_reference": 0.002997
+    },
+    {
+      "code": "10023",
+      "name": "Carcharodon Grey",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 4,
+      "grid_column": 5,
+      "native_sample_centre": [
+        1693.182,
+        717.5
+      ],
+      "native_radius": 51.136,
+      "samples": 4504,
+      "reference_median": "#959597",
+      "reference_lightness_quantiles": [
+        "#959597",
+        "#959597",
+        "#959597"
+      ],
+      "current_hex": "#959496",
+      "gerinfact_hex": "#959596",
+      "current_to_reference": 0.002716,
+      "gerinfact_to_reference": 0.001488
+    },
+    {
+      "code": "10024",
+      "name": "White Star",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 4,
+      "grid_column": 6,
+      "native_sample_centre": [
+        2090.909,
+        717.5
+      ],
+      "native_radius": 51.136,
+      "samples": 4506,
+      "reference_median": "#F9F9F9",
+      "reference_lightness_quantiles": [
+        "#F9F9F9",
+        "#F9F9F9",
+        "#F9F9F9"
+      ],
+      "current_hex": "#F9F9F9",
+      "gerinfact_hex": "#F8F9F8",
+      "current_to_reference": 0.0,
+      "gerinfact_to_reference": 0.001979
+    },
+    {
+      "code": "10025",
+      "name": "Barbarian Brawn",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 5,
+      "grid_column": 1,
+      "native_sample_centre": [
+        102.273,
+        841.705
+      ],
+      "native_radius": 51.136,
+      "samples": 4510,
+      "reference_median": "#8F5F55",
+      "reference_lightness_quantiles": [
+        "#8F5F55",
+        "#8F5F55",
+        "#8F5F55"
+      ],
+      "current_hex": "#8F5E54",
+      "gerinfact_hex": "#8F5F55",
+      "current_to_reference": 0.002596,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10026",
+      "name": "Dwarven Skin",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 5,
+      "grid_column": 2,
+      "native_sample_centre": [
+        500.0,
+        841.705
+      ],
+      "native_radius": 51.136,
+      "samples": 4513,
+      "reference_median": "#B07D62",
+      "reference_lightness_quantiles": [
+        "#B07D62",
+        "#B07D62",
+        "#B07D62"
+      ],
+      "current_hex": "#B07C62",
+      "gerinfact_hex": "#B07C62",
+      "current_to_reference": 0.002669,
+      "gerinfact_to_reference": 0.002669
+    },
+    {
+      "code": "10027",
+      "name": "Elven Skin",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 5,
+      "grid_column": 3,
+      "native_sample_centre": [
+        897.727,
+        841.705
+      ],
+      "native_radius": 51.136,
+      "samples": 4510,
+      "reference_median": "#C49875",
+      "reference_lightness_quantiles": [
+        "#C49875",
+        "#C49875",
+        "#C49875"
+      ],
+      "current_hex": "#C49774",
+      "gerinfact_hex": "#C49774",
+      "current_to_reference": 0.002506,
+      "gerinfact_to_reference": 0.002506
+    },
+    {
+      "code": "10028",
+      "name": "Cuirass Leather",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 5,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1295.455,
+        841.705
+      ],
+      "native_radius": 51.136,
+      "samples": 4553,
+      "reference_median": "#51433A",
+      "reference_lightness_quantiles": [
+        "#51433A",
+        "#51433A",
+        "#51433A"
+      ],
+      "current_hex": "#514239",
+      "gerinfact_hex": "#52433A",
+      "current_to_reference": 0.002984,
+      "gerinfact_to_reference": 0.0018
+    },
+    {
+      "code": "10029",
+      "name": "Boar Hide",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 5,
+      "grid_column": 5,
+      "native_sample_centre": [
+        1693.182,
+        841.705
+      ],
+      "native_radius": 51.136,
+      "samples": 4510,
+      "reference_median": "#734538",
+      "reference_lightness_quantiles": [
+        "#734538",
+        "#734538",
+        "#734538"
+      ],
+      "current_hex": "#724438",
+      "gerinfact_hex": "#73453A",
+      "current_to_reference": 0.003587,
+      "gerinfact_to_reference": 0.002904
+    },
+    {
+      "code": "10030",
+      "name": "Fur Cloak",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 5,
+      "grid_column": 6,
+      "native_sample_centre": [
+        2090.909,
+        841.705
+      ],
+      "native_radius": 51.136,
+      "samples": 4512,
+      "reference_median": "#92534E",
+      "reference_lightness_quantiles": [
+        "#92534E",
+        "#92534E",
+        "#92534E"
+      ],
+      "current_hex": "#91524D",
+      "gerinfact_hex": "#92534E",
+      "current_to_reference": 0.003377,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10031",
+      "name": "Dragon Fang",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 6,
+      "grid_column": 1,
+      "native_sample_centre": [
+        102.273,
+        965.909
+      ],
+      "native_radius": 51.136,
+      "samples": 4514,
+      "reference_median": "#9E8461",
+      "reference_lightness_quantiles": [
+        "#9E8461",
+        "#9E8461",
+        "#9E8461"
+      ],
+      "current_hex": "#9E8461",
+      "gerinfact_hex": "#9E8460",
+      "current_to_reference": 0.0,
+      "gerinfact_to_reference": 0.001322
+    },
+    {
+      "code": "10032",
+      "name": "Skeleton Legion",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 6,
+      "grid_column": 2,
+      "native_sample_centre": [
+        500.0,
+        965.909
+      ],
+      "native_radius": 51.136,
+      "samples": 4517,
+      "reference_median": "#AF966D",
+      "reference_lightness_quantiles": [
+        "#AF966D",
+        "#AF966D",
+        "#AF966D"
+      ],
+      "current_hex": "#AF966C",
+      "gerinfact_hex": "#B0966C",
+      "current_to_reference": 0.001289,
+      "gerinfact_to_reference": 0.001881
+    },
+    {
+      "code": "10033",
+      "name": "Vampire Fang",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 6,
+      "grid_column": 3,
+      "native_sample_centre": [
+        897.727,
+        965.909
+      ],
+      "native_radius": 51.136,
+      "samples": 4514,
+      "reference_median": "#CCB99B",
+      "reference_lightness_quantiles": [
+        "#CCB99B",
+        "#CCB99B",
+        "#CCB99B"
+      ],
+      "current_hex": "#CBB89B",
+      "gerinfact_hex": "#CCB899",
+      "current_to_reference": 0.003184,
+      "gerinfact_to_reference": 0.003045
+    },
+    {
+      "code": "10034",
+      "name": "Griffon Claw",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 6,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1295.455,
+        965.909
+      ],
+      "native_radius": 51.136,
+      "samples": 4548,
+      "reference_median": "#9E9085",
+      "reference_lightness_quantiles": [
+        "#9E9085",
+        "#9E9085",
+        "#9E9085"
+      ],
+      "current_hex": "#9E9084",
+      "gerinfact_hex": "#9F8F85",
+      "current_to_reference": 0.001448,
+      "gerinfact_to_reference": 0.003051
+    },
+    {
+      "code": "10035",
+      "name": "Ivory Tusk",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 6,
+      "grid_column": 5,
+      "native_sample_centre": [
+        1693.182,
+        965.909
+      ],
+      "native_radius": 51.136,
+      "samples": 4514,
+      "reference_median": "#D2C8BF",
+      "reference_lightness_quantiles": [
+        "#D2C8BF",
+        "#D2C8BF",
+        "#D2C8BF"
+      ],
+      "current_hex": "#D2C7BF",
+      "gerinfact_hex": "#D2C8C0",
+      "current_to_reference": 0.002665,
+      "gerinfact_to_reference": 0.001385
+    },
+    {
+      "code": "10036",
+      "name": "Trooper White",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 6,
+      "grid_column": 6,
+      "native_sample_centre": [
+        2090.909,
+        965.909
+      ],
+      "native_radius": 51.136,
+      "samples": 4517,
+      "reference_median": "#EDEBDF",
+      "reference_lightness_quantiles": [
+        "#EDEBDF",
+        "#EDEBDF",
+        "#EDEBDF"
+      ],
+      "current_hex": "#ECEADF",
+      "gerinfact_hex": "#EDEBE0",
+      "current_to_reference": 0.003053,
+      "gerinfact_to_reference": 0.001348
+    },
+    {
+      "code": "10037",
+      "name": "Dust Bowl",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 7,
+      "grid_column": 1,
+      "native_sample_centre": [
+        102.273,
+        1090.114
+      ],
+      "native_radius": 51.136,
+      "samples": 4516,
+      "reference_median": "#7D634A",
+      "reference_lightness_quantiles": [
+        "#7D634A",
+        "#7D634A",
+        "#7D634A"
+      ],
+      "current_hex": "#7D6349",
+      "gerinfact_hex": "#7E634B",
+      "current_to_reference": 0.001393,
+      "gerinfact_to_reference": 0.002347
+    },
+    {
+      "code": "10038",
+      "name": "Sandstone",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 7,
+      "grid_column": 2,
+      "native_sample_centre": [
+        500.0,
+        1090.114
+      ],
+      "native_radius": 51.136,
+      "samples": 4515,
+      "reference_median": "#927B69",
+      "reference_lightness_quantiles": [
+        "#927B69",
+        "#927B69",
+        "#927B69"
+      ],
+      "current_hex": "#927B68",
+      "gerinfact_hex": "#927B68",
+      "current_to_reference": 0.001434,
+      "gerinfact_to_reference": 0.001434
+    },
+    {
+      "code": "10039",
+      "name": "Temple Stone",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 7,
+      "grid_column": 3,
+      "native_sample_centre": [
+        897.727,
+        1090.114
+      ],
+      "native_radius": 51.136,
+      "samples": 4516,
+      "reference_median": "#A39179",
+      "reference_lightness_quantiles": [
+        "#A39179",
+        "#A39179",
+        "#A39179"
+      ],
+      "current_hex": "#A39179",
+      "gerinfact_hex": "#A39179",
+      "current_to_reference": 0.0,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10040",
+      "name": "Sir Coates Silver",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 7,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1295.455,
+        1090.114
+      ],
+      "native_radius": 51.136,
+      "samples": 4552,
+      "reference_median": "#444544",
+      "reference_lightness_quantiles": [
+        "#373735",
+        "#434544",
+        "#555555"
+      ],
+      "current_hex": "#4D4F4F",
+      "gerinfact_hex": "#494A4A",
+      "current_to_reference": 0.036697,
+      "gerinfact_to_reference": 0.019133
+    },
+    {
+      "code": "10041",
+      "name": "Plate Armour",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 7,
+      "grid_column": 5,
+      "native_sample_centre": [
+        1693.182,
+        1090.114
+      ],
+      "native_radius": 51.136,
+      "samples": 4512,
+      "reference_median": "#696B6A",
+      "reference_lightness_quantiles": [
+        "#515151",
+        "#696B6A",
+        "#7F8180"
+      ],
+      "current_hex": "#787979",
+      "gerinfact_hex": "#757677",
+      "current_to_reference": 0.049566,
+      "gerinfact_to_reference": 0.03972
+    },
+    {
+      "code": "10042",
+      "name": "Mythril Blade",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 7,
+      "grid_column": 6,
+      "native_sample_centre": [
+        2090.909,
+        1090.114
+      ],
+      "native_radius": 51.136,
+      "samples": 4518,
+      "reference_median": "#727473",
+      "reference_lightness_quantiles": [
+        "#535351",
+        "#727473",
+        "#97989A"
+      ],
+      "current_hex": "#7D7F7F",
+      "gerinfact_hex": "#818283",
+      "current_to_reference": 0.0379,
+      "gerinfact_to_reference": 0.04928
+    },
+    {
+      "code": "10043",
+      "name": "Spartan Bronze",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 8,
+      "grid_column": 1,
+      "native_sample_centre": [
+        102.273,
+        1214.318
+      ],
+      "native_radius": 51.136,
+      "samples": 4511,
+      "reference_median": "#5B4031",
+      "reference_lightness_quantiles": [
+        "#47362C",
+        "#5C4032",
+        "#6D4A37"
+      ],
+      "current_hex": "#644534",
+      "gerinfact_hex": "#604332",
+      "current_to_reference": 0.023599,
+      "gerinfact_to_reference": 0.013603
+    },
+    {
+      "code": "10044",
+      "name": "Dragon’s Gold",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 8,
+      "grid_column": 2,
+      "native_sample_centre": [
+        500.0,
+        1214.318
+      ],
+      "native_radius": 51.136,
+      "samples": 4511,
+      "reference_median": "#A78644",
+      "reference_lightness_quantiles": [
+        "#786338",
+        "#A78643",
+        "#CFA64E"
+      ],
+      "current_hex": "#CDA24E",
+      "gerinfact_hex": "#4F442C",
+      "current_to_reference": 0.100046,
+      "gerinfact_to_reference": 0.251843,
+      "nearest_chart_pixels": {
+        "current": {
+          "hex": "#CCA24E",
+          "distance": 0.001596,
+          "normalised_radius": 0.5088
+        },
+        "gerinfact": {
+          "hex": "#50442C",
+          "distance": 0.001787,
+          "normalised_radius": 0.9305
+        }
+      }
+    },
+    {
+      "code": "10045",
+      "name": "Glistening Gold",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 8,
+      "grid_column": 3,
+      "native_sample_centre": [
+        897.727,
+        1214.318
+      ],
+      "native_radius": 51.136,
+      "samples": 4511,
+      "reference_median": "#827157",
+      "reference_lightness_quantiles": [
+        "#5D5141",
+        "#827157",
+        "#AD956F"
+      ],
+      "current_hex": "#9B8664",
+      "gerinfact_hex": "#5C5241",
+      "current_to_reference": 0.073749,
+      "gerinfact_to_reference": 0.115021
+    },
+    {
+      "code": "10046",
+      "name": "Royal Cloak",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 8,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1295.455,
+        1214.318
+      ],
+      "native_radius": 51.136,
+      "samples": 4551,
+      "reference_median": "#5C4349",
+      "reference_lightness_quantiles": [
+        "#5C4349",
+        "#5C4349",
+        "#5C4349"
+      ],
+      "current_hex": "#5B4249",
+      "gerinfact_hex": "#5B4349",
+      "current_to_reference": 0.003718,
+      "gerinfact_to_reference": 0.001848
+    },
+    {
+      "code": "10047",
+      "name": "Sword Hilt Burgundy",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 8,
+      "grid_column": 5,
+      "native_sample_centre": [
+        1693.182,
+        1214.318
+      ],
+      "native_radius": 51.136,
+      "samples": 4512,
+      "reference_median": "#773D4B",
+      "reference_lightness_quantiles": [
+        "#773D4B",
+        "#773D4B",
+        "#773D4B"
+      ],
+      "current_hex": "#773D4A",
+      "gerinfact_hex": "#773D4B",
+      "current_to_reference": 0.00162,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10048",
+      "name": "Glistening Gums",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 8,
+      "grid_column": 6,
+      "native_sample_centre": [
+        2090.909,
+        1214.318
+      ],
+      "native_radius": 51.136,
+      "samples": 4511,
+      "reference_median": "#99587A",
+      "reference_lightness_quantiles": [
+        "#99587A",
+        "#99587A",
+        "#99587A"
+      ],
+      "current_hex": "#995779",
+      "gerinfact_hex": "#995879",
+      "current_to_reference": 0.002511,
+      "gerinfact_to_reference": 0.001583
+    },
+    {
+      "code": "10049",
+      "name": "Cold Corpse Blue",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 9,
+      "grid_column": 1,
+      "native_sample_centre": [
+        102.273,
+        1338.523
+      ],
+      "native_radius": 51.136,
+      "samples": 4503,
+      "reference_median": "#51565C",
+      "reference_lightness_quantiles": [
+        "#51565C",
+        "#51565C",
+        "#51565C"
+      ],
+      "current_hex": "#50555C",
+      "gerinfact_hex": "#51555C",
+      "current_to_reference": 0.003648,
+      "gerinfact_to_reference": 0.003136
+    },
+    {
+      "code": "10050",
+      "name": "Wolf Grey",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 9,
+      "grid_column": 2,
+      "native_sample_centre": [
+        500.0,
+        1338.523
+      ],
+      "native_radius": 51.136,
+      "samples": 4494,
+      "reference_median": "#637687",
+      "reference_lightness_quantiles": [
+        "#637687",
+        "#637687",
+        "#637687"
+      ],
+      "current_hex": "#627587",
+      "gerinfact_hex": "#627688",
+      "current_to_reference": 0.003427,
+      "gerinfact_to_reference": 0.001969
+    },
+    {
+      "code": "10051",
+      "name": "Gravestone Blue",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 9,
+      "grid_column": 3,
+      "native_sample_centre": [
+        897.727,
+        1338.523
+      ],
+      "native_radius": 51.136,
+      "samples": 4503,
+      "reference_median": "#7B8996",
+      "reference_lightness_quantiles": [
+        "#7B8996",
+        "#7B8996",
+        "#7B8996"
+      ],
+      "current_hex": "#7A8896",
+      "gerinfact_hex": "#7C8897",
+      "current_to_reference": 0.003352,
+      "gerinfact_to_reference": 0.003883
+    },
+    {
+      "code": "10052",
+      "name": "Scorched Earth",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 9,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1295.455,
+        1338.523
+      ],
+      "native_radius": 51.136,
+      "samples": 4548,
+      "reference_median": "#5A4C49",
+      "reference_lightness_quantiles": [
+        "#5A4C49",
+        "#5A4C49",
+        "#5A4C49"
+      ],
+      "current_hex": "#594C48",
+      "gerinfact_hex": "#5A4D49",
+      "current_to_reference": 0.002493,
+      "gerinfact_to_reference": 0.003092
+    },
+    {
+      "code": "10053",
+      "name": "Ancient Forest",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 9,
+      "grid_column": 5,
+      "native_sample_centre": [
+        1693.182,
+        1338.523
+      ],
+      "native_radius": 51.136,
+      "samples": 4507,
+      "reference_median": "#725B53",
+      "reference_lightness_quantiles": [
+        "#725B53",
+        "#725B53",
+        "#725B53"
+      ],
+      "current_hex": "#715B52",
+      "gerinfact_hex": "#725B52",
+      "current_to_reference": 0.00242,
+      "gerinfact_to_reference": 0.001535
+    },
+    {
+      "code": "10054",
+      "name": "Wasteland Brown",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 9,
+      "grid_column": 6,
+      "native_sample_centre": [
+        2090.909,
+        1338.523
+      ],
+      "native_radius": 51.136,
+      "samples": 4504,
+      "reference_median": "#866C5D",
+      "reference_lightness_quantiles": [
+        "#866C5D",
+        "#866C5D",
+        "#866C5D"
+      ],
+      "current_hex": "#856C5C",
+      "gerinfact_hex": "#856C5C",
+      "current_to_reference": 0.002339,
+      "gerinfact_to_reference": 0.002339
+    },
+    {
+      "code": "10055",
+      "name": "Oblivion Black Wash",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 10,
+      "grid_column": 1,
+      "native_sample_centre": [
+        102.273,
+        1462.727
+      ],
+      "native_radius": 51.136,
+      "samples": 4508,
+      "reference_median": "#454444",
+      "reference_lightness_quantiles": [
+        "#3A3839",
+        "#454442",
+        "#555150"
+      ],
+      "current_hex": "#454344",
+      "gerinfact_hex": "#3C3A3A",
+      "current_to_reference": 0.003242,
+      "gerinfact_to_reference": 0.037191
+    },
+    {
+      "code": "10056",
+      "name": "Battle Mud Wash",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 10,
+      "grid_column": 2,
+      "native_sample_centre": [
+        500.0,
+        1462.727
+      ],
+      "native_radius": 51.136,
+      "samples": 4515,
+      "reference_median": "#746456",
+      "reference_lightness_quantiles": [
+        "#69594A",
+        "#746457",
+        "#807063"
+      ],
+      "current_hex": "#796A5D",
+      "gerinfact_hex": "#756659",
+      "current_to_reference": 0.02027,
+      "gerinfact_to_reference": 0.006564
+    },
+    {
+      "code": "10057",
+      "name": "Flesh Wash",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 10,
+      "grid_column": 3,
+      "native_sample_centre": [
+        897.727,
+        1462.727
+      ],
+      "native_radius": 51.136,
+      "samples": 4508,
+      "reference_median": "#C3A475",
+      "reference_lightness_quantiles": [
+        "#BD9D6A",
+        "#C3A475",
+        "#C8AD82"
+      ],
+      "current_hex": "#C4A678",
+      "gerinfact_hex": "#BB9B66",
+      "current_to_reference": 0.005857,
+      "gerinfact_to_reference": 0.029854
+    },
+    {
+      "code": "10058",
+      "name": "Orc Flesh Wash",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 10,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1295.455,
+        1462.727
+      ],
+      "native_radius": 51.136,
+      "samples": 4553,
+      "reference_median": "#488247",
+      "reference_lightness_quantiles": [
+        "#33793B",
+        "#488247",
+        "#5F8B56"
+      ],
+      "current_hex": "#52854C",
+      "gerinfact_hex": "#3E7C41",
+      "current_to_reference": 0.015974,
+      "gerinfact_to_reference": 0.022331
+    },
+    {
+      "code": "10059",
+      "name": "Necrosis Green Wash",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 10,
+      "grid_column": 5,
+      "native_sample_centre": [
+        1693.182,
+        1462.727
+      ],
+      "native_radius": 51.136,
+      "samples": 4511,
+      "reference_median": "#718361",
+      "reference_lightness_quantiles": [
+        "#647A54",
+        "#728361",
+        "#808D6F"
+      ],
+      "current_hex": "#7B8A69",
+      "gerinfact_hex": "#718362",
+      "current_to_reference": 0.026472,
+      "gerinfact_to_reference": 0.001415
+    },
+    {
+      "code": "10060",
+      "name": "Archaic Sepia Wash",
+      "wave": 1,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-1_2023_01.pdf",
+      "chart_sha256": "e8f5faf558c86397362948b0ba29ad3a9e44027972fa49967af8f9cb56bfa273",
+      "grid_row": 10,
+      "grid_column": 6,
+      "native_sample_centre": [
+        2090.909,
+        1462.727
+      ],
+      "native_radius": 51.136,
+      "samples": 4514,
+      "reference_median": "#A0836E",
+      "reference_lightness_quantiles": [
+        "#987863",
+        "#9F836E",
+        "#A88D7A"
+      ],
+      "current_hex": "#A48773",
+      "gerinfact_hex": "#9A7B66",
+      "current_to_reference": 0.013546,
+      "gerinfact_to_reference": 0.024721
+    },
+    {
+      "code": "10061",
+      "name": "Perisher Pink",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 1,
+      "grid_column": 1,
+      "native_sample_centre": [
+        162.682,
+        499.433
+      ],
+      "native_radius": 73.207,
+      "samples": 9257,
+      "reference_median": "#BA6369",
+      "reference_lightness_quantiles": [
+        "#BA6369",
+        "#BA6369",
+        "#BA6369"
+      ],
+      "current_hex": "#BA6368",
+      "gerinfact_hex": "#BA6367",
+      "current_to_reference": 0.001436,
+      "gerinfact_to_reference": 0.002867
+    },
+    {
+      "code": "10062",
+      "name": "Hot Pink",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 1,
+      "grid_column": 2,
+      "native_sample_centre": [
+        732.068,
+        499.433
+      ],
+      "native_radius": 73.207,
+      "samples": 9263,
+      "reference_median": "#E284A6",
+      "reference_lightness_quantiles": [
+        "#E284A6",
+        "#E284A6",
+        "#E284A6"
+      ],
+      "current_hex": "#E184A5",
+      "gerinfact_hex": "#E284A6",
+      "current_to_reference": 0.002264,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10063",
+      "name": "Neo Pink",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 1,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1301.455,
+        499.433
+      ],
+      "native_radius": 73.207,
+      "samples": 9248,
+      "reference_median": "#F3BDD7",
+      "reference_lightness_quantiles": [
+        "#F3BDD7",
+        "#F3BDD7",
+        "#F3BDD7"
+      ],
+      "current_hex": "#F3BCD7",
+      "gerinfact_hex": "#F3BCDA",
+      "current_to_reference": 0.002521,
+      "gerinfact_to_reference": 0.0056
+    },
+    {
+      "code": "10064",
+      "name": "Dread Red",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 1,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1870.841,
+        499.433
+      ],
+      "native_radius": 73.207,
+      "samples": 9261,
+      "reference_median": "#6F3F3F",
+      "reference_lightness_quantiles": [
+        "#6F3F3F",
+        "#6F3F3F",
+        "#6F3F3F"
+      ],
+      "current_hex": "#6E3E3E",
+      "gerinfact_hex": "#6F3F3F",
+      "current_to_reference": 0.003554,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10065",
+      "name": "Asmodeus Red",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 1,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2440.227,
+        499.433
+      ],
+      "native_radius": 73.207,
+      "samples": 9260,
+      "reference_median": "#8E4848",
+      "reference_lightness_quantiles": [
+        "#8E4848",
+        "#8E4848",
+        "#8E4848"
+      ],
+      "current_hex": "#8E4847",
+      "gerinfact_hex": "#8E4847",
+      "current_to_reference": 0.001468,
+      "gerinfact_to_reference": 0.001468
+    },
+    {
+      "code": "10066",
+      "name": "Evil Eye Red",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 1,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3009.614,
+        499.433
+      ],
+      "native_radius": 73.207,
+      "samples": 9257,
+      "reference_median": "#C25E4F",
+      "reference_lightness_quantiles": [
+        "#C25E4F",
+        "#C25E4F",
+        "#C25E4F"
+      ],
+      "current_hex": "#C15D4F",
+      "gerinfact_hex": "#C15E50",
+      "current_to_reference": 0.003185,
+      "gerinfact_to_reference": 0.002195
+    },
+    {
+      "code": "10067",
+      "name": "Sentient Turquoise",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 2,
+      "grid_column": 1,
+      "native_sample_centre": [
+        162.682,
+        676.756
+      ],
+      "native_radius": 73.207,
+      "samples": 9252,
+      "reference_median": "#3A84A1",
+      "reference_lightness_quantiles": [
+        "#3A84A1",
+        "#3A84A1",
+        "#3A84A1"
+      ],
+      "current_hex": "#3A83A0",
+      "gerinfact_hex": "#3A84A2",
+      "current_to_reference": 0.002992,
+      "gerinfact_to_reference": 0.001593
+    },
+    {
+      "code": "10068",
+      "name": "Cursed Blue",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 2,
+      "grid_column": 2,
+      "native_sample_centre": [
+        732.068,
+        676.756
+      ],
+      "native_radius": 73.207,
+      "samples": 9260,
+      "reference_median": "#4299B4",
+      "reference_lightness_quantiles": [
+        "#4299B4",
+        "#4299B4",
+        "#4299B4"
+      ],
+      "current_hex": "#4199B3",
+      "gerinfact_hex": "#4199B4",
+      "current_to_reference": 0.001803,
+      "gerinfact_to_reference": 0.000715
+    },
+    {
+      "code": "10069",
+      "name": "Ray Gun Glow",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 2,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1301.455,
+        676.756
+      ],
+      "native_radius": 73.207,
+      "samples": 9259,
+      "reference_median": "#47B0C3",
+      "reference_lightness_quantiles": [
+        "#47B0C3",
+        "#47B0C3",
+        "#47B0C3"
+      ],
+      "current_hex": "#47B0C2",
+      "gerinfact_hex": "#47B0C3",
+      "current_to_reference": 0.001516,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10070",
+      "name": "Abyss Blue",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 2,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1870.841,
+        676.756
+      ],
+      "native_radius": 73.207,
+      "samples": 9262,
+      "reference_median": "#334B67",
+      "reference_lightness_quantiles": [
+        "#334B67",
+        "#334B67",
+        "#334B67"
+      ],
+      "current_hex": "#334A66",
+      "gerinfact_hex": "#344B67",
+      "current_to_reference": 0.003191,
+      "gerinfact_to_reference": 0.001265
+    },
+    {
+      "code": "10071",
+      "name": "Witching Hour blue",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 2,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2440.227,
+        676.756
+      ],
+      "native_radius": 73.207,
+      "samples": 9252,
+      "reference_median": "#326AB4",
+      "reference_lightness_quantiles": [
+        "#326AB4",
+        "#326AB4",
+        "#326AB4"
+      ],
+      "current_hex": "#326AB3",
+      "gerinfact_hex": "#326AB4",
+      "current_to_reference": 0.001592,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10072",
+      "name": "Leviathan Blue",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 2,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3009.614,
+        676.756
+      ],
+      "native_radius": 73.207,
+      "samples": 9257,
+      "reference_median": "#3B7CC0",
+      "reference_lightness_quantiles": [
+        "#3B7CC0",
+        "#3B7CC0",
+        "#3B7CC0"
+      ],
+      "current_hex": "#3A7BBF",
+      "gerinfact_hex": "#3A7CBF",
+      "current_to_reference": 0.003238,
+      "gerinfact_to_reference": 0.001836
+    },
+    {
+      "code": "10073",
+      "name": "Orc Hide",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 3,
+      "grid_column": 1,
+      "native_sample_centre": [
+        162.682,
+        854.08
+      ],
+      "native_radius": 73.207,
+      "samples": 9265,
+      "reference_median": "#7B9B69",
+      "reference_lightness_quantiles": [
+        "#7B9B69",
+        "#7B9B69",
+        "#7B9B69"
+      ],
+      "current_hex": "#7B9B68",
+      "gerinfact_hex": "#7B9C69",
+      "current_to_reference": 0.001322,
+      "gerinfact_to_reference": 0.002924
+    },
+    {
+      "code": "10074",
+      "name": "Goblinoid Green",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 3,
+      "grid_column": 2,
+      "native_sample_centre": [
+        732.068,
+        854.08
+      ],
+      "native_radius": 73.207,
+      "samples": 9263,
+      "reference_median": "#89B86A",
+      "reference_lightness_quantiles": [
+        "#89B86A",
+        "#89B86A",
+        "#89B86A"
+      ],
+      "current_hex": "#89B76A",
+      "gerinfact_hex": "#8AB86A",
+      "current_to_reference": 0.002841,
+      "gerinfact_to_reference": 0.001182
+    },
+    {
+      "code": "10075",
+      "name": "Troll Snot Green",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 3,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1301.455,
+        854.08
+      ],
+      "native_radius": 73.207,
+      "samples": 9266,
+      "reference_median": "#9CC576",
+      "reference_lightness_quantiles": [
+        "#9CC576",
+        "#9CC576",
+        "#9CC576"
+      ],
+      "current_hex": "#9CC575",
+      "gerinfact_hex": "#9DC576",
+      "current_to_reference": 0.001175,
+      "gerinfact_to_reference": 0.001216
+    },
+    {
+      "code": "10076",
+      "name": "Field Grey",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 3,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1870.841,
+        854.08
+      ],
+      "native_radius": 73.207,
+      "samples": 9261,
+      "reference_median": "#6D725E",
+      "reference_lightness_quantiles": [
+        "#6D725E",
+        "#6D725E",
+        "#6D725E"
+      ],
+      "current_hex": "#6C715E",
+      "gerinfact_hex": "#6D725E",
+      "current_to_reference": 0.003503,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10077",
+      "name": "Ranger Cloak",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 3,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2440.227,
+        854.08
+      ],
+      "native_radius": 73.207,
+      "samples": 9264,
+      "reference_median": "#7D8451",
+      "reference_lightness_quantiles": [
+        "#7D8451",
+        "#7D8451",
+        "#7D8451"
+      ],
+      "current_hex": "#7D8351",
+      "gerinfact_hex": "#7E8352",
+      "current_to_reference": 0.002932,
+      "gerinfact_to_reference": 0.003839
+    },
+    {
+      "code": "10078",
+      "name": "Kobold Grey",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 3,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3009.614,
+        854.08
+      ],
+      "native_radius": 73.207,
+      "samples": 9262,
+      "reference_median": "#868B75",
+      "reference_lightness_quantiles": [
+        "#868B75",
+        "#868B75",
+        "#868B75"
+      ],
+      "current_hex": "#858B75",
+      "gerinfact_hex": "#868B75",
+      "current_to_reference": 0.00144,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10079",
+      "name": "Fury Green",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 4,
+      "grid_column": 1,
+      "native_sample_centre": [
+        162.682,
+        1031.403
+      ],
+      "native_radius": 73.207,
+      "samples": 9258,
+      "reference_median": "#6C6B4C",
+      "reference_lightness_quantiles": [
+        "#6C6B4C",
+        "#6C6B4C",
+        "#6C6B4C"
+      ],
+      "current_hex": "#6C6B4B",
+      "gerinfact_hex": "#6C6C4C",
+      "current_to_reference": 0.001404,
+      "gerinfact_to_reference": 0.00302
+    },
+    {
+      "code": "10080",
+      "name": "Gung-ho Green",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 4,
+      "grid_column": 2,
+      "native_sample_centre": [
+        732.068,
+        1031.403
+      ],
+      "native_radius": 73.207,
+      "samples": 9267,
+      "reference_median": "#A8A264",
+      "reference_lightness_quantiles": [
+        "#A8A264",
+        "#A8A264",
+        "#A8A264"
+      ],
+      "current_hex": "#A8A264",
+      "gerinfact_hex": "#A8A264",
+      "current_to_reference": 0.0,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10081",
+      "name": "Green Beret",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 4,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1301.455,
+        1031.403
+      ],
+      "native_radius": 73.207,
+      "samples": 9255,
+      "reference_median": "#ABAB87",
+      "reference_lightness_quantiles": [
+        "#ABAB87",
+        "#ABAB87",
+        "#ABAB87"
+      ],
+      "current_hex": "#ABAB87",
+      "gerinfact_hex": "#ABAC87",
+      "current_to_reference": 0.0,
+      "gerinfact_to_reference": 0.002781
+    },
+    {
+      "code": "10082",
+      "name": "Hydra Green",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 4,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1870.841,
+        1031.403
+      ],
+      "native_radius": 73.207,
+      "samples": 9263,
+      "reference_median": "#344C4E",
+      "reference_lightness_quantiles": [
+        "#344C4E",
+        "#344C4E",
+        "#344C4E"
+      ],
+      "current_hex": "#344B4D",
+      "gerinfact_hex": "#354C4E",
+      "current_to_reference": 0.003213,
+      "gerinfact_to_reference": 0.0013
+    },
+    {
+      "code": "10083",
+      "name": "Jade Green",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 4,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2440.227,
+        1031.403
+      ],
+      "native_radius": 73.207,
+      "samples": 9258,
+      "reference_median": "#2F7968",
+      "reference_lightness_quantiles": [
+        "#2F7968",
+        "#2F7968",
+        "#2F7968"
+      ],
+      "current_hex": "#2E7968",
+      "gerinfact_hex": "#2F7967",
+      "current_to_reference": 0.000717,
+      "gerinfact_to_reference": 0.001573
+    },
+    {
+      "code": "10084",
+      "name": "Ghoul Green",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 4,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3009.614,
+        1031.403
+      ],
+      "native_radius": 73.207,
+      "samples": 9250,
+      "reference_median": "#53BD97",
+      "reference_lightness_quantiles": [
+        "#53BD97",
+        "#53BD97",
+        "#53BD97"
+      ],
+      "current_hex": "#52BD97",
+      "gerinfact_hex": "#52BD97",
+      "current_to_reference": 0.000713,
+      "gerinfact_to_reference": 0.000713
+    },
+    {
+      "code": "10085",
+      "name": "Ashen Grey",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 5,
+      "grid_column": 1,
+      "native_sample_centre": [
+        162.682,
+        1208.726
+      ],
+      "native_radius": 73.207,
+      "samples": 9253,
+      "reference_median": "#4F5249",
+      "reference_lightness_quantiles": [
+        "#4F5249",
+        "#4F5249",
+        "#4F5249"
+      ],
+      "current_hex": "#4E5248",
+      "gerinfact_hex": "#4F5249",
+      "current_to_reference": 0.002399,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10086",
+      "name": "Eidolon Grey",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 5,
+      "grid_column": 2,
+      "native_sample_centre": [
+        732.068,
+        1208.726
+      ],
+      "native_radius": 73.207,
+      "samples": 9259,
+      "reference_median": "#535548",
+      "reference_lightness_quantiles": [
+        "#535548",
+        "#535548",
+        "#535548"
+      ],
+      "current_hex": "#535548",
+      "gerinfact_hex": "#535549",
+      "current_to_reference": 0.0,
+      "gerinfact_to_reference": 0.001585
+    },
+    {
+      "code": "10087",
+      "name": "Rodent Grey",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 5,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1301.455,
+        1208.726
+      ],
+      "native_radius": 73.207,
+      "samples": 9263,
+      "reference_median": "#707264",
+      "reference_lightness_quantiles": [
+        "#707264",
+        "#707264",
+        "#707264"
+      ],
+      "current_hex": "#707263",
+      "gerinfact_hex": "#707264",
+      "current_to_reference": 0.001512,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10088",
+      "name": "Noble Steed Brown",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 5,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1870.841,
+        1208.726
+      ],
+      "native_radius": 73.207,
+      "samples": 9262,
+      "reference_median": "#765439",
+      "reference_lightness_quantiles": [
+        "#765439",
+        "#765439",
+        "#765439"
+      ],
+      "current_hex": "#755339",
+      "gerinfact_hex": "#765439",
+      "current_to_reference": 0.003566,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10089",
+      "name": "Dry Rust Brown",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 5,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2440.227,
+        1208.726
+      ],
+      "native_radius": 73.207,
+      "samples": 9255,
+      "reference_median": "#BA7740",
+      "reference_lightness_quantiles": [
+        "#BA7740",
+        "#BA7740",
+        "#BA7740"
+      ],
+      "current_hex": "#BA773F",
+      "gerinfact_hex": "#B97740",
+      "current_to_reference": 0.001003,
+      "gerinfact_to_reference": 0.001758
+    },
+    {
+      "code": "10090",
+      "name": "Satyr Brown",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 5,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3009.614,
+        1208.726
+      ],
+      "native_radius": 73.207,
+      "samples": 9257,
+      "reference_median": "#D69658",
+      "reference_lightness_quantiles": [
+        "#D69658",
+        "#D69658",
+        "#D69658"
+      ],
+      "current_hex": "#D59657",
+      "gerinfact_hex": "#D59658",
+      "current_to_reference": 0.002089,
+      "gerinfact_to_reference": 0.001659
+    },
+    {
+      "code": "10091",
+      "name": "Gyzmo Fur",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 6,
+      "grid_column": 1,
+      "native_sample_centre": [
+        162.682,
+        1386.049
+      ],
+      "native_radius": 73.207,
+      "samples": 9307,
+      "reference_median": "#D28A50",
+      "reference_lightness_quantiles": [
+        "#D28A50",
+        "#D28A50",
+        "#D28A50"
+      ],
+      "current_hex": "#D28950",
+      "gerinfact_hex": "#D38A51",
+      "current_to_reference": 0.00251,
+      "gerinfact_to_reference": 0.002115
+    },
+    {
+      "code": "10092",
+      "name": "Manticore Ochre",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 6,
+      "grid_column": 2,
+      "native_sample_centre": [
+        732.068,
+        1386.049
+      ],
+      "native_radius": 73.207,
+      "samples": 9305,
+      "reference_median": "#D69845",
+      "reference_lightness_quantiles": [
+        "#D69845",
+        "#D69845",
+        "#D69845"
+      ],
+      "current_hex": "#D69744",
+      "gerinfact_hex": "#D79845",
+      "current_to_reference": 0.002383,
+      "gerinfact_to_reference": 0.001661
+    },
+    {
+      "code": "10093",
+      "name": "Cerberus Brown",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 6,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1301.455,
+        1386.049
+      ],
+      "native_radius": 73.207,
+      "samples": 9312,
+      "reference_median": "#E0AE59",
+      "reference_lightness_quantiles": [
+        "#E0AE59",
+        "#E0AE59",
+        "#E0AE59"
+      ],
+      "current_hex": "#DFAD58",
+      "gerinfact_hex": "#E0AE59",
+      "current_to_reference": 0.003099,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10094",
+      "name": "Argonaut Skin",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 6,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1870.841,
+        1386.049
+      ],
+      "native_radius": 73.207,
+      "samples": 9307,
+      "reference_median": "#A78F6D",
+      "reference_lightness_quantiles": [
+        "#A78F6D",
+        "#A78F6D",
+        "#A78F6D"
+      ],
+      "current_hex": "#A78E6C",
+      "gerinfact_hex": "#A78E6D",
+      "current_to_reference": 0.002615,
+      "gerinfact_to_reference": 0.002773
+    },
+    {
+      "code": "10095",
+      "name": "Kronos Flesh",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 6,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2440.227,
+        1386.049
+      ],
+      "native_radius": 73.207,
+      "samples": 9307,
+      "reference_median": "#C09B6F",
+      "reference_lightness_quantiles": [
+        "#C09B6F",
+        "#C09B6F",
+        "#C09B6F"
+      ],
+      "current_hex": "#BF9A6F",
+      "gerinfact_hex": "#C09B70",
+      "current_to_reference": 0.003248,
+      "gerinfact_to_reference": 0.001257
+    },
+    {
+      "code": "10096",
+      "name": "Ares Flesh",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 6,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3009.614,
+        1386.049
+      ],
+      "native_radius": 73.207,
+      "samples": 9312,
+      "reference_median": "#DFC288",
+      "reference_lightness_quantiles": [
+        "#DFC288",
+        "#DFC288",
+        "#DFC288"
+      ],
+      "current_hex": "#DEC287",
+      "gerinfact_hex": "#DEC287",
+      "current_to_reference": 0.002043,
+      "gerinfact_to_reference": 0.002043
+    },
+    {
+      "code": "10097",
+      "name": "Druid Flesh",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 7,
+      "grid_column": 1,
+      "native_sample_centre": [
+        162.682,
+        1563.372
+      ],
+      "native_radius": 73.207,
+      "samples": 9256,
+      "reference_median": "#543E33",
+      "reference_lightness_quantiles": [
+        "#543E33",
+        "#543E33",
+        "#543E33"
+      ],
+      "current_hex": "#533D33",
+      "gerinfact_hex": "#543D32",
+      "current_to_reference": 0.003791,
+      "gerinfact_to_reference": 0.002917
+    },
+    {
+      "code": "10098",
+      "name": "Paladin Flesh",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 7,
+      "grid_column": 2,
+      "native_sample_centre": [
+        732.068,
+        1563.372
+      ],
+      "native_radius": 73.207,
+      "samples": 9264,
+      "reference_median": "#77574C",
+      "reference_lightness_quantiles": [
+        "#77574C",
+        "#77574C",
+        "#77574C"
+      ],
+      "current_hex": "#76564B",
+      "gerinfact_hex": "#77564B",
+      "current_to_reference": 0.003518,
+      "gerinfact_to_reference": 0.002739
+    },
+    {
+      "code": "10099",
+      "name": "Bard Skin",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 7,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1301.455,
+        1563.372
+      ],
+      "native_radius": 73.207,
+      "samples": 9257,
+      "reference_median": "#956F62",
+      "reference_lightness_quantiles": [
+        "#956F62",
+        "#956F62",
+        "#956F62"
+      ],
+      "current_hex": "#956F61",
+      "gerinfact_hex": "#946F61",
+      "current_to_reference": 0.001442,
+      "gerinfact_to_reference": 0.002335
+    },
+    {
+      "code": "10100",
+      "name": "Hellspawn Red",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 7,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1870.841,
+        1563.372
+      ],
+      "native_radius": 73.207,
+      "samples": 9261,
+      "reference_median": "#BE3A2E",
+      "reference_lightness_quantiles": [
+        "#BE3A2E",
+        "#BE3A2E",
+        "#BE3A2E"
+      ],
+      "current_hex": "#BE392E",
+      "gerinfact_hex": "#BE3A2E",
+      "current_to_reference": 0.001655,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10101",
+      "name": "Craven Yellow",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 7,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2440.227,
+        1563.372
+      ],
+      "native_radius": 73.207,
+      "samples": 9256,
+      "reference_median": "#ECEC6A",
+      "reference_lightness_quantiles": [
+        "#ECEC6A",
+        "#ECEC6A",
+        "#ECEC6A"
+      ],
+      "current_hex": "#ECEB69",
+      "gerinfact_hex": "#ECEB69",
+      "current_to_reference": 0.002439,
+      "gerinfact_to_reference": 0.002439
+    },
+    {
+      "code": "10102",
+      "name": "Gigawatt Blue",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 7,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3009.614,
+        1563.372
+      ],
+      "native_radius": 73.207,
+      "samples": 9251,
+      "reference_median": "#57B7E9",
+      "reference_lightness_quantiles": [
+        "#57B7E9",
+        "#57B7E9",
+        "#57B7E9"
+      ],
+      "current_hex": "#57B7E8",
+      "gerinfact_hex": "#56B7E8",
+      "current_to_reference": 0.001495,
+      "gerinfact_to_reference": 0.001755
+    },
+    {
+      "code": "10103",
+      "name": "Flaming Forge Orange",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 8,
+      "grid_column": 1,
+      "native_sample_centre": [
+        162.682,
+        1740.695
+      ],
+      "native_radius": 73.207,
+      "samples": 9253,
+      "reference_median": "#EAA645",
+      "reference_lightness_quantiles": [
+        "#EAA645",
+        "#EAA645",
+        "#EAA645"
+      ],
+      "current_hex": "#E9A544",
+      "gerinfact_hex": "#EAA545",
+      "current_to_reference": 0.003069,
+      "gerinfact_to_reference": 0.002483
+    },
+    {
+      "code": "10104",
+      "name": "Talisman Green",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 8,
+      "grid_column": 2,
+      "native_sample_centre": [
+        732.068,
+        1740.695
+      ],
+      "native_radius": 73.207,
+      "samples": 9265,
+      "reference_median": "#7AC043",
+      "reference_lightness_quantiles": [
+        "#7AC043",
+        "#7AC043",
+        "#7AC043"
+      ],
+      "current_hex": "#79C042",
+      "gerinfact_hex": "#7AC142",
+      "current_to_reference": 0.001471,
+      "gerinfact_to_reference": 0.003124
+    },
+    {
+      "code": "10105",
+      "name": "Amulet Purple",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 8,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1301.455,
+        1740.695
+      ],
+      "native_radius": 73.207,
+      "samples": 9259,
+      "reference_median": "#BEACD2",
+      "reference_lightness_quantiles": [
+        "#BEACD2",
+        "#BEACD2",
+        "#BEACD2"
+      ],
+      "current_hex": "#BEACD2",
+      "gerinfact_hex": "#BFACD3",
+      "current_to_reference": 0.0,
+      "gerinfact_to_reference": 0.002135
+    },
+    {
+      "code": "10106",
+      "name": "Dwarven Iron",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 8,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1870.841,
+        1740.695
+      ],
+      "native_radius": 73.207,
+      "samples": 9260,
+      "reference_median": "#7A7B75",
+      "reference_lightness_quantiles": [
+        "#5A5B55",
+        "#7A7B75",
+        "#969792"
+      ],
+      "current_hex": "#898884",
+      "gerinfact_hex": "#91928E",
+      "current_to_reference": 0.046357,
+      "gerinfact_to_reference": 0.077777
+    },
+    {
+      "code": "10107",
+      "name": "Battle Axe Brass",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 8,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2440.227,
+        1740.695
+      ],
+      "native_radius": 73.207,
+      "samples": 9251,
+      "reference_median": "#D4A97E",
+      "reference_lightness_quantiles": [
+        "#B08E69",
+        "#D4A97E",
+        "#E1B284"
+      ],
+      "current_hex": "#D4A97D",
+      "gerinfact_hex": "#C09A74",
+      "current_to_reference": 0.001252,
+      "gerinfact_to_reference": 0.052267
+    },
+    {
+      "code": "10108",
+      "name": "Steampunk Copper",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 8,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3009.614,
+        1740.695
+      ],
+      "native_radius": 73.207,
+      "samples": 9260,
+      "reference_median": "#B7643C",
+      "reference_lightness_quantiles": [
+        "#975533",
+        "#B7643C",
+        "#DD7447"
+      ],
+      "current_hex": "#B5623C",
+      "gerinfact_hex": "#BE673F",
+      "current_to_reference": 0.006491,
+      "gerinfact_to_reference": 0.015688
+    },
+    {
+      "code": "10109",
+      "name": "Overlord Brass",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 9,
+      "grid_column": 1,
+      "native_sample_centre": [
+        162.682,
+        1918.019
+      ],
+      "native_radius": 73.207,
+      "samples": 9306,
+      "reference_median": "#C19F79",
+      "reference_lightness_quantiles": [
+        "#AA8D6B",
+        "#C19F79",
+        "#DAB487"
+      ],
+      "current_hex": "#D6AF83",
+      "gerinfact_hex": "#B39471",
+      "current_to_reference": 0.055073,
+      "gerinfact_to_reference": 0.038057
+    },
+    {
+      "code": "10110",
+      "name": "Top Brass",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 9,
+      "grid_column": 2,
+      "native_sample_centre": [
+        732.068,
+        1918.019
+      ],
+      "native_radius": 73.207,
+      "samples": 9308,
+      "reference_median": "#C69D5D",
+      "reference_lightness_quantiles": [
+        "#AB8B52",
+        "#C69D5D",
+        "#E9B56A"
+      ],
+      "current_hex": "#B59155",
+      "gerinfact_hex": "#EFB96D",
+      "current_to_reference": 0.043523,
+      "gerinfact_to_reference": 0.10065
+    },
+    {
+      "code": "10111",
+      "name": "Platinum Crown",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 9,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1301.455,
+        1918.019
+      ],
+      "native_radius": 73.207,
+      "samples": 9313,
+      "reference_median": "#DCD0B6",
+      "reference_lightness_quantiles": [
+        "#CFC4A6",
+        "#DCD0B6",
+        "#ECE0CA"
+      ],
+      "current_hex": "#CEC2A4",
+      "gerinfact_hex": "#EDE0CA",
+      "current_to_reference": 0.044755,
+      "gerinfact_to_reference": 0.051117
+    },
+    {
+      "code": "10115",
+      "name": "Red Glaze",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 9,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1870.841,
+        1918.019
+      ],
+      "native_radius": 73.207,
+      "samples": 9306,
+      "reference_median": "#F7A085",
+      "reference_lightness_quantiles": [
+        "#F37255",
+        "#F6A085",
+        "#FBD6C6"
+      ],
+      "current_hex": "#F38366",
+      "gerinfact_hex": "#FBCCBA",
+      "current_to_reference": 0.06704,
+      "gerinfact_to_reference": 0.108469
+    },
+    {
+      "code": "10116",
+      "name": "Yellow Glaze",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 9,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2440.227,
+        1918.019
+      ],
+      "native_radius": 73.207,
+      "samples": 9304,
+      "reference_median": "#F5F295",
+      "reference_lightness_quantiles": [
+        "#F2ED5B",
+        "#F5F295",
+        "#FBF9D2"
+      ],
+      "current_hex": "#F2F075",
+      "gerinfact_hex": "#F8F7C3",
+      "current_to_reference": 0.032264,
+      "gerinfact_to_reference": 0.052356
+    },
+    {
+      "code": "10117",
+      "name": "Blue Glaze",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 9,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3009.614,
+        1918.019
+      ],
+      "native_radius": 73.207,
+      "samples": 9308,
+      "reference_median": "#8093CB",
+      "reference_lightness_quantiles": [
+        "#436DB5",
+        "#8093CB",
+        "#C4CBE7"
+      ],
+      "current_hex": "#5A79BC",
+      "gerinfact_hex": "#B0BBE0",
+      "current_to_reference": 0.091227,
+      "gerinfact_to_reference": 0.129912
+    },
+    {
+      "code": "10118",
+      "name": "Orange Glaze",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 10,
+      "grid_column": 1,
+      "native_sample_centre": [
+        162.682,
+        2095.342
+      ],
+      "native_radius": 73.207,
+      "samples": 9258,
+      "reference_median": "#FBBD8C",
+      "reference_lightness_quantiles": [
+        "#F79951",
+        "#FBBD8C",
+        "#FEE4CD"
+      ],
+      "current_hex": "#F89F5B",
+      "gerinfact_hex": "#FCBC89",
+      "current_to_reference": 0.075892,
+      "gerinfact_to_reference": 0.003608
+    },
+    {
+      "code": "10119",
+      "name": "Green Glaze",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 10,
+      "grid_column": 2,
+      "native_sample_centre": [
+        732.068,
+        2095.342
+      ],
+      "native_radius": 73.207,
+      "samples": 9264,
+      "reference_median": "#B1D897",
+      "reference_lightness_quantiles": [
+        "#84C55D",
+        "#B1D897",
+        "#E0EED4"
+      ],
+      "current_hex": "#95CB74",
+      "gerinfact_hex": "#C3E3AC",
+      "current_to_reference": 0.063143,
+      "gerinfact_to_reference": 0.043561
+    },
+    {
+      "code": "10120",
+      "name": "Purple Glaze",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 10,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1301.455,
+        2095.342
+      ],
+      "native_radius": 73.207,
+      "samples": 9255,
+      "reference_median": "#C89CC0",
+      "reference_lightness_quantiles": [
+        "#B26FA4",
+        "#C89CC0",
+        "#E7D5E5"
+      ],
+      "current_hex": "#B679AA",
+      "gerinfact_hex": "#CEA7C7",
+      "current_to_reference": 0.094261,
+      "gerinfact_to_reference": 0.029849
+    },
+    {
+      "code": "10112",
+      "name": "Hellion Red Wash",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 10,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1870.841,
+        2095.342
+      ],
+      "native_radius": 73.207,
+      "samples": 9260,
+      "reference_median": "#855252",
+      "reference_lightness_quantiles": [
+        "#6F343A",
+        "#855251",
+        "#BCA09D"
+      ],
+      "current_hex": "#865453",
+      "gerinfact_hex": "#9E7371",
+      "current_to_reference": 0.005705,
+      "gerinfact_to_reference": 0.102793
+    },
+    {
+      "code": "10113",
+      "name": "Tempest Blue Wash",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 10,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2440.227,
+        2095.342
+      ],
+      "native_radius": 73.207,
+      "samples": 9250,
+      "reference_median": "#3B5063",
+      "reference_lightness_quantiles": [
+        "#2B465B",
+        "#3B5063",
+        "#808797"
+      ],
+      "current_hex": "#3E5165",
+      "gerinfact_hex": "#2C465A",
+      "current_to_reference": 0.006165,
+      "gerinfact_to_reference": 0.04012
+    },
+    {
+      "code": "10114",
+      "name": "Magi Purple Wash",
+      "wave": 2,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2023/08/Conversion-Chart-Wave-2_2023_01.pdf",
+      "chart_sha256": "2ee6e8cb91336a869c9dc1aae455c37afb39feda25b9cdf0d837a0eb4071614a",
+      "grid_row": 10,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3009.614,
+        2095.342
+      ],
+      "native_radius": 73.207,
+      "samples": 9256,
+      "reference_median": "#553856",
+      "reference_lightness_quantiles": [
+        "#4B2C4C",
+        "#553856",
+        "#8D778C"
+      ],
+      "current_hex": "#4F3350",
+      "gerinfact_hex": "#6A516A",
+      "current_to_reference": 0.020362,
+      "gerinfact_to_reference": 0.084614
+    },
+    {
+      "code": "10121",
+      "name": "Amphora Red",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 1,
+      "grid_column": 1,
+      "native_sample_centre": [
+        108.11,
+        505.79
+      ],
+      "native_radius": 73.987,
+      "samples": 12419,
+      "reference_median": "#481F25",
+      "reference_lightness_quantiles": [
+        "#481F25",
+        "#481F25",
+        "#481F25"
+      ],
+      "current_hex": "#482124",
+      "gerinfact_hex": "#481F24",
+      "current_to_reference": 0.006344,
+      "gerinfact_to_reference": 0.001725
+    },
+    {
+      "code": "10122",
+      "name": "Emperor Red",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 1,
+      "grid_column": 2,
+      "native_sample_centre": [
+        686.532,
+        505.79
+      ],
+      "native_radius": 73.987,
+      "samples": 12430,
+      "reference_median": "#9F3041",
+      "reference_lightness_quantiles": [
+        "#9F3041",
+        "#9F3041",
+        "#9F3041"
+      ],
+      "current_hex": "#A03140",
+      "gerinfact_hex": "#9F3041",
+      "current_to_reference": 0.003661,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10123",
+      "name": "Centurion Red",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 1,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1264.953,
+        505.79
+      ],
+      "native_radius": 73.987,
+      "samples": 12422,
+      "reference_median": "#E83032",
+      "reference_lightness_quantiles": [
+        "#E83032",
+        "#E83032",
+        "#E83032"
+      ],
+      "current_hex": "#E63132",
+      "gerinfact_hex": "#E83032",
+      "current_to_reference": 0.00378,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10124",
+      "name": "Red Rage",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 1,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1843.374,
+        505.79
+      ],
+      "native_radius": 73.987,
+      "samples": 12429,
+      "reference_median": "#6A342A",
+      "reference_lightness_quantiles": [
+        "#6A342A",
+        "#6A342A",
+        "#6A342A"
+      ],
+      "current_hex": "#6A342A",
+      "gerinfact_hex": "#6B342B",
+      "current_to_reference": 0.0,
+      "gerinfact_to_reference": 0.002557
+    },
+    {
+      "code": "10125",
+      "name": "Apocalypse Sky",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 1,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2421.796,
+        505.79
+      ],
+      "native_radius": 73.987,
+      "samples": 12422,
+      "reference_median": "#E54D40",
+      "reference_lightness_quantiles": [
+        "#E54D40",
+        "#E54D40",
+        "#E54D40"
+      ],
+      "current_hex": "#E34E3F",
+      "gerinfact_hex": "#E54D40",
+      "current_to_reference": 0.004115,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10126",
+      "name": "Inferno Orange",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 1,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3000.217,
+        505.79
+      ],
+      "native_radius": 73.987,
+      "samples": 12418,
+      "reference_median": "#D04933",
+      "reference_lightness_quantiles": [
+        "#D04933",
+        "#D04933",
+        "#D04933"
+      ],
+      "current_hex": "#CE4A32",
+      "gerinfact_hex": "#A68E42",
+      "current_to_reference": 0.00419,
+      "gerinfact_to_reference": 0.165007
+    },
+    {
+      "code": "10127",
+      "name": "Panzer Yellow",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 2,
+      "grid_column": 1,
+      "native_sample_centre": [
+        108.11,
+        683.103
+      ],
+      "native_radius": 73.987,
+      "samples": 12408,
+      "reference_median": "#A68F43",
+      "reference_lightness_quantiles": [
+        "#A68F43",
+        "#A68F43",
+        "#A68F43"
+      ],
+      "current_hex": "#A58E42",
+      "gerinfact_hex": "#A68E42",
+      "current_to_reference": 0.003252,
+      "gerinfact_to_reference": 0.002583
+    },
+    {
+      "code": "10128",
+      "name": "Flak Gun Yellow",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 2,
+      "grid_column": 2,
+      "native_sample_centre": [
+        686.532,
+        683.103
+      ],
+      "native_radius": 73.987,
+      "samples": 12429,
+      "reference_median": "#C6AB5C",
+      "reference_lightness_quantiles": [
+        "#C6AB5C",
+        "#C6AB5C",
+        "#C6AB5C"
+      ],
+      "current_hex": "#C5AA5A",
+      "gerinfact_hex": "#C7AB5C",
+      "current_to_reference": 0.003441,
+      "gerinfact_to_reference": 0.001534
+    },
+    {
+      "code": "10129",
+      "name": "Ambush Yellow",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 2,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1264.953,
+        683.103
+      ],
+      "native_radius": 73.987,
+      "samples": 12409,
+      "reference_median": "#E4CC74",
+      "reference_lightness_quantiles": [
+        "#E4CC74",
+        "#E4CC74",
+        "#E4CC74"
+      ],
+      "current_hex": "#E3CC73",
+      "gerinfact_hex": "#E4CC74",
+      "current_to_reference": 0.001944,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10130",
+      "name": "Serpent Eye Yellow",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 2,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1843.374,
+        683.103
+      ],
+      "native_radius": 73.987,
+      "samples": 12423,
+      "reference_median": "#F5D30F",
+      "reference_lightness_quantiles": [
+        "#F5D30F",
+        "#F5D30F",
+        "#F5D30F"
+      ],
+      "current_hex": "#F5D10D",
+      "gerinfact_hex": "#F5D30E",
+      "current_to_reference": 0.004907,
+      "gerinfact_to_reference": 0.000156
+    },
+    {
+      "code": "10131",
+      "name": "Sun Bleach Yellow",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 2,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2421.796,
+        683.103
+      ],
+      "native_radius": 73.987,
+      "samples": 12418,
+      "reference_median": "#F5E752",
+      "reference_lightness_quantiles": [
+        "#F5E752",
+        "#F5E752",
+        "#F5E752"
+      ],
+      "current_hex": "#F5E350",
+      "gerinfact_hex": "#F4E752",
+      "current_to_reference": 0.009809,
+      "gerinfact_to_reference": 0.001412
+    },
+    {
+      "code": "10132",
+      "name": "Twin Suns Yellow",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 2,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3000.217,
+        683.103
+      ],
+      "native_radius": 73.987,
+      "samples": 12419,
+      "reference_median": "#E5E8AF",
+      "reference_lightness_quantiles": [
+        "#E5E8AF",
+        "#E5E8AF",
+        "#E5E8AF"
+      ],
+      "current_hex": "#E5E6AC",
+      "gerinfact_hex": "#E5E9AF",
+      "current_to_reference": 0.005288,
+      "gerinfact_to_reference": 0.002633
+    },
+    {
+      "code": "10133",
+      "name": "War Master Green",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 3,
+      "grid_column": 1,
+      "native_sample_centre": [
+        108.11,
+        860.417
+      ],
+      "native_radius": 73.987,
+      "samples": 12427,
+      "reference_median": "#394143",
+      "reference_lightness_quantiles": [
+        "#394143",
+        "#394143",
+        "#394143"
+      ],
+      "current_hex": "#3A4140",
+      "gerinfact_hex": "#394142",
+      "current_to_reference": 0.005255,
+      "gerinfact_to_reference": 0.001741
+    },
+    {
+      "code": "10134",
+      "name": "Traitor Green",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 3,
+      "grid_column": 2,
+      "native_sample_centre": [
+        686.532,
+        860.417
+      ],
+      "native_radius": 73.987,
+      "samples": 12424,
+      "reference_median": "#2C534E",
+      "reference_lightness_quantiles": [
+        "#2C534E",
+        "#2C534E",
+        "#2C534E"
+      ],
+      "current_hex": "#2F534F",
+      "gerinfact_hex": "#2D534F",
+      "current_to_reference": 0.003893,
+      "gerinfact_to_reference": 0.002143
+    },
+    {
+      "code": "10135",
+      "name": "Legion Green",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 3,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1264.953,
+        860.417
+      ],
+      "native_radius": 73.987,
+      "samples": 12425,
+      "reference_median": "#276C67",
+      "reference_lightness_quantiles": [
+        "#276C67",
+        "#276C67",
+        "#276C67"
+      ],
+      "current_hex": "#2A6A66",
+      "gerinfact_hex": "#276C67",
+      "current_to_reference": 0.006048,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10136",
+      "name": "Contagion Green",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 3,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1843.374,
+        860.417
+      ],
+      "native_radius": 73.987,
+      "samples": 12431,
+      "reference_median": "#8E9F7F",
+      "reference_lightness_quantiles": [
+        "#8E9F7F",
+        "#8E9F7F",
+        "#8E9F7F"
+      ],
+      "current_hex": "#8B9E7B",
+      "gerinfact_hex": "#8E9F7F",
+      "current_to_reference": 0.007354,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10137",
+      "name": "Zombie Rot",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 3,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2421.796,
+        860.417
+      ],
+      "native_radius": 73.987,
+      "samples": 12428,
+      "reference_median": "#B3B77A",
+      "reference_lightness_quantiles": [
+        "#B3B77A",
+        "#B3B77A",
+        "#B3B77A"
+      ],
+      "current_hex": "#B1B679",
+      "gerinfact_hex": "#B3B87A",
+      "current_to_reference": 0.004148,
+      "gerinfact_to_reference": 0.002751
+    },
+    {
+      "code": "10138",
+      "name": "Pestilence Green",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 3,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3000.217,
+        860.417
+      ],
+      "native_radius": 73.987,
+      "samples": 12430,
+      "reference_median": "#D5E197",
+      "reference_lightness_quantiles": [
+        "#D5E197",
+        "#D5E197",
+        "#D5E197"
+      ],
+      "current_hex": "#D3DF95",
+      "gerinfact_hex": "#D4E197",
+      "current_to_reference": 0.006106,
+      "gerinfact_to_reference": 0.001317
+    },
+    {
+      "code": "10139",
+      "name": "Oxidation Green",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 4,
+      "grid_column": 1,
+      "native_sample_centre": [
+        108.11,
+        1037.73
+      ],
+      "native_radius": 73.987,
+      "samples": 12424,
+      "reference_median": "#33444C",
+      "reference_lightness_quantiles": [
+        "#33444C",
+        "#33444C",
+        "#33444C"
+      ],
+      "current_hex": "#34444C",
+      "gerinfact_hex": "#33444D",
+      "current_to_reference": 0.001406,
+      "gerinfact_to_reference": 0.001759
+    },
+    {
+      "code": "10140",
+      "name": "Antiquity Green",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 4,
+      "grid_column": 2,
+      "native_sample_centre": [
+        686.532,
+        1037.73
+      ],
+      "native_radius": 73.987,
+      "samples": 12430,
+      "reference_median": "#307F7C",
+      "reference_lightness_quantiles": [
+        "#307F7C",
+        "#307F7C",
+        "#307F7C"
+      ],
+      "current_hex": "#367D7A",
+      "gerinfact_hex": "#317F7D",
+      "current_to_reference": 0.006499,
+      "gerinfact_to_reference": 0.001848
+    },
+    {
+      "code": "10141",
+      "name": "Mythic Turquoise",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 4,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1264.953,
+        1037.73
+      ],
+      "native_radius": 73.987,
+      "samples": 12424,
+      "reference_median": "#589E9C",
+      "reference_lightness_quantiles": [
+        "#589E9C",
+        "#589E9C",
+        "#589E9C"
+      ],
+      "current_hex": "#599E9C",
+      "gerinfact_hex": "#589E9D",
+      "current_to_reference": 0.000931,
+      "gerinfact_to_reference": 0.001523
+    },
+    {
+      "code": "10142",
+      "name": "Eldar Robe",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 4,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1843.374,
+        1037.73
+      ],
+      "native_radius": 73.987,
+      "samples": 12433,
+      "reference_median": "#1E5AA3",
+      "reference_lightness_quantiles": [
+        "#1E5AA3",
+        "#1E5AA3",
+        "#1E5AA3"
+      ],
+      "current_hex": "#2259A0",
+      "gerinfact_hex": "#1D5AA3",
+      "current_to_reference": 0.005407,
+      "gerinfact_to_reference": 0.00062
+    },
+    {
+      "code": "10143",
+      "name": "Relic Blue",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 4,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2421.796,
+        1037.73
+      ],
+      "native_radius": 73.987,
+      "samples": 12421,
+      "reference_median": "#237FBE",
+      "reference_lightness_quantiles": [
+        "#237FBE",
+        "#237FBE",
+        "#237FBE"
+      ],
+      "current_hex": "#2B7FBB",
+      "gerinfact_hex": "#237FBE",
+      "current_to_reference": 0.005959,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10144",
+      "name": "Seafarer Blue",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 4,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3000.217,
+        1037.73
+      ],
+      "native_radius": 73.987,
+      "samples": 12422,
+      "reference_median": "#459CC9",
+      "reference_lightness_quantiles": [
+        "#459CC9",
+        "#459CC9",
+        "#459CC9"
+      ],
+      "current_hex": "#4A9CC7",
+      "gerinfact_hex": "#469CC8",
+      "current_to_reference": 0.004531,
+      "gerinfact_to_reference": 0.001614
+    },
+    {
+      "code": "10145",
+      "name": "Faust Blue",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 5,
+      "grid_column": 1,
+      "native_sample_centre": [
+        108.11,
+        1215.044
+      ],
+      "native_radius": 73.987,
+      "samples": 12409,
+      "reference_median": "#48525C",
+      "reference_lightness_quantiles": [
+        "#48525C",
+        "#48525C",
+        "#48525C"
+      ],
+      "current_hex": "#45515B",
+      "gerinfact_hex": "#47525C",
+      "current_to_reference": 0.005837,
+      "gerinfact_to_reference": 0.001478
+    },
+    {
+      "code": "10146",
+      "name": "Shadow Blue",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 5,
+      "grid_column": 2,
+      "native_sample_centre": [
+        686.532,
+        1215.044
+      ],
+      "native_radius": 73.987,
+      "samples": 12433,
+      "reference_median": "#50646D",
+      "reference_lightness_quantiles": [
+        "#50646D",
+        "#50646D",
+        "#50646D"
+      ],
+      "current_hex": "#4F646B",
+      "gerinfact_hex": "#4F646C",
+      "current_to_reference": 0.003693,
+      "gerinfact_to_reference": 0.002244
+    },
+    {
+      "code": "10147",
+      "name": "Frost Blue",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 5,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1264.953,
+        1215.044
+      ],
+      "native_radius": 73.987,
+      "samples": 12405,
+      "reference_median": "#79979F",
+      "reference_lightness_quantiles": [
+        "#79979F",
+        "#79979F",
+        "#79979F"
+      ],
+      "current_hex": "#78969D",
+      "gerinfact_hex": "#79979F",
+      "current_to_reference": 0.003921,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10148",
+      "name": "Von Evile Purple",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 5,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1843.374,
+        1215.044
+      ],
+      "native_radius": 73.987,
+      "samples": 12423,
+      "reference_median": "#220F2B",
+      "reference_lightness_quantiles": [
+        "#220F2B",
+        "#220F2B",
+        "#220F2B"
+      ],
+      "current_hex": "#22012E",
+      "gerinfact_hex": "#5A3764",
+      "current_to_reference": 0.03852,
+      "gerinfact_to_reference": 0.188109
+    },
+    {
+      "code": "10149",
+      "name": "Enchantress Purple",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 5,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2421.796,
+        1215.044
+      ],
+      "native_radius": 73.987,
+      "samples": 12422,
+      "reference_median": "#5B3765",
+      "reference_lightness_quantiles": [
+        "#5B3765",
+        "#5B3765",
+        "#5B3765"
+      ],
+      "current_hex": "#593662",
+      "gerinfact_hex": "#5A3764",
+      "current_to_reference": 0.006687,
+      "gerinfact_to_reference": 0.002577
+    },
+    {
+      "code": "10150",
+      "name": "Spectral Purple",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 5,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3000.217,
+        1215.044
+      ],
+      "native_radius": 73.987,
+      "samples": 12423,
+      "reference_median": "#9B5A9C",
+      "reference_lightness_quantiles": [
+        "#9B5A9C",
+        "#9B5A9C",
+        "#9B5A9C"
+      ],
+      "current_hex": "#995A9A",
+      "gerinfact_hex": "#9A5A9B",
+      "current_to_reference": 0.004764,
+      "gerinfact_to_reference": 0.002381
+    },
+    {
+      "code": "10151",
+      "name": "Incubus Purple",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 6,
+      "grid_column": 1,
+      "native_sample_centre": [
+        108.11,
+        1392.357
+      ],
+      "native_radius": 73.987,
+      "samples": 12424,
+      "reference_median": "#6B6B6D",
+      "reference_lightness_quantiles": [
+        "#6B6B6D",
+        "#6B6B6D",
+        "#6B6B6D"
+      ],
+      "current_hex": "#6A696C",
+      "gerinfact_hex": "#6B6A6D",
+      "current_to_reference": 0.00609,
+      "gerinfact_to_reference": 0.003003
+    },
+    {
+      "code": "10152",
+      "name": "Enticing Purple",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 6,
+      "grid_column": 2,
+      "native_sample_centre": [
+        686.532,
+        1392.357
+      ],
+      "native_radius": 73.987,
+      "samples": 12430,
+      "reference_median": "#827B8D",
+      "reference_lightness_quantiles": [
+        "#827B8D",
+        "#827B8D",
+        "#827B8D"
+      ],
+      "current_hex": "#7F7A8B",
+      "gerinfact_hex": "#817B8C",
+      "current_to_reference": 0.006181,
+      "gerinfact_to_reference": 0.002265
+    },
+    {
+      "code": "10153",
+      "name": "Decadent Purple",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 6,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1264.953,
+        1392.357
+      ],
+      "native_radius": 73.987,
+      "samples": 12425,
+      "reference_median": "#C2BED5",
+      "reference_lightness_quantiles": [
+        "#C2BED5",
+        "#C2BED5",
+        "#C2BED5"
+      ],
+      "current_hex": "#C1BED3",
+      "gerinfact_hex": "#C2BFD5",
+      "current_to_reference": 0.003305,
+      "gerinfact_to_reference": 0.002671
+    },
+    {
+      "code": "10154",
+      "name": "Scabbard Brown",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 6,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1843.374,
+        1392.357
+      ],
+      "native_radius": 73.987,
+      "samples": 12433,
+      "reference_median": "#7C5D48",
+      "reference_lightness_quantiles": [
+        "#7C5D48",
+        "#7C5D48",
+        "#7C5D48"
+      ],
+      "current_hex": "#7B5E46",
+      "gerinfact_hex": "#7C5E48",
+      "current_to_reference": 0.005027,
+      "gerinfact_to_reference": 0.002886
+    },
+    {
+      "code": "10155",
+      "name": "Boot Strap Brown",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 6,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2421.796,
+        1392.357
+      ],
+      "native_radius": 73.987,
+      "samples": 12430,
+      "reference_median": "#836044",
+      "reference_lightness_quantiles": [
+        "#836044",
+        "#836044",
+        "#836044"
+      ],
+      "current_hex": "#8E674B",
+      "gerinfact_hex": "#835F44",
+      "current_to_reference": 0.029008,
+      "gerinfact_to_reference": 0.002836
+    },
+    {
+      "code": "10156",
+      "name": "Vambrace brown",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 6,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3000.217,
+        1392.357
+      ],
+      "native_radius": 73.987,
+      "samples": 12432,
+      "reference_median": "#9B765C",
+      "reference_lightness_quantiles": [
+        "#9B765C",
+        "#9B765C",
+        "#9B765C"
+      ],
+      "current_hex": "#9C745C",
+      "gerinfact_hex": "#9C755D",
+      "current_to_reference": 0.00561,
+      "gerinfact_to_reference": 0.003823
+    },
+    {
+      "code": "10157",
+      "name": "Cyber Pink",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 7,
+      "grid_column": 1,
+      "native_sample_centre": [
+        108.11,
+        1569.671
+      ],
+      "native_radius": 73.987,
+      "samples": 12422,
+      "reference_median": "#C74C8B",
+      "reference_lightness_quantiles": [
+        "#C74C8B",
+        "#C74C8B",
+        "#C74C8B"
+      ],
+      "current_hex": "#C64B8A",
+      "gerinfact_hex": "#C64C8B",
+      "current_to_reference": 0.00304,
+      "gerinfact_to_reference": 0.001917
+    },
+    {
+      "code": "10158",
+      "name": "Elixir Green",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 7,
+      "grid_column": 2,
+      "native_sample_centre": [
+        686.532,
+        1569.671
+      ],
+      "native_radius": 73.987,
+      "samples": 12429,
+      "reference_median": "#7CC78F",
+      "reference_lightness_quantiles": [
+        "#7CC78F",
+        "#7CC78F",
+        "#7CC78F"
+      ],
+      "current_hex": "#7EC68F",
+      "gerinfact_hex": "#7CC78F",
+      "current_to_reference": 0.003262,
+      "gerinfact_to_reference": 0.0
+    },
+    {
+      "code": "10159",
+      "name": "Solar Flare",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 7,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1264.953,
+        1569.671
+      ],
+      "native_radius": 73.987,
+      "samples": 12424,
+      "reference_median": "#F18020",
+      "reference_lightness_quantiles": [
+        "#F18020",
+        "#F18020",
+        "#F18020"
+      ],
+      "current_hex": "#EE7F21",
+      "gerinfact_hex": "#F18021",
+      "current_to_reference": 0.006075,
+      "gerinfact_to_reference": 0.000453
+    },
+    {
+      "code": "10160",
+      "name": "Ion Blue",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 7,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1843.374,
+        1569.671
+      ],
+      "native_radius": 73.987,
+      "samples": 12429,
+      "reference_median": "#B6D8DA",
+      "reference_lightness_quantiles": [
+        "#B6D8DA",
+        "#B6D8DA",
+        "#B6D8DA"
+      ],
+      "current_hex": "#B7D5D8",
+      "gerinfact_hex": "#B7D8DA",
+      "current_to_reference": 0.007565,
+      "gerinfact_to_reference": 0.001213
+    },
+    {
+      "code": "10161",
+      "name": "Septic Green",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 7,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2421.796,
+        1569.671
+      ],
+      "native_radius": 73.987,
+      "samples": 12431,
+      "reference_median": "#ADB339",
+      "reference_lightness_quantiles": [
+        "#ADB339",
+        "#ADB339",
+        "#ADB339"
+      ],
+      "current_hex": "#ABB337",
+      "gerinfact_hex": "#CBAB7B",
+      "current_to_reference": 0.003427,
+      "gerinfact_to_reference": 0.093314
+    },
+    {
+      "code": "10162",
+      "name": "Pale Skin",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 7,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3000.217,
+        1569.671
+      ],
+      "native_radius": 73.987,
+      "samples": 12433,
+      "reference_median": "#CBAB7C",
+      "reference_lightness_quantiles": [
+        "#CBAB7C",
+        "#CBAB7C",
+        "#CBAB7C"
+      ],
+      "current_hex": "#CAAA7A",
+      "gerinfact_hex": "#CBAB7B",
+      "current_to_reference": 0.003584,
+      "gerinfact_to_reference": 0.001249
+    },
+    {
+      "code": "10163",
+      "name": "Scarab Red",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 8,
+      "grid_column": 1,
+      "native_sample_centre": [
+        108.11,
+        1746.984
+      ],
+      "native_radius": 73.987,
+      "samples": 12411,
+      "reference_median": "#703D3A",
+      "reference_lightness_quantiles": [
+        "#4A322E",
+        "#703D3A",
+        "#A64445"
+      ],
+      "current_hex": "#B04045",
+      "gerinfact_hex": "#BB4448",
+      "current_to_reference": 0.129674,
+      "gerinfact_to_reference": 0.15322
+    },
+    {
+      "code": "10164",
+      "name": "Omega Blue",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 8,
+      "grid_column": 2,
+      "native_sample_centre": [
+        686.532,
+        1746.984
+      ],
+      "native_radius": 73.987,
+      "samples": 12431,
+      "reference_median": "#49726E",
+      "reference_lightness_quantiles": [
+        "#364945",
+        "#49726E",
+        "#56ABA8"
+      ],
+      "current_hex": "#58B9B6",
+      "gerinfact_hex": "#58BFBE",
+      "current_to_reference": 0.211161,
+      "gerinfact_to_reference": 0.228728
+    },
+    {
+      "code": "10165",
+      "name": "Enchantment Blue",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 8,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1264.953,
+        1746.984
+      ],
+      "native_radius": 73.987,
+      "samples": 12402,
+      "reference_median": "#395669",
+      "reference_lightness_quantiles": [
+        "#313E44",
+        "#3B5669",
+        "#3A759D"
+      ],
+      "current_hex": "#347DAA",
+      "gerinfact_hex": "#337FAE",
+      "current_to_reference": 0.136645,
+      "gerinfact_to_reference": 0.144018
+    },
+    {
+      "code": "10166",
+      "name": "Emperor’s Purple",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 8,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1843.374,
+        1746.984
+      ],
+      "native_radius": 73.987,
+      "samples": 12423,
+      "reference_median": "#58495C",
+      "reference_lightness_quantiles": [
+        "#3D383F",
+        "#58495C",
+        "#775D84"
+      ],
+      "current_hex": "#7A6089",
+      "gerinfact_hex": "#836493",
+      "current_to_reference": 0.108084,
+      "gerinfact_to_reference": 0.13162
+    },
+    {
+      "code": "10167",
+      "name": "Carapace Green",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 8,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2421.796,
+        1746.984
+      ],
+      "native_radius": 73.987,
+      "samples": 12425,
+      "reference_median": "#416244",
+      "reference_lightness_quantiles": [
+        "#324333",
+        "#416245",
+        "#4D8C55"
+      ],
+      "current_hex": "#4F955A",
+      "gerinfact_hex": "#4F9A5A",
+      "current_to_reference": 0.155524,
+      "gerinfact_to_reference": 0.170326
+    },
+    {
+      "code": "10168",
+      "name": "Fire Opal",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 8,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3000.217,
+        1746.984
+      ],
+      "native_radius": 73.987,
+      "samples": 12428,
+      "reference_median": "#754E3D",
+      "reference_lightness_quantiles": [
+        "#4A3931",
+        "#754E3D",
+        "#AF684A"
+      ],
+      "current_hex": "#C36E4A",
+      "gerinfact_hex": "#A56447",
+      "current_to_reference": 0.174135,
+      "gerinfact_to_reference": 0.111671
+    },
+    {
+      "code": "10169",
+      "name": "Ancient Gold",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 9,
+      "grid_column": 1,
+      "native_sample_centre": [
+        108.11,
+        1924.297
+      ],
+      "native_radius": 73.987,
+      "samples": 12421,
+      "reference_median": "#534B37",
+      "reference_lightness_quantiles": [
+        "#3B372C",
+        "#534B38",
+        "#726241"
+      ],
+      "current_hex": "#776742",
+      "gerinfact_hex": "#6D5E3F",
+      "current_to_reference": 0.107488,
+      "gerinfact_to_reference": 0.075327
+    },
+    {
+      "code": "10170",
+      "name": "Doom Metal",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 9,
+      "grid_column": 2,
+      "native_sample_centre": [
+        686.532,
+        1924.297
+      ],
+      "native_radius": 73.987,
+      "samples": 12429,
+      "reference_median": "#4A4A42",
+      "reference_lightness_quantiles": [
+        "#363732",
+        "#4A4A42",
+        "#636155"
+      ],
+      "current_hex": "#69655D",
+      "gerinfact_hex": "#686559",
+      "current_to_reference": 0.101549,
+      "gerinfact_to_reference": 0.099546
+    },
+    {
+      "code": "10171",
+      "name": "Chaos Bronze",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 9,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1264.953,
+        1924.297
+      ],
+      "native_radius": 73.987,
+      "samples": 12423,
+      "reference_median": "#6C5F4F",
+      "reference_lightness_quantiles": [
+        "#454138",
+        "#6C5F4F",
+        "#A1886A"
+      ],
+      "current_hex": "#A68B6D",
+      "gerinfact_hex": "#B59774",
+      "current_to_reference": 0.162294,
+      "gerinfact_to_reference": 0.203841
+    },
+    {
+      "code": "10172",
+      "name": "Blue Steel",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 9,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1843.374,
+        1924.297
+      ],
+      "native_radius": 73.987,
+      "samples": 12433,
+      "reference_median": "#585E5B",
+      "reference_lightness_quantiles": [
+        "#3E403D",
+        "#585E5C",
+        "#788484"
+      ],
+      "current_hex": "#7F8C8B",
+      "gerinfact_hex": "#7E8C8B",
+      "current_to_reference": 0.153816,
+      "gerinfact_to_reference": 0.153104
+    },
+    {
+      "code": "10173",
+      "name": "Heirloom Gold",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 9,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2421.796,
+        1924.297
+      ],
+      "native_radius": 73.987,
+      "samples": 12424,
+      "reference_median": "#776445",
+      "reference_lightness_quantiles": [
+        "#4B4135",
+        "#776444",
+        "#B59155"
+      ],
+      "current_hex": "#C69C53",
+      "gerinfact_hex": "#C8A058",
+      "current_to_reference": 0.20979,
+      "gerinfact_to_reference": 0.219746
+    },
+    {
+      "code": "10174",
+      "name": "Bitz O’ Tin",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 9,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3000.217,
+        1924.297
+      ],
+      "native_radius": 73.987,
+      "samples": 12425,
+      "reference_median": "#61574E",
+      "reference_lightness_quantiles": [
+        "#413C38",
+        "#61574E",
+        "#8D7A6B"
+      ],
+      "current_hex": "#968273",
+      "gerinfact_hex": "#6D6157",
+      "current_to_reference": 0.157648,
+      "gerinfact_to_reference": 0.037441
+    },
+    {
+      "code": "10175",
+      "name": "Smoke Grey Wash",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 10,
+      "grid_column": 1,
+      "native_sample_centre": [
+        108.11,
+        2101.611
+      ],
+      "native_radius": 73.987,
+      "samples": 12425,
+      "reference_median": "#D7D4CD",
+      "reference_lightness_quantiles": [
+        "#C2BDB7",
+        "#D7D4CD",
+        "#F5F4F2"
+      ],
+      "current_hex": "#FBFCFB",
+      "gerinfact_hex": "#C3BFB7",
+      "current_to_reference": 0.12005,
+      "gerinfact_to_reference": 0.064763
+    },
+    {
+      "code": "10176",
+      "name": "Hazard Yellow Wash",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 10,
+      "grid_column": 2,
+      "native_sample_centre": [
+        686.532,
+        2101.611
+      ],
+      "native_radius": 73.987,
+      "samples": 12429,
+      "reference_median": "#DAAA90",
+      "reference_lightness_quantiles": [
+        "#C57E5E",
+        "#DBA990",
+        "#F5E7DC"
+      ],
+      "current_hex": "#E5C0B4",
+      "gerinfact_hex": "#C27555",
+      "current_to_reference": 0.065723,
+      "gerinfact_to_reference": 0.142697
+    },
+    {
+      "code": "10177",
+      "name": "Aztec Turquoise Wash",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 10,
+      "grid_column": 3,
+      "native_sample_centre": [
+        1264.953,
+        2101.611
+      ],
+      "native_radius": 73.987,
+      "samples": 12422,
+      "reference_median": "#7A8384",
+      "reference_lightness_quantiles": [
+        "#596969",
+        "#798384",
+        "#B8BCBD"
+      ],
+      "current_hex": "#939EA0",
+      "gerinfact_hex": "#596969",
+      "current_to_reference": 0.088264,
+      "gerinfact_to_reference": 0.095748
+    },
+    {
+      "code": "10178",
+      "name": "Bone Wash",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 10,
+      "grid_column": 4,
+      "native_sample_centre": [
+        1843.374,
+        2101.611
+      ],
+      "native_radius": 73.987,
+      "samples": 12431,
+      "reference_median": "#A38F86",
+      "reference_lightness_quantiles": [
+        "#785B53",
+        "#A38F86",
+        "#E4DCD9"
+      ],
+      "current_hex": "#B6A8A9",
+      "gerinfact_hex": "#80645C",
+      "current_to_reference": 0.080138,
+      "gerinfact_to_reference": 0.137022
+    },
+    {
+      "code": "10510",
+      "name": "Satin Varnish",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 10,
+      "grid_column": 5,
+      "native_sample_centre": [
+        2421.796,
+        2101.611
+      ],
+      "native_radius": 73.987,
+      "samples": 12431,
+      "reference_median": "#BFBEBE",
+      "reference_lightness_quantiles": [
+        "#909090",
+        "#BEBEBE",
+        "#F4F4F4"
+      ],
+      "current_hex": "#DCDCDD",
+      "gerinfact_hex": "#777475",
+      "current_to_reference": 0.092475,
+      "gerinfact_to_reference": 0.240393
+    },
+    {
+      "code": "10512",
+      "name": "Gloss Varnish",
+      "wave": 3,
+      "chart_url": "https://www.duncanrhodes.com/wp-content/uploads/2025/10/Wave-3-Colour-Chart_2024.pdf",
+      "chart_sha256": "bcfdbae55e13903e9a9b6a4a8a094055bb258ac1fe3df6c644b1e2e2ac392453",
+      "grid_row": 10,
+      "grid_column": 6,
+      "native_sample_centre": [
+        3000.217,
+        2101.611
+      ],
+      "native_radius": 73.987,
+      "samples": 12433,
+      "reference_median": "#8E8A89",
+      "reference_lightness_quantiles": [
+        "#868485",
+        "#8E8A89",
+        "#B5B1B0"
+      ],
+      "current_hex": "#A5A5A4",
+      "gerinfact_hex": "#666161",
+      "current_to_reference": 0.085208,
+      "gerinfact_to_reference": 0.139352
+    }
+  ]
+}

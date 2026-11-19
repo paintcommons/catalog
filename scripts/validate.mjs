@@ -37,8 +37,10 @@ const files = (dir) => readdirSync(dir).flatMap((f) => {
 
 // Licences a published source may carry (SPDX ids); notice: true means the licence asks for its credit
 // and notice to travel with copies, so the source needs an attribution and a notice file here.
+// LicenseRef-facts: factual values (names, codes, approximate colours) from a source that states no
+// licence, published with credit and a notice; no licence is claimed for the source itself.
 // Keep in step with PUBLISHABLE_LICENCES in Stipplewise's shared/commons.mjs.
-const LICENCES = { "CC0-1.0": false, "CC-BY-4.0": true, "MIT": true, "BSD-2-Clause": true, "BSD-3-Clause": true, "ISC": true };
+const LICENCES = { "CC0-1.0": false, "LicenseRef-facts": true, "CC-BY-4.0": true, "MIT": true, "BSD-2-Clause": true, "BSD-3-Clause": true, "ISC": true };
 const SOURCE_KEYS = new Set(["id", "name", "url", "method", "status", "licence", "attribution", "notice", "priority"]);
 const sources = readJson(join(root, "sources.json")) ?? { colour_sources: [] };
 const sourceIds = new Set();
