@@ -1,842 +1,898 @@
 [
   {
+    "id": "344deffb-22de-46d9-b430-4d86b9101bf5",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89501",
     "name": "Shelyn Blush",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F7B0AA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0b7c0c47-0f16-42d3-b261-919093afa813",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89502",
     "name": "Milani Rose",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F8B9D4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "445a8c5b-90dc-4108-a616-a7f228a4d67b",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89503",
     "name": "Sinspawn Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E5BBBF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "83339818-8afa-43ab-97b1-7e48d6b0ed87",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89504",
     "name": "Seoni Scarlet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EF3743",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "09d95691-7b72-4e0b-a590-76702c3b873c",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89505",
     "name": "Merisiel Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C32033",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "27d50872-380a-4fd0-97a1-e31de90d97f2",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89506",
     "name": "Cailean Wine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A13159",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9c313630-b032-4124-837f-1b7793431e4f",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89507",
     "name": "Asmodeus Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9D1C30",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f518fbdb-bbbd-4c50-890c-4c86a133354a",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89508",
     "name": "Urgathoa Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6F2A3D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ebf9325f-9759-48af-a1fb-6e84e5cbd70d",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89509",
     "name": "Cavalier Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2682A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7dcc5f61-9fcc-4609-80ef-9079b45413e8",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89510",
     "name": "Numeria Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C15026",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "39637122-76cd-4efd-987e-b19cb709c693",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89511",
     "name": "Osirian Sand",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F4E4B1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "29ae210d-8ca0-42d6-a1a8-6da97e434d88",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89512",
     "name": "Cairn Stone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D1C392",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "867148ae-59ab-45f0-ae98-73822f2ef5b1",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89513",
     "name": "Calistria Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F8D44A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8724df16-dab3-4fb2-ab74-7b3933d383bf",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89514",
     "name": "Sarenrae Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEBD3F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0a892ad0-a801-4258-903e-0994f2947064",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89515",
     "name": "Boggard Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A7BBB0",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b75fac32-57a5-4651-bef9-21db0a4c7185",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89516",
     "name": "Alchemical Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#91C964",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5504ee5e-73fa-433a-91d1-6aae2990cacb",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89517",
     "name": "Lini Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#40AF49",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "593fd8b0-f854-4bec-a430-07d323c3c758",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89518",
     "name": "Tian Xia Jade",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00955E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ba5ac29f-0690-449c-812d-daac0445c281",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89519",
     "name": "Goblin Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#799C48",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "067b21d4-2f4e-4ea2-bd27-3f1b69a39eeb",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89520",
     "name": "Hodag Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6E702F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "22a93fd3-c021-4b02-b994-ff2aa982e4c7",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89521",
     "name": "Medusa Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A19857",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9c62ee14-05fc-4cc1-b364-058f10b9ef9a",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89522",
     "name": "Grindylow Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00B4A9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0bf99ddf-6695-4798-a4f1-52454ebf2d4d",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89523",
     "name": "Akata Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A5C5D2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "115d5691-c8ef-4fe6-954a-74d64d2ce0b4",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89524",
     "name": "Ice Devil Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8CD3D9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6b07f4ac-deaf-4f79-846e-faaefdf0fd9a",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89525",
     "name": "Irrisen Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CCE8F3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bf9e30d8-b38a-48e5-af63-25ad0b4e1d1f",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89526",
     "name": "Marid Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#01A8DF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a6c56270-bf2e-4c17-8bfe-e57c597b5e77",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89527",
     "name": "Andoran Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0171BB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7dae7514-4013-4b8f-b591-7d962febfeee",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89528",
     "name": "Ezren Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0171BB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d43aa8a5-7531-4700-b06a-936b73fc2387",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89529",
     "name": "Hobgoblin Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6BA2B7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "666d40fe-d507-42a7-b528-7d594042d382",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89530",
     "name": "Desna Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4D60AC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "00af8a9d-9bc8-440a-9ef6-b49b02ae9136",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89531",
     "name": "Kraken Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B8B4D9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "59d64cf0-51cd-4939-8f98-b38413dbd800",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89532",
     "name": "Ghoul Violet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6660AA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "28f535f1-7868-4075-a358-71cdf6b9b5c3",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89533",
     "name": "Azlanti Violet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#472E8C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a35d3e89-8a83-4dd9-a583-6031f26b8766",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89534",
     "name": "Arclord Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AC4398",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8a2d25ce-d4a5-4d36-a98a-cf96a66a9b86",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89535",
     "name": "Pharasma Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#90419A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "440aee98-0d36-46e5-8115-0528f15a7100",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89536",
     "name": "Seugathi Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#873276",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4619200b-2a76-4515-893b-7052d226e72a",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89537",
     "name": "Thuvian Sun Orchid",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E21E8E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e2bab2b7-9401-4db9-9fe2-9a5491ab22a0",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89538",
     "name": "Mwangi Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#663B2B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c0c41d01-1bbc-49a6-9d0b-a79d222f8c66",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89539",
     "name": "Kellid Tan",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D0A787",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ab23b8b7-f1ad-4ec6-b22c-6f0dbc358045",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89540",
     "name": "Taldan Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E2B7A6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ea44aea8-6d7a-442e-b66e-68d1bdc14fac",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89541",
     "name": "Kyonin Beige",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F3DAB2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "78f4d8cd-c1fa-4ae9-942d-c09be20910a5",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89542",
     "name": "Shoanti Sienna",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BA6954",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a3274d4b-66f2-4e82-af7b-91412c4031b0",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89543",
     "name": "Gug Umber",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#61524F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "05439301-0bb5-4866-afe7-e3f69b5a14bf",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89544",
     "name": "Mana Waste Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C2B3B6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "75d3f772-7db3-4a18-bcb6-8fba17996eee",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89545",
     "name": "Gozreh Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#78787A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "08f26b1d-2e47-4784-8dd5-19bef827c8fe",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89546",
     "name": "Besmara Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#262729",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "884231ca-026c-4f34-b016-c05bf2104203",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89547",
     "name": "Unicorn White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2F2E8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "31fd9498-532a-4ef7-8009-442cd903bbc9",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89548",
     "name": "Skeleton White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2F2E8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "71a65f45-5e0f-42f4-a47e-e69c38321121",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89549",
     "name": "Cold Iron",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#827877",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8a089db1-6ead-4f93-8d4c-d291ba215c47",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89550",
     "name": "Crusader Silver",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9F9F9F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "07eaa316-82f3-4193-958c-676e21ff5128",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89551",
     "name": "Keleshite Gold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BD9E44",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d8883e15-9887-4adf-965f-92b5aeebfa80",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89552",
     "name": "Valeros Gold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A4834E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "093f0066-9b0e-454e-ae65-b77b95e63ae0",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89553",
     "name": "Brevoy Copper",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A7815D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "96e8f737-d916-4913-a672-1b0f9f49a714",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89554",
     "name": "Clockwork Brass",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B8A471",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "01f75781-199f-4987-8a2f-94569719b092",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89555",
     "name": "Bright Bronze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D09170",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0382b617-bee6-450d-8a25-d2f4a1794f8a",
     "brand": "Reaper",
     "range": "Master Series Paints Pathfinder",
     "code": "89556",
     "name": "Adamantine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#90867D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

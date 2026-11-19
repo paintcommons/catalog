@@ -1,182 +1,194 @@
 [
   {
+    "id": "1ad795ad-e383-42bf-9e18-c6a53c5f56a6",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Chaos Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "37fbc6fe-b31b-4544-823c-373eba9dff63",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Corax White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "53d3980c-5732-468d-9cc8-5cb37e0166f3",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Death Guard Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#556229",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f2d45b38-6c66-4e8a-ba67-20269f432a77",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Grey Seer",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A2A5A7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "164079fc-cc07-466a-87a4-4bc87f07a74d",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Leadbelcher",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#868686",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "da0b1a31-7059-4d4b-8dcc-f97847bc140b",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Macragge Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#103E7C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "59aaa888-7b6f-409c-bf05-146c253fe46c",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Mechanicus Standard Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#39484A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7b0cbb10-9e9f-48b3-87fa-f3acb4d21e71",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Mephiston Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#960D0A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1303fcc2-6359-456e-821c-e6715a8cb19f",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Munitorum Varnish",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FAFAFA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e73d0f09-cbaf-4178-875a-c79cbd1fbc60",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Retributor Armour",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EDC06A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "616245dd-bf15-410a-aea4-ea29b68ef060",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Wraithbone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DBD1B2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e6bc4bbf-6bf4-4ec8-b6ed-a0982f0a9143",
     "brand": "Citadel",
     "range": "Spray",
     "code": null,
     "name": "Zandri Dust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#988E56",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

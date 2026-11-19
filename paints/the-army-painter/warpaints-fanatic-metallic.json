@@ -15,33 +15,35 @@
     "status": "current"
   },
   {
+    "id": "db21ff68-c2bc-4f8b-8ca7-566367b03299",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Cobalt Metal",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2E4249",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e59a2f28-5a42-4883-845d-fbc1ae3746be",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Dark Emerald",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3B4A25",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
@@ -60,63 +62,67 @@
     "status": "current"
   },
   {
+    "id": "30887ec9-e88a-48b4-aad8-b34582491606",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Evil Chrome",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5B3B2F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f5b7eb83-b3df-4e45-a313-312d4acb7b8f",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Gemstone Red",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#821D23",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "96bcfdc9-4189-4a90-a065-b41a9bbbcfb2",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Glittering Green",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2E794A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "91001679-2353-4dae-8703-250dbd75bfda",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Greedy Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#745218",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
@@ -150,78 +156,83 @@
     "status": "current"
   },
   {
+    "id": "06b7c4b7-b76b-4c58-a7de-5d1671ebf851",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Plate Mail Metal",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#686A6E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3b08f6b2-b456-437a-b057-2c33bb2675bd",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Red Copper",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4D2C30",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3af41b9c-2f03-4444-b88e-bd0cb0d41dc9",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Rough Iron",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#352D25",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "53d4eccc-a579-44de-917e-21d5258a3525",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Shining Silver",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#86888C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6d29d897-9958-4b7e-a2fd-ba3178841c75",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Tainted Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#575235",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
@@ -255,18 +266,19 @@
     "status": "current"
   },
   {
+    "id": "b19449a4-8a6d-4f8b-8947-307d7a848976",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Metallic",
     "code": null,
     "name": "Weapon Bronze",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#955610",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

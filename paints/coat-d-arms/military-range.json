@@ -1,542 +1,578 @@
 [
   {
+    "id": "8928b524-61a5-4206-959f-c70d0e2772cd",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "102",
     "name": "Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "15c21bcc-9c9d-4f71-b50f-8716b3869440",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "103",
     "name": "Sun Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFF00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "347254ec-2baa-482b-8380-67f091db1b60",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "206",
     "name": "Light Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6377B4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ec2bc99a-69b0-4d5b-aaa5-ed395859c42b",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "207",
     "name": "Dark Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#48508F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "40487cfc-95c5-4b17-92df-7c2b39d4c204",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "208",
     "name": "Grass Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#68905C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3c323062-9a01-4e5e-a9e0-99148af97d01",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "209",
     "name": "Dark Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#456A59",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b2088ec4-c118-45b0-816c-92d91bdd5697",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "210",
     "name": "Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C74B6D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c596e61e-9cac-4bff-8d43-46222decb090",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "211",
     "name": "Light Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FCFDF7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "880699b6-a44f-4055-b74e-dc691e35591c",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "212",
     "name": "Dark Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#526760",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9ca1d404-08e2-49b2-935b-d0849ae94e58",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "213",
     "name": "Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFF4CE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "99b23d84-6897-4a41-86ff-87022a069cd0",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "214",
     "name": "Suntanned Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DDA78F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f5532961-1d26-43d1-8263-17f078d866a2",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "215",
     "name": "Oriental Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F6C77F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9c4b1df2-f6e2-4f33-9f9c-bd56f6cd3b48",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "216",
     "name": "Dark Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3E373E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4134313a-8ded-4491-99fa-0fa19fdbb58b",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "217",
     "name": "Leather Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BE8E66",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b2827cbf-c1a2-478f-b6b5-bad2d43caf83",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "218",
     "name": "Wood Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#59371C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "131855a2-bb65-471e-82b6-939fc84202eb",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "219",
     "name": "Chesnut Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#543E31",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d4fde85d-cc01-464b-81d8-6d00e2804920",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "220",
     "name": "Silver",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D5D9E4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c0fb446c-a1dd-4515-a90e-1d17eb3622cb",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "221",
     "name": "Horse Tone – Dun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BC9D66",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "693b035c-6251-4e8d-a100-4ad22fc27d5b",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "222",
     "name": "Horse Tone – Roan",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AD9887",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7e1f189c-a76e-4b0e-8572-3a8d27c6cc29",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "223",
     "name": "Horse Tone – Chesnut",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#754F4C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "95cfc2b9-d782-427c-8c9c-0af308687a82",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "224",
     "name": "Horse Tone – Bay",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DB7E55",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d25acedf-bcbd-435e-94d9-cc70eab40f46",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "225",
     "name": "Khaki",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C0B973",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fbd12d10-1069-4407-8885-464a9912781c",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "226",
     "name": "Olive",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#54674B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6bb0f920-0578-497c-9d7a-d6b1c1b98e1b",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "228",
     "name": "Buff",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DED19D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "42832f13-43fa-4f97-86c8-9802b05752eb",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "229",
     "name": "Dark Sand",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CAB876",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "98f26715-70d0-4e58-91bb-9836933e6c69",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "230",
     "name": "Camouflage Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6B845C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "24da611d-7974-4367-a31d-d5701d2c390d",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "231",
     "name": "Mid Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B2A7A5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f18974ec-7964-461c-99f7-271bd26937da",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "232",
     "name": "Bronze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D1C0B0",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4f12ceba-d305-43a6-b913-6ff9c027575c",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "233",
     "name": "Linen",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2E9C2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1f37b638-fb2b-4caa-bdd9-c2194f91f0af",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "234",
     "name": "Dark Earth",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#55584F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c05d0b60-61a2-4142-a45f-1abb5673febe",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "235",
     "name": "Horse Tone – Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#665C43",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "309c0c2f-5682-4c59-bb35-1165015325c6",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "236",
     "name": "Horse Tone – Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B0BBB7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "28bb17ce-835c-41b4-ad52-8ba1e1a76490",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "237",
     "name": "Russet Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BA4244",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "30daefc3-786e-49f8-bd1f-f97f2967defd",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "238",
     "name": "British Scarlet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F5333C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "151f8dff-c135-4884-baed-e6fe6dfe4df5",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "239",
     "name": "Bavarian Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2F9CF1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b89f1c3c-6205-41bf-a1c8-b0f3fbb5082f",
     "brand": "Coat d'Arms",
     "range": "Military Range",
     "code": "240",
     "name": "Unbleached Wool",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D9E0B7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

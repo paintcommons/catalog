@@ -1,0 +1,962 @@
+[
+  {
+    "id": "e989d501-0d2d-4f6e-92d9-63181a88e607",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Ambush Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E3CC73",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "da4e938a-1f6b-488d-bafd-7b9fd40c92bc",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Amphora Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#482124",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3f1c5cc5-cf4f-4d3a-a289-afacc6068748",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Ancient Gold",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#776742",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8dc6d49d-ba10-4fe4-a6c4-9fda7fe2aa12",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Antiquity Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#367D7A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c448140e-a788-4af7-a9e0-c528fac97b0a",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Apocalypse Sky",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E34E3F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "804807c0-193f-45f0-a6a7-d8a1300240a8",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Aztec Turquoise Wash",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#939EA0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7a3ba850-3f2b-42db-8ced-d588e547cd25",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Blue Steel",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7F8C8B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "80e79507-0b39-4e8b-abf6-043e478838bd",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Bone Wash",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B6A8A9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "257e5339-7f6d-4be0-862b-29895969c04d",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Boot Strap Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8E674B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "737a043c-8f78-43a5-a275-91dab284e6b6",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Carapace Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F955A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "784c4911-f736-44bf-b9de-1ff986813358",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Centurion Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E63132",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ba220d82-013d-4ea9-9c8f-51aec8e8c48b",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Chaos Bronze",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A68B6D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "38d0a7e5-6731-4029-9252-245cebba867c",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Contagion Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8B9E7B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "230e4a6a-8085-4b8c-be06-0a6edb4f92c0",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Cyber Pink",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C64B8A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "681652ad-a4d0-44ea-ae93-cc6e99cebfd4",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Death Metal",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#69655D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7a949baa-d196-4ecc-9e9b-da0b87ca32af",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Decadent Purple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C1BED3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3bc11d4a-53ff-4229-aef7-7ff7db4b7912",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Elder Robe",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2259A0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "570b1a8d-fcdf-4b4f-b584-896a1172574d",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Elixir Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7EC68F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b54ee017-42f7-496b-bb00-3e5dd1f71813",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Emperor Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A03140",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1a91e73b-8577-4a51-b787-d35605d5efef",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Emperor's Purple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7A6089",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "bf20dcb8-35db-47b0-a3c7-368003dd864c",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Enchantment Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#347DAA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "a27c0b84-0a81-411f-983a-4c5dc3558e2c",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Enchantress Purple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#593662",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d59acca6-1532-4679-b7d1-fadc6921df95",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Enticing Purple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7F7A8B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5d6b489d-96e7-464e-b96f-210db79164dd",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Faust Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#45515B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b25af279-fe48-43b9-8513-60c1fa0ca821",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Fire Opal",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C36E4A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "41fe4a4d-021e-4d4e-97e4-d1e3ef7a657a",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Flak Gun Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C5AA5A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ddb19e8b-9977-4fee-af99-47b76a865947",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Frost Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#78969D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c85dcd7f-8b1f-4d4e-b4c1-656bc1f332df",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Gloss Varnish",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A5A5A4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "bdc164b9-c791-4f09-869a-41a8c53bfbfe",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Hazard Yellow Wash",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E5C0B4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ac3b3ac5-f312-406d-8656-f252b181920b",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Heirloom Gold",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C69C53",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "f1868485-430b-4952-94b6-a976052754d3",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Incubus Purple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A696C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "614c9e52-0574-4cd1-995f-2fb8af9999fe",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Inferno Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CE4A32",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "18ffa2e4-1e06-4289-90e8-29348c96b5c1",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Ion Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B7D5D8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "66b31a68-1730-47cf-bc50-edde32cdc7bd",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Legion Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A6A66",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d1845fab-1cec-4854-9dfe-70191f10fd34",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Matt Varnish",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DCDCDD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d16b933f-046d-4ae2-bc51-0c5b0f449675",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Mythic Turquoise",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#599E9C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0c67fc18-e5dd-4519-b30b-3fcbc9fe5a22",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Omega Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#58B9B6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "42ecc6d9-9ab6-4ba8-b3a3-ddebcd6c3a63",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Oxidation Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#34444C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ffae6b8b-d686-4ea5-9e67-9467bd0ca592",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Pale Skin",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CAAA7A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "a2c5a50b-e5fa-48da-ac10-9834fd6874b8",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Panzer Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A58E42",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4bcacacf-bba4-4322-8de2-2d1caa17fd64",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Pestilence Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D3DF95",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4bdfe471-7922-40f4-9430-70fdc7ebde53",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Red Rage",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A342A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "86b52738-ddbc-4fad-aa7f-2c447ed488c2",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Relic Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2B7FBB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d2f069d9-27a5-4fae-b08f-e55b8664aa4c",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Ritz O'Tin",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#968273",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8bda15c3-9374-485e-8c2c-979fc5e107a0",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Scabbard Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7B5E46",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ede88a2c-2db2-4c94-990a-53da06d412dd",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Scarab Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B04045",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "78da5f43-e900-4650-8787-502e744b4c9a",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Seafarer Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A9CC7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "f898d6f2-02cb-47a6-97ae-1fe08de0eaa4",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Septric Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ABB337",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "da9f737d-f058-413d-af0d-4abc0478743a",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Serpent Eye Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F5D10D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3ee14dea-6ba0-4adf-a2a4-9631978375d4",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Shadow Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F646B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "fccb1c4d-326e-4b4b-8d68-f7a4b4c8b906",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Smoke Grey Wash",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FBFCFB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "28d13ac9-1827-45cd-aa88-99e494c6a6ae",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Solar Flare",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EE7F21",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0a05d3c4-da10-4eed-8c69-cc813840ff6f",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Spectral Purple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#995A9A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "fab63c4a-698d-4b09-8b17-f0b310352fff",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Sun Bleach Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F5E350",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2e04b7db-aaad-430e-bfe7-518e07693358",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Traitor Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2F534F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "80b0fad8-3b66-4f66-b93f-1c51f1654be5",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Twin Suns Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E5E6AC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8546f5dc-bdc5-4101-a723-7b4a50d7de6e",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Vambrace Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9C745C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "81a6b833-a821-4f24-9978-691b11592286",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Von Evile Pimple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#22012E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "56a0dd7f-e14d-4ee9-975c-15245012c092",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "War Master Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A4140",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "48078a1b-db20-45d0-8da2-fcc446deba11",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 3",
+    "code": null,
+    "name": "Zombie Rot",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B1B679",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  }
+]

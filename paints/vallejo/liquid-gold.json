@@ -1,122 +1,130 @@
 [
   {
+    "id": "601db392-a8ae-453d-bdea-f06bb534b6d6",
     "brand": "Vallejo",
     "range": "Liquid Gold",
     "code": "70.790",
     "name": "Silver",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F5F6F8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "3ae946b8-d516-4871-9e34-b861850b786c",
     "brand": "Vallejo",
     "range": "Liquid Gold",
     "code": "70.791",
     "name": "Gold",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EEE6E3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9d84e25d-75db-40ad-af8e-9e0e04bdaa48",
     "brand": "Vallejo",
     "range": "Liquid Gold",
     "code": "70.792",
     "name": "Old Gold",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2ECCA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "d491581b-6511-41cc-ac5b-2798f6ccea62",
     "brand": "Vallejo",
     "range": "Liquid Gold",
     "code": "70.793",
     "name": "Rich Gold",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E9DEC2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "e91f2292-47a3-4c47-ba8e-a6425b10a205",
     "brand": "Vallejo",
     "range": "Liquid Gold",
     "code": "70.794",
     "name": "Red Gold",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F3E2C8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ca478a48-659d-4d9d-aa98-4906cd1e2ee9",
     "brand": "Vallejo",
     "range": "Liquid Gold",
     "code": "70.795",
     "name": "Green Gold",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E3D8C4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "405db9a3-dc25-4564-8adc-1ac94ab2dbe8",
     "brand": "Vallejo",
     "range": "Liquid Gold",
     "code": "70.796",
     "name": "White Gold",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F6F6F6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b84e5981-ba95-4275-a6ce-beaa53b69a7a",
     "brand": "Vallejo",
     "range": "Liquid Gold",
     "code": "70.797",
     "name": "Copper",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E7CFC5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   }
 ]

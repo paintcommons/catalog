@@ -1,317 +1,338 @@
 [
   {
+    "id": "46053002-057d-40c2-82dd-228343fee69f",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11191",
     "name": "Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9E6806",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4711810b-f0dc-441d-9bcd-b897822a13b4",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11192",
     "name": "Old Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B89402",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9d5e9479-a553-4d22-8e46-015abc7e9486",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11193",
     "name": "Rusty Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#734B03",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "00f55ea4-84d6-4e9a-8a3b-8a1496500a9f",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11194",
     "name": "Brass",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A55D09",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7522d6d3-9844-4700-81e6-9d7a6f44705b",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11195",
     "name": "Rusty Brass",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A04D0B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d8b13c41-b581-4c0c-922d-ae7dde6e431f",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11196",
     "name": "Bronze",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7F5405",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4003f596-cf30-43f2-a5d6-c953f81aa59d",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11197",
     "name": "Copper",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BD500B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "70aff8ad-b075-4354-8b65-50a92798f2f5",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11198",
     "name": "Burnt Tin",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#331702",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d6cd5c3a-e33e-484f-a287-504855f37be4",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11199",
     "name": "Metallic Blue",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#829C99",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0c6622cf-5f15-4351-8328-8a2d4328fafc",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11200",
     "name": "Astral Beryllium",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#799E8D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fe8bedc3-db4a-4a16-981b-5a7b0f90e758",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11201",
     "name": "Cobalt Blue",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#012136",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "132e5756-2676-4632-9d46-01d4133baa2f",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11202",
     "name": "Anodized Violet",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9D8696",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dab48198-261b-4f06-8339-904488834cc4",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11203",
     "name": "Foundry Red",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C53733",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1c65eca9-176a-4ed9-a1c7-c8f2d4f619eb",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11204",
     "name": "Emerald Metallic Green",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#21753A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1eef40ba-fa32-44f4-b173-50b1b9f00eaf",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11206",
     "name": "Pearl",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F5EFD5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5da57d2b-16ff-402a-96e1-c5e8091f68cf",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11207",
     "name": "Aluminium",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AFAFAF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "72cd97c3-ab34-4183-9419-9a75e7203c21",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11208",
     "name": "Dark Aluminium",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#787878",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fafe4815-77ac-4d4b-8268-8e0a9a17c36b",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11209",
     "name": "Silver",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A0AAAC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e9996e9f-c192-49f0-b16f-19b662b85a76",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11210",
     "name": "Natural Steel",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A7A6A1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a6bfb192-75a1-4ced-a3e7-94342d3c942f",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11211",
     "name": "Oily Steel",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A7A491",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "67ea2b8b-5e88-47d1-88ac-c83f5c58d327",
     "brand": "AK Interactive",
     "range": "Metallic (3rd Gen)",
     "code": "AK11212",
     "name": "Gun Metal",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4E4E4C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

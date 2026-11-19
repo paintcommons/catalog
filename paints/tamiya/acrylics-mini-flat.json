@@ -1,1037 +1,1106 @@
 [
   {
+    "id": "02f5d4ed-15f6-4f5b-97bf-d4006ed569ea",
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
     "code": "XF-1",
     "name": "Flat black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#333333",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-10",
-    "name": "Flat brown",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3E2A09",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-11",
-    "name": "J.N. green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#26330B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-12",
-    "name": "J.N. grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B3CBAE",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-13",
-    "name": "J.A. green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#334A1F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-14",
-    "name": "J.A. grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B3CA8E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-15",
-    "name": "Flat flesh",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FDCDA1",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-16",
-    "name": "Flat aluminum",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CCCCCC",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-17",
-    "name": "Sea blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#2E3B43",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-18",
-    "name": "Medium blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#485B5F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-19",
-    "name": "Sky grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#ADB7C0",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "346fef00-65b3-4056-ac44-1cb11bf69cab",
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
     "code": "XF-2",
     "name": "Flat white",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-20",
-    "name": "Medium grey",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#A3AA96",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-21",
-    "name": "Sky",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B8BE77",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-22",
-    "name": "RLM grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#7B8D7D",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-23",
-    "name": "Light blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#8FB5AD",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-24",
-    "name": "Dark grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3E4448",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-25",
-    "name": "Light sea grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#7A8BA9",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-26",
-    "name": "Deep green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#2E1F09",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-27",
-    "name": "Black green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00260F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-28",
-    "name": "Dark copper",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#995F3B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "2ac02b12-928f-490a-9ce4-a1aa79a63af1",
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
     "code": "XF-3",
     "name": "Flat yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFCC00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7ef3bafc-41dc-40c0-9c38-90ed69db3a99",
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
     "code": "XF-4",
     "name": "Yellow green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B3C60F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-49",
-    "name": "Khaki",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#7E783F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
+    "id": "8bfacff6-a271-4123-a68d-95919ea0b295",
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
     "code": "XF-5",
     "name": "Flat green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#244313",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-50",
-    "name": "Field blue",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#364146",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-51",
-    "name": "Khaki drab",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#29330E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-52",
-    "name": "Flat earth",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#734834",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-53",
-    "name": "Neutral grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#6C787B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-54",
-    "name": "Dark sea grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#5C5D61",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-55",
-    "name": "Deck tan",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B7B187",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-56",
-    "name": "Metallic grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#5C6264",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-57",
-    "name": "Buff",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B8B36A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-58",
-    "name": "Olive green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#1A3B14",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-59",
-    "name": "Desert yellow",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#D89C42",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "0b2cbc9e-8f79-436c-a0fd-0907f6d49de0",
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
     "code": "XF-6",
     "name": "Copper",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CC5C03",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-60",
-    "name": "Dark yellow",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C7B140",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-61",
-    "name": "Dark green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#1A2D0F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-62",
-    "name": "Olive drab",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#404B13",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-63",
-    "name": "German grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3E474A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-64",
-    "name": "Red brown",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#66370A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-65",
-    "name": "Field grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#67866B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-66",
-    "name": "Light grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#667679",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-67",
-    "name": "NATO green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#33601A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-68",
-    "name": "NATO brown",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#733007",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-69",
-    "name": "NATO black",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#222424",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "ce38fc4d-f84f-465e-9b32-20be117d2258",
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
     "code": "XF-7",
     "name": "Flat red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FF0000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-71",
-    "name": "Cockpit green (IJN)",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#74925D",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-72",
-    "name": "Brown (JGSDF)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#734C0C",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-73",
-    "name": "Dark green (JGSDF)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#1A4316",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-74",
-    "name": "Olive drab (JGSDF)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#334012",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-75",
-    "name": "IJN gray (Kure Arsenal)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#828D93",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-76",
-    "name": "Gray green (IJN)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B8C3A7",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-77",
-    "name": "IJN gray (Sasebo Arsenal)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#686D71",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-78",
-    "name": "Wooden deck tan",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#D3B685",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-79",
-    "name": "Linoleum deck brown",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#784629",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "4264399b-fead-4c8b-b11d-4f121672f53f",
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
     "code": "XF-8",
     "name": "Flat blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#284C7B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-80",
-    "name": "Royal light gray",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C1CAC8",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-81",
-    "name": "Dark green 2 (RAF)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-82",
-    "name": "Ocean gray 2 (RAF)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-83",
-    "name": "Medium sea gray 2 (RAF)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-84",
-    "name": "Dark iron",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-85",
-    "name": "Rubber black",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-86",
-    "name": "Flat clear",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-87",
-    "name": "IJN gray (Maizuru Arsenal)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Flat",
-    "code": "XF-88",
-    "name": "Dark yellow 2",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "a8b6364b-e873-4271-aa59-ffb1f1870b61",
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
     "code": "XF-9",
     "name": "Hull red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3E0E02",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8d8a6ee8-a1c3-4fff-9a96-6f56aa71369d",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-10",
+    "name": "Flat brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3E2A09",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1d32609f-63d4-4166-90dd-6bc4f7a574bb",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-11",
+    "name": "J.N. green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#26330B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d75408fc-d891-44db-9be2-0a6c1b83e041",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-12",
+    "name": "J.N. grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B3CBAE",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c773cf23-2e0e-425a-b3d4-d1bfa220fc38",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-13",
+    "name": "J.A. green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#334A1F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "801d1669-1717-4a47-aee6-49fe07bbd8b6",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-14",
+    "name": "J.A. grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B3CA8E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d52af30b-8da8-44fc-b47b-97554aaef41f",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-15",
+    "name": "Flat flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FDCDA1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d53a57cc-d6c1-4590-8b05-09055b45af19",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-16",
+    "name": "Flat aluminum",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CCCCCC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "cb85e1c6-e137-4306-864e-2668c1c54bbe",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-17",
+    "name": "Sea blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2E3B43",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8dc0e5d2-e018-40a2-a2b6-77233f2b7c8d",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-18",
+    "name": "Medium blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#485B5F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0b7ee1f0-0608-4c84-8ce8-f9ca701cab2a",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-19",
+    "name": "Sky grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ADB7C0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c8014aeb-24e0-4610-88da-e737b17d3e5b",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-20",
+    "name": "Medium grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A3AA96",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "47a5d3d6-0a16-4d57-a589-650164a0ab43",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-21",
+    "name": "Sky",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B8BE77",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "695b344e-1d3f-4721-8b55-13769e7f4fc3",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-22",
+    "name": "RLM grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7B8D7D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "9b634349-e938-44ca-92ae-4058a9a01562",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-23",
+    "name": "Light blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8FB5AD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d06c181d-3794-45b3-b116-cbe269bdc725",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-24",
+    "name": "Dark grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3E4448",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1c0989ed-7303-414f-a508-4177a856e4e3",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-25",
+    "name": "Light sea grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7A8BA9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "da872c10-e5c7-4df4-8ea5-f42ae23d972d",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-26",
+    "name": "Deep green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2E1F09",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "831d3d13-bd8c-44af-bb09-b086023b2563",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-27",
+    "name": "Black green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00260F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5c6058fb-b1ea-4ff2-8968-8daa9bcb8673",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-28",
+    "name": "Dark copper",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#995F3B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5ba984ea-3dc7-4596-8868-914609bdd86b",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-49",
+    "name": "Khaki",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7E783F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "446286f4-9197-4c4a-a656-acb2c2aaff06",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-50",
+    "name": "Field blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#364146",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8b2e7594-61c6-4c9d-a4b1-02a538798de4",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-51",
+    "name": "Khaki drab",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#29330E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2afc2c03-1030-41bd-a3a5-ba171e527305",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-52",
+    "name": "Flat earth",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#734834",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "412e2dff-2e06-4a22-bd09-464309c97c01",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-53",
+    "name": "Neutral grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C787B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "96558af4-ed1d-4404-8243-f138ea003b0f",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-54",
+    "name": "Dark sea grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5C5D61",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "66722b32-3036-4385-9692-70b92ad2e9ad",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-55",
+    "name": "Deck tan",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B7B187",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3592f59f-3ea8-43b4-bac8-5dda30d361b1",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-56",
+    "name": "Metallic grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5C6264",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "adec32c0-9720-48b1-88eb-c8e6cf3da019",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-57",
+    "name": "Buff",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B8B36A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "595a0229-0d07-48b7-b982-f74b47125e2f",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-58",
+    "name": "Olive green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1A3B14",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6ebcabf6-d3ad-409b-a16b-679fac789938",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-59",
+    "name": "Desert yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D89C42",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1f3aed45-d6e7-4b04-9198-fe706df95a68",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-60",
+    "name": "Dark yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C7B140",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ebd911b7-7c7b-49f0-a753-e1f4a70d66cb",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-61",
+    "name": "Dark green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1A2D0F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1d3fd1e7-6f94-42b9-b614-d79eeb167dcb",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-62",
+    "name": "Olive drab",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#404B13",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5d8b0a06-19ee-49f7-934e-6c1c44b39a62",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-63",
+    "name": "German grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3E474A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4b5d470d-be44-4e4b-830f-5e75e39f950e",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-64",
+    "name": "Red brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#66370A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "62f130dc-58bc-46f0-b59a-c1c516eec5c4",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-65",
+    "name": "Field grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#67866B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6c1ec392-1dc0-4a87-8755-2d6b23f6361b",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-66",
+    "name": "Light grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#667679",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4a754e68-92f3-4d5e-a4a6-993f3b18f544",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-67",
+    "name": "NATO green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#33601A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3de4d678-59be-4d6d-a533-4dc8ca4a0697",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-68",
+    "name": "NATO brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#733007",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "bf25c6e9-31e1-4cbc-8ffe-3f124afa3427",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-69",
+    "name": "NATO black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#222424",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7cdcda68-bf38-4a02-81b8-144ee5d9b0b3",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-71",
+    "name": "Cockpit green (IJN)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#74925D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "35609d8e-97c5-4ef3-89e9-539a3a212476",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-72",
+    "name": "Brown (JGSDF)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#734C0C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "dd3f3456-f439-4d19-b248-86ccf99b4074",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-73",
+    "name": "Dark green (JGSDF)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1A4316",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4f064523-542c-441f-9ed9-3167f08038fb",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-74",
+    "name": "Olive drab (JGSDF)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#334012",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "e20fc297-fc2a-4b95-a282-0656943a482a",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-75",
+    "name": "IJN gray (Kure Arsenal)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#828D93",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "18ea5d86-5562-4098-95de-635af1c0eb6b",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-76",
+    "name": "Gray green (IJN)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B8C3A7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "50ab9369-5b00-4def-b171-8d568e873f1c",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-77",
+    "name": "IJN gray (Sasebo Arsenal)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#686D71",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8a0f46b6-0f57-47f0-afe1-3aabcbdcaa2a",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-78",
+    "name": "Wooden deck tan",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D3B685",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1e8df261-7f8e-4cab-bfa2-dee028b2a8a0",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-79",
+    "name": "Linoleum deck brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#784629",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c1cafcbd-d5db-4854-a2ea-a050a7849c61",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-80",
+    "name": "Royal light gray",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C1CAC8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2d8b4b37-823a-4241-9b2c-19385629747f",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-81",
+    "name": "Dark green 2 (RAF)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "dd923186-2fe2-40a1-a77f-c26c4c2493c7",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-82",
+    "name": "Ocean gray 2 (RAF)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "86dae3d8-3c13-4a94-b338-51e6d82d5538",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-83",
+    "name": "Medium sea gray 2 (RAF)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "729e11d1-a224-4833-8dc1-55730e129e4f",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-84",
+    "name": "Dark iron",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "cc80ed98-ae5f-4f12-84e5-2110728a23ff",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-85",
+    "name": "Rubber black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ac8b9b3e-a7a7-4dfc-bb67-462c48c090b2",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-86",
+    "name": "Flat clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d8ff19ce-35d2-43fa-b899-e4967f13300a",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-87",
+    "name": "IJN gray (Maizuru Arsenal)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "06f5015c-35b3-4b92-935c-f9382ebf57b2",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Flat",
+    "code": "XF-88",
+    "name": "Dark yellow 2",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1a06f685-908d-4f50-a77c-3f64eb8a7bdd",
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
     "code": "XF-90",
     "name": "Red brown 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "29d9fa16-150e-4a0a-98db-5a24a12b64db",
     "brand": "Tamiya",
     "range": "Acrylics Mini Flat",
     "code": "XF-91",
     "name": "IJN gray (Yokosuka Arsenal)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

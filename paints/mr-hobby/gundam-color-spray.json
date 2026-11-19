@@ -1,227 +1,242 @@
 [
   {
+    "id": "594029fb-33fc-4dbd-baa5-5410f022760d",
     "brand": "Mr Hobby",
     "range": "Gundam Color Spray",
     "code": "SG1",
     "name": "RX-78 Yellow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F1F7FA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Gundam Color Spray",
-    "code": "SG10",
-    "name": "Zeon's MS Gray",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#DD6B69",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Gundam Color Spray",
-    "code": "SG11",
-    "name": "MS Char's Pink",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#862544",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Gundam Color Spray",
-    "code": "SG12",
-    "name": "MS Char's Red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#D0121B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Gundam Color Spray",
-    "code": "SG13",
-    "name": "MS Sazabi Red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#003E97",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Gundam Color Spray",
-    "code": "SG14",
-    "name": "A.E.U.G'.s MS Blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#427BBF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Gundam Color Spray",
-    "code": "SG15",
-    "name": "MS Light Blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#000011",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "301635df-b70d-4b4a-bf4b-c69a9b8af4e1",
     "brand": "Mr Hobby",
     "range": "Gundam Color Spray",
     "code": "SG2",
     "name": "MS White",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00489B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "422b7e24-c689-46b4-8faa-1ba1c9da642d",
     "brand": "Mr Hobby",
     "range": "Gundam Color Spray",
     "code": "SG3",
     "name": "MS Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FAC000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "eb595d5a-0743-49a5-aa45-a31b0300e44a",
     "brand": "Mr Hobby",
     "range": "Gundam Color Spray",
     "code": "SG4",
     "name": "MS Yellow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C92220",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4434967f-b9f7-42b1-8e08-5f563b528f15",
     "brand": "Mr Hobby",
     "range": "Gundam Color Spray",
     "code": "SG5",
     "name": "MS Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#323232",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e802e1c4-4601-4db9-8fe3-a62661b83b3a",
     "brand": "Mr Hobby",
     "range": "Gundam Color Spray",
     "code": "SG6",
     "name": "U.N.T'.s MS Gray",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8EAF8C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f324d0a1-750c-45a6-a10f-e924cefcf3a2",
     "brand": "Mr Hobby",
     "range": "Gundam Color Spray",
     "code": "SG7",
     "name": "MS Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#426A4E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8d4a8185-4baf-4b86-a51c-9e4a49055ae5",
     "brand": "Mr Hobby",
     "range": "Gundam Color Spray",
     "code": "SG8",
     "name": "MS Deep Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A688BD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "60ed01a7-ed5c-40c8-9567-c4f3f97c9075",
     "brand": "Mr Hobby",
     "range": "Gundam Color Spray",
     "code": "SG9",
     "name": "MS Purple",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#585B69",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d79c6585-fcf2-4a97-a267-a0280d84ab84",
+    "brand": "Mr Hobby",
+    "range": "Gundam Color Spray",
+    "code": "SG10",
+    "name": "Zeon's MS Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DD6B69",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b3ac74ba-f2fa-4b75-a81b-2e9c40e5eb73",
+    "brand": "Mr Hobby",
+    "range": "Gundam Color Spray",
+    "code": "SG11",
+    "name": "MS Char's Pink",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#862544",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "aff15e2c-9a84-4c0e-9fb3-72957e0369f1",
+    "brand": "Mr Hobby",
+    "range": "Gundam Color Spray",
+    "code": "SG12",
+    "name": "MS Char's Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D0121B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "439051d0-7756-4d2f-977c-6039d6c1f2ce",
+    "brand": "Mr Hobby",
+    "range": "Gundam Color Spray",
+    "code": "SG13",
+    "name": "MS Sazabi Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#003E97",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "75229526-1d59-4ca3-a692-2fcdda8f413e",
+    "brand": "Mr Hobby",
+    "range": "Gundam Color Spray",
+    "code": "SG14",
+    "name": "A.E.U.G'.s MS Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#427BBF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "44fb6f2f-3a5c-4018-88a8-6927b207ac8b",
+    "brand": "Mr Hobby",
+    "range": "Gundam Color Spray",
+    "code": "SG15",
+    "name": "MS Light Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000011",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

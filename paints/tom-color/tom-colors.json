@@ -1,3452 +1,3682 @@
 [
   {
+    "id": "85565c08-a98b-440e-af03-670b1cefb23d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "FS-30117",
     "name": "FS 30117 Earth Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#372415",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3f5fc19c-72a5-423d-a1b9-7e169c228309",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "RAF",
     "name": "Oxford Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#002147",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a80ccad6-9f90-4257-81ef-01919a9a1334",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0001",
     "name": "Branco",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b36b1422-3fa0-41af-82de-d05e69aab889",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0004",
     "name": "Preto",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "19f7bd4e-ec4a-4583-a248-78cd31e01c9f",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0005",
     "name": "Vermelho Puro",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CC0809",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "53fb149c-8308-4887-a369-7785044bd299",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0006",
     "name": "Verde",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#107902",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7858b5a9-6439-45ac-a914-b6a8ac0dc781",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0007",
     "name": "Azul",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#020C65",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "16030a3b-0e72-47b9-911d-b926f607a851",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0008",
     "name": "FS 30260",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BFA35A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b38b025f-9b27-42a5-a826-b5e9c5b18947",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0009",
     "name": "FS 10266",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C8924C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dad266f4-be9f-4128-930c-1acb3ff5a9e1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0010",
     "name": "FS 13655",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F4B215",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a3274633-fc19-42f0-9f0d-a5eccde2abba",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0011",
     "name": "FS 15045",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#142A38",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "33789d3b-4a34-4f5d-96e3-d31ac05f1124",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0012",
     "name": "FS 15050",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#183652",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c447ff1a-ac14-415b-b93e-2a10fdb7d4f1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0013",
     "name": "FS 37875 Insignia White",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E9E9DF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7523c40c-61fc-4fe5-ae76-a9136e09c155",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0014",
     "name": "FS 36118 Gunship Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#414149",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "69c49965-ba26-4a84-995b-9022aa0f5926",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0015",
     "name": "FS 35164",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#627281",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "05b48ef2-b306-4ea1-a3c0-fca8814f11a8",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0016",
     "name": "FS 34086",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3F402E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b88505e7-cde2-4123-88a8-673a9aa9f74d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0017",
     "name": "FS 34088",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5C583F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e47689de-9603-4beb-8453-2532033e2d73",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0018",
     "name": "FS 34092",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4A5952",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "05860e28-7e59-4541-82cf-2b2db95888e8",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0019",
     "name": "FS 36231",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7E8386",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4fc73230-ba2b-400a-9502-2a8a6a63ade5",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0020",
     "name": "FS 30279",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B9986D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0afba1f8-7262-47ff-a271-70e68acfe876",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0021",
     "name": "FS 36176",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6E7881",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5e233887-ad42-4ea8-87f1-3500198ec675",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0023",
     "name": "FS 35189",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#789FA4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a4233863-b915-4675-8382-d38074b002f9",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0024",
     "name": "FS 36440",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#959A94",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ca798021-9fbf-4f9e-b62c-ef2b2de66d69",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0025",
     "name": "FS 33481 Zinc Chromate Yellow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ACA300",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9d80a3dc-05a6-46c2-832b-547f9650b2df",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0026",
     "name": "FS 14151",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6E6C2F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "01306ed0-2ea4-4775-b1e2-08a233457f79",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0027",
     "name": "FS 30095",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9D7C4F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2a6e5efb-93a6-485b-a68c-e6092c6cbf73",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0028",
     "name": "FS 34079",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#42412C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f0a741ee-1599-4a5f-9003-e7347baf6d93",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0029",
     "name": "FS 34424",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B2BB8E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cf83d870-728c-4803-960c-e38afdec5339",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0030",
     "name": "FS 36187",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5B7075",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "546da51b-9ef6-4030-b37e-4c8751d97285",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0031",
     "name": "FS 36270",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#848A8A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "df510d98-f203-4843-9a08-b88a4714c348",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0032",
     "name": "FS 35231",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7094B4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b60fbcab-eeb7-45fb-b9b3-cf636f136a31",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0034",
     "name": "FS 36152",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5D6268",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "29a9ad33-871d-4c13-b268-3ef6d31a2dc0",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0035",
     "name": "FS 37030",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0B0F10",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "32291967-c801-4dab-89c0-11cb417a121a",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0036",
     "name": "Rlm 61",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c4818dc7-199a-4506-bb38-0511955da630",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0037",
     "name": "FS 34227",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#79896F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0c84a858-6078-47bd-a826-bf0630c98dcd",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0039",
     "name": "FS 36314",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8B908C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c6f4b8d0-80c4-4ef1-9184-c8f8a794f1f7",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0041",
     "name": "FS 34102",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5C644C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e84cf520-6a37-466f-9530-dab2eba74f79",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0042",
     "name": "FS 36375",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8491A4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "523e3161-3c6e-4d38-81d4-52913d0a410e",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0043",
     "name": "FS 34083",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#667147",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1b85e9f5-4dfe-4407-8cec-61cfd2ba4cfb",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0044",
     "name": "FS 33070",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#505338",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b68bb31f-41c6-423d-b8bf-574e4ef6d6f9",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0045",
     "name": "FS 30118",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6E5326",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2634ac8d-702c-4e8a-967b-c5831a79532b",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0046",
     "name": "Luftwaffe WW2 Uniform Shadow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#07131F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b3e9e890-fbf9-43dd-960b-52ae36d062cf",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0047",
     "name": "FS 36622",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D1D2C2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e68cbea1-5330-48d5-973c-b2166f84077f",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0048",
     "name": "FS 35237",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6E7E8D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "04937273-f094-4827-b50d-015104f1dd07",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0050",
     "name": "FS 36320",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8B959E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0c7ae1bd-fdf8-4f59-9e27-7572a717a9c8",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0051",
     "name": "FS 30219",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#825F3F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "75e2e5f8-33a5-43be-ab2a-f20b94b20f24",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0054",
     "name": "FS 34094",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3B4B2E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "78fde018-8ce9-4e71-8ada-4413eb661768",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0055",
     "name": "Field Uniform Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8C6848",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bd0de1a0-84af-46bf-9532-3c6ba0c8b115",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0056",
     "name": "Light Wood",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D5BE78",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "54887e29-1178-4ef5-aea7-6d29d96e502d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0058",
     "name": "FS 30051",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#512B14",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ece90c17-1577-4087-b94c-988b9752f453",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0059",
     "name": "FS 33531",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C1AE9F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "86a790aa-7a30-44f0-b027-5ae27609a4f0",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0060",
     "name": "Carc Tan",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B79975",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "352cb270-fe98-4cbc-8ed6-4661e21df41a",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0061",
     "name": "USAF Modern Uniform Light",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#586031",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2ad7c08f-9f27-44a3-b669-1bb30773b2a0",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0064",
     "name": "Russian 4bo Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2C3719",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6f9e6b02-32ac-4d24-881a-cd217dfe81c8",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0065",
     "name": "Radome Grey Modern Jets",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#828888",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "326777e3-8d71-4577-a5d5-a4c451e9199b",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0066",
     "name": "Rlm 02 Grau",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e68faac8-d78b-40e5-afb2-8bc8ecf316a8",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0067",
     "name": "Dark Cammo Grey Bs629",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#68798D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5cd6ff90-a024-4085-b57b-67868c7ede8d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0068",
     "name": "Rlm 65",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0C0E0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ad954469-def3-4c0a-9a7d-b10b1868e3bc",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0069",
     "name": "Pale Green Idf",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#75845B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6d1672cf-d627-4087-b21b-37ec800c1f3a",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0070",
     "name": "Rlm 71 Dunkelgrun",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f5dc7b1d-356c-434b-b6e0-6d33eed39192",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0071",
     "name": "Rlm 74",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7cd57267-fd8a-4225-9004-9bb90d660c47",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0072",
     "name": "Rlm 75",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0C0C0C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aecf0b5c-eeb8-42b3-9546-2f46064b65ae",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0073",
     "name": "Rlm 76 (v.2)",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0B0D0C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d91e7694-1c70-46ac-b3b1-ccb1fa62201d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0074",
     "name": "Rlm 81 (v.1)",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8cce3d07-0072-4a86-8548-27655ca03395",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0075",
     "name": "Afrika Mustard",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A28253",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a48601fa-da40-43d3-9f2f-d01acb61221b",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0076",
     "name": "Rlm 82",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "22a5ee35-53ff-4e02-b680-d699c9f43da0",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0077",
     "name": "Rlm 70",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b21eb6f3-d29f-4d28-b5b6-a7a361cefcb9",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0081",
     "name": "Rlm 80",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "21e9ffc7-ee55-4bea-808a-20bf8bcfa512",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0082",
     "name": "Rlm 21 Weiss",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0C0C0C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bf9eaba7-c3ef-49ca-b9bf-f8716955a76e",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0084",
     "name": "RAL 5008 Graublau",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#303A46",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3e38762e-50dc-40ef-bf9c-a1d9394c886d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0085",
     "name": "RAL 7011 Iron Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#545C5F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "62295d54-5ea8-4f95-817e-150615b653f6",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0086",
     "name": "RAL 7009",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#656661",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f85b384b-e068-440a-bdcc-aa4425883d11",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0087",
     "name": "RAL 7042 Trafic Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7B7F7E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3988eb9d-1db5-4b1f-84ee-7844a4bfb341",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0089",
     "name": "RAL 6011",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6D7B58",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7632bde6-4e83-4df3-bfd8-f0b8dad143e9",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0090",
     "name": "USAF Modern Uniform Base",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2A3C22",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5df3b76d-43d5-4f79-af43-63b6d4e60def",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0091",
     "name": "RAL 7001 Silbergrau",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#959CA4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "edd2f1be-6747-4763-b2bb-461189aca21d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0092",
     "name": "RAL 7035",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C5C7C4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f008267b-63a6-4be9-a493-d487f27389ee",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0093",
     "name": "RAL 7000 Squirrel Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7A878D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "98554dc7-3ed7-4087-a962-e9e1cd590f7b",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0096",
     "name": "Raf Pru Blue Faded",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#648CA6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a609eb24-0df0-4c7f-a094-571a63197fc9",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0098",
     "name": "Dark Black Green Ijn",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#444643",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "07578a48-c14b-4569-8c57-913028386338",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0099",
     "name": "Raf WW2 Uniform Base",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#384452",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5c06fba2-0c1f-414c-abfa-a93826bf3e4b",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0100",
     "name": "Stencil White",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E0E0D8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5273c4f7-a8a0-4458-8800-d678b7a7c7bd",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0101",
     "name": "Dunkelgrau Dkm51",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#828D9F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "764d5740-8316-452d-ae2c-96311e9cc5f9",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0102",
     "name": "Luftwaffe WW2 Uniform Base",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3A4849",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "654c36f8-f1a6-4a18-accb-fde056da4285",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0103",
     "name": "Khaki Brown Ija",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#655847",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "88fa9451-ef4d-4627-9871-cc0e957b9a9b",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0104",
     "name": "Olive Green Ija",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4C483D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c04a32c0-ec49-4aa6-b1fa-a7d15b972751",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0105",
     "name": "USAF Pilot Belts And Details",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9B9251",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a80ab4ce-8f12-493b-a905-8b5e01a23513",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0106",
     "name": "Rlm 63",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b11a1490-901a-4ed0-aaaa-352efa03d462",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0107",
     "name": "Ija Light Green Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#89A08C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7e318322-173a-4051-9c33-61036eb94ca9",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0109",
     "name": "Deep Dark Green Ijn",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#36504D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ac03182e-bc77-4c5d-b3d2-0cfabde38824",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0110",
     "name": "Verde Khaki",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5D573F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4f9f4eed-ed96-4d70-ab06-3756671d45f6",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0111",
     "name": "Bianco Neve 6",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E0E1DC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e549508d-126f-4dcd-bea1-6f521b426d7a",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0113",
     "name": "Middlestone Raf",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A37D3E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9eb79656-e57f-41ac-b085-796e8e0a01a7",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0114",
     "name": "Night Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#022135",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "24a3ddc5-dd82-4124-bbb4-23cd51e307ff",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0115",
     "name": "Raf Insignia Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#02224B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "28d5d940-93b6-43ed-87dc-7decc71bc397",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0116",
     "name": "Extra Dark Sea Green Raf",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#475643",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c23c9bec-34f4-4317-94ec-38d6c3203ab1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0117",
     "name": "Raf Light Aircraft Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B0B1AB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "98356270-f71f-4820-b1e7-db4d05692447",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0118",
     "name": "Dark Earth Raf",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5D4A29",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f7599ec2-c373-4efa-835f-ca2b5d29c0c6",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0119",
     "name": "Dark Green Raf",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4F5143",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3f729df5-491b-4802-bf2c-9b107f8ab12e",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0120",
     "name": "Sky Type S",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A2A48C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1bfe55a8-435d-4b0c-bc9c-7513b28fa168",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0121",
     "name": "Ocean Grey Raf",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6B7775",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a5df14c1-2d9e-4a60-8402-a9a29eb98a12",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0122",
     "name": "Medium Sea Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6B6B63",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fe702e5f-2b79-4c70-8999-9c6ebf0345c3",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0123",
     "name": "Azure Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7EA0C5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7922c1b1-e963-428b-8454-0297f3241158",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0125",
     "name": "Dark Sea Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4D5760",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e8366824-6d7d-48df-86c6-e2797e1bce75",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0127",
     "name": "Cockpit Green Raf",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#909E91",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "198b09bb-d2b1-4fa8-a04a-6546bd2a10cc",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0129",
     "name": "626 Camouflage Grey Raf",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#999EA1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cd43ce86-730d-4341-b8be-d540db1c37fa",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0130",
     "name": "Silbergrau Dkm50",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ADB1BD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "266e126a-5df8-4fc6-9002-978fe892dbb7",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0131",
     "name": "FS 30140 Air Force Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#665043",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cb8baeeb-f15a-4e1e-bfcd-2767e4746bf1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0132",
     "name": "Giallo Mimetico 4",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A68248",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b6d4b19c-ba72-4336-9e64-b42cf02d4ce4",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0134",
     "name": "Dark Mediterranean Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#223754",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c51a6e9c-1c7d-48c8-b2aa-2fe4a5fee5fd",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0135",
     "name": "Branco Lavado",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E9E4C6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "de2d56e0-8663-48a1-b3cf-2b27cc4841c6",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0136",
     "name": "Grigio Azzurro Scuro 3",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#414850",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5570f7a5-c1f2-4477-9d87-148d89949fc2",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0137",
     "name": "Gris Bleu Fonce",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#577077",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0cc93b74-83b4-4a4a-b22c-93dceaebeae6",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0138",
     "name": "Foliage Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3E534C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "95bb37e2-e863-4206-bcc2-3cddb17e6247",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0139",
     "name": "Grigio Mimetico",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#919690",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "15c9cd21-5be5-424b-b2f9-99d26483ed21",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0140",
     "name": "US Desert Sand",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C09E79",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "50a7ce1d-a68d-4183-8c9f-da5339ede6e1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0142",
     "name": "Seafoam Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ADB699",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "68ab6607-8115-4a2e-b3ec-d5448bad968f",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0143",
     "name": "Bs381c:638 Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#696C71",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f7643c92-95cd-4b49-8145-712eaf2b7730",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0144",
     "name": "Antifoliage Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#567959",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "81c4985d-12ac-434f-978e-510707485596",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0145",
     "name": "Blue Grey 058m",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#74878D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f2b685bd-8ee8-44d9-8c67-241fb0e8a60e",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0146",
     "name": "4bo Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#43481F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bce615e4-ef70-4821-8619-d63d93fc932a",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0147",
     "name": "Nº 9 Olive Drab Us Army WW2",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#423C1C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dd1f982a-fd82-4346-b7a8-799a7b5d7116",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0148",
     "name": "Terre Fonce",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#645045",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e48fcc68-0725-4adf-b855-7d6fcb5f6ecd",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0149",
     "name": "Nicciola Chiaro 4",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8B705B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ec34da2a-d8d8-4530-903a-f0fa43cd30bb",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0150",
     "name": "Verde Oliva Scuro 2",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#313A35",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ff289f8f-7034-4924-9c47-58f51142d374",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0152",
     "name": "Leather Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4C382F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1dd3d328-1630-4217-8e14-b7f91dd7f78d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0153",
     "name": "Field Grey Green Shadow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#464C3E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0298cdc1-1055-415f-973d-661f6443af65",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0155",
     "name": "Giallo Mimetico 1",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CFAE5F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c9217e69-f6fc-4d20-9bad-90bd5a6cd9e0",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0156",
     "name": "U.s. Modern Vehicles Tan",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CFB674",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4fda5b72-a0ed-44ec-9207-61bcf461e3c0",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0157",
     "name": "Faded Blue Jeans",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#70929B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "177bc1d1-4362-47c7-8ab3-24d688362787",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0158",
     "name": "Amarelo",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFC01",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "adc0d37c-bdbc-45f6-8033-40fc870bc185",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0160",
     "name": "Ana 601 Insignia White",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E9E9E1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "58d4f972-3fb7-4587-aab3-1f37fde5eafd",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0161",
     "name": "Ana 603 Sea Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#596068",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "78073551-1d05-46f6-8f66-2b7af6d84e6a",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0162",
     "name": "Ana 608 Intermed. Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#62737D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4378ac81-090f-404f-a596-401b89f12e71",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0163",
     "name": "Ana 613 Olive Drab",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#51503C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b5e7a32e-5805-4b25-a2cd-8a24d18f580b",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0165",
     "name": "Extra Dark Sea Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#60606A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "004899c9-c1b2-4fa9-b5d3-2f09045310b1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0166",
     "name": "Japan Flight Suit Base",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#745B25",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "af54e41e-7530-4686-8fac-0397bbc33059",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0167",
     "name": "Olive Drab 41",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5F5935",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "13033549-064d-4f14-bc21-620fab7f37e1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0168",
     "name": "Medium Green 42",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3B564F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "82be7796-16fd-4ba0-b187-2420cbf58dae",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0169",
     "name": "Ana 621 Dark Dull Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#757A74",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "98561776-d02d-45db-b04c-c92562f25e88",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0170",
     "name": "Ana 616 Sand",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AF9282",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9e9e8b82-9ba5-4f9e-9e10-ae76c455284d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0171",
     "name": "NeutRAL Grey 43 Versão 1",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6A6B66",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "285426b2-4d06-45d4-9863-07ca0abf5ea6",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0172",
     "name": "M-485 Blue Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#70838A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "66362266-2772-4a56-b1be-16ac6db6d314",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0173",
     "name": "Ana 620 Light Gull Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B1AEA7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d83d344f-39ea-4652-bbe1-a046c0107ded",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0174",
     "name": "Ana 611 Interior Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#67623A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6e752a2e-11e8-43db-9bd7-f5b5d3d6bc7a",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0175",
     "name": "Merdc Forest Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#454C19",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d1b635e2-02c3-4efc-89b1-db758eb85b5d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0176",
     "name": "Haze Grey Usn WW2",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8A8E91",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "59a965ca-bdb4-4234-9b22-c438bd49fa5b",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0177",
     "name": "Amt-12 Dark Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#60606A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d3ba6742-7d87-4a2d-bb1e-c052c37859db",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0178",
     "name": "Amt-6",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1B2121",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4ef6c063-a586-4597-8b7c-7e9afa529ee2",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0179",
     "name": "Verde Mimetico 53192",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#739D75",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a6d0a05e-9efe-4366-a182-869b0b634381",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0181",
     "name": "Barley Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#97A6A9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aadaac96-ca36-4e10-8b3f-012e98ff4942",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0183",
     "name": "Vvs Dark Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#224618",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7ab713b9-df31-47c0-aa37-75ed57cad330",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0184",
     "name": "Mig 25/31 Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BFC0BB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d51e8224-b961-4468-b9a2-7a235afbd5fc",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0185",
     "name": "Marrone Mimetico 1",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#843731",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "71130300-ced4-4191-96d0-f1ac799b2e2b",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0186",
     "name": "Amt-11 Light Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6D7D8C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6146f648-cb80-473e-b556-eca7444352dd",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0187",
     "name": "Medium Tan",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A0846E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8b918152-758a-4ca0-b548-bb7cde77e64a",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0188",
     "name": "Bronze Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2E4028",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a9ce1d64-f89e-4934-b0d5-83b65373a2dc",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0189",
     "name": "Navy Blue Usn WW2",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4B6C73",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "12514389-119d-44d5-98b9-de09817d7ea1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0193",
     "name": "Raf WW2 Uniform Shadow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D1917",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2a2b0ef8-b365-43fe-bc4b-a95d0aa3e815",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0195",
     "name": "Luftwaffe WW2 Uniform Light",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#565855",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "40f4a5ba-594f-458f-bc07-ef5ff895b544",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0198",
     "name": "Nato Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#493326",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cfd36cf6-eb45-4c18-8d8b-692d9132a9b1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0199",
     "name": "Nato Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2B3F26",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8692a3b4-79c1-4ef0-aecf-2ec53a4cbaa7",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0200",
     "name": "Nato Black",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#202423",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fba17436-e95a-4606-a5a2-1f348afb25f5",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0201",
     "name": "Marrone Mimetico 53193",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#785D48",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bed0c7c1-b864-45c2-b209-f932068dbc2b",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0202",
     "name": "Ochre Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B58D4F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "39183f8b-1d63-47b5-bed5-91b772d5012f",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0203",
     "name": "Pastel Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9DA282",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4c071c3b-178a-4647-84ab-09bb7e1e47bf",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0204",
     "name": "Cinza Azulado Médio",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4A5B6B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cdfa0a36-b802-4183-a556-973997e83418",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0205",
     "name": "Verde Selva",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3D3C28",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "70187f95-3040-4915-a6bb-77483c1974f1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0206",
     "name": "Verde Mimetico 2",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2E483F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fd3e27fd-c693-4d21-a89b-d9b962dea80e",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0207",
     "name": "Cinza Médio",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7B8A91",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a7898f43-9a64-4c70-a0c4-a9b6bf543c73",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0208",
     "name": "Light Grey 627",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B8B9B3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a6335977-5c91-4ce6-9c59-03c6b93b79b1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0209",
     "name": "Amarelo Mostarda",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D5C800",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "219287c2-88dc-4328-9694-8a5f1710533d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0210",
     "name": "Amt-4 Old",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4B481D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "de1343bb-ce26-474e-9799-d1eedd18698c",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0211",
     "name": "Terra",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7D6A5B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "74b71a11-e1fb-4e65-bdcc-6c4f085134b0",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0212",
     "name": "Raf Dark Green 1975-now",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#434E52",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "28e5d84c-08b8-4d87-87b6-7d60d7fc3909",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0213",
     "name": "Baby Room Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#879BCE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b83d382e-d0b4-4b30-8673-b6acbf48c277",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0214",
     "name": "Preto Locomotiva",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#040404",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "02afe52b-a238-45d7-aa06-e820e9251bc7",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0216",
     "name": "Dk Olive Green 328m",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2B3928",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "011593a4-0bd1-40a7-a0b2-f490cb54ec07",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0217",
     "name": "Night Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#24201D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "17c7563b-ca69-4090-86c7-66b37ac83474",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0218",
     "name": "Idf Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#394320",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4536a409-013d-433c-9d9a-afbc6716defd",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0219",
     "name": "A-24m",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2C2B19",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "701c551c-cd05-4f9c-a9a4-926fd98cafa0",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0220",
     "name": "Woodbrown Médio",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6F5B36",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1abc7f3d-8aa4-4f41-b328-2355fea71a5d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0222",
     "name": "Forest Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#43451E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bf90749e-df81-4a16-b7eb-5b51a30dcf45",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0223",
     "name": "Flight Deck Stain",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#26252A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b9f05050-5bdd-47cd-b128-321084f35655",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0224",
     "name": "Verde Mimetico 3",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#555A43",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "97ac7938-1882-4c17-88ff-e78f996ab286",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0225",
     "name": "Oxide Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#673222",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4521c55d-f70e-45c5-91e7-2f04f28e0171",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0226",
     "name": "Carc Middlestone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C6AB96",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "93b1aa94-921b-4856-b8a6-fb065eb1e84e",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0227",
     "name": "Leather Suit Base",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#201404",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4f56031e-4c54-4c97-81f2-717f2023114b",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0228",
     "name": "Light Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#788442",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ee70f3d2-1a03-4016-b68a-81a9cc1cd0bd",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0229",
     "name": "Flat Dark Earth",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#816F61",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fed3cad1-6b4d-451a-915f-168b006f8516",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0230",
     "name": "Japan Uniform Base",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#956F1A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b2782b97-a751-44ab-b948-3d8ebf3ae244",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0231",
     "name": "German Pale Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7D6857",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c9000c06-8d95-4a5c-85eb-d541f64c2ac5",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0232",
     "name": "Bs263 Atlantic Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#677373",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cded56e6-8c6b-4dc9-8994-06140532f888",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0233",
     "name": "Ship Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A6ABAE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b2d7866f-8e52-4751-ba82-b763f8d753f4",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0234",
     "name": "Black Uniform Shadow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#262626",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "60e26157-ef13-450e-ae74-43e5ad122802",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0235",
     "name": "Black Uniform Light",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5B5E63",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "88662f94-5323-48ea-9fda-3564cf8a9374",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0237",
     "name": "USAF Modern Uniform Shadow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#162017",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5a04d175-992f-4940-9d21-3bc30d202b39",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0238",
     "name": "USAF WW2 Pilot Uniform Shadow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#313423",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8745cfd7-19f3-4ff4-a5b1-3168db9fa1b2",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0239",
     "name": "US Merdc Field Drab",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8E7C68",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c4caaf69-dcce-4dce-9b5a-b6b7539fcd8d",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0240",
     "name": "Couro Branco",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D8D1BF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "815b7afa-0ea2-456d-87bd-3824b7915f98",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0241",
     "name": "Silver Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9BA0A4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e733749c-1339-4175-89dd-e026f0442de2",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0242",
     "name": "Usaaf WW2 Pilot Uniform Base",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4D4629",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3d95e799-4604-4871-9ca0-cc2becd3b75c",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0243",
     "name": "Hull Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#381A02",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "01bac1dd-980d-4d04-b918-77dafb6383d4",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0244",
     "name": "Buff (drybrush)",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E6D480",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ffa7eca5-1e27-4e93-a410-87e6b610a6b9",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0247",
     "name": "London Grey RAL 7026",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#364349",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "04e3a8ac-d4de-4c26-b74b-27edfba2ad80",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0248",
     "name": "Rusted Umber",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#513D36",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b6a2bca6-d451-4977-819c-7de9e4887dae",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0249",
     "name": "Rlm 83",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0E0E0E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "60161b88-ce30-4023-9fd6-d9023d047472",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0250",
     "name": "Russian Uniform Shadow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#373A25",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ef40e1b7-c9e1-49c9-a481-ce01a5bff5e7",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0252",
     "name": "Field Grey Base 1 (verde)",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5C6759",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4328cf79-1f70-4de3-9230-9d7963fd8043",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0253",
     "name": "FS 36081 Dark Gunship Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#25221D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "84a08ae8-ba14-4082-853e-a536c822535f",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0254",
     "name": "Rlm 73",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#23241C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ded18861-571f-4bc9-adaa-f5d5dd2b82aa",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0255",
     "name": "Black Uniform Base",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#25221D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bdbc0802-64cb-4ec4-b11f-a499c4e40e48",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0256",
     "name": "FS 34159",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5F7066",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8b7f9dbe-62f5-4e88-ad29-47f2ccb2a6b2",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0268",
     "name": "Tire Black Highlight",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#58595B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aeb80cee-89bd-4a5b-9c84-58ab9c502721",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0269",
     "name": "Grigio Verde",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#555D48",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b3b26636-1571-4b89-9bf3-c8709f09b162",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0296",
     "name": "Rlm 62",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bb32db81-1501-44c0-9ab1-97cddf271e4a",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0298",
     "name": "Rlm 78",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "913d6791-3423-40e8-9962-f36fb971e2e0",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0299",
     "name": "Rlm 79",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0D0D0D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "90acfbac-1c8c-4bc2-8157-a1297c22d599",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0300",
     "name": "Rlm 04",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0B0C07",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1a6936b7-9725-40cb-a99a-82ed3d97dc8c",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0301",
     "name": "Rlm 66",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0C0C0C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d81470b0-5ef6-4b6d-83bc-000a3ffe1beb",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0305",
     "name": "Highlight Skin Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D2DAE5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "748ae3ba-fb0a-4c1c-9885-24958cb8d107",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0306",
     "name": "Base Skin Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2E0BC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "471fc493-e627-4dbd-91cb-93bba3230af1",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0307",
     "name": "Medium Skin Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C9AD86",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3f7a7872-7ab3-4ef7-9eac-8ace770676b8",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0308",
     "name": "Shadow Skin Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#574632",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "00472530-0c1c-41ef-b410-847e1b719414",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0309",
     "name": "Leather Suit Shadow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#201404",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "04585e8f-cdc7-4f61-bbec-c5691384941c",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0310",
     "name": "Deck Tan",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CDB593",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c28738fc-efb1-4d09-bf5a-de6e7daac3cc",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0311",
     "name": "Dark Blue 438m",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#153238",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "03892544-4407-4a47-943d-d1960413c208",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0312",
     "name": "Rlm 22 Schwarz",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0C0C0C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4d564ee5-8a09-43d5-aa07-4b67583524ca",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0320",
     "name": "Deep Skin Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#634F36",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3367e27c-fb56-4d5f-a2fc-ce0270cb58ff",
     "brand": "Tom Color",
     "range": "Tom Colors",
     "code": "TC-0321",
     "name": "Field Grey Base 2 (cinza)",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#434538",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

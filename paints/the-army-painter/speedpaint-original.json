@@ -1,362 +1,386 @@
 [
   {
+    "id": "d024b273-22bb-426c-b7af-b280fb2a736a",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Absolution Green",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#22311F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "6885ccb5-c22c-49d2-992f-710f30530709",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Blood Red",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A8141F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "db88fa32-3eca-4c4a-9b2c-162c19fc591e",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Camo Cloak",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#536639",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "a2182993-f690-42e8-9132-127a43bfd67d",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Cloudburst Blue",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#364653",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "6494fa8e-8ba6-4303-8419-dad14d4438ee",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Crusader Skin",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D28D57",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "87f17f3b-1b7e-407d-bc3b-efaaaa1312dc",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Dark Wood",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3A2415",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b3952187-4755-4525-abc5-48ede22f1c41",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Fire Giant Orange",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BE3F20",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "fcff2162-267c-4b83-a1a9-c7e5859eda9a",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Gravelord Grey",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#29292B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "8115b8d1-ad11-433b-a247-9a1980fb2764",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Grim Black",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#191915",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "864055e2-998b-4cd2-b54a-50e09c111c71",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Hardened Leather",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#68461F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "13403235-ce7c-45a0-9371-2b225b3a994f",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Highlord Blue",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2A4974",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f68001fd-27e7-4d74-a4d9-800f89ab9372",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Hive Dweller Purple",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3E2561",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ebd40af8-c92a-436f-931c-239ed3b1d4bc",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Holy White",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "c1f45754-8f06-4faf-b37e-e155774a2440",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Magic Blue",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#116DAC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "bf3e4169-5486-4c65-9c08-df6eea97d702",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Malignent Green",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B2B886",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "d39168a4-ca91-4a90-892e-9cab6f08797a",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Orc Skin",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2D5B2F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "c0c3ba06-07b3-416a-82a7-acc9ddd41c89",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Pallid Bone",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CBC295",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "c76387b9-66b0-406d-909b-cec534e801f6",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Plasmatic Bolt",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00816C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "0b300a88-8087-483b-b6df-1b0682bdb770",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Purple Alchemy",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8D335C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "58dee99e-aa2d-4af2-8934-d837157470d4",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Runic Grey",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#566E7E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "79b5fb74-5411-42ff-9667-9a3213f750b6",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Sand Golem",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BA9029",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "28616199-be1d-41dc-b184-4ab04a6d036d",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Slaughter Red",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7B191B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b405d4ad-57ca-4cd5-81fd-a93eeeee943b",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Speedpaint Medium",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EFEFEF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "facebaad-1c4f-442b-b753-13d239462d7e",
     "brand": "The Army Painter",
     "range": "Speedpaint (original)",
     "code": null,
     "name": "Zealot Yellow",
     "type": "speedpaint",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F1D12F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   }
 ]

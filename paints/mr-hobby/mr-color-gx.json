@@ -1,122 +1,130 @@
 [
   {
+    "id": "893dfac6-b4e9-4834-8cd7-69b0ec8c245b",
     "brand": "Mr Hobby",
     "range": "Mr Color GX",
     "code": "GX1",
     "name": "Cool White",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color GX",
-    "code": "GX100",
-    "name": "Super Clear III",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Mr Color GX",
-    "code": "GX114",
-    "name": "Super Smooth Clear",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#DCDDDD",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "2d4db7cd-1782-457c-9e20-f495d9b62d53",
     "brand": "Mr Hobby",
     "range": "Mr Color GX",
     "code": "GX2",
     "name": "Ueno Black",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8bfa56ca-e0ef-46a8-93f0-60cda8fa7239",
     "brand": "Mr Hobby",
     "range": "Mr Color GX",
     "code": "GX3",
     "name": "Harmann Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E60012",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "26ae2bb4-0352-4d5f-9717-af92049292cc",
     "brand": "Mr Hobby",
     "range": "Mr Color GX",
     "code": "GX4",
     "name": "Chiara Yellow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFE100",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5abd83e6-4369-451f-b6ca-25308e037f69",
     "brand": "Mr Hobby",
     "range": "Mr Color GX",
     "code": "GX5",
     "name": "Susie Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#004EA2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9d9f3223-a263-4304-83c0-dea9daf7595e",
     "brand": "Mr Hobby",
     "range": "Mr Color GX",
     "code": "GX6",
     "name": "Morrie Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#006830",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4a64bb44-aa91-4747-bb4c-9fd49e7e1156",
+    "brand": "Mr Hobby",
+    "range": "Mr Color GX",
+    "code": "GX100",
+    "name": "Super Clear III",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2e72d2b1-eb32-40ef-9c33-7530898ee45b",
+    "brand": "Mr Hobby",
+    "range": "Mr Color GX",
+    "code": "GX114",
+    "name": "Super Smooth Clear",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DCDDDD",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

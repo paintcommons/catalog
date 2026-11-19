@@ -1,272 +1,290 @@
 [
   {
+    "id": "a39b9b3d-d45f-4df9-b956-7f974345f57f",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Borealis Green",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7AC9D6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b494e029-ab64-4b50-bfe6-554eb6ed5ca6",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Burning Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2DE2F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3d2e8945-fbf6-430d-a6e1-52e68193f2ed",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Celestial Azure",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7CC8D6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "652f1a44-0449-4f96-a914-83107fde14c6",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Cobalt Blue",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4476D7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9a4b7aa0-6380-4298-9460-4f205920b191",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Darth Blue",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4476D9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9c1465a9-1050-4f46-aa17-82079beb318d",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Emerald Getaway",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#33AE92",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0694f462-672e-4a16-ba2c-bd2edd1e7c8e",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Evil Forest",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#531516",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "58fa44a4-e1be-436e-afdb-fbf0a72b264f",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Martian Green",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#869B62",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "43d63022-7fa5-4d1a-b081-d4d9aca514cf",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Mystic Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2DE2F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e782658f-1aff-46f5-8964-2828c37e2cc4",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Nebula Copper",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C94FA6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6696f07a-957e-4108-ae49-f5a03b20decd",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Pinky Blue",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#78CDD2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "918ac035-130c-4409-b0d2-0610c55f3b9b",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Psychotic Illusions",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#69ACB5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0d8403ee-3161-4c65-9b08-858571be9f40",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Red Goblin",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A9BA73",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0ee4f1e0-e84e-4a4b-8382-99410ca02f80",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Royal Burgundy",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#90A375",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e71ccb18-9beb-4f4f-9207-2a7c610344a0",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Solar Anomalie",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D154A2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3613b7b4-8dd8-459d-9595-79f52b15af6e",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Storm Surge Green",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#61A694",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "caac83fd-4cf8-46a2-80da-07869336c2f8",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Toxic Purple",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7A398D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c7f373f7-5c61-4522-a88d-966e3856b6dd",
     "brand": "Green Stuff World",
     "range": "Chameleon Colorshift Metallic",
     "code": null,
     "name": "Tropical Green",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B3D924",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

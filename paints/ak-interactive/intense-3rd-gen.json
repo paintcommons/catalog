@@ -1,167 +1,178 @@
 [
   {
+    "id": "4a6687d8-7281-46e1-9073-726fcfed96e0",
     "brand": "AK Interactive",
     "range": "Intense (3rd Gen)",
     "code": "AK11001",
     "name": "White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f6fb0a70-aac3-4156-9ec2-9ea7b97569e1",
     "brand": "AK Interactive",
     "range": "Intense (3rd Gen)",
     "code": "AK11029",
     "name": "Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#101207",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0e48d511-9c36-488e-8230-c8b2c81c33dd",
     "brand": "AK Interactive",
     "range": "Intense (3rd Gen)",
     "code": "AK11045",
     "name": "Deep Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FDC500",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0e2363ca-1318-498f-8d2a-746d4e5df296",
     "brand": "AK Interactive",
     "range": "Intense (3rd Gen)",
     "code": "AK11065",
     "name": "Intense Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E9748F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0e566254-a210-4040-a9f6-a52956e7fa44",
     "brand": "AK Interactive",
     "range": "Intense (3rd Gen)",
     "code": "AK11072",
     "name": "Deep Violet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#74536E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ceff57e6-901a-4b1c-840b-ac298e582c82",
     "brand": "AK Interactive",
     "range": "Intense (3rd Gen)",
     "code": "AK11074",
     "name": "Deep Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7A4967",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a4934345-c8ef-4b1f-99e9-2f52898b7763",
     "brand": "AK Interactive",
     "range": "Intense (3rd Gen)",
     "code": "AK11080",
     "name": "Deep Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FE5E14",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "461ec5c2-0966-4cf6-b6f6-a6d3ac9c7f0b",
     "brand": "AK Interactive",
     "range": "Intense (3rd Gen)",
     "code": "AK11088",
     "name": "Deep Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DC211A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "323aad5f-5fbb-4f6a-8cdb-0e71490d5ee6",
     "brand": "AK Interactive",
     "range": "Intense (3rd Gen)",
     "code": "AK11102",
     "name": "Deep Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#854A2A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ac83c72e-3673-473e-9799-087800b30bdd",
     "brand": "AK Interactive",
     "range": "Intense (3rd Gen)",
     "code": "AK11142",
     "name": "Deep Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1C6128",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2ba55257-d9ad-4cb2-b279-c1808f83856f",
     "brand": "AK Interactive",
     "range": "Intense (3rd Gen)",
     "code": "AK11182",
     "name": "Deep Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1A4067",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

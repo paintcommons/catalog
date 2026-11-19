@@ -1,1562 +1,1666 @@
 [
   {
+    "id": "256095e8-6892-479d-ba74-869a96f4111f",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Abyss Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00134B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a619b904-004d-4333-9f53-239e27dea42f",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Arachnid Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#124244",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2d6237f0-ca17-4299-9a9d-b896ced0728f",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Arctic Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#14ADCC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8df2c970-8147-46ad-b53a-28d7a03f68c8",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Arrakis Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E39C28",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e341f60c-2698-4707-925b-4c21e9a02ffc",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Banana Split",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F0E229",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b55c6475-e7ba-4cfa-b88a-5c85a0dfca20",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Barrel Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#25221B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1b923e68-d23b-4cea-88be-aa38961c213c",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Bestial Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2D1E01",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3d72010d-7cee-4a69-85bd-53ef0df703d5",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Black Stallion",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "801453ac-7540-4575-a0e3-511937d8235c",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Blackroot Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#343436",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b9b6dda9-f85d-4c64-83ed-8dd3a06579d0",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Bluebird Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6F657D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bc23d99d-1c05-4d73-b641-b39d2f1ec945",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Bluegrey Dusk",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2A2C41",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "73943aa3-e8ac-49a7-b225-1291182076c3",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Blushing Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DA523A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2935a2c9-198c-4b7c-981b-66aaa2f2dc1f",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Brown Skin",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#802709",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0b4a6cd5-68de-4249-8314-72451bc4e699",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Camouflage Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#63601B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7d252230-4eb4-49a6-bff6-d3e795000691",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Canary Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D3DC65",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9c3e7e94-c1c9-4b62-acb0-23714643ff42",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Carnage Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C22B24",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cf2d29bc-eafc-4dfb-a1e7-22fde344b9b2",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Chancellor Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#323045",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3226b8e7-4f28-407d-939d-dc8061cbd123",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Choco Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3F2001",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c886ce7a-cbc7-4f00-aa4e-b65041ed8482",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Coyote Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#806B3E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "90ec3179-c03e-4e3d-b013-a9fa8b4f8120",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Cutthroat Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8E1316",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "75081fc2-c60e-45c8-8ec5-291403b26bbc",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Cyber Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2D12C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bbc5ab0d-7a4f-4406-922c-5da8e8220f11",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Dark Beige",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#715C41",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c2346251-7d32-4c64-8377-8e051889081d",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Dark Umber",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3B302E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f6b9219b-98af-4c13-a188-20934aa958d4",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Deck Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D1C2A3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0516486d-4da6-4b01-ad11-2896ed933118",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Desert Camo",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#947B3B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "787e3b7b-65ad-4d12-a1b2-90ec5306a60a",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Dusty Rose",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F0636B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "18d71cd7-2f80-4bff-9afa-4e228affe4a4",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Dwarven Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FF7D4B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2891c9c9-bc81-43fb-9f9d-469a4e34dbec",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Elven Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2AA82",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "98b167fa-f5ee-4122-8199-7d9951c0ae59",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Ember Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D94A22",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7f59c1e5-44b5-410c-9366-567b0547019c",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "English Field Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6C4615",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3e98f593-8c99-46f7-b917-0e1163d0b3b6",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Faded Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F4793D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "07bef384-c453-4527-80d4-0e946de0caf2",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Fang White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFBDD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c67bd6b5-5f1b-4ada-a7a9-5702a82ecd33",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Field Green-grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1B4724",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8777ee19-e5fc-4037-ad34-4db8935e5fe7",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Flaming Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EA701B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "97a2423b-cc40-482c-a3fd-61d610014e5e",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Flesh Rose",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D16855",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "55d2322f-6c61-4c26-b5e3-e26c55c6037e",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Flubber Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#88B719",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f329901b-384d-4dfd-bfbd-07826c09bcc3",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Forest Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#003910",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f36cd9c1-21ca-43e9-8927-3775701dd2ec",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Foxhide Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C16001",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7e8d7766-0f69-4921-bfa1-268a5cde9559",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Gangrene",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3B4312",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7265930b-678b-4bb8-86b6-15d0f7217d0c",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Gengis Khaki",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#665B3B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8b69f085-2eb6-45a9-ba16-3bf7b4068e11",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Go Mango",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFA032",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3cf85e20-52db-48d2-a773-ad1dca6efaca",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Golden Cream",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFCE53",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b0831f17-e75b-4105-a466-de6b6ed6041b",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Grey Teal",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#64857E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0021389e-80eb-4628-8446-0cab944d0e2a",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Hellfire Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CB160F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "48e9c665-b857-4d10-a1cd-961b1c49b04b",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Hunter Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#017601",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d95f45b8-ae3e-41d9-97fc-79121b40d0f8",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Imperium Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1A3085",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8007448c-5eb5-4069-8bf4-1be261aff4f8",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Ivory Tusk",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F3DFBE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2feb825d-b599-4d15-b0b9-c3571a9db8fd",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Komodo Khaki",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#885A29",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3dd6d35c-f3f2-47b0-8b6d-e56c50ae8053",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Kraken Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#034C39",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b9ed2ac3-f5a3-4cff-a137-51979eae469c",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Lapislazuli",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#172C63",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d07e652f-8cf5-457e-8507-8b72601ecfb5",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Leather Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AF6816",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e4472a80-8e2e-4eeb-a406-35483af9bbdd",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Liche Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#441C5A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "36061504-eb10-4863-83a2-86ed76f12829",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Lilac Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B076B3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "79d60946-9409-4313-ae46-3f43d2d578fc",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Lollipop Magenta",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AB0061",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b386a472-e31b-4d68-8a52-0a0ac5892415",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Majin Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D5618E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1273386a-b1ba-489d-b370-782de74990f8",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Malefic Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#110B49",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "74ba57a7-958d-4ab9-85bf-46a2e92564a6",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Marine Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#12407E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0b1eed8b-5dcd-45c4-974a-f612b7e17606",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Military Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#22260F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bb53abf4-9134-4826-a0ce-950b26d7b720",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Mint Twister",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00BAA3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "35885be0-5f4d-4c77-af52-11f3248f5c6e",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Mirage Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#36455A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7a20cf6e-bff7-486e-be2e-786c9142ea0e",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Moon Mist Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DCCFC9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c50694be-1caa-4f56-9f5a-f9bac29f667b",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Moonstone Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8C8C8C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "56131f1d-ded0-4f4a-bfb6-a9b849f3c0d2",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Mustard Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#936611",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a40c65e8-5c2f-4533-97ca-fc61287562ea",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Nuclear White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "060c5d1e-15a4-4544-a4c8-d92ae06423ba",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Ochre Desert",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E08500",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4918490b-1021-45d4-bbaf-819782d107fd",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Olive-brown Ops",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#372D0A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "74c23206-802b-4773-a4ab-5fab712e407c",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Olivegrove Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1B290F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f4308895-b763-423b-813d-4ecb26fdd053",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Overlord Olive",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#37321F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9b082a5b-2206-4d6c-ae4a-9fcacac9079d",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Pale Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E8B9A7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4eb8f52d-cc1c-4bf5-97bd-91ad013ff659",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Parchment",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E1C095",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "548e036d-59af-496b-9ff6-44ebbbc026a4",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Peach Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E47700",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8a7522e9-299a-4d98-a451-782b4ce6ff81",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Phantom Violet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7D367C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0c896b21-2719-415b-9a1d-7aa93cc883cc",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Prussian Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00416B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fb13dfd4-2261-4d90-8c1e-4d5e3b4c21d0",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Prussian Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#152E1B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6cab1971-a00c-4f75-9a77-bc95a12a97cd",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Quicksand Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7D4A1B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "53e01ae0-ebf8-4621-92fd-be628be82d2f",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Ranger Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#38352E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "17ad58b0-e302-4ca7-a243-75214d239c85",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Red Truth",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EC2005",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d77afcb0-3779-4e25-93d8-3362bccd7bf2",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Redwood Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3E0D00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d26c5ffe-502c-4666-8b00-72d16512d2d5",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Rocket Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#415E24",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1964e1cd-94e7-41a1-9339-4a0949579202",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Rotten Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#77932C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "eda98a51-22cd-4bed-bafb-194e74c1f546",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Sandstorm",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BF9F66",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9747bca5-28f2-4d99-a26b-0ef3f23d2e36",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Sangria Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5E0A0A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "20d1c9c2-a3c6-4a43-8643-85ed76cfc9d5",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Scorched Wood",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#24110A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "71293ee8-f5c2-4e44-b180-bb3cbf391dc7",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Slate Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#565656",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0cc7811a-fb8a-44e6-a0c6-2cc7eccd1e93",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Smoked Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#55677F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "90a4e65c-be76-4b09-8bea-63e8ef0aaff0",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Starship Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7D6C72",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a1a975f7-3348-4212-8f85-98e216ea9eb6",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Steel Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2A333C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "df2646e1-b157-41a5-bc9c-104054b6c93a",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Summersea Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0268B0",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b26a933f-af60-4b21-8ed0-d8255f87a52e",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Sun-bleached Bone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D1904E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0a56bb99-936d-4a10-beb3-f708ee884381",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Temple Ochre",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CA9F5B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c1f0d954-6d59-4cb8-9a03-447e3d92c37c",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Tiger Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F19200",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4d4ad363-491f-4986-86d4-9c099d7f7f2c",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Tropical Turquoise",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#33AFA5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "46466993-d6fe-45d4-b07d-36859e615cc4",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Ultramar Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#343468",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9b036fcf-67dc-40c7-bd9a-9d881c812ff6",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Valkyrie Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E7D96C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e8db0df4-23d2-49e4-bf56-bc9fb1c2bbf6",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Vanilla Drop",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEE591",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2ee02399-6861-493b-b1ed-5f9f6787841a",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Viridian Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#019A88",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4673e4ff-02cb-4064-a006-a0ae5a4099ef",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Warcry Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3E6121",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "55a565ff-8430-4189-b662-a1a6d285c1d3",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Whitecap Beige",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D6C4B0",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a4dc829b-01bb-4f8c-ac55-e7d4794337bf",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Wolven Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B0B6C6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7ea5ce28-3239-4108-b87e-65b2cc9cde63",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Wonka Violet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#771641",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dd373f1a-6c4f-4ada-aa21-6ba1df560490",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Yellow-brown Ops",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8A5E21",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d6ad603e-57c3-4933-bd9c-62340976d4fd",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Yoda Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#557C5D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6baa186d-090c-44b9-8b22-bbed03dd0801",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Zima Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#48A3C0",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0787876e-aa5f-4c31-8778-cdaa3e785ff5",
     "brand": "Green Stuff World",
     "range": "Acrylic Colors",
     "code": null,
     "name": "Zombie Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C9AC6A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

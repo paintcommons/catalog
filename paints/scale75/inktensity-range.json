@@ -1,122 +1,130 @@
 [
   {
+    "id": "72378edb-5ae8-46ef-81ff-63c66ea1a1ad",
     "brand": "Scale75",
     "range": "Inktensity Range",
     "code": null,
     "name": "Inktense Black",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#292929",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fc2a48b7-daa8-4260-922b-e31e2b68f1ea",
     "brand": "Scale75",
     "range": "Inktensity Range",
     "code": null,
     "name": "Inktense Blue",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#012861",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0d373c5c-9715-419f-975d-aeff5bc4f9d2",
     "brand": "Scale75",
     "range": "Inktensity Range",
     "code": null,
     "name": "Inktense Chesnut",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#803C15",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c9647d69-1426-4bd9-8b03-4dec7ac319ca",
     "brand": "Scale75",
     "range": "Inktensity Range",
     "code": null,
     "name": "Inktense Green",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#043E32",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0962e6ab-8256-4f13-9d1b-3c94873031a6",
     "brand": "Scale75",
     "range": "Inktensity Range",
     "code": null,
     "name": "Inktense Red",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A91E21",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "428b0dfe-103c-40c1-8528-2a4f368b874f",
     "brand": "Scale75",
     "range": "Inktensity Range",
     "code": null,
     "name": "Inktense Violet",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#49196F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "933268e7-468b-4548-9777-8e725098add8",
     "brand": "Scale75",
     "range": "Inktensity Range",
     "code": null,
     "name": "Inktense Wood",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#493326",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8beb7e7e-c963-425c-9767-aa70b6349269",
     "brand": "Scale75",
     "range": "Inktensity Range",
     "code": null,
     "name": "Inktense Yellow",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E3BE15",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

@@ -1,1487 +1,1586 @@
 [
   {
+    "id": "4bc72f2f-9af6-40e8-927e-a36af2ac8c66",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9401",
     "name": "Dragon Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#510915",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b51bd2d9-03a5-4269-854a-a1a744e3b994",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9402",
     "name": "Heraldic Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#97161A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8936d6c8-0511-427f-ac5b-9f308db2d039",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9403",
     "name": "Monster Maw",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E98286",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3fd67ddb-193d-4904-8c19-7f28df5527cd",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9404",
     "name": "Cinnamon Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9F270E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c54a58d5-ab7a-4820-96df-59e96b50656e",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9405",
     "name": "Volcanic Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E24920",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0c1e7ac9-6255-4c5b-8762-3df524974d64",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9406",
     "name": "Sunrise Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F37022",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9490c2de-80d6-4951-b0fc-f1a924245a93",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9407",
     "name": "Lantern Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F8A517",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "32e367ff-5119-468d-a7e7-ef2128618f0a",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9408",
     "name": "Candlelight Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFCB05",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f6f89552-d384-4a36-a633-1bad5d2261a7",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9409",
     "name": "Canary Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F8E002",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d251eee5-36c9-40d1-bb9f-625b30b205ea",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9410",
     "name": "Dragon Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#023B1B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "37486a60-fdb9-42e0-9512-dc5b2b131531",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9411",
     "name": "Wilderness Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#173708",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8970e393-c67c-46be-b95c-fc65f1ef18ba",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9412",
     "name": "Ancient Oak",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#002106",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0736ea9f-e129-46d4-bd48-215571c1d9ea",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9413",
     "name": "Naga Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#438837",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b2aa3000-ef3e-44b5-a173-c875d988a72f",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9414",
     "name": "Cats-Eye Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5A9541",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0ee5b518-a46a-455a-9d1d-ae47a4e81a5d",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9415",
     "name": "Dungeon Slime",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BAD874",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c02ae790-2432-4db9-a998-bc4955ca050a",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9416",
     "name": "Spectral Glow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#58B9AE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cd857dc2-96b3-48c9-a087-a78643264b26",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9417",
     "name": "Void Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#021B54",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d69271bb-c877-4fc4-b591-53f61fbb4612",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9418",
     "name": "Oceanic Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#005490",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aad35287-d2e4-4888-bd4e-0a7cbc47e27a",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9419",
     "name": "Tropical Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0275A2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "afc60e2a-aa8f-4204-947e-09eb6ad1a84b",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9420",
     "name": "Glacier Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#549BB9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "99b4c76f-d74b-420e-87be-1875b26842e9",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9421",
     "name": "Frost Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8CC2DA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "16686d95-a984-4948-b8e2-f2d6ba858ec9",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9422",
     "name": "Nightsky Indigo",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3D3860",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dcb2c5f0-855e-4799-b3af-51928178c9bb",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9423",
     "name": "Styx Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#200434",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2bd2f30f-626f-4041-b895-45a3a2275820",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9424",
     "name": "Runic Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6F3366",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f16f3a90-eb43-4266-902f-e872b3a80aa9",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9425",
     "name": "Icy Violet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7F77A8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fe4070e7-9c94-4d2a-bcd9-c4bea72edd89",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9426",
     "name": "Charred Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#261609",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "73060efe-e6c4-4bf2-b968-1869ed9503e1",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9427",
     "name": "Nut Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#492D1F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cdba0f92-03b5-4561-8d5e-21483a2f5125",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9428",
     "name": "Saddle Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#583924",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "de5fca14-52d9-485c-be53-138bb4543b00",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9429",
     "name": "Rich Leather",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7A592E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3128239e-22e9-46ec-981e-e113bfe1ec6e",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9430",
     "name": "Polished Leather",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9B6326",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6cfd183f-087d-4b4f-8cc8-0c2f797b7867",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9431",
     "name": "Desert Stone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9B7E52",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dc6eaf66-487e-4b07-b444-733af8cc3baf",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9432",
     "name": "Desert Sand",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C5B49A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "078d0a0e-2740-4833-af73-e6ef27c55996",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9433",
     "name": "Mountain Stone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4B4338",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c07f68b4-6074-42b9-ba42-64bcede2b980",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9434",
     "name": "Wolf Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7C7469",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2895cb71-0142-4306-b879-9212688a4a5a",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9435",
     "name": "Skeleton Bone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D8D1BF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d1014ae2-8cdb-4d81-abe1-a07adc30dbbb",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9436",
     "name": "Bleached Linen",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F1E8D9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "65c688a0-25d1-4f04-9b3e-cfa1c56a5068",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9437",
     "name": "Dragon Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#060000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "05b1ca81-d084-44c0-b400-613aac97e4f7",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9438",
     "name": "Tempest Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#47484D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c706449c-012a-41fa-b679-bf02c67dd76b",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9439",
     "name": "Dragon White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e4652232-0598-49ed-b93b-362717c22af8",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9440",
     "name": "Ebony Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#130C04",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ca402a20-6ab0-4bec-bc36-18035a7bbb18",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9441",
     "name": "Ruddy Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7B4F2A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ac701c92-80ad-4f44-a8e7-726e5a61e261",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9442",
     "name": "Barbarian Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A96A41",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c58f520e-a423-4488-be5e-f3289f456520",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9443",
     "name": "Warrior Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AB754F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "42e99417-b272-4faf-9adf-d766e6bc7a5e",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9444",
     "name": "Scholar Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E4B895",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7aa48462-9f1f-41c4-84e4-8cbf3821542f",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9444b",
     "name": "Tawny Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E4B895",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ef43e246-7970-415b-b879-4272c4753d39",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9445",
     "name": "Youthful Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FCBD88",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "59575000-b987-4d7f-b0c7-2bee87c17270",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9446",
     "name": "Pale Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FED2B9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "71994368-9b39-4f08-8a47-e513d3d457a9",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9447",
     "name": "Undead Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DFDDD1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9ff2bc22-ff39-4be2-946e-80a7e3518195",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9448",
     "name": "Dragon Copper",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B97F67",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "97546ced-7a6e-4013-94fa-a4a82f18be92",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9449",
     "name": "Dragon Bronze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9F8D5B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2371e509-dc71-4f2d-bdf2-89cbf0993271",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9450",
     "name": "Dragon Gold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C59448",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ea176eef-c28d-41fa-b577-f77fc2ef8add",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9451",
     "name": "Dwarven Gold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A96617",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9c94fd4d-1408-4df4-933d-28b9e1aabc25",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9452",
     "name": "Blade Steel",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#908886",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "15bd0307-fcea-4ece-af60-786e0090cfc2",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9453",
     "name": "Filigree Silver",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B2ADAA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fbcf4aee-44da-49be-b81f-0845f8a915ad",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9454",
     "name": "Shining Mithril",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C8C4C3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3857f0d2-3c52-4ff3-bf20-fda0abf58838",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9455",
     "name": "Troll Hide",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#555205",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0b2357e2-a61b-47b3-bba9-eb24846897e0",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9456",
     "name": "Orc Skin",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#898770",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3af2363e-6afd-4dd2-8de1-f0403c219acd",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9457",
     "name": "Goblin Skin",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B0582A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a692f9b6-ae0e-4c32-95de-05b23233c248",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9458",
     "name": "Kobold Scale",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#812B1A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4f49dda6-7dd1-4d3e-bfdc-1da0102d7886",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9459",
     "name": "Ogre Skin",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2AF2A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7bf8e16e-eb0e-46cd-a7c0-64b13fdea901",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9460",
     "name": "Gnoll Pelt",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#978C3C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cf02dcd8-3d57-468d-bffe-541116c629e5",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9461",
     "name": "Vampiric Mist",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EAEAEC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "52e221b2-4939-4f34-97d7-aa9c4a317217",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9462",
     "name": "Succubus Kiss",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7A0025",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9e412904-8836-48c8-8dfb-b19ee73aadd3",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9463",
     "name": "Eldritch Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#92278F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "71665c8a-ef2e-436b-a8c8-5ff201ea8f5c",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9464",
     "name": "Cursed Gold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B16B23",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "61ad2c01-5a8f-4b75-a2e2-e70f971dc0db",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9465",
     "name": "Skeleton Key",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#535A53",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2337e831-5b8d-4026-9378-d72908bf3d0f",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9466",
     "name": "Dungeon Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#534640",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1b5383c9-a141-449f-a306-3468aeeff73a",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9467",
     "name": "Crimson Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#711313",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c7832abf-1419-4589-99e7-b432e405f9a9",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9468",
     "name": "Brilliant Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EC202B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c6cad4c7-0e71-488c-8bf7-cde998808496",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9469",
     "name": "Fireball Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EF6F24",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "288b5509-a8b4-40dc-971a-eef387bf61f0",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9470",
     "name": "Golden Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F7B717",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2db9018f-6437-4a37-9b53-9f80c5f0797d",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9471",
     "name": "Bright Turquoise",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#005B5C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ee70e917-fabb-4c26-9bf2-e60c91ebf4b0",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9472",
     "name": "Dragon Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#086CB7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "36ae25ae-ee6b-4fbe-be2c-d8745248d18d",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9473",
     "name": "Gem Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#47286E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ee6faf1e-b46f-4112-8a69-1b0a8ef0bc1a",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9474",
     "name": "Caucasian Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E6B17B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3beaee04-e6c5-4693-a311-eb6b0adbbec4",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9475",
     "name": "Maiden Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F1DFC7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1e7d43c5-cee1-4684-a5fa-910bb05feaf9",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9476",
     "name": "Woodland Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A17036",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1f6f53d0-bcf6-4428-b94e-fc9c5594e6d7",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9477",
     "name": "Witchcraft Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8B4D7C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dbaaa6a1-c558-405d-82b7-f961a44a5d22",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9478",
     "name": "Solid White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f885cc00-354d-4953-8b62-0c6a63c3d9cc",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9479",
     "name": "Solid Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a3cf1d70-f0d1-49b3-8a16-438b3441c9d9",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9480",
     "name": "Blue Flame",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D4EEFB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f1022695-ea6b-424f-b6d5-70d9111b2fbe",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9481",
     "name": "Turf Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#28813F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "983147f5-d4bb-445f-bc0f-2f20943f9de9",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9482",
     "name": "Suntan Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B26D2A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f3c342f3-2cf1-40bf-bff5-eb1c9fdbf4a5",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9483",
     "name": "Twilight Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#213165",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0fc6d0db-b261-47a8-8562-e0ffddc40e2b",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9484",
     "name": "Pale Saffron",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEDD2C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a9fabcdf-fcb6-4770-987c-e875739893a8",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9485",
     "name": "Meadow Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6B933B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "df705a12-357d-4ac0-9686-32bf0c2e0de4",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9486",
     "name": "Tendril Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F498C1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2557ce3c-328e-4f01-aa8b-3309453a13dc",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9487",
     "name": "Yellow Mold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FCF8C8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e763e251-3c72-4910-a441-d8388003fa9d",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9488",
     "name": "Elven Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#264033",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3c8dab6b-1351-42b8-b40e-816ac90bbcff",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9489",
     "name": "Siren's Song",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#41B5AC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "93fca198-78f0-4682-ba56-6049c0271faa",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9490",
     "name": "Bugbear Fur",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D8A053",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "37cf5586-d532-4026-839d-9621cf30c8f8",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9491",
     "name": "Minotaur Hide",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#77453C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6cdf0149-2a3e-41d1-b499-1793da9e2fad",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9492",
     "name": "Wyvern Leather",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6E352E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d0ab15fe-2927-4f62-b185-ab581ffc4d29",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9493",
     "name": "Gargoyle Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9EB0BA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "34fa3243-5641-4ecc-9a90-ef2459716cc1",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9494",
     "name": "Gnome Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D79483",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f5ab6269-fce2-4e01-b418-9340d6324245",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9495",
     "name": "Drow Silver",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9884A0",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f8d21fe7-8c60-4f3d-ace0-755b4efda134",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9496",
     "name": "Reliquary Gold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A89E57",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d332d970-2eda-4bd7-bc4d-7d5bc51f7888",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9682",
     "name": "Stark Naked",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FDC78B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1f09c440-7b7b-43bb-94b8-2d5fc927014d",
     "brand": "Reaper",
     "range": "Master Series Paints Bones",
     "code": "9683",
     "name": "Morning-After Blues",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00739F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

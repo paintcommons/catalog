@@ -1,107 +1,114 @@
 [
   {
+    "id": "0bccae8d-2d10-43a8-81cd-6626c1ed9da8",
     "brand": "Mission Models",
     "range": "Mission Models Primer",
     "code": "MMS-001",
     "name": "Black Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1aaf8ad0-72ed-4edb-8b15-9f8044422179",
     "brand": "Mission Models",
     "range": "Mission Models Primer",
     "code": "MMS-002",
     "name": "White Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "55ccaa6d-bcb6-4eb0-a31f-23621e436c49",
     "brand": "Mission Models",
     "range": "Mission Models Primer",
     "code": "MMS-003",
     "name": "Grey Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D9D9D9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9f246878-4ccb-42fe-b0ca-d8b3f911fced",
     "brand": "Mission Models",
     "range": "Mission Models Primer",
     "code": "MMS-004",
     "name": "Red Oxide Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#772420",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7a6e4ec6-839f-435d-9461-2ac5ab5941ad",
     "brand": "Mission Models",
     "range": "Mission Models Primer",
     "code": "MMS-005",
     "name": "Pink Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F68EB1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b65749cc-0028-43e8-a602-6d2e1743959b",
     "brand": "Mission Models",
     "range": "Mission Models Primer",
     "code": "MMS-006",
     "name": "Tan Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A59480",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "23c662de-d3fe-4fdb-b0a1-77aa7c0e7c81",
     "brand": "Mission Models",
     "range": "Mission Models Primer",
     "code": "MMS-007",
     "name": "Clear Primer (Transparent)",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

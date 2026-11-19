@@ -1,287 +1,306 @@
 [
   {
+    "id": "d01aabcf-caaa-4a4a-aca3-90d319de6445",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Anthrax Metal",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7B7E83",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c5c49d56-dce7-476f-ba1a-ddee65ee6a78",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Antique Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#957E38",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "16fd6686-edec-41e9-92be-cf8b215ac33f",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Aqua Turquoise",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9BD1D1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e4618957-790b-47ef-840b-ab1b73fdf696",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Caesar Red",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C8606B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e5ec6587-683c-42d5-8ffa-9ff93398d548",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Chrome Paint",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FCFDFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "90542832-f616-4137-9671-43544310a83d",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Dark Elder Bronze",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3E2C14",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5806c0ed-325e-4b79-8703-0b433a1f7e7e",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "El Dorado",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BA931C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f713c6a6-37c2-4f44-9ad4-8916e9be377d",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Gladius Bronze",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E1A767",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0daa2e67-8053-493f-98ca-f67c0ccc59a2",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Gunmetal Grey",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ACB1B7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aa720f68-51e7-425b-b185-671319171820",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Mystic White",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EFF0F4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a9461903-3114-41df-b44b-d3fde8c630f6",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Neptunus Blue",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#60BAF8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "87fa8d94-497b-42dd-92e1-d01132d8c02a",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Orchid Purple",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#734472",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ded77721-c838-4d2f-a376-9e637da36e03",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Persian Violet",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#412480",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d6de09a2-b8ef-4578-ada2-c83f402fbd4a",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Quicksilver",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E0E3E8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e1b83ff9-13f2-4d2f-81e7-46221e8c628b",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Sharkfin Blue",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#95CAF6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a2ef84d1-5a03-4e76-b634-1537c1c87f20",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Shiny Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BFA22C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "09b0b925-2ff1-4115-aca4-7a20c126d98b",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Sirenscale Green",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#05C18E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a27590c2-72c2-4960-89a1-e90a4f6c1f74",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Steampunk Copper",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DDA37E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "01a116ab-3d88-4c94-9f3e-92d570733c1b",
     "brand": "Green Stuff World",
     "range": "Metallic Colors",
     "code": null,
     "name": "Tinmetal Grey",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B9ADAD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

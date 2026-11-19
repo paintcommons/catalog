@@ -1,47 +1,50 @@
 [
   {
+    "id": "d2cd93d2-5424-4da7-bb23-abbeffde41f4",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
     "name": "Blue Tone",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#132B47",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "129cc614-b402-4bb4-8771-b9efa5841f66",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
     "name": "Dark Blue Tone",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#17202E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ca6f3d45-1dea-4866-8fae-fcd33f8d114f",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
     "name": "Dark Red Tone",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2E131A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
@@ -60,33 +63,35 @@
     "status": "current"
   },
   {
+    "id": "43bc2145-b398-4f0e-bf69-02870174efe6",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
     "name": "Dark Tone",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1F1F1F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cb05756c-3e70-4cad-ab7d-2b04c61ecc4e",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
     "name": "Green Tone",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1F3625",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
@@ -109,18 +114,19 @@
     "status": "current"
   },
   {
+    "id": "e4392345-eaee-4b04-9f72-df89a68ba067",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
     "name": "Magenta Tone",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#590135",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
@@ -143,18 +149,19 @@
     "status": "current"
   },
   {
+    "id": "28492f64-3c42-42fd-b343-9cbd229f16dd",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
     "name": "Orange Tone",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#64300F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
@@ -177,33 +184,35 @@
     "status": "current"
   },
   {
+    "id": "e5f56415-b754-4d19-a06f-35290abd48bd",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
     "name": "Red Tone",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#531F28",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7f6f0b28-b247-4b2e-b3d3-813b07d91345",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
     "name": "Rust Tone",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#452A11",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
@@ -226,33 +235,35 @@
     "status": "current"
   },
   {
+    "id": "ae0dcd3a-0c50-4beb-87f7-b7198970752e",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
     "name": "Soft Tone",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#563D2A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "20f818a5-ad57-401b-9a23-6cd774e65428",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic Wash",
     "code": null,
     "name": "Strong Skin Shade",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#442824",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {

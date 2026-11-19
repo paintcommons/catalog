@@ -1,122 +1,130 @@
 [
   {
+    "id": "97fd3db4-9342-4f6b-b375-f06a715a57bd",
     "brand": "Mr Hobby",
     "range": "Mr Crystal Color",
     "code": "XC01",
     "name": "Diamond Silver",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C1D2E6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ca51886f-60aa-46c1-9beb-7498348f317b",
     "brand": "Mr Hobby",
     "range": "Mr Crystal Color",
     "code": "XC02",
     "name": "Topaz Gold",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C3D5D3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "055f9e94-f854-4f32-96cf-6372a2943d07",
     "brand": "Mr Hobby",
     "range": "Mr Crystal Color",
     "code": "XC03",
     "name": "Ruby Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CAC6D7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "76391335-a92d-4395-9e65-22410a8fbc15",
     "brand": "Mr Hobby",
     "range": "Mr Crystal Color",
     "code": "XC04",
     "name": "Amethyst Purple",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C1BFE4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b84081d7-a1f5-41d2-9414-2a9cec18f19c",
     "brand": "Mr Hobby",
     "range": "Mr Crystal Color",
     "code": "XC05",
     "name": "Sapphire Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B0C3E1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b92ea518-bf32-4956-ad60-6206748ea652",
     "brand": "Mr Hobby",
     "range": "Mr Crystal Color",
     "code": "XC06",
     "name": "Tourmaline Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AECADF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a40a708e-3f8d-41c3-8641-11695906a713",
     "brand": "Mr Hobby",
     "range": "Mr Crystal Color",
     "code": "XC07",
     "name": "Turquoise Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AAC4E5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "727aaedf-2f75-406e-b732-d75b11e208f9",
     "brand": "Mr Hobby",
     "range": "Mr Crystal Color",
     "code": "XC08",
     "name": "Moonstone Pearl",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C0D0E9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

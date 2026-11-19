@@ -1,842 +1,898 @@
 [
   {
+    "id": "79b0d672-b7dd-4c18-86ea-32d3be0e9135",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "101",
     "name": "White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4db8d4a8-8fad-4409-b9a4-568c96d556dc",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "106",
     "name": "Enchanted Silver",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AEB2BD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cd4b0308-7f9a-4132-a26e-63dd5c6143e7",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "107",
     "name": "Bright Gold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ABA073",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2dc471c3-c44e-4fe9-a91b-67efa2aacc92",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "108",
     "name": "Goblin Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#657C52",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b360b6f8-7bc6-4724-a633-156b84dd610b",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "109",
     "name": "Chainmail",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BAB8C3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9a33c68a-aa38-43e9-b004-2dbb4861278a",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "110",
     "name": "Royal Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#324669",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4bcfa58c-6583-4d76-8cdb-77022c2de284",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "111",
     "name": "Dark Elf Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#394A44",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3a35e9a6-1985-4e33-86ad-58ed917b1cab",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "112",
     "name": "Bone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F4DAA7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "914893c6-ec50-4116-8ba3-ff2c60c7fc94",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "113",
     "name": "Magic Metal",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#62422B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "71c87a9d-26e5-4991-b251-369a81af83fb",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "114",
     "name": "Wizard Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#396298",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3899349e-5c44-41b0-9366-ec2e5e3f56ae",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "115",
     "name": "Tanned Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DD9A65",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "52930427-5b61-465e-855c-0bc905600e44",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "116",
     "name": "Barbarian Leather",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8B5D43",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "faad0b3c-08c4-4adf-86da-6df53e77996a",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "117",
     "name": "High Elf Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3D6799",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "914fba31-3bb8-4387-a7df-ed09d525dbad",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "118",
     "name": "Poison Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5D4569",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "98e853ab-8d40-4744-8c3f-f1eebb0a059f",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "119",
     "name": "Rat Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7E4941",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "42df66b7-a193-424a-9be8-689920b1c43a",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "120",
     "name": "Hairy Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6C4C3D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "50aee9b1-3fe1-4a6c-95de-78ecdc8bdf04",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "121",
     "name": "Bogey Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#487149",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fe1c00e3-ec9f-4126-aa57-b5314dac6672",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "122",
     "name": "Elven Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CED7D4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5b817847-7b04-4aeb-8736-aec6abda3526",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "123",
     "name": "Elven Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFA88A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bb4e072d-1da9-4376-bb53-640f2e8466f9",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "124",
     "name": "Dwarven Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D58C7B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6e9944a2-64c4-4e2c-bd9f-e894fb252c48",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "125",
     "name": "Putrid Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A5B183",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a9bb3f3a-4d04-4ce2-a231-4781a17d2f3c",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "126",
     "name": "Festering Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B5955C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2ccd9012-3be4-408c-81b7-865549be568c",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "127",
     "name": "Enchanted Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7B74AA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fa334175-9b05-47cd-902b-7c6b628ae834",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "128",
     "name": "Enchanted Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8EB894",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "652ef377-b9d7-444b-a376-a449b753d025",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "129",
     "name": "Vampire Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B32E1F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ccac9122-9309-4c13-bdd0-8fe3f8eeb083",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "130",
     "name": "Billous Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C98651",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3f8e352e-b36b-4c7a-b031-7f3059bb49f9",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "131",
     "name": "Brass",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CAA07A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e83c0206-3097-441c-b312-431ae3284274",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "132",
     "name": "Aquamarine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3A7289",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "56bebfb6-e48c-4c4a-84fd-bdc981c1e765",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "141",
     "name": "Grey Primer",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8A584D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0531c27a-10e7-427c-827f-a6165f49827b",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "142",
     "name": "Gun Metal",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#917F75",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d6caa040-6e29-4e84-93ef-b0deebd561ba",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "143",
     "name": "Dwarven Bronze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D6A48B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a38abca0-47ff-454a-8e2d-95d77fb52011",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "144",
     "name": "Shocking Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DFA8C7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8c151e1a-f709-4b78-8991-8c7761465637",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "145",
     "name": "Ruby Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FE0000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6a82a500-fb10-4d85-81a3-faff26d11c0f",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "146",
     "name": "Dusky Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FDCA31",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6e7f9c57-6814-473c-86b1-689ac46a8bf6",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "147",
     "name": "Burnt Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FF8041",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e68ffb57-5bd2-4983-99d9-81a4c8fd9062",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "148",
     "name": "Marine Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2F67A4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c2a24882-da02-4b7f-b2e9-674e7350b1cf",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "149",
     "name": "Angel Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FE5339",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b01bcd5b-2cfc-4267-92c0-e3d879c92d46",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "150",
     "name": "Shadow Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#637FA4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bd68997b-484e-4569-a532-2a4aec2b3426",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "151",
     "name": "Lupin Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BEE0F9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "84f54544-9a83-49e4-81f1-48251b255f92",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "152",
     "name": "Scorpion Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4FC60A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aebff509-394e-49ff-9b23-0f9acc3827a2",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "155",
     "name": "Angel Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3B413F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "632b2c54-20c7-4fd9-8fe8-637d6b6d3f26",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "156",
     "name": "Leprous Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FC7B37",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5884e02d-3e0f-472f-8efd-ea247fd4690c",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "157",
     "name": "Warlock Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C6385E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "739f20e9-5999-433b-8837-865de0b948f4",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "158",
     "name": "Jade Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#149D8B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "db62ecd3-745e-453c-b70e-bc1f7b20c8a1",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "159",
     "name": "Golden Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEB101",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6e4bfa3b-fd73-40e9-a938-06f925efcd77",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "160",
     "name": "Amethest Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#675A92",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "32892638-a57d-4101-9faa-e9764e3cf30b",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "161",
     "name": "Deadly Nightshade",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#404B4F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e4b500cb-d1fc-45ce-b1ed-ba9085b720a7",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "162",
     "name": "Nauseous Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3D4A90",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a69843a2-af62-4570-9aab-9a4f297243b5",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "163",
     "name": "Beaten Copper",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C96F4D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a647ca73-8d4e-49bb-8b74-7444d59b4dc9",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "164",
     "name": "Emerald Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#398C54",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6680cb21-0d5a-4af6-a843-16dae740bc89",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "165",
     "name": "Hawk Turquoise",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0291B9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "096893a1-9480-4765-b3a9-2708ddaab6b5",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "166",
     "name": "Fester Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#37698C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a236cd3b-36b8-461a-888e-d35738530d91",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "167",
     "name": "Hideous Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3F7EAA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bbdbdb93-da0e-4b58-8900-3131f57dcc19",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "170",
     "name": "Super Wash Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#81AB7B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "232153f1-312c-43ef-900e-9085a8cf2697",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "171",
     "name": "Super Wash Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9C5158",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "52c3f7f9-4713-4a38-91cb-850f673778b2",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range",
     "code": "172",
     "name": "Super Wash Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#384861",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

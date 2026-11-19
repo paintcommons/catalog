@@ -1,92 +1,98 @@
 [
   {
+    "id": "3faa38fe-9509-4e2e-89af-f9a7f3d0623a",
     "brand": "Warcolours",
     "range": "Glazing paints",
     "code": null,
     "name": "Blue Glaze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4E91C8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "86027426-dec7-4524-8088-d767216dcbbb",
     "brand": "Warcolours",
     "range": "Glazing paints",
     "code": null,
     "name": "Brown Glaze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C07E71",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3f0d84a8-349a-486d-b536-b4876bc5e6bc",
     "brand": "Warcolours",
     "range": "Glazing paints",
     "code": null,
     "name": "Green Glaze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9AFF4F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "25e62b60-d490-4d51-b00e-b69aae6d2830",
     "brand": "Warcolours",
     "range": "Glazing paints",
     "code": null,
     "name": "Pink Glaze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EB89A8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1ae5aaaa-dbd7-4a75-b1d6-8ba47efd9d9d",
     "brand": "Warcolours",
     "range": "Glazing paints",
     "code": null,
     "name": "Red Glaze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EC8A8E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ad42d777-fbc9-486c-bb1c-170abbdcce50",
     "brand": "Warcolours",
     "range": "Glazing paints",
     "code": null,
     "name": "Yellow Glaze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEF65D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

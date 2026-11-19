@@ -1,11 +1,11 @@
 [
   {
+    "id": "85513ab0-39b1-4f30-b23e-9e1df62381c5",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10061",
     "name": "Perisher Pink",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920630",
@@ -18,15 +18,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "399e3919-1cc1-42cd-b323-9a981ff03ecf",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10062",
     "name": "Hot Pink",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920647",
@@ -39,15 +40,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7e1ed63f-3ed4-40ed-8ef4-c5f0fd9e6ff7",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10063",
     "name": "Neo Pink",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920654",
@@ -60,15 +62,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dd5074d3-8abd-435a-aba9-2b91cc41fb79",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10064",
     "name": "Dread Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920661",
@@ -81,15 +84,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2f012f38-c539-445b-be9c-da8c9bb36448",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10065",
     "name": "Asmodeus Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920678",
@@ -102,15 +106,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "82cc5180-2f29-4394-bab2-a89168bc47e1",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10066",
     "name": "Evil Eye Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920685",
@@ -123,15 +128,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "152db59c-0680-421f-81d5-6448964ddc1e",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10067",
     "name": "Sentient Turquoise",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920692",
@@ -144,15 +150,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "801ed3b0-62f4-491e-a7fe-ade39c5b374b",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10068",
     "name": "Cursed Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920708",
@@ -165,15 +172,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0ffc58e4-accd-483d-bc69-6170159c8528",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10069",
     "name": "Ray Gun Glow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920715",
@@ -186,15 +194,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "056fed97-3580-486c-8e3b-83bb6fd041a4",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10070",
     "name": "Abyss Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920722",
@@ -207,15 +216,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9e06ea15-1257-497b-91d8-da902d63f742",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10071",
     "name": "Witching Hour blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920739",
@@ -228,15 +238,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f32e38d5-d92d-4d3a-9c6e-3c7d7415d1b2",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10072",
     "name": "Leviathan Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920746",
@@ -249,15 +260,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5088a22a-75b8-4fd7-aeaa-3adca2e751d2",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10073",
     "name": "Orc Hide",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920753",
@@ -270,15 +282,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9aa7322a-108d-44d4-8e30-aff76221cd9b",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10074",
     "name": "Goblinoid Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920760",
@@ -291,15 +304,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c51b1fb0-0520-4320-a0e7-2bbc94734a1c",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10075",
     "name": "Troll Snot Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920777",
@@ -312,15 +326,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "19d6424f-accf-491d-9f15-14ffe99e2b57",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10076",
     "name": "Field Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920784",
@@ -333,15 +348,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5405f279-099e-4524-bfdc-023abd8522ae",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10077",
     "name": "Ranger Cloak",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920791",
@@ -354,15 +370,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "82936f9c-4050-453a-b06d-0ee9d9d8b077",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10078",
     "name": "Kobold Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920807",
@@ -375,15 +392,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bbedfcda-f127-45f6-966f-416afd2afc9e",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10079",
     "name": "Fury Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920814",
@@ -396,15 +414,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ed95ef40-a313-49ae-8426-2523b661a911",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10080",
     "name": "Gung-ho Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920821",
@@ -417,15 +436,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9b6eb5ed-99b7-42a9-9b93-635ad19c69f3",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10081",
     "name": "Green Beret",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920838",
@@ -438,15 +458,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1ce4b318-92b6-4562-9fb3-43baee553a5c",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10082",
     "name": "Hydra Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920845",
@@ -459,15 +480,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0058e29e-3f19-44b7-9584-e743861a49ba",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10083",
     "name": "Jade Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920852",
@@ -480,15 +502,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "95ba493d-f6ba-4bd4-ade5-147e85323736",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10084",
     "name": "Ghoul Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920869",
@@ -501,15 +524,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9490e48b-8b0e-4ca9-a229-6edabc47ca6b",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10085",
     "name": "Ashen Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920876",
@@ -522,15 +546,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c2b1ddce-38e6-4a3b-ac41-84fc7bd3a036",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10086",
     "name": "Eidolon Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920883",
@@ -543,15 +568,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bf7f8866-3d88-444b-b435-307cafd7b210",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10087",
     "name": "Rodent Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920890",
@@ -564,15 +590,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "467f6ab2-9b12-43ad-919b-9e67e150bffb",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10088",
     "name": "Noble Steed Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920906",
@@ -585,15 +612,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f8d2f7e8-1ddd-4b93-8480-a37a8e5e9d02",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10089",
     "name": "Dry Rust Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920913",
@@ -606,15 +634,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2226430e-5db4-496c-acc6-84ae7e9c06e2",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10090",
     "name": "Satyr Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920920",
@@ -627,15 +656,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2e1fd715-66b0-4410-b696-c9181f5e2655",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10091",
     "name": "Gyzmo Fur",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920937",
@@ -648,15 +678,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "86e7424f-e730-471f-acf0-4e1811d47557",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10092",
     "name": "Manticore Ochre",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920944",
@@ -669,15 +700,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5ee153f2-916c-404a-9a3a-c24ded17855a",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10093",
     "name": "Cerberus Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920951",
@@ -690,15 +722,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6986f506-7347-4673-9b39-77b0b0929f96",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10094",
     "name": "Argonaut Skin",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920968",
@@ -711,15 +744,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cb9b4fe8-0205-48cd-b463-48e151295c1d",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10095",
     "name": "Kronos Flesh",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920975",
@@ -732,15 +766,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d64aeaf9-6cab-4823-898f-a5fd9a924fca",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10096",
     "name": "Ares Flesh",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920982",
@@ -753,15 +788,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dfd9c945-74da-4fad-939c-9aa6f1d0527e",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10097",
     "name": "Druid Flesh",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951920999",
@@ -774,15 +810,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8deaf6e0-baa9-42e7-960d-9fc11a1771fd",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10098",
     "name": "Paladin Flesh",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921002",
@@ -795,15 +832,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "419cc4ed-68ad-4f76-b776-9d3cc71754b3",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10099",
     "name": "Bard Skin",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921019",
@@ -816,15 +854,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "97474dbe-5d68-44fb-9b18-7062491bee85",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10100",
     "name": "Hellspawn Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921026",
@@ -837,15 +876,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "62ab86ad-5214-480d-aad4-748f2e2c5d04",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10101",
     "name": "Craven Yellow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921033",
@@ -858,15 +898,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "18c48f4f-ccf9-4cf9-89c1-e4d6a9b1903a",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10102",
     "name": "Gigawatt Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921040",
@@ -879,15 +920,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2e257304-42ea-40d8-898d-bb4f4091e828",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10103",
     "name": "Flaming Forge Orange",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921057",
@@ -900,15 +942,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0287a851-4597-4f96-8f8c-90ec6a727445",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10104",
     "name": "Talisman Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921064",
@@ -921,15 +964,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "baf7cb3c-7a3d-428c-813b-a5d85cbe02e2",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10105",
     "name": "Amulet Purple",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921071",
@@ -942,15 +986,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d4def2a5-bea7-405d-a6b5-3949402e4133",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10106",
     "name": "Dwarven Iron",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921088",
@@ -963,15 +1008,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a42f9bd9-a776-440c-9c0f-cc13f196b1bc",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10107",
     "name": "Battle Axe Brass",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921095",
@@ -984,15 +1030,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4afed91b-3e6f-4be1-a32d-5562d172a393",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10108",
     "name": "Steampunk Copper",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921101",
@@ -1005,15 +1052,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "09cb2e86-cc05-4e26-a1a6-b255e0f3d816",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10109",
     "name": "Overlord Brass",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921118",
@@ -1026,15 +1074,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bef3a7f4-fa48-42a3-ac79-25486f27aee7",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10110",
     "name": "Top Brass",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921125",
@@ -1047,15 +1096,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "da70bfa2-272f-4819-8036-02a9a3c42da2",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10111",
     "name": "Platinum Crown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921132",
@@ -1068,15 +1118,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6887b40f-8780-4a16-b253-fb7c53c92ba8",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10112",
     "name": "Hellion Red Wash",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921149",
@@ -1089,15 +1140,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c089bfed-2d55-4c67-bd9b-246504e83fde",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10113",
     "name": "Tempest Blue Wash",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921156",
@@ -1110,15 +1162,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d31996af-efa4-4ec6-a2d5-50044fe7b2cf",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10114",
     "name": "Magi Purple Wash",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921163",
@@ -1131,15 +1184,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c818a37c-fed7-4910-855c-02d8c765c690",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10115",
     "name": "Red Glaze",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921170",
@@ -1152,15 +1206,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "581aba12-81a6-4365-94ae-1b12d9c4bf6d",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10116",
     "name": "Yellow Glaze",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921187",
@@ -1173,15 +1228,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "44cff8df-9b2a-4cfa-a257-ecbcffa9f05c",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10117",
     "name": "Blue Glaze",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921194",
@@ -1194,15 +1250,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7625372f-0e71-4ffc-893d-ea659bd6f496",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10118",
     "name": "Orange Glaze",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921200",
@@ -1215,15 +1272,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "97d2c14b-7f35-4f55-81e7-8cc7230f8ac3",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10119",
     "name": "Green Glaze",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921217",
@@ -1236,15 +1294,16 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "da01d089-c087-4b2f-8511-e065147e278a",
     "brand": "Two Thin Coats",
     "range": "Wave 2",
     "code": "10120",
     "name": "Purple Glaze",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [
       {
         "ean": "5060951921224",
@@ -1257,6 +1316,7 @@
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

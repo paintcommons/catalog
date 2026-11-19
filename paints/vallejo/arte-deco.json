@@ -1,2042 +1,2178 @@
 [
   {
+    "id": "2fcaa7c9-af3d-4fff-a71a-a7d32e2585c3",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "81.121",
     "name": "Silver",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C8CAC9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "88ffdd81-e3c6-451a-bf35-85ffc92302c4",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "81.122",
     "name": "Gold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E4B239",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "85218208-1b76-4146-ba2e-394656dad58a",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "81.123",
     "name": "Bronze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6D4C21",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "3ec2b8af-8673-46cb-ae74-395edfb76f1c",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "81.124",
     "name": "Old Silver",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CCBDBA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "779dcce3-9d20-4418-a707-dc29942c63bc",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "81.171",
     "name": "Copper",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BB4812",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9b28dc1c-e1de-476a-8e7e-42dbb87eab87",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "84.154",
     "name": "Gloss Varnish",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E5E5E5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f310048d-e18f-4064-9909-1c4692904acb",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "84.155",
     "name": "Matt Varnish",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DCDCDC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "8a884d09-83fb-456a-9d8d-58deb9595205",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "84.158",
     "name": "Pearl Medium",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C2C2C2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9e2f8cf1-0165-4eb0-87d7-3b5780770ee5",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "84.159",
     "name": "Textile Medium",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ECECEC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "c74d5b2e-973a-4c6d-a96e-8a7bbe8b09aa",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "84.160",
     "name": "Crackle Medium",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F8F5E5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "2faa5ff2-ec36-4d84-b40a-db3e5c8b2e59",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "84.169",
     "name": "Satin Varnish",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "4ece2efd-fc32-4a82-9d95-f5fa95a828e3",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.001",
     "name": "White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "87698bcd-703b-447a-adec-c4553abc3d61",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.002",
     "name": "Antique White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FCFDED",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ed22f742-cb5d-4529-84be-ea2b5dd166c9",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.003",
     "name": "Buttermilk",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFDE2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "51a9293f-5efe-4029-b67e-69b6ff39ebde",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.004",
     "name": "Taffy Cream",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EEF2CD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "fff8b9a2-c2a5-4208-b3df-02b6e86ff300",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.005",
     "name": "Pineapple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DEEF90",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "8cb743e8-274b-4c32-9e24-2f63807a6331",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.006",
     "name": "Moon Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEE8B0",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ee8b5d56-d0c3-4d3b-94a8-f8cd39873968",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.007",
     "name": "Lemon Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEEC40",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "eacccd2f-6677-4c4e-8079-47745d98c51a",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.008",
     "name": "Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFE15D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "3286584b-89e2-49f4-9615-24c25f3b51a1",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.009",
     "name": "Dark Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F9B105",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "1178db20-4bd1-4b6a-be6d-08a3bd19b0dd",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.010",
     "name": "Tulip Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FDDA9A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "1a55038a-a4e6-40b2-bb85-757d8fad946a",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.011",
     "name": "Desert Sand",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EDEBC6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "e63e72e2-ea73-4ca3-9d37-8c9b46a19000",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.012",
     "name": "Arena Sand",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEE8D9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b1e291eb-4029-49cc-916e-ba1124cbd07e",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.013",
     "name": "Harvest Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEBB39",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "18362ea9-5f71-41a0-bc8b-dfb888c0a8b7",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.014",
     "name": "Yellow Ochre",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E1A788",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "eca3495d-76d8-4e22-b67b-3d29671d345a",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.015",
     "name": "Antique Gold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#856A3B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "8f665ed6-b5e0-4b01-9a97-f9fccfd0abde",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.016",
     "name": "Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FED2D8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b6d8a604-1bbc-44ec-9b20-a785d32d454f",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.017",
     "name": "Medium Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FAD0D1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "05076e62-45b0-4a03-af4b-005f951a0bb3",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.018",
     "name": "Flesh Tone no. 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EEC3B2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "4a3902db-a2a8-406f-b068-d042f90e34e1",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.019",
     "name": "Peaches",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FCA6B4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "dce5cd19-2b81-4559-96b6-cf440252268d",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.020",
     "name": "Dusty Rose",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FC8992",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ade120b1-0ef5-4ac8-8c8d-886d050f37ab",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.021",
     "name": "Hyacinth Rose",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D39699",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b338c32e-2a77-46d3-8b5a-295ac7a18dae",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.022",
     "name": "Spice Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F4A5AB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "871d2536-34fc-4786-b3fa-2c45da951fc7",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.023",
     "name": "Gooseberry Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DC6888",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9ec23d42-2973-4290-bd3c-e32a1b8b5f07",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.024",
     "name": "Boysenberry Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DB4584",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "16d265a2-53ec-453e-a821-f0f98f86b2fe",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.025",
     "name": "Coral Rose",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ED7590",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "0284bb05-1344-4cf6-a884-11c7b0736014",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.026",
     "name": "Tangerine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FB7129",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "18fde084-834d-4385-945c-dcbcb651ebd6",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.027",
     "name": "Pumpkin",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F64128",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f5351e99-776c-436b-ba9f-f31f01ed3ecf",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.028",
     "name": "Dark Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E5371C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "42a1a282-9e3a-477d-b99c-64bf0c666b9b",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.029",
     "name": "Fire Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E20F16",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "3f845828-fd63-465b-ad88-1e67445b6def",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.030",
     "name": "Burnt Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D92625",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9fd34dd9-5b7a-48bc-ae88-79c31494c191",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.031",
     "name": "Georgia Clay",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BE3E17",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "1309e055-200b-4600-802e-1d9291d75720",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.032",
     "name": "Naphthol Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C61819",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "24ed4b1b-866d-4de0-936d-671b94e81c43",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.033",
     "name": "Calico Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E20F16",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "cad3c15d-a95e-4e5c-9f0a-b48b77065b8c",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.034",
     "name": "Country Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9F1B19",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "3212501a-fe0a-4129-a4ad-f504cdac74ec",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.035",
     "name": "Rose Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E82B6D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "4acccf56-06ad-4ddb-8385-841308c4349f",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.036",
     "name": "Raspberry",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#943856",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "bfad2e10-a19e-49f6-917f-c1bd2ed4cf88",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.037",
     "name": "Burgundy",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C41422",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "30a804fd-8332-4403-86cc-191a277b987b",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.038",
     "name": "Berry Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A81915",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "841483cf-b31f-4ecc-bb1d-9167e01c615a",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.039",
     "name": "Crimson Tide",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#833F58",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "948d2f16-a5f9-4bef-ab06-1f3a1db2f819",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.040",
     "name": "Red Iron Oxide",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#742916",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9e233233-75bd-45e8-bac1-e978a7ffa951",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.041",
     "name": "Mauve",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9F4F5E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "2596d325-1f01-43b4-8dd9-7cf01c890288",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.042",
     "name": "Brandywine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7B1C16",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9ae6340c-52ad-479e-922e-6abb2005f000",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.043",
     "name": "Cranberry",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4A2828",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "aef16885-2ef6-4157-9555-2bd0e329db41",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.044",
     "name": "Rookwood Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#663330",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "074d5beb-6562-4962-8c69-adc920829933",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.045",
     "name": "Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#482359",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ae8cc683-1503-44be-a773-d80ad67f7570",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.046",
     "name": "Baby Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEA8D6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "be98fa0e-7423-4261-9ca5-7b8691853f75",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.047",
     "name": "Light Magenta",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FA68B8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b99abfe3-94e4-4fd8-868d-de36eea23e66",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.048",
     "name": "Dark Orchid",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AF1F5C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "53ef3c37-fcdd-4332-9d0f-9efae00a4f04",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.049",
     "name": "Bougainvillea",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AC2D84",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "fddccb49-8b09-4419-a738-e5fdb219fcc7",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.050",
     "name": "True Violet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#412B6C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "caa22d18-25d9-4ed9-bf2b-4ef77e1f9cca",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.051",
     "name": "Lila",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DDABD9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "c8011424-0f66-4efc-aaec-75927cc560b5",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.052",
     "name": "Orchid",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DD97CF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "32fe438b-2a68-4750-ac7d-0a9cb7b6d905",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.053",
     "name": "Pale Lavender",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CA64B6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "7d58a319-0e51-4872-bc13-ace7a61e8911",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.054",
     "name": "Lavender",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7E398C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "525ff927-d2cd-4d32-be4f-c1affe7517d7",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.055",
     "name": "Hyacinth Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#986BB8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "dadfaf2b-ba4b-4677-a8d7-37666a0f08e4",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.056",
     "name": "Country Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#939ED6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "50523eee-ae4c-48d3-bf73-abbd79418a4a",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.057",
     "name": "Williamsburg Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5F779D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "67625b80-7f93-41f2-b6e7-71a5d1786a74",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.058",
     "name": "True Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#014C8D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "c7cbe095-62c6-4f5e-bc3c-050a87cbba28",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.059",
     "name": "Sapphire Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#244997",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f9460ef2-9fcb-4ae7-b332-ea912618e280",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.060",
     "name": "Ultra Blue Deep",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2E2979",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9dbdb54f-f9a9-4458-8be2-9f92609ac0b3",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.061",
     "name": "Baby Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BCCEEC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "d8fb0938-9112-49dd-8bf8-4792c8d1baba",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.062",
     "name": "Salem Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5A7E9F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "fafa45e3-b8be-4dfd-9522-58216ca75100",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.063",
     "name": "Medium Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#29409A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "0048f627-cc31-40d0-a4e9-ffe50bff3dc3",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.064",
     "name": "Blueberry",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1B2E6A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "cc091216-a0b1-48fc-a41b-227d6106bac3",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.065",
     "name": "Wedgewood Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#324C65",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9d49aa85-802c-41f6-b06f-666ff4575327",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.066",
     "name": "French Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3F6A8A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "21f74dc2-a86e-4865-bf32-d36d3441386b",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.067",
     "name": "Victorian Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#35578D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "74efceeb-a894-46bf-b908-86628c47eb8a",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.068",
     "name": "Uniform Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#363153",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "13060acc-c840-43e4-abba-4666acc5d293",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.069",
     "name": "Navy Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2E214F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "07f65352-2cdc-43ee-8cb2-d06a919a2ad3",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.070",
     "name": "Midnight Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#012D2C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "395688b4-5a98-47e4-bdee-3e447b452471",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.071",
     "name": "Indian Turquoise",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9BD5D9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "7c08a444-c0b6-46c6-96b6-a88f0cb26e6a",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.072",
     "name": "Blue Grey Mist",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6AA29F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "be7601ed-3b46-4ffa-946f-9feba051e9f3",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.073",
     "name": "Blue Maze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3B5D6A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "6f7ad558-3c7f-4f1f-9179-72a2f9aa8cd3",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.074",
     "name": "Colonial Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4F8384",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "bc3d6708-955e-4ecd-8307-167c738e3409",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.075",
     "name": "Deep Teal",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#01937E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b29287b9-4082-440b-8379-f9793a7af72a",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.076",
     "name": "Sea Aqua",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#85CAC7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "4865e4c0-8c53-40fa-9b7a-fce6e8002097",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.077",
     "name": "Mint Julep",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A6CBAA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "98f1ef08-fccf-4fac-ba43-9acd60998455",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.078",
     "name": "Desert Turquoise",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#018D8C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "344e907e-6989-4e80-8af0-d3acb0e63023",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.079",
     "name": "Turquoise",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#006279",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "daa5fdc2-2310-419d-9f1c-2b7ebd90d9d9",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.080",
     "name": "Bluegrass Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#007B59",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "062d12fc-74c3-4032-ad63-9511e64e9edc",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.081",
     "name": "Spring Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BCD731",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "1b2f34ca-bdf8-493b-9ea6-59c79b51a735",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.082",
     "name": "Apple Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#99DA84",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "a3fa5f5e-e7ef-47ac-891c-2b6ca06063e1",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.083",
     "name": "Jade Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#77B48A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "4b6b8d5c-dd87-47a6-9644-2de40e232fc2",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.084",
     "name": "Dark Pine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#005D40",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9f227651-081e-4de6-9936-15c2adc6ce62",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.085",
     "name": "Plantation Pine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#206D2F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "dbeec116-d707-4ad4-b5f9-666ff8a08543",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.086",
     "name": "Spring Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DEF2CA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "943a294a-8a07-4956-a844-83f25a6e6fa3",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.087",
     "name": "Yellow Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#97C45B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "e94b7c16-cc35-4da0-9a6e-53a1c2e051f0",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.088",
     "name": "Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#008B4F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "bfcb96a6-0d8b-4e95-8f36-6b85e5cfad64",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.089",
     "name": "Forest Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#055D2B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "0fd93ead-2224-4e3c-9d08-5b3564bf2fe6",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.090",
     "name": "Evergreen",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1E3930",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "203972ef-36c0-402b-9ee8-a4990303c47e",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.091",
     "name": "Bright Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#61C44E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f39f2747-ca11-4e86-ab6c-6432528f3c09",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.092",
     "name": "Kelly Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#008E4D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "31184cf8-c71b-48e1-bddd-f3278f0d1fec",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.093",
     "name": "Mistletoe",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#347645",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "c4be89dc-912b-48a2-bca8-5df9ff490093",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.094",
     "name": "Holly Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#004A39",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "08570934-8868-48b8-9573-c74fb1516cb7",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.095",
     "name": "Viridian Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#056C41",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9bffac37-4afc-4d86-83d5-11df6acea60f",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.096",
     "name": "Light Avocado",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5DA97A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f2b86960-f8dc-4ba3-a5cf-faba19d8db89",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.097",
     "name": "Olive Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#104B25",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b428a98a-12a2-4c3d-a7b0-bd5f6914fd33",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.098",
     "name": "Leaf Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#006E37",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "1e836500-0ba1-4ab5-b646-da14edd9b670",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.099",
     "name": "Teal Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#457E6D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "de889769-2842-4f29-a240-9adf886d2618",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.100",
     "name": "Neutral Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#71706B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "c5cee3e7-73bc-4625-bfd5-ab3e137c676a",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.101",
     "name": "Dove Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ECECEC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "86d39e4c-011c-45e7-92bf-b2d7ccc1bde4",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.102",
     "name": "Grey Sky",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C5B4A8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "758c099e-fdc6-472f-8356-27fe63f0144e",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.103",
     "name": "Cool Neutral Tone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B2A48F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "97ef724a-74ae-450a-8166-11b95abcbe89",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.104",
     "name": "Slate Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B4B3AE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "5a2849f8-ff3b-4b34-a2ce-d5747fb508bb",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.105",
     "name": "Taupe",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D37B82",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "963d25f0-6f3c-4454-ae38-ea14f5f07c37",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.106",
     "name": "Warm Neutral Tone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F39C81",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "7ffd830e-26b4-4d86-aa97-d38a315e152c",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.107",
     "name": "Cashmere Beige",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEBDB5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "1f91a519-c240-4cc0-b309-ac0490ac2f7d",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.108",
     "name": "Mink Tan",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B57B69",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "c7529fd4-0681-4843-b69d-9613ec1004d8",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.109",
     "name": "Ochre",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B6802A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "5fe7e800-f9fc-4c7b-b637-827010fb458b",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.110",
     "name": "Golden Ochre",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C87356",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "d86ddd26-94fe-449d-a213-62f3ad249ffa",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.111",
     "name": "Toffee",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FAD1B1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "c3d9638f-d9a9-498d-89fc-f29b1e0e7fbb",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.112",
     "name": "Mocha",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FB8A7C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "2139fb9c-e836-4615-90d4-c0ae4e3f5f47",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.113",
     "name": "Raw Sienna",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AC7757",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "bd039dbd-c6c4-4a14-bcf1-f7615b876d47",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.114",
     "name": "Sable Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#915E48",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "7826d656-b29e-42e1-8516-023997a52ab0",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.115",
     "name": "Lt Cinnamon",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A27784",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "d7366c51-bbb6-4303-a18a-eea644c65c51",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.116",
     "name": "Burnt Sienna",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#672C28",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "19f9ef98-2286-4d37-9bb6-d1ac7d45d447",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.117",
     "name": "Burnt Umber",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4B473E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "d4ab3dd9-78d6-4dca-b3aa-8c4b293524ae",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.118",
     "name": "Dark Chocolate",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#522721",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "867777da-c123-4024-b118-23fa80422fc9",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.119",
     "name": "Charcoal Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#253338",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f85e8a58-d8c8-4235-8274-ea37765e249d",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.120",
     "name": "Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#020202",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "a4c5de8e-4194-4a77-96db-8675832a5ef4",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.163",
     "name": "Black Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1E3930",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "4d4d584d-9624-49f7-acdb-894aa4c06f31",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.173",
     "name": "Permanent Rose",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#940D3B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "667708a4-95a4-4358-b4a8-c0a53e6d4cf8",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.174",
     "name": "Dark Rosewood",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#421922",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "affe7c62-289a-4f73-80da-1a70fcca966f",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.175",
     "name": "Antique Ochre",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CD9D37",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "2f4dba33-4e0e-4395-b09c-3598f94409ae",
     "brand": "Vallejo",
     "range": "Arte Deco",
     "code": "85.176",
     "name": "Autumn Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#833331",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   }
 ]

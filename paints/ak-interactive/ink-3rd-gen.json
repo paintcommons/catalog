@@ -1,182 +1,194 @@
 [
   {
+    "id": "21bb0894-bf1b-4fb1-a2a3-5acee206894e",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11219",
     "name": "Sepia",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#230D00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2687ffd2-3582-4ce3-8248-e0459a4ee0cd",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11220",
     "name": "Turquoise",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#005E5E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "220aec82-b55a-46dc-9d1d-4b977bd2357f",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11221",
     "name": "Skin",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#943718",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d23702cd-72b5-42fd-bd24-ec3f91cfd6df",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11222",
     "name": "Sooty Black",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5F5D48",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "84515684-9456-4dd5-953c-5ab230cd8d54",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11223",
     "name": "Carbon Black",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#110801",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "435bd238-126d-4229-9cd6-7b2fdd95a7c4",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11224",
     "name": "Purple",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B47C89",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e94a3ff4-ec79-4859-9ed8-d28a5f64b3c7",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11225",
     "name": "Luminous Green",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#73B72C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "053ec37a-f653-4beb-bdc1-2be2d2dc90eb",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11226",
     "name": "Dark Green",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#01663E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f6a0ffa8-8f39-4cc8-9990-76265503b27b",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11227",
     "name": "Penetrating Red",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B64026",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1c288d1e-8038-43fd-9871-009644611336",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11228",
     "name": "Night Blue",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0B1C26",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8a75a024-e13e-4541-8b07-92c985adb981",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11229",
     "name": "Burnt Umber",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1D1405",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b58e8b15-822a-4124-8809-aa57dcb53780",
     "brand": "AK Interactive",
     "range": "Ink (3rd Gen)",
     "code": "AK11230",
     "name": "Titanium White",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

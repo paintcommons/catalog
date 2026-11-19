@@ -1,1352 +1,1442 @@
 [
   {
+    "id": "90465205-f543-4848-86ea-f92d1d13eb6f",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N1",
     "name": "White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N10",
-    "name": "Copper",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CE722A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N100",
-    "name": "Fluorescent Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#009944",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N101",
-    "name": "Fluorescent Red",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E60012",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N11",
-    "name": "Flat White",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N12",
-    "name": "Flat Black",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#000000",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N127",
-    "name": "Cockpit Color (Nakajima)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#A9B678",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N13",
-    "name": "Flat Red",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#D80C18",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N14",
-    "name": "Orange",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E8380D",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N15",
-    "name": "Bright Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#004098",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N16",
-    "name": "Yellow Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#009E3B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N17",
-    "name": "Hull Red",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#552E34",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N18",
-    "name": "Steel",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#000000",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N19",
-    "name": "Pink",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#EB6D94",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "6ffe265f-0e90-44bd-b9cb-0cb749a2d865",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N2",
     "name": "Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N20",
-    "name": "Flat Clear",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N21",
-    "name": "Off White",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F9F8F4",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N22",
-    "name": "Neutral Gray",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#546572",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N23",
-    "name": "Shine Red",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E60012",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N24",
-    "name": "Orange Yellow",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#EE7800",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N25",
-    "name": "Sky Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#008CD6",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N26",
-    "name": "Bright Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#009944",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N27",
-    "name": "Tan",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C9A965",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N28",
-    "name": "Metal Black",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#000000",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "586247e4-56ed-4607-a681-2eabe3d82c45",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N3",
     "name": "Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E60012",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N30",
-    "name": "Clear",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N32",
-    "name": "German Gray",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#113C41",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N33",
-    "name": "Russet",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#812930",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N34",
-    "name": "Cream Yellow",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E6A600",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N35",
-    "name": "Cobalt Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#1D2088",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N36",
-    "name": "IJN Green (Nakajima)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00381F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N37",
-    "name": "Wood Brown",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#6A4A31",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N38",
-    "name": "Steel Red",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3B3039",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N39",
-    "name": "Purple",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3C2280",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "c69d6770-e84f-4bdc-82de-105b9301869d",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N4",
     "name": "Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFE100",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N40",
-    "name": "Flat Base",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N43",
-    "name": "Wine Red",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B01E31",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N44",
-    "name": "Flesh",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E6B378",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N45",
-    "name": "Light Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00B9EF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N46",
-    "name": "Emerald Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00A051",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N47",
-    "name": "Red Brown",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#6C2C2F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N49",
-    "name": "Violet",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#7384C1",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "d197db0b-c439-4ee4-a68d-4bbea32a88d3",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N5",
     "name": "Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#004EA2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N50",
-    "name": "Lime Green",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#91B671",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N51",
-    "name": "Light Gull Gray",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#BEC3C4",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N52",
-    "name": "Olive Drab (1)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#6A5D28",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N54",
-    "name": "Navy Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#004652",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N55",
-    "name": "Midnight Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#204246",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N56",
-    "name": "Intermediate Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#0E4D59",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N57",
-    "name": "Aircraft Gray",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#729A96",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N58",
-    "name": "Interior Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B6A811",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "7c78cb5e-38c8-416b-ad2a-417c915085ef",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N6",
     "name": "Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#008D46",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N60",
-    "name": "Ija Green",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#004D39",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N61",
-    "name": "IJN Gray (Mitsubishi)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#A6BBC7",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N62",
-    "name": "IJN Gray Green (Nakajima)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#70A19A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N63",
-    "name": "Metallic Blue Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00756B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N66",
-    "name": "RLM79 Sand Yellow",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#9F8237",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N67",
-    "name": "RLM65 Light Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#779AA8",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N68",
-    "name": "RLM74 Gray Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#053C3E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N69",
-    "name": "RLM75 Gray Violet",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#485D56",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "316ab544-5286-4220-aa22-23f176dc177a",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N7",
     "name": "Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CA3A29",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N70",
-    "name": "RLM02 Gray",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#9F9D89",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N71",
-    "name": "Middle Stone",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B49241",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N72",
-    "name": "Dark Earth",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#4F493C",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N73",
-    "name": "Dark Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#21423A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N76",
-    "name": "Burnt Iron",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#4D4F52",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N77",
-    "name": "Tire Black",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#000000",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N78",
-    "name": "Olive Drab (2)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#314836",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N79",
-    "name": "Dark Yellow",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#BF9D5A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "24e7b98f-975b-481a-aff4-56731b9281dc",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N8",
     "name": "Silver",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DCDDDD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N80",
-    "name": "Khaki Green",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#21423A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N81",
-    "name": "Khaki",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#4E5035",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N82",
-    "name": "Darkgray (1)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#909694",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N83",
-    "name": "Darkgray (2)",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3A555A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N84",
-    "name": "Mahogany",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3C3032",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N85",
-    "name": "Sail Color",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C0B77F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N86",
-    "name": "Red Madder",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#D80C18",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N87",
-    "name": "Metallic Red",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B01F24",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N88",
-    "name": "Metallic Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#004EA2",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N89",
-    "name": "Metallic Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00894F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "e7a99093-de62-44a3-8b3f-1efc73ff3969",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N9",
     "name": "Gold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DFB603",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d1594be5-5ce0-46cf-8816-2662ea87c46d",
     "brand": "Mr Hobby",
     "range": "Acrysion",
-    "code": "N90",
-    "name": "Clear Red",
+    "code": "N10",
+    "name": "Copper",
     "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CE722A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
     "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1aa2891e-4643-4331-b2ba-cc3da97d6a6a",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N11",
+    "name": "Flat White",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b1855bc5-8596-4e76-bd5e-3ab44eba44e5",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N12",
+    "name": "Flat Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5b19da41-be9a-4aac-9107-c4d0443260b8",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N13",
+    "name": "Flat Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D80C18",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4ec540c9-63bc-49a3-9650-34fb7d13cedf",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N14",
+    "name": "Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E8380D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "f950cdc6-2a78-459e-9482-1a04f92fa6f2",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N15",
+    "name": "Bright Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004098",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "715f6dbb-d1e2-463c-a49f-cb0606aa939c",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N16",
+    "name": "Yellow Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#009E3B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "048d7598-1df3-42f7-a008-56fee7e05c4e",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N17",
+    "name": "Hull Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#552E34",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b249fe21-caf2-448c-8bc2-d15f57a7caaa",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N18",
+    "name": "Steel",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4a1d9d76-89d5-45e5-a10d-437de02ec636",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N19",
+    "name": "Pink",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EB6D94",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "9d2e3680-533a-4920-93fd-5fa9ef11b47e",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N20",
+    "name": "Flat Clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "85e12b27-c544-4692-a5dd-1078426b4f9c",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N21",
+    "name": "Off White",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F9F8F4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c0a29854-3cc7-40a6-b141-053126e04848",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N22",
+    "name": "Neutral Gray",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#546572",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3aa73a16-e042-4252-8e41-d452260adced",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N23",
+    "name": "Shine Red",
+    "type": "acrylic",
     "barcodes": [],
     "colour": {
       "hex": "#E60012",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "986686c2-0e64-4eb1-bb95-50b952fe3545",
     "brand": "Mr Hobby",
     "range": "Acrysion",
-    "code": "N91",
-    "name": "Clear Yellow",
+    "code": "N24",
+    "name": "Orange Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
-      "hex": "#FFD900",
+      "hex": "#EE7800",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d6e8e427-ed72-422f-96de-798042b27efb",
     "brand": "Mr Hobby",
     "range": "Acrysion",
-    "code": "N92",
-    "name": "Clear Orange",
+    "code": "N25",
+    "name": "Sky Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
-      "hex": "#EB6100",
+      "hex": "#008CD6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5fcafac6-5e29-457c-a562-894c4410b622",
     "brand": "Mr Hobby",
     "range": "Acrysion",
-    "code": "N93",
-    "name": "Clear Blue",
+    "code": "N26",
+    "name": "Bright Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00A0E9",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Acrysion",
-    "code": "N94",
-    "name": "Clear Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#009944",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0348474c-d863-4318-bd94-c4f4b3522d61",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N27",
+    "name": "Tan",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C9A965",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c698fe6b-235d-462a-aa93-4e90856df005",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N28",
+    "name": "Metal Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4644e334-894a-4545-a236-fc46df8774b2",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N30",
+    "name": "Clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ae8d271a-286d-4606-8528-e7f44ccf44c4",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N32",
+    "name": "German Gray",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#113C41",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7b33d02c-7786-40d1-b862-c4c5c23a99ee",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N33",
+    "name": "Russet",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#812930",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7738ea16-f5df-4789-8ff2-fb0b03c91e84",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N34",
+    "name": "Cream Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E6A600",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "aa2d8a65-5fc3-4fee-8f18-d6631846426b",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N35",
+    "name": "Cobalt Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1D2088",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "58ba5c4c-1842-4543-bb31-24127d911466",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N36",
+    "name": "IJN Green (Nakajima)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00381F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "bfa34cee-f74b-4027-9dd7-17ee23c99043",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N37",
+    "name": "Wood Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A4A31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "34b186a6-fcd2-4b47-9e62-d9fc7f4afa73",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N38",
+    "name": "Steel Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3B3039",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "06ddc2b7-725c-44cb-bb58-45e9558e3e38",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N39",
+    "name": "Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3C2280",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ac1e1b18-18d5-40fc-b8fd-dcdb53603243",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N40",
+    "name": "Flat Base",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "56c86f2b-7a9f-4d3d-ab19-3920036b948c",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N43",
+    "name": "Wine Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B01E31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "a76c5502-85db-446a-a2d6-859cc50ffaaa",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N44",
+    "name": "Flesh",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E6B378",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "90542734-9747-4bd5-9c58-54c039e4f5a1",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N45",
+    "name": "Light Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00B9EF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2962d10d-3c2f-4c2d-af18-88aad8c7f9a2",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N46",
+    "name": "Emerald Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00A051",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "bf4a9a77-816d-46d3-ba81-66a463cab7fd",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N47",
+    "name": "Red Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6C2C2F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4222ec02-c2fd-4da5-9c84-6aa003f16cea",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N49",
+    "name": "Violet",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7384C1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ce42e4ac-806e-4927-8d60-f674036d0f34",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N50",
+    "name": "Lime Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#91B671",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ed3ba6a3-8243-4365-b610-c70b37f0809b",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N51",
+    "name": "Light Gull Gray",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BEC3C4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "43c81eba-9112-4d5d-a932-1746afa4c020",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N52",
+    "name": "Olive Drab (1)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A5D28",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1e299259-ae22-4e14-a929-e9b165286115",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N54",
+    "name": "Navy Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004652",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "37cd0e5f-f8d5-4857-8dc4-fd889e919beb",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N55",
+    "name": "Midnight Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#204246",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6d94df07-1c14-4433-87a2-1acd5eea1697",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N56",
+    "name": "Intermediate Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0E4D59",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "f89554ea-0ccd-4a9a-b90c-4dd3db603e7a",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N57",
+    "name": "Aircraft Gray",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#729A96",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4557aa32-9b87-42bf-8261-bc3e50f92955",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N58",
+    "name": "Interior Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B6A811",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0045d747-e324-4cfa-8c09-60de88661686",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N60",
+    "name": "Ija Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004D39",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "e43dc614-a0ed-47e3-a601-072d994dd131",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N61",
+    "name": "IJN Gray (Mitsubishi)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A6BBC7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3108085f-544e-4c8e-9e28-e5ce4f6bb7ed",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N62",
+    "name": "IJN Gray Green (Nakajima)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#70A19A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "281b0fcc-40ef-422a-b1c5-0def38aa5d19",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N63",
+    "name": "Metallic Blue Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00756B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0b3df552-8a49-494f-828e-adecd189b3e2",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N66",
+    "name": "RLM79 Sand Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9F8237",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2732c153-816d-4b46-a076-5b386273a228",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N67",
+    "name": "RLM65 Light Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#779AA8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "302a1e13-68db-4aab-9e52-d1cd5276b8be",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N68",
+    "name": "RLM74 Gray Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#053C3E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6ca342b0-a195-413f-bc67-7c1e8aae4051",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N69",
+    "name": "RLM75 Gray Violet",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#485D56",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "025e0e8c-aa63-4c12-b623-23377bb4dd82",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N70",
+    "name": "RLM02 Gray",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9F9D89",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "abb7dede-7340-4349-9ac4-98bee3e70194",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N71",
+    "name": "Middle Stone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B49241",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "fe1d91cb-fdf8-414a-970f-7c65097dc49c",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N72",
+    "name": "Dark Earth",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F493C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5ef1a8ff-7e52-4f5c-8266-caddfb690cd1",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N73",
+    "name": "Dark Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#21423A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d243acf2-c296-483a-8a9d-7a36801945cd",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N76",
+    "name": "Burnt Iron",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D4F52",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "9539e763-be70-4893-bf2b-77c0492bf79c",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N77",
+    "name": "Tire Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "9c6ec92c-1b5f-4116-97e5-9f04d3ba3404",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N78",
+    "name": "Olive Drab (2)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#314836",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "570cace7-0919-42ef-90b4-9aa631b65041",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N79",
+    "name": "Dark Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BF9D5A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "baff21eb-3e07-44bc-98a5-841df5f65702",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N80",
+    "name": "Khaki Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#21423A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2aaf7d81-12a1-4cc3-8ffd-6f869c9efe04",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N81",
+    "name": "Khaki",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4E5035",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0dcba533-2570-4992-ae90-2f98b4801d44",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N82",
+    "name": "Darkgray (1)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#909694",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6e09c785-4cfd-4988-8ff4-c8bbb1bce825",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N83",
+    "name": "Darkgray (2)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A555A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8e4a6609-8e7b-4cd6-bcfc-0ba480b6a43a",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N84",
+    "name": "Mahogany",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3C3032",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "88226cb6-2faf-41a0-896f-eddc50c1b7d9",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N85",
+    "name": "Sail Color",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C0B77F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "bb9aa94a-63ef-46da-ad3f-48a41289e0cd",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N86",
+    "name": "Red Madder",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D80C18",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6b9939a3-9e09-4dac-b94c-f7ca943c1f85",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N87",
+    "name": "Metallic Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B01F24",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "09ef707b-6167-48c7-abde-8ddc3ed4f540",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N88",
+    "name": "Metallic Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004EA2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "48a7b2aa-247e-4799-95c7-91843b74cff8",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N89",
+    "name": "Metallic Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00894F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7e111d1e-129f-4798-84ec-b2e475f9084e",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N90",
+    "name": "Clear Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E60012",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b338afe0-e8d5-4dc3-8be3-6b06c98b0c64",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N91",
+    "name": "Clear Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFD900",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "dc6a8b3e-51fe-4dbf-9082-0ebc037ae2cc",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N92",
+    "name": "Clear Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EB6100",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d2bd8708-ce95-46a8-80ba-c7e9da148fb9",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N93",
+    "name": "Clear Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00A0E9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "dddfee5d-f923-48ee-8e92-3873a5ea9b98",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N94",
+    "name": "Clear Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#009944",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "70a66460-96e0-4b84-942e-d3c804c71228",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N95",
     "name": "Smoke Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3C2D1E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e60e37ea-398d-430f-a94b-d4f39064ca38",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N97",
     "name": "Fluorescent Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFF100",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c25a0377-08e4-435a-80f2-d9e4f5819f51",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N98",
     "name": "Fluorescent Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E72410",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8771e31f-1826-4b79-ad05-a3219501872d",
     "brand": "Mr Hobby",
     "range": "Acrysion",
     "code": "N99",
     "name": "Fluorescent Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E5006A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6bfff86d-7f3d-4449-993e-e7460a208ce6",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N100",
+    "name": "Fluorescent Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#009944",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5da3c2d1-a3fc-4c42-9147-4e4659d5e1ee",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N101",
+    "name": "Fluorescent Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E60012",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "570b9819-2d16-4d7f-b0e0-f2130eccfe87",
+    "brand": "Mr Hobby",
+    "range": "Acrysion",
+    "code": "N127",
+    "name": "Cockpit Color (Nakajima)",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A9B678",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

@@ -1,92 +1,98 @@
 [
   {
+    "id": "816fced0-192c-48be-b09b-dfcad90e23c0",
     "brand": "Reaper",
     "range": "Master Series Paints Core Colors Wash",
     "code": "9253",
     "name": "Flesh Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A44B45",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e29093a1-abf9-4e66-a350-880d6d8f260c",
     "brand": "Reaper",
     "range": "Master Series Paints Core Colors Wash",
     "code": "9254",
     "name": "Brown Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#74483B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a869c481-76a3-4de2-88c0-044d696c2e19",
     "brand": "Reaper",
     "range": "Master Series Paints Core Colors Wash",
     "code": "9255",
     "name": "Black Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#383C3F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "593ef91d-c5ed-46c7-9d94-44655430ac44",
     "brand": "Reaper",
     "range": "Master Series Paints Core Colors Wash",
     "code": "9310",
     "name": "Sepia Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2F1F12",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6eaea48c-f386-49ce-ad26-cee18bd86621",
     "brand": "Reaper",
     "range": "Master Series Paints Core Colors Wash",
     "code": "9311",
     "name": "Stone Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#282421",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ba814135-6a93-43bc-8ee3-a2e0a89d1bf2",
     "brand": "Reaper",
     "range": "Master Series Paints Core Colors Wash",
     "code": "9312",
     "name": "Steel Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#212224",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

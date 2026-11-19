@@ -20,18 +20,19 @@
     "status": "current"
   },
   {
+    "id": "1403a964-e63c-4628-bc18-3aefe2d398e7",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.002",
     "name": "Arctic White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -315,33 +316,35 @@
     "status": "current"
   },
   {
+    "id": "573617fc-bfdc-4d51-abae-4dc3a14bc45b",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.017",
     "name": "Dark Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#464775",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "afd1c9e1-aac8-47c1-93cc-336d7050ac4a",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.018",
     "name": "Stormy Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#413F57",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -625,18 +628,19 @@
     "status": "current"
   },
   {
+    "id": "ca0a4c1d-7cdc-4469-84e3-c48e115c006b",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.033",
     "name": "Livery Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9DC451",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -700,18 +704,19 @@
     "status": "current"
   },
   {
+    "id": "a3b8c5a1-bbc6-43aa-b59e-3e177429437b",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.037",
     "name": "Filthy Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E99300",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -775,18 +780,19 @@
     "status": "current"
   },
   {
+    "id": "9dca8c13-73fb-466d-921b-33e7e8197c52",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.041",
     "name": "Dwarf Skin",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D99169",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -870,18 +876,19 @@
     "status": "current"
   },
   {
+    "id": "9a04809a-dd81-49e1-bd20-160a3e517cf4",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.046",
     "name": "Ghost Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C2CBD4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1045,33 +1052,35 @@
     "status": "current"
   },
   {
+    "id": "87121b0b-61fc-4dbb-964e-4331c83ca481",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.064",
     "name": "Yellow Olive",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1E4F39",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ac04fffe-e2a3-494a-af2f-f9edfe2ce353",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.065",
     "name": "Terracotta",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#693E38",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1115,18 +1124,19 @@
     "status": "current"
   },
   {
+    "id": "e33cd9d1-ff11-4daa-832e-a451c27a795b",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.068",
     "name": "Smokey Ink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#493632",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1170,18 +1180,19 @@
     "status": "current"
   },
   {
+    "id": "c2d21f0a-1c1e-4bff-869f-6f692db3a140",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.092",
     "name": "Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9A632A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1225,18 +1236,19 @@
     "status": "current"
   },
   {
+    "id": "993e9056-cec0-41dd-9936-2a47ce4057ef",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.097",
     "name": "Pale Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EBCE7E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1340,18 +1352,19 @@
     "status": "current"
   },
   {
+    "id": "b34a0d92-cce0-45d9-88dc-33f8be1e8cd4",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.105",
     "name": "Mutation Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4C7650",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1735,168 +1748,179 @@
     "status": "current"
   },
   {
+    "id": "f052d941-0a7a-4320-9123-aaf44296fb7a",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.130",
     "name": "Rotten White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F0EEEF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "1b97f572-d1c7-4650-87f3-45018912e8d4",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.131",
     "name": "Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E45314",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "27d15b9e-e259-4e10-8241-4bc1c0f3b142",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.132",
     "name": "Fresh Blood",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7E2B19",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "72ddf8ca-293c-4179-ad03-94d7402e364a",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.133",
     "name": "Dried Blood",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#622A1D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "505c425d-b08c-4bfb-a626-29ea37c885e6",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.134",
     "name": "Vomit",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#847C33",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "25401690-43c6-4bed-9c56-dd04bc2c230c",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.136",
     "name": "Dry Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5E332D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "4bbc058b-8b09-45f8-9dea-f0db6c32bf9c",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.140",
     "name": "Heavy Skin Tone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AD8468",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "3173eeff-3c13-4613-9ec7-959d8ba18c34",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.141",
     "name": "Heavy Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8D363C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "dd7df048-6bfa-46d9-86fe-a51467b6bb3f",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.142",
     "name": "Heavy Violet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#484069",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9e4a2586-7681-414f-ad11-8c1d693432ce",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.143",
     "name": "Heavy Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#405B78",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "a3079bf7-0d74-458a-bf8e-52731082d95a",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.144",
     "name": "Heavy Bluegrey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CBCAC8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1920,33 +1944,35 @@
     "status": "current"
   },
   {
+    "id": "eac3cd95-a5f1-49b7-9761-ae3eb18ccb96",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.146",
     "name": "Heavy Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#566637",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "70171d67-9dbb-439d-b594-38716a05bf0e",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.147",
     "name": "Heavy Black Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3E4943",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1970,93 +1996,99 @@
     "status": "current"
   },
   {
+    "id": "9d4da509-f34b-4ae9-90f2-f6bcb797e5bf",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.149",
     "name": "Heavy Kakhi",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B49F50",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "d0ef2b42-fdcb-4666-b11c-5baf953fd492",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.150",
     "name": "Heavy Ochre",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AE7727",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f72a0a8d-0bd9-45d6-af25-114e9777fc76",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.151",
     "name": "Heavy Gold Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B68644",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "904413d0-58e9-4c21-b927-a966ac877318",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.152",
     "name": "Heavy Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EA5E0F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ca44bdd8-6aba-4d24-8f34-5c65676ba4ab",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.153",
     "name": "Heavy Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7B674E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "4188ee4c-d54d-4c0e-ac3b-8d758e8ba395",
     "brand": "Vallejo",
     "range": "Game Color",
     "code": "72.154",
     "name": "Heavy Siena",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5E483B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {

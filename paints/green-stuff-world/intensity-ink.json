@@ -1,182 +1,194 @@
 [
   {
+    "id": "e2066a03-fdfb-465c-9c8e-f4b9ccef833e",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Crimson Magenta",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FF5A94",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "90f4c55d-ffb6-4561-8194-4aba45a5e248",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Gorgon Dark Green",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6EA87F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "26718010-93cc-4c88-8d3f-8c7a0e010574",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Hydromiel Yellow",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F5F092",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "04e543c6-f430-49c6-acf6-71cabb887fdc",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Opulentus Black",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#515151",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1ff7c9d3-2c01-4831-b24c-f05238d9c751",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Phoenix Orange",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F1A760",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c7ccfb61-2c60-4dec-990d-045dd8580dc8",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Sacra Purple",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8869B9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2d3c60fa-120a-4c8a-af22-45b70dfe8c0b",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Sanguinem Red",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FF6050",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3cf665d4-6c02-42e3-9e74-a68fe00329a1",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Sepia Vetus",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ABA269",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "13050f91-38d7-4a0f-a04f-5b92a0465989",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Swamp Brown",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A85D46",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8c424a31-4147-418d-ac44-a8a4aa4c0936",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Tenebris Blue",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#676FD1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6006aea3-6a5e-4feb-845a-3a6b18143719",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Viridis Green",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5AA38F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "57322ac7-6ab5-4239-aa2d-a7252b81f78f",
     "brand": "Green Stuff World",
     "range": "Intensity Ink",
     "code": null,
     "name": "Walnut Brown",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#776C5A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

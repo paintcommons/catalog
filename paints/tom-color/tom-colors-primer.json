@@ -1,92 +1,98 @@
 [
   {
+    "id": "21666dfa-eed8-4dd0-8184-fcc30b447bb1",
     "brand": "Tom Color",
     "range": "Tom Colors - Primer",
     "code": "TCP-001",
     "name": "Primer Acrílico Cinza",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A1ABAD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c87fd053-e636-4dd8-8132-774b7979f273",
     "brand": "Tom Color",
     "range": "Tom Colors - Primer",
     "code": "TCP-002",
     "name": "Primer Acrílico Preto",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#060608",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4429360d-53f6-4ff8-9127-efb6a0466312",
     "brand": "Tom Color",
     "range": "Tom Colors - Primer",
     "code": "TCP-003",
     "name": "Primer Acrílico Branco",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "977cc664-d1f7-4c46-b19b-113ad88813e1",
     "brand": "Tom Color",
     "range": "Tom Colors - Primer",
     "code": "TCP-004",
     "name": "Primer Acrílico Flesh Base",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DFCB90",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6282b0be-9ad0-4a53-b990-bae204959337",
     "brand": "Tom Color",
     "range": "Tom Colors - Primer",
     "code": "TCP-005",
     "name": "Primer Acrílico Zinc Chromate Yellow",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EBD238",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "60d82123-0533-4eef-aa03-c598541d23d8",
     "brand": "Tom Color",
     "range": "Tom Colors - Primer",
     "code": "TCP-006",
     "name": "Primer Acrílico Olive Drab",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3A4032",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

@@ -1,182 +1,194 @@
 [
   {
+    "id": "79a48d9b-63a9-485b-8ee9-389e399b306a",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1000",
     "name": "Brown Wash For German Dark Yellow",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#423222",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "21b05f62-5cbf-4dbb-bd63-25627c7800ae",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1001",
     "name": "Afrika Korps Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#322A1D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "838c6312-ddaf-42cd-b18f-d0da2ac6949a",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1002",
     "name": "Tracks Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1A120F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "81534928-676b-48d9-b5f3-29d10bcfb421",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1003",
     "name": "Interiors Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3C3229",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "97314ae3-b964-4044-9760-3ce36c1327f6",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1004",
     "name": "Light Rust Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#552E11",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3c89006c-631a-4a8d-882f-7cb5cf85c9a9",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1005",
     "name": "Dark Brown Wash For Green Vehicles",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1D0E0B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "07d48d3a-4b1d-45ac-bc9f-20c82ec2837f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1006",
     "name": "Blue Wash For Panzer Grey",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1F242A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "15a6483b-2435-4f8f-893d-668bfef17f69",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1007",
     "name": "US Modern Vehicles Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5A4A3D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "173ec9d2-c6f4-4106-9778-9cf791b9062b",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1008",
     "name": "Dark Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#171310",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3dc9781f-8abe-47f8-9bbe-85746b7625c3",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1009",
     "name": "Starship Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0F0B0A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "480f6601-ddec-48e6-a7f2-3cd7fd452e94",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1010",
     "name": "Neutral Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#505050",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b7b2ed11-b22e-447f-9889-bd8c47053eae",
     "brand": "AMMO by Mig Jimenez",
     "range": "Washes",
     "code": "AMIG1011",
     "name": "Black Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0E0E0E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

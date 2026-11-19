@@ -1,152 +1,162 @@
 [
   {
+    "id": "f8bbfc71-716a-42e5-99c1-0720b67c2d3c",
     "brand": "The Army Painter",
     "range": "Warpaints Tone",
     "code": "WP1134",
     "name": "Soft Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#532814",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "26cc8621-4d8a-41ae-b2df-5fbf6d3a316a",
     "brand": "The Army Painter",
     "range": "Warpaints Tone",
     "code": "WP1135",
     "name": "Strong Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3A2A11",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "516bad58-e03f-4e6b-a02b-a0c731643366",
     "brand": "The Army Painter",
     "range": "Warpaints Tone",
     "code": "WP1136",
     "name": "Dark Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#050505",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e82e9869-93ce-4655-ba98-027bf3686dc2",
     "brand": "The Army Painter",
     "range": "Warpaints Tone",
     "code": "WP1137",
     "name": "Green Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#162F12",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "19109de5-eed5-41ea-9d9b-591c00092161",
     "brand": "The Army Painter",
     "range": "Warpaints Tone",
     "code": "WP1138",
     "name": "Red Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#502114",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6a081309-9e3a-42d8-8166-a09a7038f881",
     "brand": "The Army Painter",
     "range": "Warpaints Tone",
     "code": "WP1139",
     "name": "Blue Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#112A47",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c65314c3-bb7b-4597-b545-30dd9a0b9ed2",
     "brand": "The Army Painter",
     "range": "Warpaints Tone",
     "code": "WP1140",
     "name": "Purple Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2A1C4D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d4a375ec-c693-457b-9806-8883d0319b74",
     "brand": "The Army Painter",
     "range": "Warpaints Tone",
     "code": "WP1143",
     "name": "Flesh Wash",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4A1B0E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c2a6d518-2fdc-4c82-88fb-925b981c460e",
     "brand": "The Army Painter",
     "range": "Warpaints Tone",
     "code": "WP1470",
     "name": "Light Tone",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B03812",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "844c4188-61ba-4982-8c5f-9d26c4903304",
     "brand": "The Army Painter",
     "range": "Warpaints Tone",
     "code": "WP1471",
     "name": "Military Shader",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4C631C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

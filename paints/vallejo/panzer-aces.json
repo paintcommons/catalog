@@ -1,722 +1,770 @@
 [
   {
+    "id": "65841f77-6590-45de-9e4d-854ef8338b1f",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.301",
     "name": "Light Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#87431E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "7fe75b7c-a491-4013-a76d-bbc2b4bf19af",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.302",
     "name": "Dark Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4F4442",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "402c740a-61a6-4a0d-97ae-14a56e7c5b74",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.303",
     "name": "Yellowish Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BE8B5E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "932df9cf-7ec0-431f-8f38-b4efa0b61cfd",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.304",
     "name": "Track Primer",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5B5652",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "14f52a5f-093f-4a33-834a-f8534e65b93c",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.305",
     "name": "Light Rubber",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#838381",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "2c8bf28e-4dc7-4dfc-8b43-f987b2426aaf",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.306",
     "name": "Dark Rubber",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#505153",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ec3a68f5-3756-4191-af09-f64e4b545088",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.307",
     "name": "German Red Tail Light",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#503428",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f055ae48-f757-422a-a3dd-1cc2a8446eae",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.308",
     "name": "German Green Tail Light",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3D5347",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "319930a8-4fae-4c80-85f3-782d00ad78ea",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.309",
     "name": "Periscopes",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3B4D5B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f16a4fc9-7721-4d2c-a57d-f79c089d41c1",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.310",
     "name": "Old Wood",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AD9C70",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "84e95a9c-d4f4-4400-8fa6-8b546c1fde81",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.311",
     "name": "New Wood",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#896545",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "3289658f-a6be-4a12-975c-fd30c9aaa0da",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.312",
     "name": "Leather Belt",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#665249",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ec1101a7-55d8-4265-aa38-e0e7cd7bd563",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.313",
     "name": "Stencil",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E0E0D8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "c560115b-2f60-40f1-aa6a-46554d055b00",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.314",
     "name": "Canvas",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6E6554",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "6afefa31-32cd-49f6-9683-c191a2e0087e",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.315",
     "name": "Light Mud",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ACA37A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "28506e13-ebe8-416b-9db5-154297a9bf07",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.316",
     "name": "Dark Mud",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#685F4E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "a4a14fba-d38d-41d4-a61e-c84ae5772280",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.317",
     "name": "British Tank Crew",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#756D56",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9ba6bdda-45f2-4215-b171-d5625fffd4aa",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.318",
     "name": "US Army Tank Crew",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#79684E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "898bf832-da46-492e-bfda-71b48cbd2e69",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.319",
     "name": "USMC Tank Crew",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1D573E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b585b599-31b1-476a-92d2-048c806051fa",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.320",
     "name": "French Tank Crew",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#756D56",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "42760255-f584-4def-843e-5c5742d6241b",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.321",
     "name": "British Tank Crew Highlights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EAC284",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ebb48549-c66e-4f48-8272-1e94645620cc",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.322",
     "name": "US Army Tank Crew Highlights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A99A85",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f6e225a3-2d17-491a-8f9a-2c60843ddd61",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.323",
     "name": "USMC Tank Crew Highlights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A4B2A5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "60382177-643f-4b59-a14c-5dfd073c8ad5",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.324",
     "name": "French Tank Crew Highlights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#897C73",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "d4ab6ddb-a6ca-4845-8e96-ca208dc4b453",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.325",
     "name": "Russian Tank Crew I",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4C5D67",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "5f5180b7-a8f6-42ed-a95f-24ef88207e03",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.326",
     "name": "Russian Tank Crew II",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6A624F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "0e522795-894d-4359-809a-1ba903a77eca",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.327",
     "name": "Italian Tank Crew",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4B461C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "aa4f6dfc-bf29-4f67-9017-0d2372d02e39",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.328",
     "name": "Japanese Tank Crew",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5C5632",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9b0ee58c-b8cc-4490-955d-7459430999a8",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.329",
     "name": "Russian Tank Crew Highlights I",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9BABAA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "5202588f-73bd-4cfa-b669-5e67f20f7418",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.330",
     "name": "Russian Tank Crew Highlights II",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#717538",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ad98e9dd-e404-401d-bfd1-5832637b9f51",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.331",
     "name": "Italian Tank Crew Highlights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9EB193",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "828ff339-6804-4490-bf62-864878847415",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.332",
     "name": "Japanese Tank Crew Highlights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AAA391",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "0e2a806f-0194-4a14-b2e8-2c31144e2e67",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.333",
     "name": "German Tank Crew",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#434949",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "4e6ea650-c9a1-4318-a339-2b88382b265a",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.334",
     "name": "German Tank Crew I",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#013E2C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "2699d4fc-7664-417c-b46d-df951f081770",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.335",
     "name": "German Tank Crew II",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#473C26",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "4fd64b73-b1cc-4862-90bb-74bb2334c838",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.336",
     "name": "Afrikakorps Tank Crew",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6E705B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "341fe44d-4920-4293-b7d6-b2c71ced37ce",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.337",
     "name": "German Tank Crew Highlights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3C2618",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "38577da8-ecdc-4452-9f1c-4c886b7b1a1e",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.338",
     "name": "German Tank Crew Highlights I",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5B7572",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "7b5805da-0645-4be8-af34-3ad78646c716",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.339",
     "name": "German Tank Crew Highlights II",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#94795E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ab2e8107-1ceb-4bd0-ae46-dafe6749d127",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.340",
     "name": "Afrikakorps Tank Crew Highlights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A99D75",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b40c62f3-3a01-458e-8faf-0cceed0d1342",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.341",
     "name": "Flesh Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A4531E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "1c751ed4-818d-4ae7-ad8b-9d451239ba22",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.342",
     "name": "Flesh Highlights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FCD2A8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "ed4863be-fd60-49f6-a94e-361f1152ab3a",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.343",
     "name": "Flesh Shadows",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#551305",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "69eba07e-6f0f-4f75-9897-5da72f31a812",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.344",
     "name": "German White Tank Crew",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E0DFDB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "06be2d34-6550-4f72-be89-a1f813ba1d68",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.345",
     "name": "Splinter Camouflage Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9D9E98",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "23a6da24-3fc6-4c71-92d2-2463f005f660",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.346",
     "name": "Splinter Blotches I",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#01633C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f803f339-2995-45b4-a15f-a3596e0bd3ce",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.347",
     "name": "Splinter Blotches II",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3C2B24",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "df63ec1f-1c25-4785-bb48-0b2d245d87c9",
     "brand": "Vallejo",
     "range": "Panzer Aces",
     "code": "70.348",
     "name": "Splinter Strips",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4F684B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   }
 ]

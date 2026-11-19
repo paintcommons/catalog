@@ -1,197 +1,210 @@
 [
   {
+    "id": "dd410c8d-c35f-4869-9ab1-85632307abbd",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC003",
     "name": "White Grey, RAL 9002",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F1EDE2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fa813edd-3d63-45b2-910f-31bcdaddb885",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC005",
     "name": "Signal Red, RAL 3020",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C5170E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a2182ad0-d458-42a0-ac12-e8d8e70ff693",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC006",
     "name": "Red, RAL 3000",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A61B18",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ff445ff9-6984-4958-9555-e91abd6381cf",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC009",
     "name": "Orange, RAL 2004",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E85213",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8c28c671-54c9-40f1-9e93-5a313a743306",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC010",
     "name": "Pure Blue, RAL 5005",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2C3D73",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "33db6f6c-af62-4e53-b5da-8aa92e29c702",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC011",
     "name": "Blue, RAL 5001",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#233D54",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "55ee0f30-de6c-4589-a106-e19b7cea340c",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC014",
     "name": "Buff",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9A8260",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "387d04dc-c0e0-4792-b724-16ecba73b993",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC015",
     "name": "Gun Metal",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#221F18",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b64d5d81-8cac-4f09-8afe-6bcc22da7393",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC016",
     "name": "Ochre",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A87B20",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a8938c0e-7ff8-43f6-8ef3-a972527794b5",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC017",
     "name": "Pale Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#698A91",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "943ce99a-f453-4157-acf4-35ab2d0b79ac",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC022",
     "name": "Rubber Black",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1D1D1B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "86151d9e-b5ed-46c3-acc8-93fae6e7c26d",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC500",
     "name": "Flat Varnish",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F0F0F0",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a5e8a7d5-3e80-4a2a-8e81-f47181f54c65",
     "brand": "AK Interactive",
     "range": "Real Colors - Standard",
     "code": "RC508",
     "name": "Clear Smoke",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4C4845",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

@@ -1,122 +1,130 @@
 [
   {
+    "id": "331504f5-5d8c-4421-b9aa-4cd99ea680ac",
     "brand": "Green Stuff World",
     "range": "Candy Ink Metallic",
     "code": null,
     "name": "Amber Orange",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F4B11A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "84ede655-1598-4bc5-85f4-992ff8cefde1",
     "brand": "Green Stuff World",
     "range": "Candy Ink Metallic",
     "code": null,
     "name": "Amethyst Purple",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D7A7F1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5230b33c-5634-48d4-96f1-9d5331d611ac",
     "brand": "Green Stuff World",
     "range": "Candy Ink Metallic",
     "code": null,
     "name": "Citrine Yellow",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFF64F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8dd6f68a-bda8-4a89-b72b-602a8366b238",
     "brand": "Green Stuff World",
     "range": "Candy Ink Metallic",
     "code": null,
     "name": "Jade Green",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9BFFD4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3e6020ad-6a5d-449c-80a2-fcdcb0458c74",
     "brand": "Green Stuff World",
     "range": "Candy Ink Metallic",
     "code": null,
     "name": "Quartz Magenta",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EA86AA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cc0010e4-cc80-4836-87d1-862a677c072b",
     "brand": "Green Stuff World",
     "range": "Candy Ink Metallic",
     "code": null,
     "name": "Ruby Red",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F5904C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4349e976-d035-494b-8385-9dba00d27a53",
     "brand": "Green Stuff World",
     "range": "Candy Ink Metallic",
     "code": null,
     "name": "Sapphire Blue",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ACC9FF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c6cf7dd8-319a-4fab-80ce-bd065996a914",
     "brand": "Green Stuff World",
     "range": "Candy Ink Metallic",
     "code": null,
     "name": "Tiger Eye Brown",
     "type": "ink",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E8C196",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

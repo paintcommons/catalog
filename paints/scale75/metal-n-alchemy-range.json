@@ -1,362 +1,386 @@
 [
   {
+    "id": "24251926-f089-489f-9348-8f9602dcda38",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Amber Alchemy",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B89E85",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7c4a9d5e-cc06-47ab-a66d-223122014de0",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Amethyst Alchemy",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9F8EB0",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5a33094f-575a-4b70-95a3-59806e12467d",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Black Metal",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#484848",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d47f802a-78f7-4054-9efb-3812083b81b6",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Citrine Alchemy",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EFE1C7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6832bef7-c422-4350-bc86-0594a38d3ea2",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Cobalt Metal",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7FA2B5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0f0c1cf1-bcf5-4dfd-b312-244193c975a6",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Decayed Metal",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5D4038",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2fc96784-112e-409e-96a2-692be18f2b82",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Dwarven Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D68D2F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "895427f2-9b01-4be8-9034-16e8dee2380a",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Elven Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CDAB47",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6a9d4bae-db60-4dd0-8574-e2422c6a67c4",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Emerald Alchemy",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#78A098",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fbc32462-91f5-4e04-8ba8-b38ccab499c7",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Garnet Alchemy",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#88424D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f297101c-1c3b-47a0-a153-d89d2b570d95",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Heavy Metal",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9C9DA1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4f947a3a-f3eb-4ea1-9c24-b4d499e99bed",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Kunzite Alchemy",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CA9FBB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "24fd75f5-291d-4e02-99f8-27690e137cb8",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Moonstone Alchemy",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BC937F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bb65162d-b25d-4efa-9d8c-c1f8b9ea8f82",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Necro Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#574E31",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "09117b4d-e6d6-4ab9-89ac-a91f3ea7a5ff",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Old Copper",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#97604C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "780b6009-dd90-4a76-84aa-a52635ca2d6c",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Peridot Alchemy",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8A8D78",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c6760eeb-dc69-4441-a90f-81acfe26e429",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Pure Copper",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CC744C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3e710de5-332c-44a7-b7d3-4f6df628ef9e",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Ruby Alchemy",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D37887",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "73358e74-ea99-4805-9f97-2a929ddbfed4",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Speed Metal",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D4D4D6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "686639b7-2c7b-46ca-8fba-07f87d8dd289",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Thrash Metal",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#544943",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0ee841fe-f54d-4b9a-b02b-79f6df86b19a",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Tourmaline Alchemy",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E7A8B3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "126d0fe5-9603-4fc7-87ca-4384d8821c49",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Victorian Brass",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B6843B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e9b96ad0-ba77-4aa4-85ab-2c69b9078892",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "Viking Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8D591F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "105e9846-fee0-4cc3-8599-35e1d5be1a5d",
     "brand": "Scale75",
     "range": "Metal N Alchemy Range",
     "code": null,
     "name": "White Metal",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F1F1F1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

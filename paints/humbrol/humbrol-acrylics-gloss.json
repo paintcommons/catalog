@@ -1,332 +1,354 @@
 [
   {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "10",
-    "name": "Service Brown",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#433323",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "123",
-    "name": "Extra Dark Sea Grey",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#6E6D75",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "135",
-    "name": "Satin Varnish",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "14",
-    "name": "French Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#0E4595",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "15",
-    "name": "Midnight Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#212F5E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "156",
-    "name": "Dark Camouflage Grey Satin",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#827773",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "163",
-    "name": "Dark Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#232B13",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "174",
-    "name": "Signal Red",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#D32C19",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "18",
-    "name": "Orange",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E7650D",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "19",
-    "name": "Red",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#D80D20",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "6f052ea4-9b67-42c8-b4ad-97ab3990049c",
     "brand": "Humbrol",
     "range": "Humbrol Acrylics - Gloss",
     "code": "2",
     "name": "Emerald Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#037C35",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "20",
-    "name": "Crimson",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#93161E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "208",
-    "name": "Fluorescent Signal Green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#5AAA31",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "209",
-    "name": "Fire Orange",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E0181B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "21",
-    "name": "Black",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#000000",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "35",
-    "name": "Gloss Varnish",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "38",
-    "name": "Lime",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#7EAD2B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "41",
-    "name": "Ivory",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F8F4C7",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "48",
-    "name": "Mediterranean Blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#328AB0",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "68",
-    "name": "Purple",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#2A1744",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Humbrol",
-    "range": "Humbrol Acrylics - Gloss",
-    "code": "69",
-    "name": "Yellow",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FCDB00",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "c8b3d650-0cd8-4827-8384-310b0fea131b",
     "brand": "Humbrol",
     "range": "Humbrol Acrylics - Gloss",
     "code": "9",
     "name": "Tan",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B05318",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7434fb68-830c-4b61-ae21-dc4262597cd0",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "10",
+    "name": "Service Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#433323",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "589df40e-8173-4af8-8a2f-11cc3c15a200",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "14",
+    "name": "French Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0E4595",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "014bfceb-68a4-4504-a5e6-aff26b3f4b68",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "15",
+    "name": "Midnight Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#212F5E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "fe1f2ada-80ea-4ec5-81cb-2f29b1306a66",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "18",
+    "name": "Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E7650D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c426b652-fd61-4a59-a0da-426c3b594e3d",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "19",
+    "name": "Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D80D20",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "23ac6bee-5b1e-4dc9-8231-72ca0601a35b",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "20",
+    "name": "Crimson",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#93161E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1323d2b9-22ef-4598-ae61-6b425eeb1782",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "21",
+    "name": "Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "44e3ddbf-5c34-40aa-a244-eb1f64271c5d",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "35",
+    "name": "Gloss Varnish",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "a69ae762-3e0e-4b2d-9300-dbdc51c0faa4",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "38",
+    "name": "Lime",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7EAD2B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "266304fd-eb30-4c3b-b4b0-3b4f5f46aac1",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "41",
+    "name": "Ivory",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F8F4C7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "02db9dfd-0332-4e8f-bc9c-cc39feae7f4c",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "48",
+    "name": "Mediterranean Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#328AB0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "731b18e7-11a9-42b0-802f-3f5875cbe599",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "68",
+    "name": "Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A1744",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7ece30a3-f61c-489c-85bf-0717ece7c95a",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "69",
+    "name": "Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FCDB00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "55ca1991-d87d-49ad-95e8-df3c048709ad",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "123",
+    "name": "Extra Dark Sea Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6E6D75",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "21acfbe3-2f02-4194-89ca-c794e53ce5e6",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "135",
+    "name": "Satin Varnish",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3c9231f4-7304-4aa0-88e8-bdddb3182bae",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "156",
+    "name": "Dark Camouflage Grey Satin",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#827773",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "09e200b8-bf2c-4847-82cd-7823927e4e59",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "163",
+    "name": "Dark Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#232B13",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c1077d5e-8561-40f3-9ab0-deae32fdcadb",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "174",
+    "name": "Signal Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D32C19",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "9041412d-46b0-4fac-8d3a-ecacab3fa82a",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "208",
+    "name": "Fluorescent Signal Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5AAA31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8c63760d-50ff-4e96-9567-4312cc1d7acd",
+    "brand": "Humbrol",
+    "range": "Humbrol Acrylics - Gloss",
+    "code": "209",
+    "name": "Fire Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E0181B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

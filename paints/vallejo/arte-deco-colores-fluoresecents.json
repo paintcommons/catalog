@@ -1,107 +1,114 @@
 [
   {
+    "id": "0fe0fbfd-2f43-4125-969c-cfc677f42863",
     "brand": "Vallejo",
     "range": "Arte Deco Colores Fluoresecents",
     "code": "85.132",
     "name": "Neon Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFF170",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "113af148-1b9c-4c68-b989-d5c65ce5691e",
     "brand": "Vallejo",
     "range": "Arte Deco Colores Fluoresecents",
     "code": "85.133",
     "name": "Orange Pearl",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F58841",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "a9342f62-d3b3-4ef3-ac5e-bc753b063fe1",
     "brand": "Vallejo",
     "range": "Arte Deco Colores Fluoresecents",
     "code": "85.134",
     "name": "Neon Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EB4E22",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "16f4efcd-ae00-4bc9-8b84-0595bc99fe06",
     "brand": "Vallejo",
     "range": "Arte Deco Colores Fluoresecents",
     "code": "85.135",
     "name": "Neon Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E50058",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "9848682c-16d9-462a-878f-cbf81eb2968f",
     "brand": "Vallejo",
     "range": "Arte Deco Colores Fluoresecents",
     "code": "85.136",
     "name": "Neon Magenta",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E60068",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "3ea91bd1-88f1-4415-92ac-2d7705d6312b",
     "brand": "Vallejo",
     "range": "Arte Deco Colores Fluoresecents",
     "code": "85.137",
     "name": "Neon Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#06266D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "5339ecb3-8f8c-4f18-b05d-e05354848cd5",
     "brand": "Vallejo",
     "range": "Arte Deco Colores Fluoresecents",
     "code": "85.138",
     "name": "Neon Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#009331",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   }
 ]

@@ -1,3422 +1,3650 @@
 [
   {
+    "id": "07a61649-783c-4f03-bcbf-c5b70881e1d0",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0001",
     "name": "RAL 6003 Olivgrün Opt.1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#353D26",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aa1c8de7-8983-4361-aa17-9bfe17635418",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0002",
     "name": "RAL 6003 Olivgrün Opt.2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4E5536",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e903b024-2d33-47f4-99a4-c1aed8c5d37f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0003",
     "name": "RAL 6011 Resedagrün",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#677D4C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b6ead73b-d6ff-4885-8e5a-b9b8c7cc8651",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0004",
     "name": "RAL 6011 B Resedagrün",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#525D33",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f2a4c126-e421-44ee-9896-df6469bb1d19",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0005",
     "name": "RAL 7008 Graugrün",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#62593C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e0e96efa-fb40-440c-9505-0443d146a0c7",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0006",
     "name": "RAL 7008 Graugrün Opt.2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8A854D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "41a74c98-203a-4a2a-8c43-a6d6991c4055",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0007",
     "name": "RAL 7017 Dunkelbraun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#524232",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cb6fa3cb-ed6a-492b-9932-d728e2145f2c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0008",
     "name": "RAL 7021 Dunkelgrau",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#272B34",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "163f498b-32ba-4158-97c3-17ace4c5b225",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0009",
     "name": "RAL 7027 Sandgrau",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C0AF93",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b1ef4c9b-53aa-4021-8f68-5580fc36553e",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0010",
     "name": "RAL 7028 Dunkelgelb (mid War)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A4943F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "38397b98-8a68-46b5-b50c-55ce312f5300",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0011",
     "name": "RAL 7028 Dunkelgelb AUS ’44 Dg I",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C9BE86",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1d0157d5-9a6c-4ab3-bf4b-fe68dd05ccd8",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0012",
     "name": "RAL 7028 Dunkelgelb AUS ’44 Dg IIi",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D7CEA5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dd1c7a3d-f57d-41ab-a3b1-1ffda14f1bb8",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0013",
     "name": "RAL 8000 Gelbbraun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AE9576",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d38062d4-2982-491d-82d6-4d0faabdc865",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0014",
     "name": "RAL 8012 Rotbraun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#85320A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "be344810-1abe-4c5e-b015-a783d102806e",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0015",
     "name": "RAL 8017 Schokobraun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#50312C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2bee431e-48f3-4f90-aa5d-4ded03dd7be9",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0016",
     "name": "RAL 8020 Gelbbraun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E7CA7A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b78dadec-327e-421a-be51-fefd6db0b6d8",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0017",
     "name": "RAL 9001 Cremeweiss",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2EFC2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ead615a8-a6f5-4fe1-be50-f8d1a718d939",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0018",
     "name": "Waffen Ss",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#42685B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "03d96605-991f-4801-a737-dff2dcd4f98d",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0019",
     "name": "4bo Russian Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4F5129",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d95223d7-4766-4495-8629-53fa87037705",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0020",
     "name": "6k Russian Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3B3128",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "abeacd86-3a2b-4007-af73-f0cf99fc1895",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0021",
     "name": "7k Russian Tan",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#70603E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4d51466f-53e1-4947-b870-f80c84bcf92b",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0022",
     "name": "3b Au Basic Protector Alkidno-uretanovaya",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3D331A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d5ec752c-d1b6-42bd-80d6-54f6e0bb3dd2",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0023",
     "name": "Protective Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5E733B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0e16c096-9dff-46ce-85e5-b424632ff01e",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0024",
     "name": "Washable White Camo",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FAFBF6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1c46fb4c-3eb4-48f3-9f9d-e38f185d9033",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0025",
     "name": "Fs 33446 US Modern Vehicles",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C7A780",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cf450e94-36ee-4385-8e0c-f4de294db489",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0026",
     "name": "RAL 8031 F9 Sand Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CDA38B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ba3510b6-89d8-46be-8ca2-99b2850c6a3e",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0027",
     "name": "RAL1039 F9 German Sand Beige",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C6B074",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8173537b-534d-4ac1-8146-5a10af992d6f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0028",
     "name": "RAL7050 F7 German Grey Beige",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#807863",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b6b33361-b789-468f-a805-d60c21250088",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0029",
     "name": "New Iraqui Army Sand",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C8AF76",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1dc1a2cf-b95b-4fd6-b726-7dfa82689da4",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0030",
     "name": "Sand Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D8A64F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "07364f91-4c41-400e-be12-0636a51e534f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0031",
     "name": "Spanish Green-khaki",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#504728",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aec2ba58-cd45-4127-8173-065d0cc0c340",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0032",
     "name": "Satin Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1C1C1C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4647e65a-d34d-49e5-9dfd-c51861095468",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0033",
     "name": "Rubber &amp; Tires",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3D383C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7ab2f7d8-983f-4974-a8d1-a96cd5e2262a",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0034",
     "name": "Rust Tracks",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#38261C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "133a3b94-93b2-4bd9-b1bd-e424288f2742",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0035",
     "name": "Dark Tracks",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#130707",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3b5b4621-bfc5-4989-87b0-6f7bc35f957f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0036",
     "name": "Old Wood",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BFAB8A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4bee5edc-83e6-4d6d-8aa3-dfaae318a1ea",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0037",
     "name": "New  Wood",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C1AB72",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "66e0de1d-3882-47f8-a5ba-f1df2fd4047a",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0038",
     "name": "Light Wood",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BBAA7F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "988d736b-87d7-4667-8903-c4056cb73855",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0039",
     "name": "Light Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E5910B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "36ddfcf3-ec66-4002-88a1-17d1385bde8c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0040",
     "name": "Medium Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B85430",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b6d4819d-1af6-4d49-81d5-981ff1f1f844",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0041",
     "name": "Dark Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#893B24",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5810922a-e612-4b7f-b9b1-72b76e0a3978",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0042",
     "name": "Old Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#452621",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "99566b07-8607-4600-9309-36ad58d543fc",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0043",
     "name": "Shadow Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#331716",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "06be8235-1109-41ad-a893-af350e181572",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0044",
     "name": "Chipping",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#260E0E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1ad27194-7748-41fd-b804-7f9ea982e285",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0045",
     "name": "Gun Metal",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#525044",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7f254875-b928-4432-a42d-c2c5e376f860",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0046",
     "name": "Matt Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#131313",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e5bba6d7-d9bf-4720-879b-f531ae7c4808",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0047",
     "name": "Satin White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E8E8E8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2d2eee37-94e2-4ce1-9694-08f6b63ea117",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0048",
     "name": "Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EBC30B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b30469a5-122c-4f58-a397-ac3174cb3665",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0049",
     "name": "Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BD2615",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2964e208-0bad-46c0-8b2f-813aea3c726f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0050",
     "name": "Matt White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FCFEFB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "438583e0-9e99-4028-ab24-428c24d814df",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0051",
     "name": "Light Green Khv-553m",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A5BB8A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "820a8da0-d696-4417-9db0-6f8f5a404181",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0052",
     "name": "Deep Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0B562D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2757489c-d3f4-4605-b333-d7c188194045",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0053",
     "name": "Protective Mc 1200",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#18341B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "67821e17-a7a3-426b-aea0-23049ae2c567",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0054",
     "name": "Signal Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#28812D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6990e75f-9159-45a8-97b0-23ad3811fffe",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0055",
     "name": "Oil Ochre",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CEAD50",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a6beba65-38d7-490f-be05-70886d043ae5",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0056",
     "name": "Green Khaki",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#545035",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "079bc30b-f5b9-4732-b4f8-5d8b487b92a7",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0057",
     "name": "Yellow Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C9B68E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "be6d41ae-12cf-4209-a931-4d9f6aff53f4",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0058",
     "name": "Light Green Khaki",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7C7B4D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "17d6080a-d365-4398-be91-b81802057778",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0059",
     "name": "Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#81858E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "247c4a4f-9c77-4264-81fc-8198a4d4553c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0060",
     "name": "Pale Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3A6327",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "84e9f4cf-899a-4255-acf0-82d7bb891f7e",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0061",
     "name": "Warm Sand-yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D7B657",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9000584b-b69f-4833-a08e-40ca73546f01",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0062",
     "name": "French Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#445366",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1396887a-b969-456e-bd64-041dd22011ad",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0063",
     "name": "RLM 76 Pale Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9AC4B6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2fb1c7a4-40b5-483a-9aca-f0c91b435e75",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0064",
     "name": "Earth Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#814428",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "55b44fc9-d565-46a8-92b3-6a7c3fa5cacc",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0065",
     "name": "Forest Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#384527",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "76e10d5e-8151-40d9-9a33-5b2509d0c56d",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0066",
     "name": "Faded Sinai Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#736C5A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9797a99c-8b13-47c4-a153-85287d60ed11",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0067",
     "name": "Light Sand Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B8A680",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "613f06b1-ba70-4e79-89f0-e46f7ea3334e",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0068",
     "name": "Idf Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#56542E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "45d016ca-e34a-4223-a193-b0df408a8bc6",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0069",
     "name": "Blue Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#283C23",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8b1232c9-b04b-4d67-bb7c-83818c79152c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0070",
     "name": "Medium Brown Dark Earth (bs 450)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#523628",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3c49bae7-347c-41b0-b1c6-bb3e887a48ee",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0071",
     "name": "Khaki",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#735533",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "44af7fe9-d7f9-4d9e-9936-db5aa7635e46",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0072",
     "name": "Dust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#968C71",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0c0313a8-58bd-4fc2-a2e8-933cc252cf7b",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0073",
     "name": "Earth",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#745739",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3e8106c2-7f72-4f0c-a0a9-592bb11fb619",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0074",
     "name": "Green Moss",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6A6837",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "def7036c-a2f1-46f1-bd7f-e2faf26ffa15",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0075",
     "name": "Stone Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B2B2B2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c179688e-f9d1-4360-81ec-9a793951ac6a",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0076",
     "name": "Brown Soil",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6E4939",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8728c43e-2dda-4e5e-a3a5-ce9160106283",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0077",
     "name": "Dull Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3D595A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "39b1d1ca-16de-445e-80fe-c3ff38cc1539",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0078",
     "name": "Ochre Earth",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C28E5C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c2e08898-ef2b-464c-9a9d-5f74302f7955",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0079",
     "name": "Clay Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#683F23",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "129af69c-05e3-4f5a-9828-e00aa2aaaa4a",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0080",
     "name": "Bright Green Amt-4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5E7D3A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9e34d288-6a49-42d2-ae9d-3d4360c249c2",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0081",
     "name": "US Olive Drab Vietnam Era (fs 24087)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#424A35",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3a5a41b1-ee80-4b46-af1e-5b9e9ff11d2a",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0082",
     "name": "Apc Interior Light Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8DA186",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aaa2f397-c7e2-4827-82fb-cc0682cf4ac3",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0083",
     "name": "Xb-518 Zashchitniy Zeleno (russian Postwar Green)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4E4F30",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "364676da-3e68-4245-97d8-ac63c0d1416b",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0084",
     "name": "Nato Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#424733",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "312e3f00-b865-48f2-906f-53544a497a8e",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0085",
     "name": "Nato Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#412C27",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5242ca36-98ce-4bda-a06c-483ed68f7705",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0086",
     "name": "Blue (RAL 5019)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1B4F88",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5c06bff7-b39b-47eb-92df-d9f914a46131",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0087",
     "name": "RAL 6014 Gelboliv",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#454732",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c0892b27-5589-4559-8bd1-dc8760ef27e9",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0088",
     "name": "Khaki Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B39267",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "36deed07-7681-4a14-bbb8-76bf43b97af6",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0089",
     "name": "Matt Varnish",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEFEFE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "55296e4c-c26b-425a-8282-34b524e10857",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0092",
     "name": "Crystal Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2D4410",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a1a9f69a-9c0e-4d03-af9f-3c6f57c236a5",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0093",
     "name": "Crystal Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#591610",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "88785668-42c5-4c66-a700-34d71a6ef241",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0094",
     "name": "Crystal Glass",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A7A7A7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4ea27ed7-14c3-40e5-90e2-ee0f04b2a127",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0095",
     "name": "Crystal Smoke",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#131E18",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a4c231d2-83c8-4c4e-a637-65b0add85f0d",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0096",
     "name": "Crystal Periscope Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#40770F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "84b544cf-cc2a-4082-baf9-2db3769415db",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0097",
     "name": "Crystal Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FE8F00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "de5a9e42-5ea9-4e55-b63d-df00cc39f69f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0098",
     "name": "Crystal Light Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0784BE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "091bea98-5e77-4700-b224-18450c69dce9",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0099",
     "name": "Crystal Black Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#022334",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ce5c41db-df78-4a7c-a033-ba75c4c5e668",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0102",
     "name": "Ochre Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9E8356",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9b055586-ff27-446b-921d-be0c4eb0748f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0103",
     "name": "Medium Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#294888",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "afece528-2d67-4f19-bfac-7a6818759d87",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0104",
     "name": "Washable Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5ead7008-0f6e-4223-a025-a8c6cfec18f8",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0105",
     "name": "Washable Dust (RAL 8000)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9D8152",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0a29a8eb-0ee7-4bfc-a80c-c626e8e32cde",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0106",
     "name": "Washable Sand (RAL 8020)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C09853",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "26c10e7d-f1d5-4e47-8b28-d75d6b7954a4",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0107",
     "name": "Washable Earth",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#714D35",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "69db32c0-0c22-42e6-a1ea-4fc830003373",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0108",
     "name": "Washable Mud",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#533229",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f6b342b1-759c-4824-a3b1-b43d9e325e63",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0109",
     "name": "Washable Rust",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A0402A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8241917d-86f8-45b8-80ff-e0b83eeeb704",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0110",
     "name": "Scc 1a  (british Brown 1941-42)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#352118",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d9eeab56-7ec6-4940-8718-8256720c8e9a",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0111",
     "name": "Scc 2 (british 1941-44 Service Drab)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#544933",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "10f1d00c-34ec-41d3-a178-b07b69241f26",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0112",
     "name": "Scc 15 (british 1944-45 Olive Drab)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#353B19",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "28bd52bf-d7ef-4e13-a110-a91c0d072d66",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0113",
     "name": "Khaki Green Nº3 (british 1939-42)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#685F38",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1762482b-e18f-4f0c-a1a6-063705d4c1c5",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0114",
     "name": "Zimmerit Ochre Color",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9A8B76",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4c35b4a0-e58c-400d-a543-6d8015f1f48d",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0115",
     "name": "Light Skin Tone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EECAA8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6393f1b6-86a5-4dd7-a4f7-e7cc39cb9478",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0116",
     "name": "Basic Skin Tone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E3B4A4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c1419fcf-6382-4d00-992b-529bd613d21c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0117",
     "name": "Warm Skin Tone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B5876F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5498a189-3556-4bbb-bdf6-c5a213563470",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0118",
     "name": "Burnt Sand",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7E5A3A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a826cc4a-8bc2-49bb-b007-45ab61faa77c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0119",
     "name": "Cold Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D3D3D3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4459f1da-4e8b-4c99-bc91-117b21a01056",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0120",
     "name": "Light Brown-gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D6D1CE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "06c8f33a-336c-4a33-b010-7058cdd106af",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0121",
     "name": "Blood Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AC2B25",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5ca78db0-eda1-44bb-a6d1-6389ceaa0738",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0122",
     "name": "Bone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EDEEDC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e03660be-3cf4-490f-8bdf-f78a139fe3a3",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0123",
     "name": "Marine Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#18568F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fc73a138-d9a1-4530-8794-9157471c6898",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0124",
     "name": "Lime Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#109F45",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bd77dadb-85a9-41ed-9ddb-45bb17df0163",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0125",
     "name": "Gold Yellow (RLM 04 Gelb)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D7C012",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "76e174a8-d496-4402-9919-b13228720a85",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0126",
     "name": "Violet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#56439C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7ff8aa8d-13a6-4c4b-8930-430fdbcf3b59",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0127",
     "name": "Purple",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9154A4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "10872f1d-3710-4e5b-8fd8-61174bfc2e7e",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0128",
     "name": "Cyan",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2495FB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bc1e0d6d-bded-45ee-b9f0-7202a4c46089",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0129",
     "name": "Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E7731E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1eff9a44-d640-464f-a1bb-c3b888472975",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0130",
     "name": "Faded Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D8CD73",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "16239ea7-5d2f-4abe-b622-bcf65bfaca20",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0131",
     "name": "Real Idf Sinai Grey 82",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#534F2A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5c6d1b91-bfce-4715-8d08-9c3867a93cae",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0132",
     "name": "Real Idf Sand Grey 73",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#84794B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4d02b0a9-7b1f-46e4-b922-e69cc009cbb1",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0133",
     "name": "Red Leather",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#643B29",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c45ee925-602f-4df4-96c6-a3b33b293371",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0134",
     "name": "Burnt Brown Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#352005",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "21b70e6b-d20f-4391-acc8-1260b2080602",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0135",
     "name": "Cinnamon",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#937D6F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f16c050b-3d5a-487d-8e80-b63a4c445702",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0138",
     "name": "Desert Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B8996D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4a6d5330-009b-467a-b7c9-581a19dc671f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0139",
     "name": "Reddish Earth",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#705446",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0e0df05e-ac43-428f-a131-3f33c3b2b6df",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0187",
     "name": "Jet Exhaust Burnt Iron",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3E2417",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "da2e2395-e871-4921-814e-bea012312c77",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0188",
     "name": "Metallic Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C13828",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "30043eb1-92d3-421b-9430-dbadb09872c1",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0189",
     "name": "Metallic Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CD6702",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4479147a-2b7a-49b3-8e56-007ab023a32a",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0190",
     "name": "Old Brass",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#816116",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0a0000db-aa7e-446b-925b-30d189d1de2f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0191",
     "name": "Steel",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B7C2B1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6fd2da94-90fe-497d-afe7-368cfed8ed94",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0192",
     "name": "Polished Metal",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5B6C5C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8c2f952b-9e1b-4816-bf6c-2eb03cefdb76",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0193",
     "name": "Bluish Titanium",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#619185",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e20f7729-359c-4afb-9e3c-22bb08b84241",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0194",
     "name": "Matt Aluminum",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AABCB0",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bb961422-4c7d-4546-a292-a62479d5f1e5",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0195",
     "name": "Silver",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C6D1C1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "51b4fc5f-3b46-486e-a673-f8e2be052723",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0196",
     "name": "Warhead Metallic Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#237EE9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "59f13b4d-f08c-4bc9-aa8b-e2d471f79d2f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0197",
     "name": "Brass",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B7881C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d2ac9abe-fe15-47e4-8aba-b9c11e734161",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0198",
     "name": "Gold",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B8B021",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6efa3a22-22ca-49b1-968e-ff9e20fb9de3",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0199",
     "name": "Copper",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C94A5D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f8df90ae-0cbe-450b-982f-ad8b70925804",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0200",
     "name": "Fs 33531 Middlestone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D6C7B4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "53ec7954-cc69-4a4e-add6-be926aff6e47",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0201",
     "name": "Fs 34424 Light Gray Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B1CAAA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "45e81765-e8d2-45c9-a4a0-d6015e567cb0",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0202",
     "name": "Fs 30219 Tan",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#81603D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "14b700f9-1aad-44aa-94de-126b9cb89cf3",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0203",
     "name": "Fs 36375 Light Compass Ghost Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8390A3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9b89254b-548b-496a-9c47-e1ffcd66fee2",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0204",
     "name": "Fs 36118 Medium Gunship Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3F4551",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b6ca3fd1-347b-4abc-b947-f6d256208352",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0205",
     "name": "Fs 26231 (bs 638)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#71737F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d6991f74-3220-49b7-b879-385962bd4f01",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0206",
     "name": "RLM 81",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#47512C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9f62e60f-92c5-4826-949b-05c10f4ea46d",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0207",
     "name": "Fs 36314 (bs 626)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#83978C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e6be377e-17f0-4fdc-8681-7c7e0043e2ee",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0208",
     "name": "Fs 36320 Dark Compass Ghost Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#70878D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7fc8c642-fb13-4385-a269-f3f42fe66653",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0209",
     "name": "Fs 36495 Light Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A6B7AD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3bed1803-8147-4f7c-880a-3e56e1e8467d",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0210",
     "name": "Fs35237 Blue Gray Amt-11",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6D7D8A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b737da17-2a41-41d6-8da4-d34c0fde3de8",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0211",
     "name": "Fs 36270 Medium Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#99999B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "df16aa0e-af5f-449b-b9b2-519c7225f6c0",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0212",
     "name": "Fs 26373 Silver Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#92A2A2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d01d2425-4088-4107-9681-934fd1b836bf",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0213",
     "name": "Fs 24277 Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6B8778",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "74f44836-2138-4923-9278-31602b4984ed",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0217",
     "name": "Green Slate (RLM 02)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2A381E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f5ccc21a-b75f-4e38-8e3e-8b12d6cd86c1",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0218",
     "name": "RLM 66 Schwartzgrau",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#282B34",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e587ac67-0a77-4442-ace0-6fbb1c4d878b",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0219",
     "name": "Fs 34226 (bs283) Interior Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#729182",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "791f786d-4b50-42c4-bd56-2e8c70bef56e",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0220",
     "name": "Fs 34151 Zinc Chromate Green (interior Green)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#666E45",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5403aacb-cb83-4c2a-b83f-5c75a95dd0a1",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0221",
     "name": "Fs 33481 Zinc Chromate Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B19846",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a627dc78-425e-4383-83fc-03fe436bdecb",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0222",
     "name": "RLM 79 Sandgelb",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C59942",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5a5bda52-84b4-48f2-876a-0740c1731722",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0223",
     "name": "Interior Turquoise Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1C8368",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5dd92fc7-6f1f-44f1-91f0-c9eede519b66",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0224",
     "name": "Fs35260 Sky Line Blue A II",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#71C6E3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4641f358-d72c-4ebd-92ef-0ca3437d051d",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0226",
     "name": "Fs 36622 Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D1D2C2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6f6d430c-d7c2-4a67-a101-5bc2b0348be3",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0227",
     "name": "Fs 25042 Sea Blue (ana 606)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#21262C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d6368fa9-397c-4876-8f9d-da8f85164ab9",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0228",
     "name": "Fs 35164 Intermediate Blue (ana 608)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#707980",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c38b5292-81ec-47df-aa3e-980fbce563b1",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0229",
     "name": "Fs 15102 Dark Gray Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2489BD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "159dac9a-04a8-4707-996a-79cf7032eba7",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0230",
     "name": "RLM 82 Camo Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3E3E00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5e6ee8b0-0eda-4373-b03c-5ab69d7cabd8",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0231",
     "name": "RLM 65 Hellblau",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C7DBE2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "230c3486-ed1b-4263-ba59-63d55b7f0599",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0232",
     "name": "RLM 70 Schwartzgrün",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#333C2B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0a3cf3f2-0171-4a26-a6ba-3b698f3c8c27",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0233",
     "name": "RLM 71 Dunkelgrün",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#51563F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "19dfe2b9-f6f2-4b02-a2e3-13e26f2b8a60",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0235",
     "name": "Fs36152 Dark Grey AMT-12",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5D6268",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2662f703-2e13-4478-ad04-2d0c63099520",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0236",
     "name": "Fs 36293",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7F8487",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "45efbcc1-0716-48ee-92dc-b6df96bb2c5b",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0237",
     "name": "Fs 23070 Dark Olive Drab",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6C6845",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "206a72d5-3d0f-4ea6-a060-fc429c6a6908",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0238",
     "name": "Fs 34092 Medium Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3A523A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8b5d0fe8-e459-4745-b4dc-b441121e0cd2",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0239",
     "name": "Fs 36122 NeutRAL Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#67686C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7028181a-7a9f-4242-9cbc-13fad8254225",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0240",
     "name": "Fs 34086 (ana 613)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3F402E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c0f4facd-50de-48eb-a0a2-a01afc5e79cd",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0241",
     "name": "Fs 36440 Light Gull Gray",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#959A94",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5e69598d-8fdd-4825-9ecf-6090d6b669e4",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0242",
     "name": "Fs 37886",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F0F0D8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "85ad1e5f-da08-4405-8d80-49bb6fc0e0a8",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0243",
     "name": "Sky Type S (bs 210)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B4B299",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ddd00c54-608f-4025-994b-10a23faa7b3c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0244",
     "name": "Duck Egg Green (bs 216)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AFB985",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8c1b34ba-8006-40af-ae42-c7695238a678",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0245",
     "name": "Ocean Grey (bs 629)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#626B72",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "28d290cd-d11a-4384-82c1-ab190d814a79",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0246",
     "name": "Medium Sea Grey (bs 637)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#858F91",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0942910e-f20d-40ea-b165-d9c67a982780",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0247",
     "name": "RLM 78 Hellblau",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#819B9C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "327b3e4c-a7fc-402c-a9f7-81db338b8149",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0248",
     "name": "RLM 80 Olivgrün",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3B4930",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3fef45db-f91f-4455-8fb5-5e1d1bfda4b2",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0249",
     "name": "Light Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B4CEDB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c9a12cbd-8502-492f-a9c9-e02ed898007c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0250",
     "name": "Night Blue Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#525662",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bc32864e-86ae-4ba4-b369-f876907b35cb",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0251",
     "name": "Russian Blue Amt-7",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2F737E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "88d1db36-dfbe-4f0e-8ced-0d534b8ffa63",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0252",
     "name": "Grey Brown Amt-1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#827B71",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8ed421ab-60b6-41c7-bf52-539a7c77b6ca",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0253",
     "name": "RLM 74 Graugrün",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#434E48",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ae68a834-276b-4dec-b68d-401f90a11f6d",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0254",
     "name": "RLM 75 Grauviolett",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7C7E7B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8d39ed41-c004-4107-aaef-cd0ea2ea8f87",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0255",
     "name": "RLM 81 Braunviolett",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#553C37",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3d17828f-4cae-49bc-9b7d-80053ba27034",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0256",
     "name": "RLM 84 Graublau",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B9B97B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6a82e401-4b8b-46fc-b2c1-8ef0852c2dbe",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0900",
     "name": "Dunkelgelb Shadow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#381B20",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7fef0d0c-cb65-4185-8780-1f3ef4718328",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0901",
     "name": "Dunkelgelb Dark Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7B6B37",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9d1a3b41-7e09-4273-9d9a-6aee334fc4bf",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0902",
     "name": "Dunkelgelb Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8E814A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "60954743-9a91-4bf8-993c-fb6f10538346",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0903",
     "name": "Dunkelgelb Light Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B7AB79",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c38444d2-1810-4d8c-b8e2-d623f426b11b",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0904",
     "name": "Dunkelgelb High Light",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D0CE93",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fa5b30fc-eae0-464a-8ada-80a3689f347c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0905",
     "name": "Dunkelgelb Shine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E2E1C5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4cbfe880-9361-4487-af08-dcd406d0a147",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0906",
     "name": "Dunkelgrau Shadow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#323335",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "70ad2283-dbdc-4243-a92b-8fade595e2d5",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0907",
     "name": "Dunkelgrau Dark Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#474956",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d1cafa26-430d-426c-a381-c55a1d596724",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0908",
     "name": "Dunkelgrau Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#333542",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6c96c6c7-9041-469d-bf10-9dfeaa1f890d",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0909",
     "name": "Dunkelgrau Light Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#696D76",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "470ee732-cb29-4e79-8480-e6990944dd38",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0910",
     "name": "Grey High Light",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7D8087",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f4eb0d36-93ce-4269-a7bb-00ec972e90d4",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0911",
     "name": "Grey Shine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A2A5AC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "10c2f9dc-c261-4bf6-ad88-42e2cf151b1a",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0912",
     "name": "Red Brown Shadow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#421D14",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3daee047-0466-43e0-a91a-65cf40b2e508",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0913",
     "name": "Red Brown Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6B321E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "501035dc-dffd-43c2-a20f-669a2d6267b8",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0914",
     "name": "Red Brown Light",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9E5340",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dc2886ed-8104-4c65-9f3c-1f47302b928d",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0915",
     "name": "Dark Green (bs 241)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#455330",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d972d76c-6199-449b-951d-09c092513642",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0916",
     "name": "Green Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4E6338",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5141bd54-b604-4733-a938-f47305ad42eb",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0917",
     "name": "Light Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#93AF75",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9f2b61e3-e6a7-42c3-8e11-e93dc6a8e24e",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0924",
     "name": "Olive Drab Shadow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#323017",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c89bfaba-4944-41ea-93a7-1fcb56016f9d",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0925",
     "name": "RLM 81 Olive Drab Dark",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#413D20",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d5dc77f6-4cfe-4c02-aa2d-c87119d4c172",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0926",
     "name": "Olive Drab  Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#524F2E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "78c68049-cf2b-4488-90c2-4630b2b27e8a",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0927",
     "name": "Olive Drab  Light Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#686542",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "21dc0f17-0bd0-459d-b464-2d4067d4fca5",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0928",
     "name": "Olive Drab  High Lights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#797653",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "15017843-ea5b-46ca-87b1-3073edcabd6c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0929",
     "name": "Olive Drab Shine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#898761",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "80efd931-da89-4bb7-aefa-4086781434f5",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0930",
     "name": "Russian Shadow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#30300E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9b040cdb-e293-4001-80a5-1c0f33b42768",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0931",
     "name": "Russian Dark Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4A4F27",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0f3dc634-4636-4afe-a8df-047c32d87ec4",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0932",
     "name": "Russian Green Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5D5C19",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "85d7bcf2-5c4f-4b3a-9810-d647ce524c0b",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0933",
     "name": "Russian Light Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#797244",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6c32b21d-90ca-4f74-af1b-0ab7b64c1e38",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0934",
     "name": "Russian High Light",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8C8557",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c15edc11-6522-4d4a-abf4-6a368f0e2df5",
     "brand": "AMMO by Mig Jimenez",
     "range": "Acrylics",
     "code": "AMIG0935",
     "name": "Russian Shine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9E976D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

@@ -1,197 +1,210 @@
 [
   {
+    "id": "245e1436-3ee2-4f31-93ba-08de492b2fea",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11237",
     "name": "Varnish Matt",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DADBE1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2c714520-d3e7-4812-bed6-dcc745ee30f4",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11238",
     "name": "Varnish Satin",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F5F6F8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ced02faa-d4dd-4e69-860b-5fee683c25a3",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11239",
     "name": "Varnish Gloss",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEFEFE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5f603fc8-dc0a-4dfa-86da-c82f8b7a4d4b",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11240",
     "name": "White Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EAEAEA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "091d5aaf-c687-47d5-aa5c-6ee63969028f",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11241",
     "name": "Grey Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C0C1C5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9681ff86-3a91-48f7-a37f-6f5b3c2ef913",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11242",
     "name": "Black Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#232125",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1dce530b-8efd-48c6-9f66-eb87ed3914a5",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11245",
     "name": "Dunkelgelb Ral 7028 Dark Yellow",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DBA849",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9d682ba8-9d3f-4a7d-8bfb-f741c67515ec",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11246",
     "name": "Russian Green Surface Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#385B2F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "360bd742-f19e-4230-b32b-d9f33c1cdd6e",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11247",
     "name": "Minium Red Surface Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F2373D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "06e0bc73-a412-4686-89f1-04c473f3b60e",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11248",
     "name": "Desert Sand Surface Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FDE3A6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f762218c-7586-408b-b6cc-93288dad1b37",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11249",
     "name": "Olive Drab Surface Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#655238",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "09c2679d-86bf-4d49-a6ae-9c7628e55245",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11250",
     "name": "Rust Surface Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#852F25",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cc7eadde-1462-4557-8cce-90ff77909602",
     "brand": "AK Interactive",
     "range": "Primer (3rd Gen)",
     "code": "AK11251",
     "name": "Tracks Surface Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5D3B2C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

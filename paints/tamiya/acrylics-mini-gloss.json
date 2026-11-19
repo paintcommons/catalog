@@ -1,497 +1,530 @@
 [
   {
+    "id": "5d381be8-0f4a-4de0-befc-d305ce334b05",
     "brand": "Tamiya",
     "range": "Acrylics Mini Gloss",
     "code": "X-1",
     "name": "Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-10",
-    "name": "Gun metal",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#505557",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-11",
-    "name": "Chrome silver",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C2C8CA",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-12",
-    "name": "Gold leaf",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CCA208",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-13",
-    "name": "Metallic blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#1E7497",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-14",
-    "name": "Sky blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#1D99C4",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-15",
-    "name": "Light green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#66B821",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-16",
-    "name": "Purple",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#474BA0",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-17",
-    "name": "Pink",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F881AC",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-18",
-    "name": "Semi gloss black",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#333333",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-19",
-    "name": "Smoke",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#8F918C",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "d6e000b8-a45d-416f-b841-3ab894074b9a",
     "brand": "Tamiya",
     "range": "Acrylics Mini Gloss",
     "code": "X-2",
     "name": "White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-20A",
-    "name": "Acrylic thinner",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-21",
-    "name": "Flat base",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-22",
-    "name": "Clear",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-23",
-    "name": "Clear blue",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#34B3D1",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-24",
-    "name": "Clear yellow",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFE600",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-25",
-    "name": "Clear green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#1A9641",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-26",
-    "name": "Clear orange",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FE8C14",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-27",
-    "name": "Clear red",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FA0026",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-28",
-    "name": "Park green",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#33A44D",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "55d681e2-c651-4333-8025-7a1de32a7ec5",
     "brand": "Tamiya",
     "range": "Acrylics Mini Gloss",
     "code": "X-3",
     "name": "Royal blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1D2D53",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-31",
-    "name": "Titanium gold",
-    "type": "acrylic",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CBBB72",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-32",
-    "name": "Titanium silver",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CCCCB8",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-33",
-    "name": "Bronze",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#672622",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-34",
-    "name": "Metallic brown",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#993F06",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Acrylics Mini Gloss",
-    "code": "X-35",
-    "name": "Semi-gloss clear",
-    "type": "acrylic",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "cfd4e07c-4b9e-4820-bc5f-20e758848ac3",
     "brand": "Tamiya",
     "range": "Acrylics Mini Gloss",
     "code": "X-4",
     "name": "Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#09347B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5b51abf7-4d8f-44bb-8b41-fdda4e47fac2",
     "brand": "Tamiya",
     "range": "Acrylics Mini Gloss",
     "code": "X-5",
     "name": "Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00441B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a7d949b7-52c3-420e-8e4a-e5f87c2f226b",
     "brand": "Tamiya",
     "range": "Acrylics Mini Gloss",
     "code": "X-6",
     "name": "Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FF7F00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "83f35a57-8ce9-4f53-aef1-82f3f8ff8f8d",
     "brand": "Tamiya",
     "range": "Acrylics Mini Gloss",
     "code": "X-7",
     "name": "Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FF0000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bd0c5579-599c-4aff-997a-30f55a5feb3f",
     "brand": "Tamiya",
     "range": "Acrylics Mini Gloss",
     "code": "X-8",
     "name": "Lemon yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFE600",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b081c7e4-9ad7-4ac3-a82f-9f1b28e9ee4a",
     "brand": "Tamiya",
     "range": "Acrylics Mini Gloss",
     "code": "X-9",
     "name": "Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4D2207",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4bfbd6c7-2ebd-4c45-af21-1647f62f431a",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-10",
+    "name": "Gun metal",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#505557",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0a50f445-7187-4a9e-98f4-94ad3c114818",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-11",
+    "name": "Chrome silver",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C2C8CA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "cc6d6a1a-4dff-409a-b968-f685c2e40460",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-12",
+    "name": "Gold leaf",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CCA208",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "232e51dc-560a-4545-bfe4-114d51b45dd3",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-13",
+    "name": "Metallic blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1E7497",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7c383d5e-f9e5-4f39-828f-8fa989b9f536",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-14",
+    "name": "Sky blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1D99C4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "27ade08c-aa76-404f-9205-2707f395164b",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-15",
+    "name": "Light green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#66B821",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1db21023-ff63-4c37-9614-ddb9d075e186",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-16",
+    "name": "Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#474BA0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "fc5af208-f5ae-4e13-8279-8fdc48be2abb",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-17",
+    "name": "Pink",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F881AC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3d0b7fac-b5ce-4d7f-8a30-57ec02809f62",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-18",
+    "name": "Semi gloss black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#333333",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3e661a12-7fc4-466b-8ec5-2e0fd7a3ca0c",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-19",
+    "name": "Smoke",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8F918C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5b97fb0f-e193-4b90-a138-78482a186944",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-20A",
+    "name": "Acrylic thinner",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8e6584d6-2876-4987-a691-b9b0e7f9f1e6",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-21",
+    "name": "Flat base",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "498350bc-642f-40cc-a9cd-0f8de5d6d9a5",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-22",
+    "name": "Clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "bb70c12b-b4db-400c-89b9-9da37a8d24a8",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-23",
+    "name": "Clear blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#34B3D1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "a5792c7b-4a9c-4190-bbf8-5dfebcaade56",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-24",
+    "name": "Clear yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFE600",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b9219de6-4a9f-4482-9e9b-03e50ed0afa6",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-25",
+    "name": "Clear green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1A9641",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b8edcdb1-af70-436a-91eb-d4357f6ef53b",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-26",
+    "name": "Clear orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FE8C14",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c9bb4669-c176-43c3-b1b9-c9d6650d266c",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-27",
+    "name": "Clear red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FA0026",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "377d5cb0-8d2d-4d42-ab24-74555410c009",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-28",
+    "name": "Park green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#33A44D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "87dda604-de7c-4735-a493-8190d93270e2",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-31",
+    "name": "Titanium gold",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CBBB72",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "a2cfaf13-7485-4edc-bd68-5fc02d729c4f",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-32",
+    "name": "Titanium silver",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CCCCB8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "e0d7d36f-eda3-46eb-8136-e79a4c62179b",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-33",
+    "name": "Bronze",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#672622",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6f5a7242-8cdd-4ee3-8a08-52d20e3f456d",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-34",
+    "name": "Metallic brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#993F06",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ab68612f-6c84-4d6a-81d1-7144c5a1b6cb",
+    "brand": "Tamiya",
+    "range": "Acrylics Mini Gloss",
+    "code": "X-35",
+    "name": "Semi-gloss clear",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

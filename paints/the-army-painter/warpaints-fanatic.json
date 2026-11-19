@@ -3255,33 +3255,35 @@
     "status": "current"
   },
   {
+    "id": "78d1ec83-c943-4c43-96a9-0729e4354079",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic",
     "code": null,
     "name": "Brush-On Primer",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#727475",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ca5ba450-4cce-43a1-bc5f-3c667384a0d3",
     "brand": "The Army Painter",
     "range": "Warpaints Fanatic",
     "code": null,
     "name": "Wash Medium",
     "type": "medium",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B1B3B4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

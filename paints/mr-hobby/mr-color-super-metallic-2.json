@@ -1,92 +1,98 @@
 [
   {
+    "id": "14dd0834-4dfd-48fe-b8a8-21063a23ea3d",
     "brand": "Mr Hobby",
     "range": "Mr Color Super Metallic 2",
     "code": "SM201",
     "name": "Super Fine Silver 2",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DBDADB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "987d64ac-6f78-4d2d-a8df-3bf42f7373f4",
     "brand": "Mr Hobby",
     "range": "Mr Color Super Metallic 2",
     "code": "SM202",
     "name": "Super Gold 2",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CFB16E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5122be1d-b69c-4b8d-8812-da4653f2a5a2",
     "brand": "Mr Hobby",
     "range": "Mr Color Super Metallic 2",
     "code": "SM203",
     "name": "Super Iron 2",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C4C3C3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cb78769c-39af-46ae-963f-0b9b7cb7fed6",
     "brand": "Mr Hobby",
     "range": "Mr Color Super Metallic 2",
     "code": "SM204",
     "name": "Super Stainless 2",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C9C9C8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "642d9922-0a37-4866-a44d-ef807205480a",
     "brand": "Mr Hobby",
     "range": "Mr Color Super Metallic 2",
     "code": "SM205",
     "name": "Super Titanium 2",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DEDADC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "982ac7ae-7b26-4cc2-b64f-18a4f8457a55",
     "brand": "Mr Hobby",
     "range": "Mr Color Super Metallic 2",
     "code": "SM206",
     "name": "Super Chrome Silver 2",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D7D6D7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

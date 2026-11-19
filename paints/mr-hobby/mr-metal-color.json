@@ -1,137 +1,146 @@
 [
   {
+    "id": "63e0ffdb-ba8c-4acc-96dc-c03b1efce85c",
     "brand": "Mr Hobby",
     "range": "Mr Metal Color",
     "code": "211",
     "name": "Chrome Silver",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A4A4A5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ef5fe165-dd7c-4c6e-9c13-d2af10399070",
     "brand": "Mr Hobby",
     "range": "Mr Metal Color",
     "code": "212",
     "name": "Iron",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#193F45",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b3352051-2c35-434f-92f1-f7162dff2f58",
     "brand": "Mr Hobby",
     "range": "Mr Metal Color",
     "code": "213",
     "name": "Stainless",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#514F4F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8b4b96ad-8916-46df-9e30-52d30f17a120",
     "brand": "Mr Hobby",
     "range": "Mr Metal Color",
     "code": "214",
     "name": "Dark Iron",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "04613784-432f-4ea6-93b6-d386f8e521c1",
     "brand": "Mr Hobby",
     "range": "Mr Metal Color",
     "code": "215",
     "name": "Copper",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C96549",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "23f5db3f-d369-411d-8a41-2f574d95f1d5",
     "brand": "Mr Hobby",
     "range": "Mr Metal Color",
     "code": "216",
     "name": "Bronze",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#378854",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a3da7f57-f935-46c3-a7dc-f16c82605620",
     "brand": "Mr Hobby",
     "range": "Mr Metal Color",
     "code": "217",
     "name": "Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D9AE00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f660da3d-6358-4dc3-8302-f1bea49d7802",
     "brand": "Mr Hobby",
     "range": "Mr Metal Color",
     "code": "218",
     "name": "Aluminium",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A4A4A5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e9a141c2-7b72-43ac-9c20-da2ef26c65d6",
     "brand": "Mr Hobby",
     "range": "Mr Metal Color",
     "code": "219",
     "name": "Brass",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#975829",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

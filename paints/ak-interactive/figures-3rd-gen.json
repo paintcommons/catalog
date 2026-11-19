@@ -1,602 +1,642 @@
 [
   {
+    "id": "e7714954-4523-49ca-8ec6-98f53256248d",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11401",
     "name": "Base Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#824C30",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a95b7748-c51f-499b-85a1-33fb48833f38",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11402",
     "name": "Light Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D1957B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a25df371-5a62-4f16-8588-d175be39a3dc",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11403",
     "name": "Highlight Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FBCFA2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4962e73f-f1a2-47b3-8c45-ff6559d52e97",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11404",
     "name": "Shadow Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#90433B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4c290b08-0bf5-4278-ba07-0acc8fc015ad",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11405",
     "name": "Dark Shadow Flesh",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5D2C27",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f046e50f-8809-4114-82e5-4a5f8fe8b8ab",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11406",
     "name": "Reddish Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3C2221",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ae0e5b2c-809e-4521-bb54-10b61af49161",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11407",
     "name": "Black Uniform Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#10100E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9362d92d-6251-47eb-b19c-ef5216cd9d42",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11408",
     "name": "Dot44 Brown Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#554631",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "faf61017-57e2-420f-9dfd-ed9f46a4b51c",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11409",
     "name": "Orange Tan",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CA8B48",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e90ad308-dbe3-4e80-835d-503d3e3b1b68",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11410",
     "name": "Dark Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#212F22",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3472037b-9a26-41f5-b2d9-597f7e7fa9a8",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11411",
     "name": "Light Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#788E43",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d4a0cf8b-f025-4a6d-bbeb-0a76850536db",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11412",
     "name": "Medium Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2B3B1E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "18370d19-991b-4f0c-b7a1-b36912219f0b",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11413",
     "name": "Denison Tan Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8F6C46",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "07b67470-fdf6-4149-a517-f2ae3c84a9d2",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11414",
     "name": "Splittermuster Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#756C45",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6d2a18d0-6c3d-46e0-ae91-251f0766e8b6",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11415",
     "name": "Splittermuster Green Spots",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#303E27",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1033ffac-7c37-458c-b196-f0aec07e3c4e",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11416",
     "name": "Waffen Brown Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4A392F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f83f0b0f-9330-4598-ba97-b28c197e9a3e",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11417",
     "name": "Waffen Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#634427",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f8f6bcd3-35c0-41a1-a094-19a01bf957b9",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11418",
     "name": "Brown Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#23160D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7a946058-6811-444d-b57b-92280e90f589",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11419",
     "name": "Waffen Red Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4B2D25",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aa2838cd-1f08-41bb-8375-3a2dc7d81b93",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11420",
     "name": "Waffen Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#323F23",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0b7434d9-0790-4444-8e6d-966ee82dc9b2",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11421",
     "name": "Dark Olive Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2A3513",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8849c0dd-d71d-4f88-94df-422148d9da1e",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11422",
     "name": "Ocher Khaki",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A3853C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ecdeadca-4106-4e9a-a05c-ef49b6a3fc2e",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11423",
     "name": "Field Grey Base  2 (grey Uniform)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#424437",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "79c4ec4d-7fd6-4b4c-be1c-ee48406c4696",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11424",
     "name": "Grey Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9B9352",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ce061cff-918f-4b34-aa9b-7203d3119b72",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11425",
     "name": "Field Grey Base  1 (green Uniform)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#423E25",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d980162e-987c-48e8-82f6-d1d658d41e26",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11426",
     "name": "Grey Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#747879",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e9e295fd-cbc2-4418-ae21-a2c7f3a74f06",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11427",
     "name": "Green Uniform Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#303821",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5f1d35a4-a6e1-4261-b062-e5e805876b1f",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11428",
     "name": "Light Green Uniform",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#575F2C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0a843d5f-20de-411e-b3c5-bd749bd55424",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11429",
     "name": "Russian Uniform Lights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6E7321",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "449f73be-6c93-4f27-928b-ad8350ae28b2",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11430",
     "name": "Russian Uniform Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#595F23",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6d9f62ab-241f-4691-a5d4-6f3703691353",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11431",
     "name": "Russian Blue Lights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#222836",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7d40b6f4-ea44-4b92-8497-2a443b9643f3",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11432",
     "name": "Russian Blue Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#12161F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5459d7ce-5341-4098-b138-f36ade4f5d74",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11433",
     "name": "Us Olive Base Uniform",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#544C1E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "543bd41f-1692-49f5-b5e2-dc3482fbf365",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11434",
     "name": "Red Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7A4231",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "033ab23e-4598-48d3-8704-bfd7cd807385",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11435",
     "name": "Field Drab",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7C5836",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "09bed333-fe1b-4627-b9d0-71296f0b3455",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11436",
     "name": "Canvas Tone",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#52492A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "77aae39e-bf2e-4d59-98d6-5917e825696e",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11437",
     "name": "British Uniform Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#70542F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "af5362e6-f297-4997-bf7b-04201ef83e59",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11438",
     "name": "British Uniform Lights",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8C682A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "abb29840-1cd3-449c-b2d6-c7eb364fa677",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11439",
     "name": "French Greyish Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#415057",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bf96e9ba-f425-49fe-8182-cd77a4fcd435",
     "brand": "AK Interactive",
     "range": "Figures (3rd Gen)",
     "code": "AK11440",
     "name": "Desert Uniform Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9A6A15",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

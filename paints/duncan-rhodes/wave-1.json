@@ -1,0 +1,962 @@
+[
+  {
+    "id": "28ac03f7-c824-423e-961d-e443bd6495ff",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Amethyst Rayne",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#524169",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d27d0cbe-fb9e-4496-841b-b0713ece2781",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Ancient Forest",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#715B52",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "84e6e2d0-d8fc-4370-9953-3a8f82ed0a96",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Archaic Sepia Wash",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A48773",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "9027ec3c-6d23-43e2-b672-153ad3bfd4ab",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Barbarian Brawn",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8F5E54",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "058fa71a-cb15-4302-bd2a-fc4b6a0ba077",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Battle Mud Wash",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#796A5D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b1b8f11b-0cab-488a-a50e-70f20ed75766",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Berserker Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D1A15",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5a4f672a-1739-42ba-8f0b-aee44b51d5a6",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Boar Hide",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#724438",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "55631c0a-63b5-4a28-b8e1-abb54268ca10",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Carcharodon Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#959496",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b0dfa41b-2281-49cd-9521-b9a04a73b70f",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Celestial Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6991C0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "a1d48df8-a3c0-4f5d-aa40-0d2fa19653be",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Cold Corpse Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#50555C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c2b348df-884f-439a-b4f1-c640dc253a03",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Cuirass Leather",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#514239",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1864abbb-5ca7-4c4d-927c-8e7195d9ae46",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Dark Sun Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C38639",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "72641591-bdd5-48c2-917a-53c193f192eb",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Death Reaper",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#434142",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "07677df9-36af-4b89-a908-ea44523e796e",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Demon Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D21116",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0a541033-cc3c-422a-85b7-a12607f954ed",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Doom Death Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3C3936",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "76e4e330-d65a-4aa9-a807-9e9722492c44",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Dragon Fang",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9E8461",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "76c8cd42-6801-4a49-8940-75fecbc23f89",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Dragon's Gold",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CDA24E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8f5fba3c-af27-49aa-b0a6-89d9f6e48a68",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Dungeon Stone Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5C5E5F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d1304419-f93f-472f-a64a-20c7537ceffa",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Dust Bowl",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7D6349",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b8fc8bd7-8a68-4b98-8613-7429bf3fab0c",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Dwarven Skin",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B07C62",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "eee2e392-70bd-4c43-822f-e790a0918086",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Elven Skin",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C49774",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "f67ea152-8e8f-40a6-b0e0-17b9a8d01c58",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Elysium Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5179AB",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7bde6a16-a722-466d-a8f1-003a9f0e7547",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Ethereal Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#567F2D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0e7a2035-0af7-4001-9aa5-b88381604cd0",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Fanatic Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D94A2E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4166a5ee-85ee-41aa-b71a-8e502312ceb2",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Flesh Wash",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C4A678",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "9df8aedf-3f8b-42d9-87ca-266a9aa31379",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Glistening Gold",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9B8664",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b27e75d8-ff45-4094-b90f-18bfeb480600",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Glistening Gums",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#995779",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "25998428-5acc-4c42-97d9-e7ecc84b4bdb",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Gravestone Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7A8896",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "81c0df58-d000-4a36-9990-836345e7eb0b",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Griffon Claw",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9E9084",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8040b2af-d5cb-4f1c-b6ad-bc3c65f13e74",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Ivory Tusk",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D2C7BF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c1e8ade9-fb35-4885-9552-32910e05f2b5",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Keleton Legion",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#AF966C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1c3494e8-4847-4939-b69e-00b323ba14ad",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Marine Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#43496F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "9de7e3d4-afed-405c-a2bf-e7cf08169fa2",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Merald Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3C5C43",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4175858b-2c6e-43ba-a5e6-625a96e2a861",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Mythril Blade",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7D7F7F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "366b0afa-4769-4a78-b107-c1b7a154cc6d",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Necrosis Green Wash",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7B8A69",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "90b5abe9-568e-463b-a12b-9d1044dd945e",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Oblivion Black Wash",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#454344",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "dd132014-206f-4fab-9a90-2687281dbb53",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Orange Flare",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EB7140",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "eed7ab4a-bc43-4ba8-b639-e3229ee7bc65",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Plate Armour",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#787979",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6d6988a6-750c-4abe-9966-ddee5f9dd105",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "RC Flesh Wash",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#52854C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b24a7a22-f571-452b-86fd-cc2298eeb207",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Royal Cloak",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5B4249",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "926234be-f9a4-4acd-89d3-08549d99ed2c",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Runic Purple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9B8DB4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "a895810e-2323-4e72-8de0-1549caa6a021",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Rust Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B94D37",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2a387c9f-9e20-4961-9956-26a442c8d513",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Sandstone",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#927B68",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b72e3dd8-c69b-40c2-a395-41ce8529893b",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Sanguine Scarlet",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#961714",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "e56f61f6-500c-42ff-9dd9-3f31df9bc833",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Scorched Earth",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#594C48",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1baa0e0f-3e0d-430e-87cb-8446ef2cd540",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Sir Coates Silver",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D4F4F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "cde0ba99-163f-4df4-9396-e8b142d8cd48",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Skulker Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F49E00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5b193234-3940-4f11-9847-71d64f476238",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Sorceror's Cloak",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#78588D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "e0e23fd6-673f-47de-94c7-925688516fee",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Spartan Bronze",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#644534",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4efecd62-7013-46b6-a096-32a495d278fb",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Sword Hilt Burgundy",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#773D4A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0f3c6ef6-05a3-403d-ad03-63144e51532e",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Temple Stone",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A39179",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "a0949a8b-b152-4dd5-867c-a83a0235738a",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Trooper White",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#ECEADF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8c3d4f38-36e1-408e-b1d4-8f4de0c97b24",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Ur Cloak",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#91524D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b1cbf294-948d-42e3-8686-57b170a4e2e6",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Vampire Fang",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CBB89B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b8e4454a-e519-44d8-a4ae-5b8c62ccc1c0",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Wasteland Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#856C5C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "9d054ac7-d07c-4b2d-b18d-f43b7d7a994a",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "White Star",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F9F9F9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "048657a4-cc38-43d0-8161-2f0418476d31",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Wizard Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6D6B6C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "da2b4b81-b8ba-4ff4-aa3d-238c02c7e66d",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Wolf Grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#627587",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d3aa77b9-2afc-4ca1-a51e-9fa8e1e09eee",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Wyvern Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#404942",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "41662cc7-5800-463e-a8ab-27132a9aa801",
+    "brand": "Duncan Rhodes",
+    "range": "Wave 1",
+    "code": null,
+    "name": "Yellow Flame",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F8AF2B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  }
+]

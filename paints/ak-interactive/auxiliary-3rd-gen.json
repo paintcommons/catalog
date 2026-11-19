@@ -1,92 +1,98 @@
 [
   {
+    "id": "5b300721-63a1-4296-bb65-07c39020ad08",
     "brand": "AK Interactive",
     "range": "Auxiliary (3rd Gen)",
     "code": "AK11231",
     "name": "Retarder",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D5D5D5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "48f924f8-e23d-4a89-9d69-2c1469745e07",
     "brand": "AK Interactive",
     "range": "Auxiliary (3rd Gen)",
     "code": "AK11232",
     "name": "Metal Medium",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E0E0E0",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "459de116-bfd8-49e1-ad82-d6450dfb3e31",
     "brand": "AK Interactive",
     "range": "Auxiliary (3rd Gen)",
     "code": "AK11233",
     "name": "Glaze Medium",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D5D5D5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3cf4e805-0eb3-47d9-ae49-d87995a35b98",
     "brand": "AK Interactive",
     "range": "Auxiliary (3rd Gen)",
     "code": "AK11234",
     "name": "Matte Medium",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AFAFAF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9dbed033-813f-47cb-b97b-f250dbcbdefe",
     "brand": "AK Interactive",
     "range": "Auxiliary (3rd Gen)",
     "code": "AK11235",
     "name": "Gloss Medium",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D9D9D9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1d6e00fc-99f4-4ed2-b2b4-ff523e2632a9",
     "brand": "AK Interactive",
     "range": "Auxiliary (3rd Gen)",
     "code": "AK11236",
     "name": "Crackle Medium",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#ACACAC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

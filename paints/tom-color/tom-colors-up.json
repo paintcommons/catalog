@@ -1,377 +1,402 @@
 [
   {
+    "id": "9935f8da-fb37-4580-8a1b-daca23ce1cde",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-01",
     "name": "Amarelo Girassol",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F8E52F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "511488fe-da17-41d3-b074-8fc2e99e870a",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-02",
     "name": "Amarelo Helena",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFBC03",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5a497291-fa15-4e46-9d2d-f8366e67174f",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-03",
     "name": "Amarelo Piquenique",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DDB204",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c996a6e9-24ba-4f75-9f5c-e087e6dfd535",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-04",
     "name": "Chama da Mula Sem Cabeça",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FC9606",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "efe65750-8099-4b5b-b2df-7f901e723d9f",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-05",
     "name": "Suco De Laranja",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EB3102",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "113a01ff-41fb-47b2-9bfb-f65f10f061f0",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-06",
     "name": "Vermelho Flame",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E42417",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f403fd76-6069-4aec-be79-1fb380fcf5fa",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-07",
     "name": "Vermelho Melancia",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DD2F46",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5bb78843-9888-41ba-a0f3-b92a858f4ede",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-08",
     "name": "Vermelho Beterraba",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#971A22",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b7bfa536-2718-47c3-84d5-522059d0cadb",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-09",
     "name": "Vermelho Gorro de Saci",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C70D22",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fe120c21-5743-492f-bf0c-2fde1cd42aab",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-10",
     "name": "Vermelho Cabelo do Curupira",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#950602",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "96c0b6cd-4256-432f-a608-c5c3f2459ded",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-11",
     "name": "Verde do Duende",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#169522",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9361222e-38c2-4f37-8d2c-cc5cf49d7554",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-12",
     "name": "Verde Brasil",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#043726",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9cebbda6-51ba-4dd9-b6aa-060d4b2751de",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-13",
     "name": "Couro Da Cuca",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0F2822",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4759a214-cad1-4a1f-9806-61b54bbc164e",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-14",
     "name": "Escama do Boitatá",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#295673",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b332c96f-e656-4c5b-ad2c-e917fbed8ebb",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-15",
     "name": "Arara Azul",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0034BB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d5f87ceb-1d24-4a06-863d-1935bd22938b",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-16",
     "name": "Ultra Branco",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7b1d516f-3854-4228-9ac8-43d28094d04e",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-17",
     "name": "Noz Moscada",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#351814",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8658f3f7-4685-4085-a5ab-f08153474b54",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-18",
     "name": "Pelo de Lobisomem",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3A1F16",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "806328b0-9be5-41a1-9ced-98fb2ae64cd5",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-19",
     "name": "Azul Oceano",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#041738",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dddb8ba1-b507-422a-b343-03c82f106b96",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-20",
     "name": "Azul Do Charlie",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#293EA9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "baf91e0c-2775-4045-bd30-f904ab6343c5",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-21",
     "name": "Roxo Puro",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#43135D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e3d42128-38b4-43bb-8264-7cc3014ddbad",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-22",
     "name": "Ultra Preto",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "16a251bb-695b-4481-9a91-0e7df1bf9c95",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-23",
     "name": "Rosa Cessna",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DF82AE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d24db240-ea79-48f6-ab1f-0948eab34480",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-24",
     "name": "Rosa Nina",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F5305E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9ecdba29-2cd3-4118-a8a4-ab89f5571726",
     "brand": "Tom Color",
     "range": "Tom Colors - UP",
     "code": "TCUP-25",
     "name": "Azul Marshmallow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#35A9DA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

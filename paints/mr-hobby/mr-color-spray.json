@@ -1,1022 +1,1090 @@
 [
   {
+    "id": "ea1ad106-4b19-4966-9b2e-3932dcb79cfa",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
     "code": "SJ01",
     "name": "Japanese Navalrsenal Color Kure",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6C7B83",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f6abaaa7-4395-4bf0-b7ca-cd02be25f79a",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
     "code": "SJ02",
     "name": "Japanese Navalrsenal Color Sasebo",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#514F4F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ecf8ae97-8a1c-4749-bea9-fdfc2e3d3def",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
     "code": "SP1",
     "name": "White",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP101",
-    "name": "Smoke Gray",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3C2D1E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP107",
-    "name": "Character White",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F5F6F4",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP108",
-    "name": "Character Red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C8161E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP109",
-    "name": "Character Yellow",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F08300",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP11",
-    "name": "Light Gull Gray",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#BEC3C4",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP110",
-    "name": "Character Blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#004098",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP111",
-    "name": "Character Flesh (1)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FCE3D6",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP112",
-    "name": "Character Flesh (2)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F6BCB8",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP115",
-    "name": "RLM65 Light Blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#779AA8",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP117",
-    "name": "RLM76 Light Blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#BFD5D4",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP12",
-    "name": "Olive Drab (1)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#685932",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP124",
-    "name": "Dark Green (Mitsubishi)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00423B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP129",
-    "name": "Dark Green (Nakajima)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#45644D",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP13",
-    "name": "Neutral Gray",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#75858C",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP14",
-    "name": "Navy Blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#004652",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP15",
-    "name": "IJN Green (Nakajima)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#314836",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP151",
-    "name": "White Pearl",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP16",
-    "name": "Ija Green",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#004D39",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "8c3f42de-d90d-48e8-8a4c-860c57b1d9fa",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
     "code": "SP2",
     "name": "Black",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP28",
-    "name": "Steel",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#000000",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP29",
-    "name": "Hull Red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#552E34",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "9b5e8525-ebda-46a6-bb04-e4f960eca9c9",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
     "code": "SP3",
     "name": "Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E60012",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP30",
-    "name": "Flat Clear",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP31",
-    "name": "Dark Gray (1)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3D715D",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP32",
-    "name": "Dark Gray (2)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3A555A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP33",
-    "name": "Flat Black",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#000000",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP34",
-    "name": "Sky Blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#008CD6",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP35",
-    "name": "IJN Gray (Mitsubishi)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#A6BBC7",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP38",
-    "name": "Olive Drab (2)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#314836",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP39",
-    "name": "Dark Yellow (Sandy Yellow)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#BF9D5A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "19a03272-d061-4b7a-88fc-8770574487c5",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
     "code": "SP4",
     "name": "Yellow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFE100",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP40",
-    "name": "German Gray",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#113C41",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP41",
-    "name": "Red Brown",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#492F32",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP42",
-    "name": "Mahogany",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3C3032",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP43",
-    "name": "Wood Brown",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#6A4A31",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP44",
-    "name": "Tan",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C9A965",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP46",
-    "name": "Clear",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP47",
-    "name": "Clear Red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E60012",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP48",
-    "name": "Clear Yellow",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFD900",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP49",
-    "name": "Clear Orange",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#EB6100",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "268ea953-ffec-4cd8-ba6a-97f9bdee1685",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
     "code": "SP5",
     "name": "Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0054A7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP50",
-    "name": "Clear Blue",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00A0E9",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP58",
-    "name": "Orange Yellow",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#EE7800",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "17ac1188-9f3a-4325-8605-482548e8e1f9",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
     "code": "SP6",
     "name": "Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#006830",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP62",
-    "name": "Flat White",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP63",
-    "name": "Pink",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#EB6D94",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP64",
-    "name": "Yellow Green",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00A33B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP65",
-    "name": "Bright Blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#004098",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP66",
-    "name": "Bright Green",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#009944",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP67",
-    "name": "Purple",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3C2280",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP68",
-    "name": "Madder Red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#D80C18",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP69",
-    "name": "Off White",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F9F8F4",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP70",
-    "name": "Dark Green",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#21423A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP75",
-    "name": "Metallic Red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B01F24",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP76",
-    "name": "Metallic Blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#004EA2",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP77",
-    "name": "Metallic Green",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00894F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP78",
-    "name": "Metal Black",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#000000",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP79",
-    "name": "Shine Red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E60012",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "d7504e6e-77d4-4faf-b689-0ddd4ebc7f2a",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
     "code": "SP8",
     "name": "Silver",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DCDDDD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP80",
-    "name": "Cobalt Blue",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#1D2088",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Mr Hobby",
-    "range": "Mr Color Spray",
-    "code": "SP81",
-    "name": "Russet",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#772A31",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "57f0c0a9-0104-426a-85a1-0d0f9cb2fce8",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
     "code": "SP9",
     "name": "Gold",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DFB603",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "45eec86f-950b-4e73-8120-979e083e042c",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
-    "code": "SP90",
-    "name": "Shine Silver",
+    "code": "SP11",
+    "name": "Light Gull Gray",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
-      "hex": "#D3D3D4",
+      "hex": "#BEC3C4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "22774463-b965-4de3-b05a-a6505611072a",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
-    "code": "SP92",
-    "name": "Semi Gloss Black",
+    "code": "SP12",
+    "name": "Olive Drab (1)",
     "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#685932",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
     "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "75d8663d-a0ee-460b-ace2-8566db3233da",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP13",
+    "name": "Neutral Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#75858C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7d89f204-fb33-422d-8685-7466207566f8",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP14",
+    "name": "Navy Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004652",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d81800c6-38fa-40ae-adb7-28a766580bba",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP15",
+    "name": "IJN Green (Nakajima)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#314836",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "76cc09ff-0f08-480a-b1c7-ea7d5d64c4df",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP16",
+    "name": "Ija Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004D39",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "06c3e8ad-dbac-49cf-ad81-4c49ac8debbd",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP28",
+    "name": "Steel",
+    "type": "other",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e9361524-27b9-43eb-8550-eeb2102da989",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP29",
+    "name": "Hull Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#552E34",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "75c5a989-23cc-4e03-a321-4c1f27bbd604",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP30",
+    "name": "Flat Clear",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5ba6d42c-26be-4b3b-8b50-3e02c6baa9dc",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP31",
+    "name": "Dark Gray (1)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3D715D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c8034ff9-296d-43af-9466-90eef4b1cead",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP32",
+    "name": "Dark Gray (2)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3A555A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "283b336d-58aa-41b8-8ea7-22b70b1f2843",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP33",
+    "name": "Flat Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "844e4605-af8b-40ac-be77-8627ee402cc9",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP34",
+    "name": "Sky Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#008CD6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0c0f6b1d-59c6-4779-bd47-f8a0648ab32d",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP35",
+    "name": "IJN Gray (Mitsubishi)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A6BBC7",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d61c9f1b-4a0b-4ca6-a902-db63765a3d79",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP38",
+    "name": "Olive Drab (2)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#314836",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4433fe0b-73e0-440f-bdc1-c212961445ee",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP39",
+    "name": "Dark Yellow (Sandy Yellow)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BF9D5A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3ca531f0-d5c4-4c3a-8a14-c7e04a6834d6",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP40",
+    "name": "German Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#113C41",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c5eac2e1-6057-4d5a-8994-05ff5a2061c7",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP41",
+    "name": "Red Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#492F32",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "bc8d1cb8-068f-4aeb-b66f-18980ffaac9f",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP42",
+    "name": "Mahogany",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3C3032",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "986ba73c-2d3f-4a58-88ad-f932f65ec551",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP43",
+    "name": "Wood Brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A4A31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "09586573-d913-4acc-9d71-56f564b19dac",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP44",
+    "name": "Tan",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C9A965",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "82df650c-219a-42c5-98d8-0b7c1025331b",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP46",
+    "name": "Clear",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ea1a3025-3e2f-40d5-870e-fe74a892062a",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP47",
+    "name": "Clear Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E60012",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "17754a1e-6ffe-4dae-a0da-0d2903ba4d1a",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP48",
+    "name": "Clear Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFD900",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "be9ad14a-5765-4b03-b38a-6310f275a6d5",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP49",
+    "name": "Clear Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EB6100",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "63412042-f3d9-4408-a779-63e1bfdc47e7",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP50",
+    "name": "Clear Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00A0E9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8808ca18-5d37-446f-a854-95fa0a77d1e6",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP58",
+    "name": "Orange Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EE7800",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "bd859486-31a4-47a8-981f-ea5137f7189a",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP62",
+    "name": "Flat White",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "de365314-a729-426c-bfc8-c3ad12951e64",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP63",
+    "name": "Pink",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EB6D94",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "33718b6c-c31c-43c3-981f-fae4a2913370",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP64",
+    "name": "Yellow Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00A33B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3298059c-9a61-477f-9177-2189066bae84",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP65",
+    "name": "Bright Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004098",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "804217c3-3982-4ea5-8f0e-30d2b9399aaa",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP66",
+    "name": "Bright Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#009944",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "fcc0dcd2-7044-4c03-a435-ce56fa93bcf8",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP67",
+    "name": "Purple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3C2280",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7d6f4a4b-e795-4016-a2ba-e7a1857dd9cf",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP68",
+    "name": "Madder Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D80C18",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "87a8f474-083d-4a24-a339-b93744b995c7",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP69",
+    "name": "Off White",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F9F8F4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c942cf6c-7ce9-4340-bd52-d5aa03c9998f",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP70",
+    "name": "Dark Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#21423A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7543b7dd-ff2e-4dc3-a037-e0cd2b18db87",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP75",
+    "name": "Metallic Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B01F24",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2c1ab4bf-9bb0-4e9f-a500-2e6d54ddfdff",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP76",
+    "name": "Metallic Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004EA2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c2985892-4ca8-4062-9f78-32f858e0e2e7",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP77",
+    "name": "Metallic Green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00894F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "19806103-2a16-4835-9af3-8d3e2ba264c6",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP78",
+    "name": "Metal Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6ccb5c6f-0d5e-4b36-9fd9-6d66f1af7a04",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP79",
+    "name": "Shine Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E60012",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ffb298ab-57ca-4139-8250-6f1026f9639e",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP80",
+    "name": "Cobalt Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1D2088",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "04b70c73-6a4e-4b43-9c2b-291e3bda9035",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP81",
+    "name": "Russet",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#772A31",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0a0f268b-6366-4ab3-bd51-fbf3b8772a89",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP90",
+    "name": "Shine Silver",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D3D3D4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "12d54095-6aa0-4a12-b735-173ce399682b",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP92",
+    "name": "Semi Gloss Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#000000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "22e8095f-c1f4-4f82-8f11-b25f94fc3c49",
     "brand": "Mr Hobby",
     "range": "Mr Color Spray",
     "code": "SP97",
     "name": "Light Gray",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B3BEB2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "f35eb068-668c-4e3c-ba14-0148e5c7558a",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP101",
+    "name": "Smoke Gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3C2D1E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b3eca8a1-d171-4c45-b4e6-3e2f95cbea39",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP107",
+    "name": "Character White",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F5F6F4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ed83b050-1838-47ff-b092-d0350d4a687c",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP108",
+    "name": "Character Red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C8161E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3a2307b1-8d12-47aa-8ae8-503edf24b0ab",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP109",
+    "name": "Character Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F08300",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d918da78-a523-4290-bbe0-daff3ca84847",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP110",
+    "name": "Character Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#004098",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0311c53c-b813-4a09-946a-4f7910a0d8e2",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP111",
+    "name": "Character Flesh (1)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FCE3D6",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "abeff4f3-2a48-4f31-b75b-c4aaa68b25e7",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP112",
+    "name": "Character Flesh (2)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F6BCB8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ffea585c-5c66-4912-923b-85027078cef7",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP115",
+    "name": "RLM65 Light Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#779AA8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "213bb9f9-4bdc-42a4-ad2f-1aab5daec67e",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP117",
+    "name": "RLM76 Light Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BFD5D4",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6d91bcec-f363-4c02-b790-ad5b7544a65e",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP124",
+    "name": "Dark Green (Mitsubishi)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00423B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2fccb81f-2596-400b-bc58-b3ccf7c2ed58",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP129",
+    "name": "Dark Green (Nakajima)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#45644D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5653229c-8241-4dd4-9454-a07d33d864fd",
+    "brand": "Mr Hobby",
+    "range": "Mr Color Spray",
+    "code": "SP151",
+    "name": "White Pearl",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

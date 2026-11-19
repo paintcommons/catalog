@@ -1,77 +1,82 @@
 [
   {
+    "id": "8b0ff260-3aea-4719-abfc-417ec229bdd5",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.730",
     "name": "Yellow Fluorescent",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EFE641",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f4cdb051-d1ba-4b6a-9641-334aea6a6c70",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.733",
     "name": "Orange Fluorescent",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E86016",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "1b9d2f53-3a51-4b4d-b516-c23534e47b13",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.735",
     "name": "Magenta Fluorescent",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E6418D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "24395e98-0b66-4c61-b10b-f015921e0ab0",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.736",
     "name": "Blue Fluorescent",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0370B1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "2e7a0190-1e5e-4d01-92d9-460aa9025939",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.737",
     "name": "Green Fluorescent",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A8C958",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1275,33 +1280,35 @@
     "status": "current"
   },
   {
+    "id": "e13a6a96-1062-47e9-bd33-14405b5fc799",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.831",
     "name": "Tan Glaze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D59335",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "2b8e27ff-fe40-474a-a38a-0031976ef5c3",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.832",
     "name": "Verdigris Glaze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#99D0CA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1325,18 +1332,19 @@
     "status": "current"
   },
   {
+    "id": "03199d59-8d1f-4125-80b4-ac620e204698",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.834",
     "name": "Natural Wood Grain",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EAA432",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1420,18 +1428,19 @@
     "status": "current"
   },
   {
+    "id": "697c0bda-3a19-449c-b02c-94902adb2684",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.839",
     "name": "Ultramarine",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2D559D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1475,18 +1484,19 @@
     "status": "current"
   },
   {
+    "id": "04bc1dfa-eb41-455b-a5b8-ee6e260338bb",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.842",
     "name": "Gloss White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F5F3F4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1630,48 +1640,51 @@
     "status": "current"
   },
   {
+    "id": "8543d730-8a48-48e9-9e8d-e279c88b325d",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.853",
     "name": "White Glaze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F4F4F6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "22dfcf85-4f30-4c1a-87c3-bc3fdd2e6195",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.854",
     "name": "Brown Glaze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4E403D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "3023440d-a962-4bdc-b9a7-fd9c76d00d60",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.855",
     "name": "Black Glaze",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#383838",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -1695,18 +1708,19 @@
     "status": "current"
   },
   {
+    "id": "03858d52-5106-418a-9cc2-94d6ba3c1fa5",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.857",
     "name": "Golden Olive",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#808145",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -2470,18 +2484,19 @@
     "status": "current"
   },
   {
+    "id": "e42ca26b-1df7-4edd-9097-9fa041fca239",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.900",
     "name": "French Mirage Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5F6772",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -2525,18 +2540,19 @@
     "status": "current"
   },
   {
+    "id": "6aabb1d3-ea9d-4a34-8016-b71ebf3059e2",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.903",
     "name": "Intermediate Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#646D76",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -2640,18 +2656,19 @@
     "status": "current"
   },
   {
+    "id": "72aa8db4-60ac-4e02-a864-6c170730ace0",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.910",
     "name": "Orange Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DC4319",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -2675,18 +2692,19 @@
     "status": "current"
   },
   {
+    "id": "b2fb3956-f844-4848-ac5d-31c49244d0d3",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.912",
     "name": "Tan Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C19B6E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -3050,78 +3068,83 @@
     "status": "current"
   },
   {
+    "id": "cf17540d-b5fd-4923-aa8c-c115f7081d7c",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.934",
     "name": "Transparent Red",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B62336",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "42fe5f45-d9e4-48f5-ab5e-9998299f9d31",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.935",
     "name": "Transparent Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EA651A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "4b600ebd-735c-4d91-bdd7-95a2b226f394",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.936",
     "name": "Transparent Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#007943",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "65618d0a-1ef9-40b6-8951-9d01956d2805",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.937",
     "name": "Transparent Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F7A501",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "cda7afde-e486-4f0f-8587-a95526796cc5",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.938",
     "name": "Transparent Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#323D5D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -3185,18 +3208,19 @@
     "status": "current"
   },
   {
+    "id": "332be3f4-db8f-4bef-a59b-c9ccb35ed214",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.942",
     "name": "Light Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#007943",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -3800,18 +3824,19 @@
     "status": "current"
   },
   {
+    "id": "3dc8f651-024e-4b1c-bf4d-86a9264751db",
     "brand": "Vallejo",
     "range": "Model Color",
     "code": "70.973",
     "name": "Light Sea Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A1B1B1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {

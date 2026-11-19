@@ -1,77 +1,82 @@
 [
   {
+    "id": "d8c4f567-8728-4db6-8db5-7910a2313656",
     "brand": "P3",
     "range": "Privateer Press Formula P3 Wash",
     "code": null,
     "name": "Armor Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#879284",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e9b917f2-a973-46bf-b95f-47b99113ba1d",
     "brand": "P3",
     "range": "Privateer Press Formula P3 Wash",
     "code": null,
     "name": "Caspian Flesh Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A49881",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c444c473-e623-47be-bd8f-1d8b11ec534e",
     "brand": "P3",
     "range": "Privateer Press Formula P3 Wash",
     "code": null,
     "name": "Flesh Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CCB19D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "88603205-859a-4db9-91e0-6f891804d1ae",
     "brand": "P3",
     "range": "Privateer Press Formula P3 Wash",
     "code": null,
     "name": "Kossite Flesh Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AA9883",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "06e2a4b1-5aab-42c5-82a2-9e18b5a4d9ee",
     "brand": "P3",
     "range": "Privateer Press Formula P3 Wash",
     "code": null,
     "name": "Muddy Wash",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8A7F6E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

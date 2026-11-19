@@ -1,392 +1,418 @@
 [
   {
+    "id": "47e17feb-1dbc-4492-9da6-03d44f9221d1",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Antique Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C5AB18",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a04f6976-f420-44af-968d-e48c5a93460b",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Black",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#373737",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "62b2aba5-f4a4-408d-9453-c35aec8fd79f",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Black Copper",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4B1C14",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0f8d96f9-cd6e-41dd-b5b3-1c4bc118ef0e",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Blue",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#292FFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "086cebdd-2521-407f-a430-930fa8e3fd2f",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Bright Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DFB308",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c0b51add-067f-4ece-81c6-9c03f0298b21",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Brown",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D0A91E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "69fad6f1-0093-452f-afa4-0d977e578e23",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Choco",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C67F23",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c60707aa-8b36-4462-8313-79fa79c6e201",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Copper",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AA441E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bbdf6d52-d73c-41b1-94de-3c47c862820d",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Crimson",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FE4A49",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1cebc221-71b3-458c-8746-ae125201f2d1",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Dark Copper",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#793C2A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b29e25c0-4208-441f-a641-c498049b26ed",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Dark Green",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#74DE3E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6a276cfc-b59d-46e7-93ac-282d0e107320",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Emerald",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#298B52",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "56baa5bb-bc47-43b9-8a5b-b2a5640be48e",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Green",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E4FF56",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7f4d00c1-34b6-458f-8519-1dd5117bfa6e",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Lemon",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C58641",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "447cf645-cf99-44d1-92ea-923ca74b2791",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Pale Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEE185",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "968d0722-8249-48ac-b2cf-a5a178dd86cc",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Pewter",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#747474",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "69d7408b-8e98-4ac3-b7eb-f624fbc84aa5",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Pink",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FE69BA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9383c40f-363a-4734-9e9b-eec0972f29f8",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Red",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F11718",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4b82885c-6a62-4ae9-be93-283f6e576454",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Sand",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEFF5F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ccad254f-16e2-473f-9ec6-e352a764df6f",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Silver",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#979797",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a29a39e4-0959-4337-81a9-e6e752f25d81",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Sky",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4491FD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8d38f34a-28ec-4542-9b42-e1503e1241ea",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Turquoise",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#38DB5A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1456b6c8-1745-4b22-b7ee-51286d6bbb02",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Ultramarine",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7E35FF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cffa4b7d-0f88-4968-8cc1-7336251f3af8",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Violet",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7906AB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dfb105f8-f4d0-4ef0-8b82-a54a23332a55",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic White",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C9C9C9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3a5121e9-f28a-4813-813b-719f0743124b",
     "brand": "Warcolours",
     "range": "Metallic paints",
     "code": null,
     "name": "Metallic Yellow",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#89811F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

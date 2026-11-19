@@ -1,77 +1,82 @@
 [
   {
+    "id": "c863d9b8-b4ee-4824-b336-2db53cea33f3",
     "brand": "Monument Hobbies",
     "range": "Pro Acrylic Primer",
     "code": "002P",
     "name": "PRIME Black",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#18191B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "16411a92-2509-4e0f-8fdd-fc9d0f0898fd",
     "brand": "Monument Hobbies",
     "range": "Pro Acrylic Primer",
     "code": "003P",
     "name": "PRIME White",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E7E9E4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ce58ee88-e906-4842-83ad-0e11253755dd",
     "brand": "Monument Hobbies",
     "range": "Pro Acrylic Primer",
     "code": "005P",
     "name": "PRIME Dark Neutral Grey",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#303839",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0e0627dd-6547-43fc-90af-94ab1ba265b3",
     "brand": "Monument Hobbies",
     "range": "Pro Acrylic Primer",
     "code": "007P",
     "name": "PRIME Dark Camo Green",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3A3F39",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8f780d22-f87d-4496-b36a-aba70076a0b1",
     "brand": "Monument Hobbies",
     "range": "Pro Acrylic Primer",
     "code": "011P",
     "name": "PRIME Black Brown",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#404240",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

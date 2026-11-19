@@ -1,1202 +1,1282 @@
 [
   {
+    "id": "ed92ae51-7bc8-4a6f-a171-01d2033bc9b1",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11301",
     "name": "Wwi British Khaki Brown Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#52412D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4d967d12-cccf-4a26-8625-0d7171a37372",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11302",
     "name": "Wwi French Milky Coffee",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9A7B4D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "42e9dd53-8f58-47c9-b963-4638724d3b34",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11303",
     "name": "Wwi French Artillery Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#545D6C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1f065e62-5bca-4243-a1ef-d13e157d650e",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11304",
     "name": "Wwi French Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4D2A17",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f7e26a99-0e89-4885-88d0-40dda55d74fb",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11305",
     "name": "Wwi French Green 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#373F2A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2633ffb0-5cbf-4446-945b-4bf8a7eae3bb",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11306",
     "name": "Wwi French Green 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2A281C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ec77c6d9-a7d0-4b34-9787-826a9033ffed",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11307",
     "name": "Ral 7009 Hellgrau",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#65624F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "41d5ba62-b50d-4d5d-8cdb-3603d8d3f150",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11308",
     "name": "Ral 6007 Grün",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2A2D1C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bdaaac1a-c682-4473-8eb8-eaedc790b959",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11309",
     "name": "Ral 6003 Olivgrün Opt.1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4E5220",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b721b0b3-5919-4b8d-9aa6-905eb60a1ad0",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11310",
     "name": "Ral 6003 Olivgrün Opt.2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3C3815",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "96e4f708-1747-4ee8-90c2-60ffef761148",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11311",
     "name": "Ral 6011 Resedagrün",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#616D3F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0e9fbfed-d458-43da-96f4-7d10e502d862",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11312",
     "name": "Ral 6011b Resedagrün",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5A6334",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e9434816-196e-4246-9314-6e3927247ee1",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11313",
     "name": "Ral 7008 Graugrün",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#817136",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9bef8110-93d0-491e-b131-8ad1e848e5fa",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11314",
     "name": "Ral 7008 Graugrün Opt 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6D7539",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f14038d8-d7a0-4c80-9752-45b51259c03f",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11315",
     "name": "Ral 7017 Dunkelbraun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4E3D2D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "00df6d15-7e13-4dbd-8b60-7fedcf5fcfd7",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11316",
     "name": "Ral 7021 Dunkelgrau",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1D2120",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "36434683-99b2-409d-8c87-6e3af6cc16a9",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11317",
     "name": "Ral 7027 Grau",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#827B5F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a200f180-c861-4516-bd25-f289293a3fc8",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11318",
     "name": "Ral 7028 Dunkelgelb (initial)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A48A40",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0d44dc1d-0f0c-4eb9-962a-c36b6f68d3ea",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11319",
     "name": "Ral 7028 Dunkelgelb Ausgabe 1944",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#967B36",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "449dfe2b-1b0e-4dc9-97da-0b2ed4930e78",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11320",
     "name": "Ral 7028 Dunkelgelb (variant)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E3CF88",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b986cd50-b37d-42b2-9d34-58c23416ac6d",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11323",
     "name": "Ral 6040 F9 Helloliv",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#675A30",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bbe68059-b6bd-428c-a257-65ecdce0862c",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11325",
     "name": "Ral 1039 F9 Sandbeige",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BB9B62",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9657cd9f-5abd-4e5f-ae7b-78226597b7ba",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11326",
     "name": "Ral 8031 F9 Sandbraun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A37841",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "304dfa51-0af8-4392-85ed-f56413c80c13",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11327",
     "name": "Ral 8000 Gelbbraun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#846829",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "10f2090e-feee-44a7-8937-60b3d73ad08d",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11328",
     "name": "Ral 8012 Rotbraun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6D2114",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5440f8a2-e5a8-4588-accd-f2be80f97051",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11329",
     "name": "Ral 8013 Rotbraun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#531812",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9cf96823-4652-4583-a74d-88df03aac31c",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11330",
     "name": "Ral 8017 Rotbraun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3C251D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "df111fb8-ce3f-434c-8290-a42ba4b1599d",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11331",
     "name": "Ral 8020 Braun",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AC8355",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7c94afa7-765c-48e2-a92b-6e14db834f9a",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11333",
     "name": "Cremeweiss",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E8DEAD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d89397c9-0476-4028-9921-9aba1df438ca",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11334",
     "name": "Olive Drab Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#58542E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1579f05a-71aa-4743-9dfb-31b614f1259f",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11335",
     "name": "Nº1 Light Green (fs34151)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5F621F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ca8f5a3e-223e-4fc7-af2b-b70511bf6d82",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11336",
     "name": "Nº5 Earth Brown (fs30099)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4F3A27",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cdb37049-e0cb-4f1e-a252-b15c76641984",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11337",
     "name": "Nº6 Earth Yellow (fs30257)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A67437",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f3289366-0cb1-4a57-8241-a0ccb771ae53",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11338",
     "name": "Nº8 Earth Red (fs30117)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6D3D26",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3e05bbe6-de86-45db-bf87-f88c0e2f2e20",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11339",
     "name": "Nº9 Olive Drab (fs33070)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3D4023",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1e5c1092-d842-4bb1-a1fd-70f546a91971",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11340",
     "name": "Nº13 Desert Sand (fs30279)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A78464",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "52b6050f-c586-40e3-b5f3-6b20153cb73a",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11341",
     "name": "Ocean Gray (fs35164)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4B5B6B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3aa10181-3baf-4bfe-aaec-67de9fef0e49",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11342",
     "name": "Dark Green (fs34102)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#363D1E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "73f7eac3-917f-4641-9434-0c2ca4bf785c",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11343",
     "name": "Merdc Sand (fs30277)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#866E48",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "005f4f50-4bd3-4641-b370-953d2b5915ba",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11344",
     "name": "Field Drab (fs30118)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#58401E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "921c2720-fad6-4225-9e73-6fb4ccd38a56",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11345",
     "name": "Apc Interior Light Green (fs24533)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C9CBA3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "703b6cb7-5cd4-4b42-b070-a61e22218585",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11346",
     "name": "Forest Green (fs34079)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2A3517",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "168411a2-bd69-494f-a107-a1f9077fe21e",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11347",
     "name": "Australian Camouflage Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AA8C5A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ab8d1649-7460-42d3-ae23-033f4ccd9321",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11348",
     "name": "Australian Camouflage Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5F621F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "80d01144-3ae8-4743-8913-0feb6f8ba8aa",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11349",
     "name": "Carc Tan 686a (fs33446)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B69262",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e6d4797f-a39f-4967-87b4-e000963f7f5a",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11350",
     "name": "Modern Spanish Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2C341D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2a320f51-a131-4c60-9d91-02ab4d10a11e",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11351",
     "name": "Wood Base",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A59468",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b93aac20-d7b5-4ac4-8cab-be9afc306f11",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11352",
     "name": "Idf Modern Grey",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6D582D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a2c70c36-65a6-437f-ae35-81b15c4f7e03",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11353",
     "name": "Idf Sand Grey 1970s-1980s",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#73643B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4eed24ef-af74-40e6-bab1-c99087b5bc3b",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11354",
     "name": "Idf Early Sand Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8F7F4B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dcb813c8-1b76-41a8-afa1-f7e158bf7fb3",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11355",
     "name": "Idf Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#32361D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bbe4b666-4afa-4a37-8369-dee8fba1ce66",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11356",
     "name": "Sla Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#43605C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a5b16790-2716-4f62-a941-e5ce73da1ff8",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11357",
     "name": "Laf Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2E3022",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3c4b7952-29aa-416d-9364-7e757fbceb43",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11358",
     "name": "Nato Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2B3F26",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bdd9ff01-28be-4fa4-bf62-55e3e0817708",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11359",
     "name": "Nato Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#493325",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "60f25f13-5d7b-4c5b-ab98-68de84a01262",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11360",
     "name": "Nato Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#262425",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5b2b001e-396a-4fa5-9ddc-c5f57e2a46e4",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11361",
     "name": "New Iraqi Army Sand",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D8BC7D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dc38b90c-aa3a-4173-b18d-7c67e34a0a68",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11362",
     "name": "British Sand Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E1A43A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f852c08d-78f3-492a-bb9e-9b6b749642da",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11363",
     "name": "French Army Desert Sand",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D0A66C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "18c1e906-4d53-4b59-9c8e-07bff85699a1",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11364",
     "name": "French Army Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4B584E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "89e5e3af-42db-4900-8e44-5fa5ce01b888",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11365",
     "name": "French Army Grey-blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#2F4747",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4dbfd64d-5a83-4acd-86f6-95ad7d130f61",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11366",
     "name": "Mustard Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CB982F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5e49aaaf-18ba-4ccb-8ea7-5d592f8a7118",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11367",
     "name": "Base Green (protective)",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#373622",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fd5bb631-3a45-44aa-a5b9-dab8f3130a49",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11368",
     "name": "Russian Green 4bo",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4C4D25",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "24dbd5fe-0edc-4454-a04e-2327d5573fc7",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11369",
     "name": "Russian Dark Brown 6k",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#321507",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "538683b6-2ed3-4658-9ab3-b6d12a520a6f",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11370",
     "name": "Russian Sand 7",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#967E50",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4782dfd7-5f81-4bf0-a4b4-86e950c207d4",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11371",
     "name": "Protective Green 1920s-1930s",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#24361E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "722a77d0-3e01-4733-8fb6-de915e8cc9b6",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11372",
     "name": "Washable White Paint",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "817374b3-de71-4993-95e1-dfbc0e60a34c",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11373",
     "name": "Khaki Green No.3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4F4231",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d0ce89d6-d131-419c-bb45-9dbedf7a712c",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11374",
     "name": "Silver Grey No.28",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9F9D6A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cf616fd5-4ed2-4c9b-a1b0-d6c13ff437e0",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11375",
     "name": "Slate No.34",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4D4C2D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8233b1bf-cb8f-4dcf-be3f-25c9c90d7d0f",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11377",
     "name": "Light Stone No.61",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D1B359",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2a98b782-9daa-4424-afdc-2cd01511beff",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11378",
     "name": "Portland Stone No.64",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F1DFA1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f5661582-9c27-4c6b-9821-51771ce32248",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11381",
     "name": "British Dark Olive Green Pfi",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#49442E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "958fe417-9676-45fd-a5b5-4f43abaa1b84",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11382",
     "name": "British Desert Pink Zi",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F09060",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "46c10e8c-2d4c-464d-9b89-cb6bc9873afd",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11383",
     "name": "British Light Mud",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A5915E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f696e165-396e-4ed4-8c96-4079584e205f",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11384",
     "name": "S.c.c. No.1a Very Dark Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#371E17",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "eba2df64-0681-46df-a8ef-2b8ea507cb18",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11385",
     "name": "S.c.c. No.2 Brown",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#855F2E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "256193e3-d45c-40c6-8440-ece77723e484",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11386",
     "name": "S.c.c. No.15 Olive Drab",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4D4B32",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1bd7ee86-b474-4f57-90a1-977340c4277d",
     "brand": "AK Interactive",
     "range": "AFV (3rd Gen)",
     "code": "AK11387",
     "name": "3b Au/zb Au",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1F2211",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

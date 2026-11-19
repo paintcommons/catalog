@@ -1,167 +1,178 @@
 [
   {
+    "id": "8d5a16e8-b0b3-409e-9057-173ea28d7ddd",
     "brand": "Mr Hobby",
     "range": "Mr Clear Color GX",
     "code": "GX101",
     "name": "Clear Black",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#758399",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "719de281-f9f6-406e-8eca-e77ea4877585",
     "brand": "Mr Hobby",
     "range": "Mr Clear Color GX",
     "code": "GX102",
     "name": "Deep Clear Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CB232F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "117fd52d-c476-4426-8dd5-282613bbdecf",
     "brand": "Mr Hobby",
     "range": "Mr Clear Color GX",
     "code": "GX103",
     "name": "Deep Clear Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0077C6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3e6a197b-843f-4ded-b185-9ec04bb30184",
     "brand": "Mr Hobby",
     "range": "Mr Clear Color GX",
     "code": "GX104",
     "name": "Clear Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#02A861",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b18bf063-5171-444d-8167-7c28ca6dfd7c",
     "brand": "Mr Hobby",
     "range": "Mr Clear Color GX",
     "code": "GX105",
     "name": "Clear Pink",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DF5492",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bc2337ec-4883-4329-8e97-7163d331c01a",
     "brand": "Mr Hobby",
     "range": "Mr Clear Color GX",
     "code": "GX106",
     "name": "Clear Orange",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#EC5B00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "18eece86-172e-4597-8706-05e74c57a678",
     "brand": "Mr Hobby",
     "range": "Mr Clear Color GX",
     "code": "GX107",
     "name": "Clear Purple",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5B4EA3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "80094f14-c3ec-4fc5-bebb-3494657249b7",
     "brand": "Mr Hobby",
     "range": "Mr Clear Color GX",
     "code": "GX108",
     "name": "Clear Violet",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#45258A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b5784886-edb1-4f38-82da-da677531c616",
     "brand": "Mr Hobby",
     "range": "Mr Clear Color GX",
     "code": "GX109",
     "name": "Clear Brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D49D31",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "76773aab-ea23-437b-abf2-99067cf87a07",
     "brand": "Mr Hobby",
     "range": "Mr Clear Color GX",
     "code": "GX110",
     "name": "Clear Silver",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BFBAAF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7ddaf2a8-ed4e-4e92-b09a-55f186561a2d",
     "brand": "Mr Hobby",
     "range": "Mr Clear Color GX",
     "code": "GX111",
     "name": "Clear Gold",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B7831E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

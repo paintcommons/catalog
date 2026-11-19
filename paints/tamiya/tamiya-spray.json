@@ -1,1517 +1,1618 @@
 [
   {
+    "id": "5f18bdf6-6f0a-46f9-a8ec-63d1d5f80fbb",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-1",
     "name": "Red brown",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#66370A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-10",
-    "name": "French blue",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#3690C0",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-100",
-    "name": "Semi-gloss bright gun metal",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-101",
-    "name": "Base white",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-11",
-    "name": "Maroon",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#4D1202",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-12",
-    "name": "Orange",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FF5900",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-13",
-    "name": "Clear",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-14",
-    "name": "Black",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#333333",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-15",
-    "name": "Blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#09347B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-16",
-    "name": "Yellow",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFE600",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-17",
-    "name": "Gloss aluminum",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C2C8CA",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-18",
-    "name": "Metallic red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E30017",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-19",
-    "name": "Metallic blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#0A50A1",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "bb0fa7e0-02a8-4cb0-b63f-6767bd85cf4d",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-2",
     "name": "Dark green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1A2D0F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-20",
-    "name": "Metallic green",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#279E4F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-21",
-    "name": "Gold",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CCA208",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-22",
-    "name": "Light green",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#7FC31C",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-23",
-    "name": "Light blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#28AECF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-24",
-    "name": "Purple",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#474BA0",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-25",
-    "name": "Pink",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FA9AB8",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-26",
-    "name": "Pure white",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-27",
-    "name": "Matt white",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-28",
-    "name": "Olive drab 2",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#4D5613",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-29",
-    "name": "Semi gloss black",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#333333",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "65b9c924-728d-43e8-adc4-b59438ee3e3e",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-3",
     "name": "Dark yellow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CBAF5B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-30",
-    "name": "Silver leaf",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CCCCCC",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-31",
-    "name": "Bright orange",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FE1B0E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-32",
-    "name": "Haze grey",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#7B8E92",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-33",
-    "name": "Dull red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#660000",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-34",
-    "name": "Camel yellow",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFB300",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-35",
-    "name": "Park green",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#33A23D",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-36",
-    "name": "Fluorescent red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FC0019",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-37",
-    "name": "Lavender",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#6A2990",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-38",
-    "name": "Gun metal",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#505557",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-39",
-    "name": "Mica red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E60000",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "121016d4-0d92-4f09-924b-14034334cb47",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-4",
     "name": "German grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3E474A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-40",
-    "name": "Metallic black",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#393D3E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-41",
-    "name": "Coral blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#4EB8A3",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-42",
-    "name": "Light gun metal",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#737A7C",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-43",
-    "name": "Racing green",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#184316",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-44",
-    "name": "Brilliant blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#0860A8",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-45",
-    "name": "Pearl white",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F2F2E5",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-46",
-    "name": "Light sand",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CBA458",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-47",
-    "name": "Chrome yellow",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFCC00",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-48",
-    "name": "Gunship grey",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#464A4B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-49",
-    "name": "Bright red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FF0000",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "be808619-9bb7-457a-bbe0-4227038137e8",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-5",
     "name": "Olive drab",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#404B13",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-50",
-    "name": "Mica blue",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#0B3A8B",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-51",
-    "name": "Racing blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#0E1E7D",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-52",
-    "name": "Candy lime green",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#4DAC26",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-53",
-    "name": "Deep metallic blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#112135",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-54",
-    "name": "Light metallic blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#10667A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-55",
-    "name": "Dark blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#02142E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-56",
-    "name": "Brilliant orange",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FF7F00",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-57",
-    "name": "Blue violet",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#5172B3",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-58",
-    "name": "Pearl light blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#7396BA",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-59",
-    "name": "Pearl light red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CC86A3",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "a21e3285-0b92-4f7f-b0d6-d87af361a7a9",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-6",
     "name": "Matt black",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#333333",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-60",
-    "name": "Pearl green",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#99CA90",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-61",
-    "name": "NATO green",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#33601A",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-62",
-    "name": "NATO brown",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#733007",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-63",
-    "name": "NATO black",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#222424",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-64",
-    "name": "Dark mica blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#0A1423",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-65",
-    "name": "Pearl clear",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E6E6CF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-66",
-    "name": "IJN gray (Kure Arsenal)",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#828D93",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-67",
-    "name": "IJN graySasebo Arsenal",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#686D71",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-68",
-    "name": "Wooden deck tan",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CBA46C",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-69",
-    "name": "Linoleum deck brown",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#5C2105",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "491815da-dc64-42d2-8aae-feaee32b1534",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-7",
     "name": "Racing white",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E6E6E6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-70",
-    "name": "Olive drab (JGSDF)",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#2E4112",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-71",
-    "name": "Smoke",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B3AAAE",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-72",
-    "name": "Clear blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#34B0B9",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-73",
-    "name": "Clear orange",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FF7300",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-74",
-    "name": "Clear red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F0027F",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-75",
-    "name": "Champagne gold",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C3B87E",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-76",
-    "name": "Mica silver",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CCCCCC",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-77",
-    "name": "Flat flesh",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FDC086",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-78",
-    "name": "Field grey",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#4F6C56",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-79",
-    "name": "Semi gloss clear",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "92a6b76f-0789-4304-9755-018a01b0617d",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-8",
     "name": "Italian red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FF0000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-80",
-    "name": "Flat clear",
-    "type": "other",
     "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFFFFF",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
     "status": "current"
   },
   {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-81",
-    "name": "Royal light gray",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C1CAC8",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-82",
-    "name": "Rubber black",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#444648",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-83",
-    "name": "Metallic silver",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#D9DADE",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-84",
-    "name": "Metallic gold",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#DDD29D",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-85",
-    "name": "Bright mica red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E50012",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-86",
-    "name": "Pure red",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E50012",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-87",
-    "name": "Titanium gold",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C7BA82",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-88",
-    "name": "Titanium silver",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C6CDC2",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Tamiya",
-    "range": "Tamiya Spray",
-    "code": "TS-89",
-    "name": "Pearl blue",
-    "type": "other",
-    "source": "arcturus-miniature-paints",
-    "barcodes": [],
-    "colour": {
-      "hex": "#0C3E80",
-      "gradient": null,
-      "source": "arcturus-miniature-paints"
-    },
-    "status": "current"
-  },
-  {
+    "id": "f4686178-490d-4caa-bf8d-fa087844b885",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-9",
     "name": "British green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#002B11",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "97b56131-2e3d-45ae-b06a-7087f7939ccb",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-10",
+    "name": "French blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#3690C0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "be9c52a8-bcbc-44ca-9d61-96f482d8a0ad",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-11",
+    "name": "Maroon",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D1202",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2e10fe26-5bb4-4b73-9f82-5f52573f3ad1",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-12",
+    "name": "Orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FF5900",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4f224009-6c90-40a2-a3a5-b39c2e96b950",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-13",
+    "name": "Clear",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "cc6204b6-4914-488a-8e79-eb29d555c6ae",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-14",
+    "name": "Black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#333333",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5dddbab5-9718-40a4-b89f-efdc0ca19703",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-15",
+    "name": "Blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#09347B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "e0591be4-b3aa-47e6-91e6-d381222e4925",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-16",
+    "name": "Yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFE600",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ee0cdcfd-b504-4e14-86b2-ec0e26492ce8",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-17",
+    "name": "Gloss aluminum",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C2C8CA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1315023e-4ed8-4e5e-9fe8-45c86784d45a",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-18",
+    "name": "Metallic red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E30017",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4a42246b-8e77-4454-89cf-95423092b7d0",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-19",
+    "name": "Metallic blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0A50A1",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8b8d1cd2-86d0-4c98-81c8-fcf9aa03c7cc",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-20",
+    "name": "Metallic green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#279E4F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1ad0751a-1701-4302-b0bc-d92b2fcad3fa",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-21",
+    "name": "Gold",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CCA208",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4a115a88-3b38-4f76-a77a-bec5a217564c",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-22",
+    "name": "Light green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7FC31C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "38d8bd9e-7673-46de-a1c4-42a67e077611",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-23",
+    "name": "Light blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#28AECF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "aa84a96d-f0c6-4823-bb06-52d7bd057fd6",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-24",
+    "name": "Purple",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#474BA0",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ffb69d62-8d16-40f2-8c59-bcbfb47239c8",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-25",
+    "name": "Pink",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FA9AB8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d926e070-271e-4381-8feb-50337958e2fb",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-26",
+    "name": "Pure white",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0e1799c0-0b04-4506-b6ab-6d506a1d370b",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-27",
+    "name": "Matt white",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b1335199-45cd-490c-a65a-abea4c222b44",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-28",
+    "name": "Olive drab 2",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4D5613",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "f338c449-25d8-4d4c-a876-3d6c35c436a2",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-29",
+    "name": "Semi gloss black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#333333",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "a9fc8afa-c338-4cdd-a28a-20917721fd11",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-30",
+    "name": "Silver leaf",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CCCCCC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "fa44b2c5-0392-40eb-a616-722356faf55f",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-31",
+    "name": "Bright orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FE1B0E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "99be4f6f-52d4-4ef5-ac08-315acde12529",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-32",
+    "name": "Haze grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7B8E92",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "a7b5b252-bf4e-40d2-b5b5-06b21764aa71",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-33",
+    "name": "Dull red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#660000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "92357b1b-1e72-4d9e-9707-f7c0679e1574",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-34",
+    "name": "Camel yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFB300",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4c334e5b-3322-4042-bf7d-263cb70ceeff",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-35",
+    "name": "Park green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#33A23D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "0006d84b-d738-4181-b17a-f8edd99ac163",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-36",
+    "name": "Fluorescent red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FC0019",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "63f9e3d2-52f4-444a-a72b-4a4aaece0166",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-37",
+    "name": "Lavender",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#6A2990",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "cb5773a3-0845-4a1a-85f4-eef12cf41421",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-38",
+    "name": "Gun metal",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#505557",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "23aea847-1ebb-4904-ab6c-7919932818e4",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-39",
+    "name": "Mica red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E60000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "aae51318-7c96-4f24-b789-5d95a7f568ca",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-40",
+    "name": "Metallic black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#393D3E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "fcb463bd-a3d4-4e6d-8262-b0300295ad57",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-41",
+    "name": "Coral blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4EB8A3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "338a0d23-945e-4a0f-bc33-4fe0446fb1b8",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-42",
+    "name": "Light gun metal",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#737A7C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "02ecd234-9a2c-4d1d-ad85-29e9a490931a",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-43",
+    "name": "Racing green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#184316",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "37c71531-5f20-485e-9edb-bbb99ca0021b",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-44",
+    "name": "Brilliant blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0860A8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1d6c454f-1223-4687-8a7b-da6fe9cabd98",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-45",
+    "name": "Pearl white",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F2F2E5",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "ff10f573-f111-4480-adee-894744dbeecc",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-46",
+    "name": "Light sand",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CBA458",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "3918c381-6675-43e2-b8d3-6662f0166b74",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-47",
+    "name": "Chrome yellow",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFCC00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "cf0c2508-7978-4591-aa4b-b3e741fbd230",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-48",
+    "name": "Gunship grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#464A4B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "46e882ed-e817-47ed-8720-40685786b439",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-49",
+    "name": "Bright red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FF0000",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "476f2724-8d29-484b-b00a-b7a452a4dc2a",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-50",
+    "name": "Mica blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0B3A8B",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "81d7b80f-a3f2-457f-a45e-25f1b59f102c",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-51",
+    "name": "Racing blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0E1E7D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "2d982f26-bf3d-46d7-86a4-c7600e0f3913",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-52",
+    "name": "Candy lime green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4DAC26",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8e8e5500-f95d-4ff5-84f9-d7066aa5ae5a",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-53",
+    "name": "Deep metallic blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#112135",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "509d2adc-db22-4d05-b20a-2a5b1c6a5e18",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-54",
+    "name": "Light metallic blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#10667A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "32829194-55c2-4476-aa04-5c0d0355597c",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-55",
+    "name": "Dark blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#02142E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8b573dac-1959-4757-8e2c-1585138243be",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-56",
+    "name": "Brilliant orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FF7F00",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "cbcd302e-e2bd-4bcb-9a39-8950df2fa09f",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-57",
+    "name": "Blue violet",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5172B3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "5d52897c-b639-451f-9fe0-da58265c8b4e",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-58",
+    "name": "Pearl light blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#7396BA",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "7629b217-9931-4374-9260-6bd37e5e0bfc",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-59",
+    "name": "Pearl light red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CC86A3",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4dcd562e-1e28-419e-b6ce-8a1f83546cf5",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-60",
+    "name": "Pearl green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#99CA90",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8b1aeae3-e846-4dd7-9823-60bdf2f3a6fa",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-61",
+    "name": "NATO green",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#33601A",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4dc44e4f-14ff-44db-9946-afffd348f9ff",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-62",
+    "name": "NATO brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#733007",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "745a0cbd-c783-4a3e-b178-bf48728a1ec6",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-63",
+    "name": "NATO black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#222424",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4ee2fe15-c9a0-49c1-814b-558fafd19d55",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-64",
+    "name": "Dark mica blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0A1423",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "e6c25951-266d-4ea6-b691-5815fffa7f09",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-65",
+    "name": "Pearl clear",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E6E6CF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "1015fba5-2322-4552-b777-3d053a931e26",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-66",
+    "name": "IJN gray (Kure Arsenal)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#828D93",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d5ed86e3-dd4b-425a-a848-b092246a7fe4",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-67",
+    "name": "IJN graySasebo Arsenal",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#686D71",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "81b4dfe7-79b5-4eb9-9cf8-e56e055dfdd6",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-68",
+    "name": "Wooden deck tan",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CBA46C",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "dc0c4aa3-352c-4bdd-a8d3-ef15ebc8979b",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-69",
+    "name": "Linoleum deck brown",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5C2105",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "129eef06-45d7-4429-b640-9d580131118b",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-70",
+    "name": "Olive drab (JGSDF)",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2E4112",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d4e26d60-13ef-4d2e-9889-2312551682f9",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-71",
+    "name": "Smoke",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B3AAAE",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b2d17030-4663-4fa6-b691-45c9dc52e161",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-72",
+    "name": "Clear blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#34B0B9",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8a2c503c-4fdf-481f-a2e0-9df6436fec48",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-73",
+    "name": "Clear orange",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FF7300",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "41e5e4fb-1839-4331-9b70-8b5723687b94",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-74",
+    "name": "Clear red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F0027F",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "92eae3a0-6f70-4c33-b86b-b4633acb0eb9",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-75",
+    "name": "Champagne gold",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C3B87E",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c982aca8-72ea-4e78-96e8-e8462ee89081",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-76",
+    "name": "Mica silver",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CCCCCC",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "698b5741-3989-49c4-a21e-50291578f4ae",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-77",
+    "name": "Flat flesh",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FDC086",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "efda1bb6-4377-45fc-af7d-f7ff5033a579",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-78",
+    "name": "Field grey",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4F6C56",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4c023eec-1e19-4fea-8148-1668e6ae151f",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-79",
+    "name": "Semi gloss clear",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "d3a70a8e-3f59-4e9c-8ce4-dab13c1a83ab",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-80",
+    "name": "Flat clear",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "6a1e3997-25a3-4805-b9b2-2b873efcf182",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-81",
+    "name": "Royal light gray",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C1CAC8",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "baeae3f4-fa9a-43da-8962-92598027add9",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-82",
+    "name": "Rubber black",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#444648",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "194098b5-5e86-4455-8e1c-7f6d5f3347b3",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-83",
+    "name": "Metallic silver",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D9DADE",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "b23c74e7-0553-4d5f-88d4-4bce502cce81",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-84",
+    "name": "Metallic gold",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DDD29D",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "4d41a26a-d527-48a3-b2c7-e0944646742e",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-85",
+    "name": "Bright mica red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E50012",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "415e9aa0-fe83-4495-b314-1b0791459edb",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-86",
+    "name": "Pure red",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E50012",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "8fd81144-165c-4eec-be90-be1fe40b92dd",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-87",
+    "name": "Titanium gold",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C7BA82",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "352398fc-3acd-475e-82d0-96332fe58262",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-88",
+    "name": "Titanium silver",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C6CDC2",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "c079476d-72a3-4cc8-991d-e8dc994c6d6b",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-89",
+    "name": "Pearl blue",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#0C3E80",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "e92247dc-b2ae-462f-a036-5806fc75eec6",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-90",
     "name": "Brown (JGSDF)",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#826636",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e1836352-ce66-44f5-b20b-a6f50ea05259",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-91",
     "name": "Dark green (JGSDF)",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3c1ed6ef-34f9-4c8b-a9b8-bd32fab92131",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-92",
     "name": "Metallic orange",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2c8f558a-6c32-4abb-b29e-ce1d2303123d",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-93",
     "name": "Pure blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e35449d7-9063-45ec-a574-a7bcc9d02dc9",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-94",
     "name": "Metallic gray",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "57eb4614-72c0-48e4-9365-c73099478ba9",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-95",
     "name": "Pure metallic red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5ba8e4ce-1d42-4458-b5a4-81a31fbcd704",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-96",
     "name": "Fluorescent orange",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7fed250c-eaf8-4428-95ab-22c4162d8fd8",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-97",
     "name": "Pearl yellow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0d0bc443-3bc9-4d94-87f9-dbb5aa922747",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-98",
     "name": "Pure orange",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "84739652-744c-4cd0-8f9c-7990a686e1a6",
     "brand": "Tamiya",
     "range": "Tamiya Spray",
     "code": "TS-99",
     "name": "IJN gray (Maizuru Arsenal)",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "75119dbf-c7e2-4593-bd02-a5db834d28fe",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-100",
+    "name": "Semi-gloss bright gun metal",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
+    "status": "current"
+  },
+  {
+    "id": "298ff925-33eb-47f4-8350-0e621b8de10c",
+    "brand": "Tamiya",
+    "range": "Tamiya Spray",
+    "code": "TS-101",
+    "name": "Base white",
+    "type": "other",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFFFFF",
+      "gradient": null,
+      "source": "arcturus-miniature-paints"
+    },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

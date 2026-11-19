@@ -20,18 +20,19 @@
     "status": "current"
   },
   {
+    "id": "857d3798-8472-47ad-9395-9684b62bdcda",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.601",
     "name": "Grey",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C0C0C2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -55,213 +56,227 @@
     "status": "current"
   },
   {
+    "id": "31434388-6eed-4451-a6b8-ae35ce0bced6",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.603",
     "name": "German Panzer Grey",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#404042",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "53d72ab9-8123-4b0e-a732-022d1a321f24",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.604",
     "name": "German Dark Yellow",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#897461",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "a67f400c-7c34-4210-a7ca-76f2405b8b1e",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.605",
     "name": "German Red Brown",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#624341",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "e19a2e87-5efa-4ede-9b9a-91b0841e87b7",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.606",
     "name": "German Green Brown",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7C6448",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "e6333c1b-3083-4ff7-9927-ef23f505655d",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.607",
     "name": "UK Bronze Green",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3C3E3D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "57de21f1-6205-40b8-9edd-5c6c648d8599",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.608",
     "name": "USA Olive Drab",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#645D53",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "97d67271-4afe-4dfa-af66-3629738c22f6",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.609",
     "name": "Russian Green 4BO",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4B4C44",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "82d8f19d-2753-4949-8064-642714fef563",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.610",
     "name": "Parched Grass (Late)",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#716859",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "d192c784-b072-4555-b3f6-2cd61e762805",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.611",
     "name": "Earth Green (Early)",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#615837",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f089ac19-3cc3-4c49-9f05-ca9dae542150",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.612",
     "name": "NATO Green",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4A5545",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "448c1da6-ff02-4787-ac81-904f8c180ac7",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.613",
     "name": "Desert Tan",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D1BE9E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "e78fe799-7263-4751-b441-303c39a2ec88",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.614",
     "name": "IDF Israeli Sand Grey (61-73)",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#796E68",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f6f7b366-cb93-414d-85d8-c7b55aa912a5",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.615",
     "name": "USN Light Ghost Grey",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#92999F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "1f2ea7d5-a2a1-4c70-84e0-9b5bd1ddac69",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.624",
     "name": "Pure Red",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C3322D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
@@ -285,48 +300,51 @@
     "status": "current"
   },
   {
+    "id": "58a66e78-7b2d-4942-b17f-286a15c2b8e5",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.626",
     "name": "Leather Brown",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7C6052",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "50f04a24-f809-44ad-937b-8765f9645c4a",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.627",
     "name": "Skeleton Bone",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BAA789",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b0f4674c-60e9-42ca-8093-68e84374db3e",
     "brand": "Vallejo",
     "range": "Surface Primer",
     "code": "70.628",
     "name": "Plate Mail Metal",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#98999E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {

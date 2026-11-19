@@ -1,122 +1,130 @@
 [
   {
+    "id": "08acb0ec-a7b8-439c-a59a-45935acfd85c",
     "brand": "Scale75",
     "range": "FX Range",
     "code": null,
     "name": "Acid Pink",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F81DFE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d3c021cc-60f9-4dc8-a12f-15b41621be33",
     "brand": "Scale75",
     "range": "FX Range",
     "code": null,
     "name": "Brilli White",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEFEFE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "029b4373-59aa-46ea-95bf-a1fc038fe238",
     "brand": "Scale75",
     "range": "FX Range",
     "code": null,
     "name": "Electric Blue",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#021AFE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c1d99b90-5c67-4128-82b2-6bf70571a775",
     "brand": "Scale75",
     "range": "FX Range",
     "code": null,
     "name": "Orange Neon",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F96401",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5c16c9d5-9d3b-4e97-8cc3-2b1ccbc34231",
     "brand": "Scale75",
     "range": "FX Range",
     "code": null,
     "name": "Psychedelic Purple",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BB1CFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "02ec5e34-192e-416c-a588-49d04c287ecb",
     "brand": "Scale75",
     "range": "FX Range",
     "code": null,
     "name": "Red Ecstasy",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F81803",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "483bd4b0-73a2-4c2b-825f-ab67ec4e3725",
     "brand": "Scale75",
     "range": "FX Range",
     "code": null,
     "name": "Speed Yellow",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFE00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "302cd250-7d4a-47bd-95b6-99ced4dd226e",
     "brand": "Scale75",
     "range": "FX Range",
     "code": null,
     "name": "Techno Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#44FA05",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

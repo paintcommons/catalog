@@ -1,182 +1,194 @@
 [
   {
+    "id": "41613b68-8c7b-40e4-a2d2-c43d0b900d0c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG0918",
     "name": "Red Primer Shadow",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#321819",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1251c887-3761-40db-9e2e-fb805a66a820",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG0919",
     "name": "Red Primer Dark Base",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#593B23",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "855861ab-3d0d-4dcd-a255-13c177a38919",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG0920",
     "name": "Red Primer Base",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#491404",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ca945eda-3050-46a6-82b0-76ea6f95d28c",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG0921",
     "name": "Red Primer Light Base",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#63250C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5c3a4983-9023-496c-be06-9b98e06333f2",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG0922",
     "name": "Red Primer  High Lights",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7F3D1A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8b682c57-9629-4c34-b4b5-8e953ae86d17",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG0923",
     "name": "Red Primer  Shine",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9E5922",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "83840b5b-48a9-4554-95f0-e6242878be18",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG2022",
     "name": "One Shot Primer - White",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E4E4E4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1d40ada7-0634-4324-835b-15de540a3aa5",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG2023",
     "name": "One Shot Primer - Black",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#181818",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1a4f24f8-33e5-40a5-974a-3f0a243bd804",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG2024",
     "name": "One Shot Primer - Grey",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6B6B6B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e7a2bf93-4aef-4349-bbae-53a60832e33f",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG2026",
     "name": "One Shot Primer - Brown Oxide",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#412017",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aa7e75ac-0028-4b15-bd71-017884b38ae1",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG2027",
     "name": "One Shot Primer - Sand Flesh",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B7A371",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4b6ccc81-e41b-491a-bfff-eb4d7865bd88",
     "brand": "AMMO by Mig Jimenez",
     "range": "Primers",
     "code": "AMIG2028",
     "name": "One Shot Primer - Green",
     "type": "primer",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#263427",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

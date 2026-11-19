@@ -1,1442 +1,1538 @@
 [
   {
+    "id": "712b4ad2-9562-4caa-9bfa-fec951240353",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Black",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c8dd03ed-42c0-45f0-9643-56abc089e17d",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Blue 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9EDBEE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "03d7ce13-7240-41d5-9d26-c56623ab21b7",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Blue 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#008DB5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5074d43f-945b-403a-93a3-4390438cff46",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Blue 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0464B1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fdd78bba-6709-4277-b864-0339b931af4f",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Blue 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0043AC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "35a1d8bd-c956-4fb5-831a-bfcde7abb11a",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Blue 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#002053",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "37b2b45a-6593-4794-bf5a-94a09752b691",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Blue Grey 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D1E1FA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5a40786a-6976-46f4-b5ab-3016c8f2c8cb",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Blue Grey 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#99B3D8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ff15acc5-90d9-45aa-846f-2b18767cbbcc",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Blue Grey 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#708BB6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c3981c63-edd4-47bb-ae61-f23cf21e0deb",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Blue Grey 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#526989",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "cdb70702-cb37-46ec-b301-a0a3dcb4e454",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Blue Grey 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#293543",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4b61eb1d-803b-409c-9f8e-b4821acdd716",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Brown 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E17767",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "94807b53-efc9-4039-8cf7-35203992e7cf",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Brown 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9E3724",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d3f75e21-5532-4422-a60e-83c3ae312b08",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Brown 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#702619",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6b86d171-d130-4cf8-ac62-0a35d31adb40",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Brown 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5D4239",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c4c68d94-e5b9-4c11-bc5d-25d5dac02865",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Brown 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#423B43",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "59eae481-8135-4b53-957d-5b7455a00530",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Cool Grey 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C6C6C6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5c1786f7-0469-44c0-835f-86305f277dd0",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Cool Grey 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A5A5A5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4e10a1cc-6062-417c-8059-40c679a1ff06",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Cool Grey 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#828282",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e938d1ee-353e-450a-acfa-0428cc20c826",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Cool Grey 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4C4C4C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "642af1dd-52f1-4809-b5b4-a98e6da8ee25",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Cool Grey 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#191919",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "edbe2fc3-d43d-43aa-8621-5cca61572fbf",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Emerald 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00E592",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9acdd1c6-524d-4d3d-b414-ca54f36a6255",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Emerald 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00C57D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5221a670-d30a-49af-ba67-bd18cbf4d982",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Emerald 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#009960",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "824804dd-1134-42a1-ae90-b73b1e778b4a",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Emerald 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#007247",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4e2f4bad-4072-4902-b0ba-5dfaf6458391",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Emerald 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#005532",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "08390111-14bd-4fb3-9dc6-92995867042c",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Flesh 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEF8BC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "8efc30b5-5a41-4bb4-b9cb-4f63a67791b0",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Flesh 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFE9BA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3149f1e7-9528-4db0-aba3-42f54858b371",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Flesh 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFC69B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "27ed21f9-ecc7-47b2-be09-e74edbf9c28d",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Flesh 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D77779",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "eecc4a6e-409a-43ca-9a05-d69c48a0a50b",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Flesh 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A07C62",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ecac7eff-9bd7-490f-8d45-79298681a88f",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Fluorescent Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8EFF00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "57181e58-d70c-4f49-8bb2-79b60f6a9565",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Fluorescent Orange",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFBE00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fcb96ef2-4df1-46a6-aa83-1a99523eaad8",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Fluorescent Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FE00A4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "44f5ef38-2779-46d4-b52c-3dfe07013688",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Fluorescent Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E9FF00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6fe71721-ef41-47cb-8444-ef20c322a848",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Green 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E2FF11",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "97e82d71-824d-49fe-9fed-f3ca74b0b270",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Green 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6EFF00",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ba0c0fab-9b84-4a56-990d-6ab3daa1eab0",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Green 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00B738",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c3b82d09-4aaf-4322-af23-7fecde2aefa8",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Green 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#009A2D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d23108e4-6725-4c15-90fe-4aeaaae871c0",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Green 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#026721",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9402dddf-a546-4d1d-bbb0-7c03c6f29ab8",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Marine 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8BC5ED",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6e9c8dc2-8400-429a-8c96-d11ca30c19e9",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Marine 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#4AA8EE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9ca0aa0d-2ed4-4a9f-b297-9cdbfc222fce",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Marine 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#007DDA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "48c678c3-c5f3-46f9-a539-64eb9db9ac4a",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Marine 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#005AA3",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7cfacb01-08dd-41bd-bc4d-8746893fa8bc",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Marine 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#003A52",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c18f3079-b588-4a87-9ad3-39113fce6846",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Ochre 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E5E1BB",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4171bc2f-de9f-472d-8463-b742bbdb7219",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Ochre 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFD66A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a42b93e1-a0e7-4ef3-b213-0383e96611a8",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Ochre 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DB9D2C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fe922da4-c44c-47d4-88e0-44b54ee0379d",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Ochre 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CD8F16",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0893c330-5742-4810-ad7c-889e5405c797",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Ochre 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B87F18",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "766b47e5-30a2-482c-8093-1e4cfaa4592e",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Olive 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFF764",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "500621b5-6de5-42b5-b10a-b0cf476cbee5",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Olive 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CAE500",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b7ba3723-36ab-4762-8fb1-069a508c16d9",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Olive 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#93A80B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "adea1971-6fe2-4f7e-9ef6-8fe2651bec14",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Olive 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#596801",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "49792a32-08d5-4f27-9220-c301caf18729",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Olive 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3F4900",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7f789d59-e003-44a0-9d91-7519631db28f",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Orange 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FACF8B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1aa3f486-1a66-4b91-8700-b0ad1bd66777",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Orange 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FDB843",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "22fe4f8f-b574-491e-867e-193e806f5584",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Orange 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F48124",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ee143177-5a5e-4324-bd86-3132d0f40c77",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Orange 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E55926",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "706df7b3-3b9c-40be-afe5-339d40450f20",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Orange 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E33F3E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "1f0f2b16-1671-443f-b2f4-56f35c716518",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Pink 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFC1DE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "118b1ef8-85c6-4ff3-8ae5-cb29c8e9789c",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Pink 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F287B5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b650c7c3-0b7f-43e5-978f-131da2401be1",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Pink 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BF2559",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "0b1e740b-67ba-4d5d-8de4-d0d72f3cc0ec",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Pink 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#911D42",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "acc25fb9-9ed7-4680-ac2b-b774a6299d17",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Pink 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#400B1D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "172d6b76-8d7c-4f86-889b-d329ab6c12f9",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Purple 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFC9E9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fa755e37-b4ca-4442-ad37-c3781dc2a9b0",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Purple 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E65EB2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "aeb52181-4c57-4476-8813-cdc0fd21cd0e",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Purple 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BD2F85",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "a85e8611-68bd-40aa-93dd-dafcf3025cf5",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Purple 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6A2C51",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "09f3646f-b903-4f4b-becf-431cf7c3018e",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Purple 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#26121D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "00cf6646-104d-4ac7-a08b-0366837a0678",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Red 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#DA2127",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fd94f4ff-256a-4066-89d5-c50daa0baeae",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Red 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C01F27",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "4d19666d-5ada-4a53-ac0e-4b08095364b6",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Red 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A71A22",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "5e08df8c-7fc1-4fc1-afad-8140b2699bd3",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Red 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#83141A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "af13737f-2b1e-4465-917d-b69939288792",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Red 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#430B0C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b2dc0419-e5bd-44ff-8237-1efddbf015c9",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Turquoise 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#33E0DA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "722d8362-3649-4a28-908c-eabec8d39309",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Turquoise 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#01B1AE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3f44b587-ac54-44e1-87fb-e9a30a574602",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Turquoise 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#0093A5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6998af30-152f-419d-8d89-778aa4d3811d",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Turquoise 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#00535B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "60bebefe-6e44-4171-8195-476fd334a822",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Turquoise 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#002327",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7f256a91-9b6d-4aee-8300-3cb195830b56",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Violet 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CAB2FE",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "50e81fe6-98c7-43ab-a26f-f44883dcc959",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Violet 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#9B66FF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d81f0366-4aa4-4f09-9663-2794f0c34c9f",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Violet 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#840092",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "848b965b-204f-454d-b0b3-cfcae286b502",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Violet 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#560182",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "746fcb7e-8e3e-4ae6-99be-c45f226803d9",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Violet 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#250038",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e6f372d5-af62-4a5f-beb7-990962dc5282",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Warm Grey 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C0BDB6",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "23381b53-ae94-4780-be27-3808bf897b4c",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Warm Grey 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#AAA295",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b37dcd71-ca7c-49e6-b461-b570ab501c02",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Warm Grey 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#767269",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bf2c791d-9774-439c-b4a8-57c61c6c661f",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Warm Grey 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#494641",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "c025150b-c738-4d47-8cc2-4a53e38d00c3",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Warm Grey 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1E1D1B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ab34b16e-5d14-4ec5-9877-1f47998419da",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "White",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "45696f25-8003-4d21-a224-905507d21e8c",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Yellow 1",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFCDF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3ed8d7a8-363d-422f-abf6-ec519ff9146c",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Yellow 2",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFF000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "90fa9337-9d1e-4f8b-aa09-a3690c134a0d",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Yellow 3",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFD416",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "bb1452cf-ac0a-4442-9ef9-76bcb2f110e0",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Yellow 4",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FCC218",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "67a81322-7f9b-4cb5-b5f1-a960f26b756a",
     "brand": "Warcolours",
     "range": "Layer paints",
     "code": null,
     "name": "Yellow 5",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F9A626",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

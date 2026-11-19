@@ -1,92 +1,98 @@
 [
   {
+    "id": "e3834906-f613-4caf-ad85-26ed8e05602e",
     "brand": "AK Interactive",
     "range": "Pastel (3rd Gen)",
     "code": "AK11037",
     "name": "Pastel Yellow",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FDDA76",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9e3f10dc-a1c9-4c2b-b9aa-2c27e51e9a69",
     "brand": "AK Interactive",
     "range": "Pastel (3rd Gen)",
     "code": "AK11059",
     "name": "Pastel Pink",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F9C1AA",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "fdf5ada5-85a3-4bd0-8db8-f7ba75374d7e",
     "brand": "AK Interactive",
     "range": "Pastel (3rd Gen)",
     "code": "AK11069",
     "name": "Pastel Violet",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FEE6F4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "15ab39fd-0864-4d2b-8671-23604c2eb1f8",
     "brand": "AK Interactive",
     "range": "Pastel (3rd Gen)",
     "code": "AK11076",
     "name": "Pastel Peach",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#F59A54",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "197f87b0-8e96-4e68-a674-ebca8b8dfb83",
     "brand": "AK Interactive",
     "range": "Pastel (3rd Gen)",
     "code": "AK11131",
     "name": "Pastel Green",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A9D099",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3e1b1de1-6e96-4d78-be9b-070fa65ef5c0",
     "brand": "AK Interactive",
     "range": "Pastel (3rd Gen)",
     "code": "AK11168",
     "name": "Pastel Blue",
     "type": "acrylic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BDDDB8",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

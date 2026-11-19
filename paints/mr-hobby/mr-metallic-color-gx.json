@@ -1,257 +1,274 @@
 [
   {
+    "id": "a81a98e5-ab36-4c0f-9558-6eb18ae00ad1",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX201",
     "name": "Metal Black",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#605F65",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9fae960b-6408-4993-af0a-72f692e4e0e3",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX202",
     "name": "Metal Red",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CF5F5E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "80898cad-5e1e-40d9-8900-bcabf7f01c5f",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX203",
     "name": "Metal Yellow",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B1A846",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b9347fdb-bba3-478f-935f-81599ad96b5e",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX204",
     "name": "Metal Blue",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#377EBD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b835d14b-2035-425c-bc90-d64aa84b712e",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX205",
     "name": "Metal Green",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#3CA7A2",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "128a23f2-ab2e-44fc-9aba-84d699471fd1",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX206",
     "name": "Metal Purple",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A17C9F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "9d1d4f25-2b7a-4c01-aa02-1dbfb1d49fae",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX207",
     "name": "Metal Violet",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7F5AA7",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f226aff5-6380-41c0-8275-83c7d188e35c",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX208",
     "name": "Rough Silver",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B5B5B5",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "7361b9a4-6342-427b-a64a-8a9a489e62e7",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX209",
     "name": "Red Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B9905E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b5423a43-f563-4dd4-ab2d-e9eb5b1a42a3",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX210",
     "name": "Blue Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B59858",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "efa9cc8c-6eb6-4171-a800-191e301735a8",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX211",
     "name": "Metal Yellow Green",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#919D6D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "e17c61c2-c0e8-40e3-9c7b-a19d9623933c",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX212",
     "name": "Metal Peach",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B06164",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2c79c78b-382e-4ecd-b981-62f4b7b1845a",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX213",
     "name": "White Silver",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#A3A0B1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "13525a65-b800-4ce3-88b9-b90c8e648ee9",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX214",
     "name": "Ice Silver",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#747A92",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "85742035-50cf-491e-9312-b04a8ec031f7",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX215",
     "name": "Metal Bloody Red",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#752935",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "3968b11a-5192-456e-a714-cfd8e4d0c4ad",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX216",
     "name": "Metal Dark Blue",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#253F72",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "6ecac92d-8262-4e5d-bedb-f5078f67c96e",
     "brand": "Mr Hobby",
     "range": "Mr Metallic Color GX",
     "code": "GX217",
     "name": "Rough Gold",
     "type": "metallic",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#BB9A4C",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

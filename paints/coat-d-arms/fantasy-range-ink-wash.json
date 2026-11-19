@@ -1,137 +1,146 @@
 [
   {
+    "id": "f8f498e1-2d4a-41e5-ba51-d31c0b1db21d",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range - Ink Wash",
     "code": "153",
     "name": "Armour",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6D746D",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ad4647ae-61ee-47d5-873c-773dca1adadd",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range - Ink Wash",
     "code": "154",
     "name": "Black",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#646B64",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "94d898f0-9e9b-46bb-9ab7-7ef00e742fe7",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range - Ink Wash",
     "code": "168",
     "name": "Ink Wash Yellow",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFD32",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "f26a81d6-db92-4e83-a1a9-07e6ddae7901",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range - Ink Wash",
     "code": "169",
     "name": "Super Wash Black",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#000000",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "2877d0d5-c144-42f4-b6f8-43c577a598c6",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range - Ink Wash",
     "code": "173",
     "name": "Super Wash Yellow",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFF69",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "14a977df-ca84-44a0-a5bd-be17fd290762",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range - Ink Wash",
     "code": "174",
     "name": "Super Wash Purple",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#5F3E5B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "d0055e01-b7ec-4bfb-921b-4b5e8bc35358",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range - Ink Wash",
     "code": "175",
     "name": "Super Wash Light Brown",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6C4645",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "dd7054f7-7961-4d09-8215-e5e3d3b9cdf1",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range - Ink Wash",
     "code": "176",
     "name": "Super Wash Mid Brown",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#825D42",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "926e715a-0a69-40d2-82c8-e3bcc795aea8",
     "brand": "Coat d'Arms",
     "range": "Fantasy Range - Ink Wash",
     "code": "177",
     "name": "Super Wash Dark Brown",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#66584B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

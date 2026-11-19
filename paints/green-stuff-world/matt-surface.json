@@ -1,77 +1,82 @@
 [
   {
+    "id": "4e843c27-6a22-4e10-91be-a6f40be63100",
     "brand": "Green Stuff World",
     "range": "Matt Surface",
     "code": null,
     "name": "Primer Black",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#1A1A1A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "ae8ce113-b4d7-4762-a85b-76591d28e34a",
     "brand": "Green Stuff World",
     "range": "Matt Surface",
     "code": null,
     "name": "Primer Green",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#485A04",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "126bc75b-4f29-4621-943b-d9eeddacca73",
     "brand": "Green Stuff World",
     "range": "Matt Surface",
     "code": null,
     "name": "Primer Grey",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CCCCCC",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "b0c2a716-b0e5-44fa-84f0-38ac90ef6f3e",
     "brand": "Green Stuff World",
     "range": "Matt Surface",
     "code": null,
     "name": "Primer Red",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#882A1E",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   },
   {
+    "id": "326bccb3-4188-4648-8809-be27d196c8d4",
     "brand": "Green Stuff World",
     "range": "Matt Surface",
     "code": null,
     "name": "Primer White",
     "type": "other",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FDFDFD",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "current"
   }
 ]

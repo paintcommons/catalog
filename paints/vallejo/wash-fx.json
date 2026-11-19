@@ -1,272 +1,290 @@
 [
   {
+    "id": "8268259c-c05e-4df1-a82c-fd5834a9f394",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.501",
     "name": "White",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "f70fccc0-9702-4bca-a10e-e48f7409945d",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.503",
     "name": "Dark Yellow",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#CBB126",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "874171ae-cf43-4140-9b73-c194954a53e2",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.505",
     "name": "Light Rust",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C97932",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "d569e16b-8785-452b-bb46-d7ee3429f25f",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.506",
     "name": "Rust",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#D07D5B",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "679144e0-4401-4687-9107-692986e92815",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.507",
     "name": "Dark Rust",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#B65A45",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "62dd48fe-12d2-4b7b-a251-2d7751408a4d",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.512",
     "name": "Dark Green",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#74712A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "a46114d9-cdba-484e-803f-d8143225b187",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.513",
     "name": "Brown",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#7B5F47",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "5ab9bc0e-14b0-45f0-b62e-380646e4255b",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.514",
     "name": "Dark Brown",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#6D504A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b4140d65-d410-4285-9d1d-e70f04f8d050",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.515",
     "name": "Light Grey",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#C3C3C1",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "e345ccd2-0545-41c3-9f21-b12c13d0b368",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.516",
     "name": "Off-Grey",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#656563",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "acab51ad-670a-40fa-a4a0-3650833e8601",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.517",
     "name": "Dark Grey",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#52514F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "97cb1afa-789f-4456-b7b3-bc9730d34c97",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.518",
     "name": "Black",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#323031",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "a7da542b-3538-4fd7-8382-554148d6114e",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.519",
     "name": "Olive Green",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#455845",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "8afe5486-6b81-4a67-9b84-11d7888e6b0f",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.520",
     "name": "Dark Khaki Green",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8C724F",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "d94d0bcc-158d-4a0e-8abe-b8d94f3b6acd",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.521",
     "name": "Oiled Earth",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#665C53",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "e94273a0-d32b-4f32-9600-91d9b5bb6a02",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.522",
     "name": "Desert Dust",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#E3CDA4",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "06e847a9-8da8-49c7-83e0-60163c67fd99",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.523",
     "name": "European Dust",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#8C6B4A",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   },
   {
+    "id": "b5b7add5-c98e-4cca-b416-85a1055a943c",
     "brand": "Vallejo",
     "range": "Wash FX",
     "code": "76.524",
     "name": "Blue Grey",
     "type": "wash",
-    "source": "arcturus-miniature-paints",
     "barcodes": [],
     "colour": {
       "hex": "#91A2A9",
       "gradient": null,
       "source": "arcturus-miniature-paints"
     },
+    "source": "arcturus-miniature-paints",
     "status": "discontinued"
   }
 ]
