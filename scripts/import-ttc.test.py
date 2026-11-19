@@ -17,6 +17,14 @@ class TTCPreservation(unittest.TestCase):
         cls.old = ttc.baseline()
         cls.current = {str(f.relative_to(ROOT)): json.loads(f.read_text())
                        for f in (ROOT / 'paints').glob('*/*.json')}
+        # Verify the separately approved stops, then test TTC against its original snapshot.
+        stops = {r['id']: r for r in json.loads((ROOT/'reports/arcturus-review/colour-proposals.json').read_text()) if r['apply']}
+        for paints in cls.current.values():
+            for i, paint in enumerate(paints):
+                row = stops.get(paint.get('id'))
+                if row:
+                    assert paint == row['after']
+                    paints[i] = row['before']
 
     def test_every_unrelated_file_is_identical(self):
         old = {f: p for f, p in self.old.items() if not f.startswith('paints/duncan-rhodes/')}

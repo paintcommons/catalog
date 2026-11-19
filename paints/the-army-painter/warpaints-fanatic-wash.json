@@ -99,8 +99,12 @@
     "barcodes": [],
     "colour": {
       "hex": "#B87700",
-      "gradient": null,
-      "source": "army-painter-fanatic-chart"
+      "gradient": [
+        "#7F5216",
+        "#B87700",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -129,8 +133,12 @@
     "barcodes": [],
     "colour": {
       "hex": "#494C1B",
-      "gradient": null,
-      "source": "army-painter-fanatic-chart"
+      "gradient": [
+        "#23270E",
+        "#494C1B",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -159,8 +167,12 @@
     "barcodes": [],
     "colour": {
       "hex": "#50375D",
-      "gradient": null,
-      "source": "army-painter-fanatic-chart"
+      "gradient": [
+        "#241C31",
+        "#50375D",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -204,8 +216,12 @@
     "barcodes": [],
     "colour": {
       "hex": "#AA5E02",
-      "gradient": null,
-      "source": "army-painter-fanatic-chart"
+      "gradient": [
+        "#734014",
+        "#AA5E02",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -249,8 +265,12 @@
     "barcodes": [],
     "colour": {
       "hex": "#47331B",
-      "gradient": null,
-      "source": "army-painter-fanatic-chart"
+      "gradient": [
+        "#211913",
+        "#47331B",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   }

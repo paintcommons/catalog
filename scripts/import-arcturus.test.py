@@ -18,7 +18,14 @@ class ImportInvariants(unittest.TestCase):
         files = subprocess.check_output(['git', 'ls-tree', '-r', '--name-only', module.BASE, '--', 'paints'], cwd=ROOT, text=True).splitlines()
         old = [p for f in files if f.endswith('.json') for p in json.loads(subprocess.check_output(['git', 'show', f'{module.BASE}:{f}'], cwd=ROOT, text=True))]
         self.assertEqual(len(old), 1981)
-        for p in old: self.assertEqual(by_id[p['id']], p, p['name'])
+        ttc_changes = {r['before']['id']: r['after'] for r in json.loads((ROOT/'reports/two-thin-coats/existing-record-changes.json').read_text()) if r['before'].get('id')}
+        stops = {r['id']: r for r in json.loads((ROOT/'reports/arcturus-review/colour-proposals.json').read_text()) if r['apply']}
+        for p in old:
+            expected = ttc_changes.get(p['id'], p)
+            if p['id'] in stops:
+                self.assertEqual(stops[p['id']]['before'], expected)
+                expected = stops[p['id']]['after']
+            self.assertEqual(by_id[p['id']], expected, p['name'])
         self.assertEqual(len(current), len(old) + 6287 + 39)
         for p in current:
             if not p.get('id') and p['brand'] != 'Two Thin Coats':

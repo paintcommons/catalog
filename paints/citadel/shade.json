@@ -174,8 +174,12 @@
     "barcodes": [],
     "colour": {
       "hex": "#E48B5E",
-      "gradient": null,
-      "source": "warhammer-colour-chart-2026"
+      "gradient": [
+        "#BB7648",
+        "#E48B5E",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },

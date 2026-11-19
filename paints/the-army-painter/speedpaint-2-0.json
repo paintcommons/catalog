@@ -394,8 +394,12 @@
     ],
     "colour": {
       "hex": "#49B9AF",
-      "gradient": null,
-      "source": "army-painter-speedpaint-2-chart"
+      "gradient": [
+        "#0A9B8C",
+        "#49B9AF",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -574,8 +578,12 @@
     ],
     "colour": {
       "hex": "#FECA03",
-      "gradient": null,
-      "source": "army-painter-speedpaint-2-chart"
+      "gradient": [
+        "#907317",
+        "#FECA03",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -594,8 +602,12 @@
     ],
     "colour": {
       "hex": "#DE7A55",
-      "gradient": null,
-      "source": "army-painter-speedpaint-2-chart"
+      "gradient": [
+        "#6B3B27",
+        "#DE7A55",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -614,8 +626,12 @@
     ],
     "colour": {
       "hex": "#777A7A",
-      "gradient": null,
-      "source": "army-painter-speedpaint-2-chart"
+      "gradient": [
+        "#595854",
+        "#777A7A",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -1394,8 +1410,12 @@
     ],
     "colour": {
       "hex": "#C57C00",
-      "gradient": null,
-      "source": "army-painter-speedpaint-2-chart"
+      "gradient": [
+        "#714808",
+        "#C57C00",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -1414,8 +1434,12 @@
     ],
     "colour": {
       "hex": "#E5B100",
-      "gradient": null,
-      "source": "army-painter-speedpaint-2-chart"
+      "gradient": [
+        "#836608",
+        "#E5B100",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -1434,8 +1458,12 @@
     ],
     "colour": {
       "hex": "#EFF0F0",
-      "gradient": null,
-      "source": "army-painter-speedpaint-2-chart"
+      "gradient": [
+        "#888782",
+        "#EFF0F0",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -1454,8 +1482,12 @@
     ],
     "colour": {
       "hex": "#889DA5",
-      "gradient": null,
-      "source": "army-painter-speedpaint-2-chart"
+      "gradient": [
+        "#4F595B",
+        "#889DA5",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -1474,8 +1506,12 @@
     ],
     "colour": {
       "hex": "#B7695C",
-      "gradient": null,
-      "source": "army-painter-speedpaint-2-chart"
+      "gradient": [
+        "#6A3D37",
+        "#B7695C",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -1494,8 +1530,12 @@
     ],
     "colour": {
       "hex": "#EBC86E",
-      "gradient": null,
-      "source": "army-painter-speedpaint-2-chart"
+      "gradient": [
+        "#867240",
+        "#EBC86E",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },
@@ -1514,8 +1554,12 @@
     ],
     "colour": {
       "hex": "#D6DE46",
-      "gradient": null,
-      "source": "army-painter-speedpaint-2-chart"
+      "gradient": [
+        "#62732F",
+        "#D6DE46",
+        null
+      ],
+      "source": "arcturus-miniature-paints"
     },
     "status": "current"
   },

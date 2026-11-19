@@ -1,0 +1,20 @@
+{
+  "status": "draft-not-approved",
+  "review_base_commit": "a0e31092c7a63ca1ee8a330cb025105775a7bce8",
+  "compared_paints": 373,
+  "source_observations": 395,
+  "pooled_stop_proposals": 49,
+  "main_hex_replacements": 0,
+  "conflict_additions": 0,
+  "dispositions": {
+    "hold-flat-range-spot-check": 195,
+    "propose-pooled-stop": 49,
+    "preserve-manual-override": 2,
+    "needs-approved-image-gradient-sampling": 51,
+    "preserve-near-existing-gradient": 27,
+    "hold-lighter-transparent-observation": 16,
+    "hold-outside-existing-gradient": 25,
+    "hold-identity-review": 8
+  },
+  "gradient_near_path_threshold": 0.04
+}
