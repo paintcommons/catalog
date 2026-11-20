@@ -6,7 +6,12 @@
     "code": "70.790",
     "name": "Silver",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707909",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F5F6F8",
       "gradient": null,
@@ -22,7 +27,12 @@
     "code": "70.791",
     "name": "Gold",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707916",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#EEE6E3",
       "gradient": null,
@@ -38,7 +48,12 @@
     "code": "70.792",
     "name": "Old Gold",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707923",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F2ECCA",
       "gradient": null,
@@ -54,7 +69,12 @@
     "code": "70.793",
     "name": "Rich Gold",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707930",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E9DEC2",
       "gradient": null,
@@ -70,7 +90,12 @@
     "code": "70.794",
     "name": "Red Gold",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707947",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F3E2C8",
       "gradient": null,
@@ -86,7 +111,12 @@
     "code": "70.795",
     "name": "Green Gold",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707954",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E3D8C4",
       "gradient": null,
@@ -102,7 +132,12 @@
     "code": "70.796",
     "name": "White Gold",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707961",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F6F6F6",
       "gradient": null,
@@ -118,7 +153,12 @@
     "code": "70.797",
     "name": "Copper",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707978",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E7CFC5",
       "gradient": null,

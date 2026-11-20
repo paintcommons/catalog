@@ -6,7 +6,12 @@
     "code": "73.801",
     "name": "European Splash Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738019",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#563F37",
       "gradient": null,
@@ -22,7 +27,12 @@
     "code": "73.802",
     "name": "Russian Splash Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738026",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#3D3334",
       "gradient": null,
@@ -38,7 +48,12 @@
     "code": "73.803",
     "name": "Industrial Splash Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738033",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#73746E",
       "gradient": null,
@@ -54,7 +69,12 @@
     "code": "73.804",
     "name": "Light Brown Splash Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738040",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#C7BBAF",
       "gradient": null,
@@ -70,7 +90,12 @@
     "code": "73.805",
     "name": "Brown Splash Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738057",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#342A29",
       "gradient": null,
@@ -86,7 +111,12 @@
     "code": "73.806",
     "name": "Black Splash Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738064",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#27262B",
       "gradient": null,
@@ -102,7 +132,12 @@
     "code": "73.807",
     "name": "European Thick Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738071",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#423930",
       "gradient": null,
@@ -118,7 +153,12 @@
     "code": "73.808",
     "name": "Russian Thick Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738088",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#343434",
       "gradient": null,
@@ -134,7 +174,12 @@
     "code": "73.809",
     "name": "Industrial Thick Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738095",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#53564D",
       "gradient": null,
@@ -150,7 +195,12 @@
     "code": "73.810",
     "name": "Light Brown Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738101",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#818376",
       "gradient": null,
@@ -166,7 +216,12 @@
     "code": "73.811",
     "name": "Brown Thick Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738118",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#46413E",
       "gradient": null,
@@ -182,7 +237,12 @@
     "code": "73.812",
     "name": "Black Thick Mud",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738125",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#262626",
       "gradient": null,
@@ -198,7 +258,12 @@
     "code": "73.813",
     "name": "Oil Stains",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738132",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#6E502E",
       "gradient": null,
@@ -214,7 +279,12 @@
     "code": "73.814",
     "name": "Fuel Stains",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738149",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#8D5D39",
       "gradient": null,
@@ -230,7 +300,12 @@
     "code": "73.815",
     "name": "Engine Grime",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738156",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#605A5A",
       "gradient": null,
@@ -246,7 +321,12 @@
     "code": "73.816",
     "name": "Diesel Stains",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738163",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A44C34",
       "gradient": null,
@@ -262,7 +342,12 @@
     "code": "73.817",
     "name": "Petrol Spills",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738170",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#211F22",
       "gradient": null,
@@ -278,7 +363,12 @@
     "code": "73.818",
     "name": "Brown Engine Soot",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738187",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#584E45",
       "gradient": null,
@@ -294,7 +384,12 @@
     "code": "73.819",
     "name": "Rain Marks",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738194",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#6D635A",
       "gradient": null,
@@ -310,7 +405,12 @@
     "code": "73.820",
     "name": "Snow",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738200",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
@@ -326,7 +426,12 @@
     "code": "73.821",
     "name": "Rust Texture",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738217",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#463C3A",
       "gradient": null,
@@ -342,7 +447,12 @@
     "code": "73.822",
     "name": "Slimy Grime Dark",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738224",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#484B3A",
       "gradient": null,
@@ -358,7 +468,12 @@
     "code": "73.825",
     "name": "Crushed Grass",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738255",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#8E906B",
       "gradient": null,
@@ -374,7 +489,12 @@
     "code": "73.826",
     "name": "Mud and Grass",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738262",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4C4C44",
       "gradient": null,
@@ -390,7 +510,12 @@
     "code": "73.827",
     "name": "Moss and Lichen",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738279",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#BD9C3B",
       "gradient": null,
@@ -406,7 +531,12 @@
     "code": "73.828",
     "name": "Wet Effects",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551738286",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#BDBAA7",
       "gradient": null,

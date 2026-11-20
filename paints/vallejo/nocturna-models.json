@@ -6,7 +6,12 @@
     "code": "74.001",
     "name": "Nocturna Shadow",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740012",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#434646",
       "gradient": null,
@@ -22,7 +27,12 @@
     "code": "74.002",
     "name": "Burned Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740029",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#614746",
       "gradient": null,
@@ -38,7 +48,12 @@
     "code": "74.003",
     "name": "Reddish Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740036",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#9E6569",
       "gradient": null,
@@ -54,7 +69,12 @@
     "code": "74.004",
     "name": "Base Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740043",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#846759",
       "gradient": null,
@@ -70,7 +90,12 @@
     "code": "74.005",
     "name": "Medium Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740050",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E98877",
       "gradient": null,
@@ -86,7 +111,12 @@
     "code": "74.006",
     "name": "Natural Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740067",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#C0947B",
       "gradient": null,
@@ -102,7 +132,12 @@
     "code": "74.007",
     "name": "Fairy Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740074",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F5AC89",
       "gradient": null,
@@ -118,7 +153,12 @@
     "code": "74.008",
     "name": "Highlight Skin",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740081",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F0D4BE",
       "gradient": null,
@@ -134,7 +174,12 @@
     "code": "74.009",
     "name": "Deep Forest Skin",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740098",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#3E4A4A",
       "gradient": null,
@@ -150,7 +195,12 @@
     "code": "74.010",
     "name": "Frozen Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740104",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#57555B",
       "gradient": null,
@@ -166,7 +216,12 @@
     "code": "74.011",
     "name": "Purple Shadow",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740111",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#584852",
       "gradient": null,
@@ -182,7 +237,12 @@
     "code": "74.012",
     "name": "Malefic Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740128",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#696061",
       "gradient": null,
@@ -198,7 +258,12 @@
     "code": "74.013",
     "name": "Forest Skin",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740135",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#867562",
       "gradient": null,
@@ -214,7 +279,12 @@
     "code": "74.014",
     "name": "Cold Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740142",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#838591",
       "gradient": null,
@@ -230,7 +300,12 @@
     "code": "74.015",
     "name": "Pale Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740159",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#B0A39A",
       "gradient": null,
@@ -246,7 +321,12 @@
     "code": "74.016",
     "name": "White Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740166",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F5D7CC",
       "gradient": null,
@@ -262,7 +342,12 @@
     "code": "74.017",
     "name": "Chalice Red",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740173",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#45384C",
       "gradient": null,
@@ -278,7 +363,12 @@
     "code": "74.018",
     "name": "Crimson",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740180",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#65263E",
       "gradient": null,
@@ -294,7 +384,12 @@
     "code": "74.019",
     "name": "Devil Red",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740197",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#921251",
       "gradient": null,
@@ -310,7 +405,12 @@
     "code": "74.020",
     "name": "Sanctuary Red",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740203",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#981937",
       "gradient": null,
@@ -326,7 +426,12 @@
     "code": "74.021",
     "name": "Magenta Blood",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740210",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#AA2038",
       "gradient": null,
@@ -342,7 +447,12 @@
     "code": "74.022",
     "name": "Inferno Red",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740227",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#DD323A",
       "gradient": null,
@@ -358,7 +468,12 @@
     "code": "74.023",
     "name": "Worn Red",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740234",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#C71E49",
       "gradient": null,
@@ -374,7 +489,12 @@
     "code": "74.024",
     "name": "Fire Flame",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740241",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#C41F3D",
       "gradient": null,
@@ -390,7 +510,12 @@
     "code": "74.025",
     "name": "Imperial Purple",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740258",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4E2D79",
       "gradient": null,
@@ -406,7 +531,12 @@
     "code": "74.026",
     "name": "Purple Hex",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740265",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#6A297F",
       "gradient": null,
@@ -422,7 +552,12 @@
     "code": "74.027",
     "name": "Amethyst",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740272",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#702A81",
       "gradient": null,
@@ -438,7 +573,12 @@
     "code": "74.028",
     "name": "Witch Purple",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740289",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#801D6D",
       "gradient": null,
@@ -454,7 +594,12 @@
     "code": "74.029",
     "name": "Lipstick",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740296",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#82125A",
       "gradient": null,
@@ -470,7 +615,12 @@
     "code": "74.030",
     "name": "Violet Vamp",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740302",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#5E4D7A",
       "gradient": null,
@@ -486,7 +636,12 @@
     "code": "74.031",
     "name": "Blueberry",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740319",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#6C75B8",
       "gradient": null,
@@ -502,7 +657,12 @@
     "code": "74.032",
     "name": "Orchid Light",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551740326",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#9E9CCD",
       "gradient": null,

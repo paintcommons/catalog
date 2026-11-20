@@ -6,7 +6,12 @@
     "code": "70.730",
     "name": "Yellow Fluorescent",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707305",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#EFE641",
       "gradient": null,
@@ -22,7 +27,12 @@
     "code": "70.733",
     "name": "Orange Fluorescent",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707336",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E86016",
       "gradient": null,
@@ -38,7 +48,12 @@
     "code": "70.735",
     "name": "Magenta Fluorescent",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707350",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E6418D",
       "gradient": null,
@@ -54,7 +69,12 @@
     "code": "70.736",
     "name": "Blue Fluorescent",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707367",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#0370B1",
       "gradient": null,
@@ -70,7 +90,12 @@
     "code": "70.737",
     "name": "Green Fluorescent",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551707374",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A8C958",
       "gradient": null,
@@ -1286,7 +1311,12 @@
     "code": "70.831",
     "name": "Tan Glaze",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551708319",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#D59335",
       "gradient": null,
@@ -1302,7 +1332,12 @@
     "code": "70.832",
     "name": "Verdigris Glaze",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551708326",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#99D0CA",
       "gradient": null,
@@ -1338,7 +1373,12 @@
     "code": "70.834",
     "name": "Natural Wood Grain",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551708340",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#EAA432",
       "gradient": null,
@@ -1434,7 +1474,12 @@
     "code": "70.839",
     "name": "Ultramarine",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551708395",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#2D559D",
       "gradient": null,
@@ -1490,7 +1535,12 @@
     "code": "70.842",
     "name": "Gloss White",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551708425",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F5F3F4",
       "gradient": null,
@@ -1646,7 +1696,12 @@
     "code": "70.853",
     "name": "White Glaze",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551708531",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F4F4F6",
       "gradient": null,
@@ -1662,7 +1717,12 @@
     "code": "70.854",
     "name": "Brown Glaze",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551708548",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4E403D",
       "gradient": null,
@@ -1678,7 +1738,12 @@
     "code": "70.855",
     "name": "Black Glaze",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551708555",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#383838",
       "gradient": null,
@@ -1714,7 +1779,12 @@
     "code": "70.857",
     "name": "Golden Olive",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551708579",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#808145",
       "gradient": null,
@@ -2490,7 +2560,12 @@
     "code": "70.900",
     "name": "French Mirage Blue",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551709002",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#5F6772",
       "gradient": null,
@@ -2546,7 +2621,12 @@
     "code": "70.903",
     "name": "Intermediate Blue",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551709033",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#646D76",
       "gradient": null,
@@ -2662,7 +2742,12 @@
     "code": "70.910",
     "name": "Orange Red",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551709101",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#DC4319",
       "gradient": null,
@@ -2698,7 +2783,12 @@
     "code": "70.912",
     "name": "Tan Yellow",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551709125",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#C19B6E",
       "gradient": null,
@@ -3074,7 +3164,12 @@
     "code": "70.934",
     "name": "Transparent Red",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551709347",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#B62336",
       "gradient": null,
@@ -3090,7 +3185,12 @@
     "code": "70.935",
     "name": "Transparent Orange",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551709354",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#EA651A",
       "gradient": null,
@@ -3106,7 +3206,12 @@
     "code": "70.936",
     "name": "Transparent Green",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551709361",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#007943",
       "gradient": null,
@@ -3122,7 +3227,12 @@
     "code": "70.937",
     "name": "Transparent Yellow",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551709378",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F7A501",
       "gradient": null,
@@ -3138,7 +3248,12 @@
     "code": "70.938",
     "name": "Transparent Blue",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551709385",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#323D5D",
       "gradient": null,
@@ -3214,7 +3329,12 @@
     "code": "70.942",
     "name": "Light Green",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551709422",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#007943",
       "gradient": null,
@@ -3830,7 +3950,12 @@
     "code": "70.973",
     "name": "Light Sea Grey",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551709736",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A1B1B1",
       "gradient": null,

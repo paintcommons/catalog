@@ -26,7 +26,12 @@
     "code": "70.601",
     "name": "Grey",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706018",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#C0C0C2",
       "gradient": null,
@@ -62,7 +67,12 @@
     "code": "70.603",
     "name": "German Panzer Grey",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706032",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#404042",
       "gradient": null,
@@ -78,7 +88,12 @@
     "code": "70.604",
     "name": "German Dark Yellow",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706049",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#897461",
       "gradient": null,
@@ -94,7 +109,12 @@
     "code": "70.605",
     "name": "German Red Brown",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706056",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#624341",
       "gradient": null,
@@ -110,7 +130,12 @@
     "code": "70.606",
     "name": "German Green Brown",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706063",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#7C6448",
       "gradient": null,
@@ -126,7 +151,12 @@
     "code": "70.607",
     "name": "UK Bronze Green",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706070",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#3C3E3D",
       "gradient": null,
@@ -142,7 +172,12 @@
     "code": "70.608",
     "name": "USA Olive Drab",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706087",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#645D53",
       "gradient": null,
@@ -158,7 +193,12 @@
     "code": "70.609",
     "name": "Russian Green 4BO",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706094",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4B4C44",
       "gradient": null,
@@ -174,7 +214,12 @@
     "code": "70.610",
     "name": "Parched Grass (Late)",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706100",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#716859",
       "gradient": null,
@@ -190,7 +235,12 @@
     "code": "70.611",
     "name": "Earth Green (Early)",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706117",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#615837",
       "gradient": null,
@@ -206,7 +256,12 @@
     "code": "70.612",
     "name": "NATO Green",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706124",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4A5545",
       "gradient": null,
@@ -222,7 +277,12 @@
     "code": "70.613",
     "name": "Desert Tan",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706131",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#D1BE9E",
       "gradient": null,
@@ -238,7 +298,12 @@
     "code": "70.614",
     "name": "IDF Israeli Sand Grey (61-73)",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706148",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#796E68",
       "gradient": null,
@@ -254,7 +319,12 @@
     "code": "70.615",
     "name": "USN Light Ghost Grey",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706155",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#92999F",
       "gradient": null,
@@ -270,7 +340,12 @@
     "code": "70.624",
     "name": "Pure Red",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706247",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#C3322D",
       "gradient": null,
@@ -306,7 +381,12 @@
     "code": "70.626",
     "name": "Leather Brown",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706261",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#7C6052",
       "gradient": null,
@@ -322,7 +402,12 @@
     "code": "70.627",
     "name": "Skeleton Bone",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706278",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#BAA789",
       "gradient": null,
@@ -338,7 +423,12 @@
     "code": "70.628",
     "name": "Plate Mail Metal",
     "type": "primer",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551706285",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#98999E",
       "gradient": null,

@@ -6,7 +6,12 @@
     "code": "28.001",
     "name": "Panzer Yellow",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280013",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#94854E",
       "gradient": null,
@@ -22,7 +27,12 @@
     "code": "28.002",
     "name": "Panzer Grey",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280020",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4B4C50",
       "gradient": null,
@@ -38,7 +48,12 @@
     "code": "28.003",
     "name": "Russian Green 4BO",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280037",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#575546",
       "gradient": null,
@@ -54,7 +69,12 @@
     "code": "28.004",
     "name": "UK Bronze Green",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280044",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#535554",
       "gradient": null,
@@ -70,7 +90,12 @@
     "code": "28.005",
     "name": "US Olive Drab",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280051",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#635C4C",
       "gradient": null,
@@ -86,7 +111,12 @@
     "code": "28.006",
     "name": "German Field Grey",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280068",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#62625A",
       "gradient": null,
@@ -102,7 +132,12 @@
     "code": "28.007",
     "name": "Russian Uniform",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280075",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#6B6452",
       "gradient": null,
@@ -118,7 +153,12 @@
     "code": "28.008",
     "name": "English Uniform",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280082",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#755D41",
       "gradient": null,
@@ -134,7 +174,12 @@
     "code": "28.009",
     "name": "US Khaki",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280099",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#86785E",
       "gradient": null,
@@ -150,7 +195,12 @@
     "code": "28.010",
     "name": "White",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280105",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#FFFFFF",
       "gradient": null,
@@ -166,7 +216,12 @@
     "code": "28.011",
     "name": "Grey",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280112",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E7E7E7",
       "gradient": null,
@@ -182,7 +237,12 @@
     "code": "28.012",
     "name": "Black",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280129",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#000000",
       "gradient": null,
@@ -198,7 +258,12 @@
     "code": "28.013",
     "name": "Bone White",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280136",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#D4BE99",
       "gradient": null,
@@ -214,7 +279,12 @@
     "code": "28.014",
     "name": "Leather Brown",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280143",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#87643C",
       "gradient": null,
@@ -230,7 +300,12 @@
     "code": "28.015",
     "name": "Desert Yellow",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280150",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#9D7D4A",
       "gradient": null,
@@ -246,7 +321,12 @@
     "code": "28.016",
     "name": "Scarlet Red",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280167",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#AA3935",
       "gradient": null,
@@ -262,7 +342,12 @@
     "code": "28.017",
     "name": "Ultramarine Blue",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280174",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4C5990",
       "gradient": null,
@@ -278,7 +363,12 @@
     "code": "28.018",
     "name": "Sun Yellow",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280181",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F59C00",
       "gradient": null,
@@ -294,7 +384,12 @@
     "code": "28.019",
     "name": "Beasty Brown",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280198",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#785841",
       "gradient": null,
@@ -310,7 +405,12 @@
     "code": "28.020",
     "name": "Wolf Grey",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280204",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#B0C0D0",
       "gradient": null,
@@ -326,7 +426,12 @@
     "code": "28.021",
     "name": "Silver",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280211",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A6AAB3",
       "gradient": null,
@@ -342,7 +447,12 @@
     "code": "28.022",
     "name": "Dead Flesh",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280228",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#B6A26F",
       "gradient": null,
@@ -358,7 +468,12 @@
     "code": "28.023",
     "name": "Bloody Red",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280235",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#BF1B33",
       "gradient": null,
@@ -374,7 +489,12 @@
     "code": "28.024",
     "name": "Pale Flesh",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280242",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#ECBDA9",
       "gradient": null,
@@ -390,7 +510,12 @@
     "code": "28.025",
     "name": "Alien Purple",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280259",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#7161A8",
       "gradient": null,
@@ -406,7 +531,12 @@
     "code": "28.026",
     "name": "Dark Green",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280266",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#3C463E",
       "gradient": null,
@@ -422,7 +552,12 @@
     "code": "28.027",
     "name": "Goblin Green",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280273",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#6C7445",
       "gradient": null,
@@ -438,7 +573,12 @@
     "code": "28.028",
     "name": "Sick Green",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280280",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4E7055",
       "gradient": null,
@@ -454,7 +594,12 @@
     "code": "28.029",
     "name": "Gory Red",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280297",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#783C3C",
       "gradient": null,
@@ -470,7 +615,12 @@
     "code": "28.030",
     "name": "Magic Blue",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280303",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#126DB4",
       "gradient": null,
@@ -486,7 +636,12 @@
     "code": "28.031",
     "name": "Gunmetal",
     "type": "other",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551280310",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#65646A",
       "gradient": null,

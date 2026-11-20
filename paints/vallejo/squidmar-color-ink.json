@@ -1,0 +1,182 @@
+[
+  {
+    "id": "6c757c05-ce81-403e-9e7a-23db7c33dfd2",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.261",
+    "name": "Sun Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742610",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "43eca3d3-7ca1-4f5a-83e8-90849f213e97",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.262",
+    "name": "Fire Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742627",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "af98f2f0-5b2c-4dff-8bd3-153cc4dbcb95",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.263",
+    "name": "Blood Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742634",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "32f8cdf4-ad7e-4595-8b77-1b0212aeedc9",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.264",
+    "name": "Squid Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742641",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "8663d55f-c449-4c95-b15f-728b2978e618",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.265",
+    "name": "Witch Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742658",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "0ecedeb6-e981-4c8a-ac1d-68bf92957280",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.266",
+    "name": "Deep Sea Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742665",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "9ff014c6-5a9b-4553-be15-23ce807f3682",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.267",
+    "name": "Ghostly Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742672",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "556c361a-af7e-448b-900a-422733a6c782",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.268",
+    "name": "Ork Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742689",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "47806dc9-8f2c-4370-b214-a93fd8eb6288",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.269",
+    "name": "Moss Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742696",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "a12ecccb-1afe-44f7-980c-5713cf4939dc",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.270",
+    "name": "Ancient Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742702",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "1c13bd52-6690-4759-9fa6-4c53ddb78f61",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.271",
+    "name": "Leather Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742719",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "cc3ccc69-0d6c-4b49-9407-647497f8c7fc",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Ink",
+    "code": "74.272",
+    "name": "Pitch Black Ink",
+    "type": "ink",
+    "barcodes": [
+      {
+        "ean": "8429551742726",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "cc9a4d1f-76c3-4d6d-89ee-37e34da3fcf6",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Fluorescent",
+    "code": "74.256",
+    "name": "Fluorescent Sun",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742566",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "80719942-7efe-4f92-b2ac-a68216ab421e",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Fluorescent",
+    "code": "74.257",
+    "name": "Fluorescent Fire",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742573",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "c24af236-8450-41d1-8506-07b5d47e7361",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Fluorescent",
+    "code": "74.258",
+    "name": "Fluorescent Hex",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742580",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "e4df0529-cd51-42ea-bac0-6eaa2370d9a0",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Fluorescent",
+    "code": "74.259",
+    "name": "Fluorescent Ghost",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742597",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "5b8d9963-5a98-4800-aa34-87044ea22c79",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Fluorescent",
+    "code": "74.260",
+    "name": "Fluorescent Fae",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742603",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  }
+]

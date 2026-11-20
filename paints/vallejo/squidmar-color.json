@@ -1,0 +1,722 @@
+[
+  {
+    "id": "667f6ffc-27a9-4885-91d3-f55aa3bb0451",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.201",
+    "name": "Holy Wight",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742016",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "b4240298-bbe9-4e40-8fd4-b20a68a42dc9",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.202",
+    "name": "Old Skull",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742023",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "0df8ab38-5851-4f25-b469-9c291043dd68",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.203",
+    "name": "Northern Tan",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742030",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "5ea17e09-690a-4b17-ac3c-799ce4a9c39b",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.204",
+    "name": "Sun Kissed Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742047",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "bc964c33-7034-40be-bae5-f9a8b7f9c53e",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.205",
+    "name": "Dunskär Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742054",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "c0bdd1c7-e504-43ec-9cda-ac97e2c27935",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.206",
+    "name": "Steve Flesh",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742061",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "713e2733-155e-44bc-9849-e11a8eb6cdc5",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.207",
+    "name": "Cursed Skin",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742078",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "4813bbfa-ca14-4747-b2ea-73165c647d05",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.208",
+    "name": "Final Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742085",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "3e1b121f-426a-4d77-8198-8acbb32f0fc3",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.209",
+    "name": "Owl's Eye",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742092",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "6bd73163-c990-45cf-926e-330ef17e544b",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.210",
+    "name": "Goldcoin Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742108",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "7cbe83c3-9abf-453e-ab48-b1a3e87e47e0",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.211",
+    "name": "Squid Orange",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742115",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "97fe7113-3123-4976-80db-face0cecebac",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.212",
+    "name": "Tetanus Orange",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742122",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "bc4087d2-a890-478c-b8e7-0608de9c8562",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.213",
+    "name": "Deadliest Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742139",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "01485252-4f35-48ff-bb73-ce109ab312ca",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.214",
+    "name": "Murdered",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742146",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "eb0a7303-07b9-48d5-b716-cba753479142",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.215",
+    "name": "Gut Red",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742153",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "f3699550-47c9-48ad-a556-e2e6c7ec5463",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.216",
+    "name": "Tentacle Pink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742160",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "f26f74ac-1f16-45ae-99a2-12133b5d5540",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.217",
+    "name": "Hell Pink",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742177",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "bb42e997-58fc-4b1e-93d5-61883da9d2fa",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.218",
+    "name": "Witches Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742184",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "fb917cf4-3872-4c55-8e4b-31970203da6e",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.219",
+    "name": "Tulip Fever",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742191",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "41c683de-7f2d-4be9-86bd-cbeef725e820",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.220",
+    "name": "Infernal Purple",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742207",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "ae77592d-a078-4f9b-a377-64504d67afc8",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.221",
+    "name": "Snow Storm",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742214",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "9fa29b36-e6fb-409e-a85f-a7289acdbae6",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.222",
+    "name": "I'm Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742221",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "701d6eb5-251f-4cc1-8804-3152d8893f04",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.223",
+    "name": "Mörk Blue",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742238",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "5f86514a-e3d5-443b-bb92-ced1db044092",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.224",
+    "name": "Ocean Eyes",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742245",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "3242e29c-71bf-49ba-af42-44f5fd2bc641",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.225",
+    "name": "Ghastly Turquoise",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742252",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "d27d659f-0619-4a52-9640-c42bab8e7de3",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.226",
+    "name": "Spearmint",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742269",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "ceace728-c41b-4a98-ba2a-3f229e8a16d8",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.227",
+    "name": "Gemstone",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742276",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "edbc3daf-ca7b-4471-a4c1-279e9948b097",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.228",
+    "name": "Corrupted Emerald",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742283",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "53518af2-ea41-460a-95e6-117d79277873",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.229",
+    "name": "Deep Blue Sea",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742290",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "5cc51406-a2cb-4a1a-87e9-2599cfb8fb33",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.230",
+    "name": "Cauldron Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742306",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "08c5ea2c-51c3-4665-bce1-f3605509fde4",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.231",
+    "name": "Birch Leaf",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742313",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "3d5e7979-2f41-45b6-be17-498ee915659a",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.232",
+    "name": "Drachonzah Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742320",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "b2e5f146-8a6c-4c2a-89c5-ad4601d21bed",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.233",
+    "name": "Vomitous Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742337",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "e28a263a-e33b-41a5-b3aa-102106c0d139",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.234",
+    "name": "Mossback Green",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742344",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "95382d70-9320-4718-a87c-55e2fb62bb8d",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.235",
+    "name": "Mehnadi Desert",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742351",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "6adad9ed-5440-489f-85ab-4011aec42d3e",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.236",
+    "name": "Bone Dust",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742368",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "c487f2bb-1f17-4a99-9a88-4fdf42bf1748",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.237",
+    "name": "Ancient Tome",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742375",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "7af093df-54a3-4888-aeeb-5ff953502482",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.238",
+    "name": "Corpse Yellow",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742382",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "06c8eee5-64c5-4bfb-9fc5-be8dc101b934",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.239",
+    "name": "Undead Ochre",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742399",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "811c803a-9710-44e1-b90a-0ff6168e204a",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.240",
+    "name": "Rich Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742405",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "679ea4cc-6547-4145-b5f4-2322e6518470",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.241",
+    "name": "Leathery Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742412",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "56041b70-70ab-431d-902f-9a496bd7cc3e",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.242",
+    "name": "Deep Wood",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742429",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "ef69073e-b20d-4013-906c-ebe7c099f9ed",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.243",
+    "name": "Blackwood",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742436",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "ec6fc19a-1818-4153-9f9b-4cb0c1cc623c",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.244",
+    "name": "Cult Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742443",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "46cda283-3e3c-4256-9942-298b6ef14ab1",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.245",
+    "name": "Knights Brown",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742450",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "d4aa2a2d-0f15-4cb9-ac55-b602e13dedc9",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.246",
+    "name": "Ume Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742467",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "5ca86085-e12e-4e29-8300-a7f897ae88ff",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.247",
+    "name": "Granite Grey",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742474",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "89829c0a-9f95-4704-8eac-effed1c18d4b",
+    "brand": "Vallejo",
+    "range": "Squidmar Color",
+    "code": "74.248",
+    "name": "Pitch Black",
+    "type": "acrylic",
+    "barcodes": [
+      {
+        "ean": "8429551742481",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  }
+]

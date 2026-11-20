@@ -6,7 +6,12 @@
     "code": "70.301",
     "name": "Light Rust",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703017",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#87431E",
       "gradient": null,
@@ -22,7 +27,12 @@
     "code": "70.302",
     "name": "Dark Rust",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703024",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4F4442",
       "gradient": null,
@@ -38,7 +48,12 @@
     "code": "70.303",
     "name": "Yellowish Rust",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703031",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#BE8B5E",
       "gradient": null,
@@ -54,7 +69,12 @@
     "code": "70.304",
     "name": "Track Primer",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703048",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#5B5652",
       "gradient": null,
@@ -70,7 +90,12 @@
     "code": "70.305",
     "name": "Light Rubber",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703055",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#838381",
       "gradient": null,
@@ -86,7 +111,12 @@
     "code": "70.306",
     "name": "Dark Rubber",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703062",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#505153",
       "gradient": null,
@@ -102,7 +132,12 @@
     "code": "70.307",
     "name": "German Red Tail Light",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703079",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#503428",
       "gradient": null,
@@ -118,7 +153,12 @@
     "code": "70.308",
     "name": "German Green Tail Light",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703086",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#3D5347",
       "gradient": null,
@@ -134,7 +174,12 @@
     "code": "70.309",
     "name": "Periscopes",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703093",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#3B4D5B",
       "gradient": null,
@@ -150,7 +195,12 @@
     "code": "70.310",
     "name": "Old Wood",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703109",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#AD9C70",
       "gradient": null,
@@ -166,7 +216,12 @@
     "code": "70.311",
     "name": "New Wood",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703116",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#896545",
       "gradient": null,
@@ -182,7 +237,12 @@
     "code": "70.312",
     "name": "Leather Belt",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703123",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#665249",
       "gradient": null,
@@ -198,7 +258,12 @@
     "code": "70.313",
     "name": "Stencil",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703130",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E0E0D8",
       "gradient": null,
@@ -214,7 +279,12 @@
     "code": "70.314",
     "name": "Canvas",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703147",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#6E6554",
       "gradient": null,
@@ -230,7 +300,12 @@
     "code": "70.315",
     "name": "Light Mud",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703154",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#ACA37A",
       "gradient": null,
@@ -246,7 +321,12 @@
     "code": "70.316",
     "name": "Dark Mud",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703161",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#685F4E",
       "gradient": null,
@@ -262,7 +342,12 @@
     "code": "70.317",
     "name": "British Tank Crew",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703178",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#756D56",
       "gradient": null,
@@ -278,7 +363,12 @@
     "code": "70.318",
     "name": "US Army Tank Crew",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703185",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#79684E",
       "gradient": null,
@@ -294,7 +384,12 @@
     "code": "70.319",
     "name": "USMC Tank Crew",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703192",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#1D573E",
       "gradient": null,
@@ -310,7 +405,12 @@
     "code": "70.320",
     "name": "French Tank Crew",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703208",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#756D56",
       "gradient": null,
@@ -326,7 +426,12 @@
     "code": "70.321",
     "name": "British Tank Crew Highlights",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703215",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#EAC284",
       "gradient": null,
@@ -342,7 +447,12 @@
     "code": "70.322",
     "name": "US Army Tank Crew Highlights",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703222",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A99A85",
       "gradient": null,
@@ -358,7 +468,12 @@
     "code": "70.323",
     "name": "USMC Tank Crew Highlights",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703239",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A4B2A5",
       "gradient": null,
@@ -374,7 +489,12 @@
     "code": "70.324",
     "name": "French Tank Crew Highlights",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703246",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#897C73",
       "gradient": null,
@@ -390,7 +510,12 @@
     "code": "70.325",
     "name": "Russian Tank Crew I",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703253",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4C5D67",
       "gradient": null,
@@ -406,7 +531,12 @@
     "code": "70.326",
     "name": "Russian Tank Crew II",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703260",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#6A624F",
       "gradient": null,
@@ -422,7 +552,12 @@
     "code": "70.327",
     "name": "Italian Tank Crew",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703277",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4B461C",
       "gradient": null,
@@ -438,7 +573,12 @@
     "code": "70.328",
     "name": "Japanese Tank Crew",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703284",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#5C5632",
       "gradient": null,
@@ -454,7 +594,12 @@
     "code": "70.329",
     "name": "Russian Tank Crew Highlights I",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703291",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#9BABAA",
       "gradient": null,
@@ -470,7 +615,12 @@
     "code": "70.330",
     "name": "Russian Tank Crew Highlights II",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703307",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#717538",
       "gradient": null,
@@ -486,7 +636,12 @@
     "code": "70.331",
     "name": "Italian Tank Crew Highlights",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703314",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#9EB193",
       "gradient": null,
@@ -502,7 +657,12 @@
     "code": "70.332",
     "name": "Japanese Tank Crew Highlights",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703321",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#AAA391",
       "gradient": null,
@@ -518,7 +678,12 @@
     "code": "70.333",
     "name": "German Tank Crew",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703338",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#434949",
       "gradient": null,
@@ -534,7 +699,12 @@
     "code": "70.334",
     "name": "German Tank Crew I",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703345",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#013E2C",
       "gradient": null,
@@ -550,7 +720,12 @@
     "code": "70.335",
     "name": "German Tank Crew II",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703352",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#473C26",
       "gradient": null,
@@ -566,7 +741,12 @@
     "code": "70.336",
     "name": "Afrikakorps Tank Crew",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703369",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#6E705B",
       "gradient": null,
@@ -582,7 +762,12 @@
     "code": "70.337",
     "name": "German Tank Crew Highlights",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703376",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#3C2618",
       "gradient": null,
@@ -598,7 +783,12 @@
     "code": "70.338",
     "name": "German Tank Crew Highlights I",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703383",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#5B7572",
       "gradient": null,
@@ -614,7 +804,12 @@
     "code": "70.339",
     "name": "German Tank Crew Highlights II",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703390",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#94795E",
       "gradient": null,
@@ -630,7 +825,12 @@
     "code": "70.340",
     "name": "Afrikakorps Tank Crew Highlights",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703406",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A99D75",
       "gradient": null,
@@ -646,7 +846,12 @@
     "code": "70.341",
     "name": "Flesh Base",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703413",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A4531E",
       "gradient": null,
@@ -662,7 +867,12 @@
     "code": "70.342",
     "name": "Flesh Highlights",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703420",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#FCD2A8",
       "gradient": null,
@@ -678,7 +888,12 @@
     "code": "70.343",
     "name": "Flesh Shadows",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703437",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#551305",
       "gradient": null,
@@ -694,7 +909,12 @@
     "code": "70.344",
     "name": "German White Tank Crew",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703444",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E0DFDB",
       "gradient": null,
@@ -710,7 +930,12 @@
     "code": "70.345",
     "name": "Splinter Camouflage Base",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703451",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#9D9E98",
       "gradient": null,
@@ -726,7 +951,12 @@
     "code": "70.346",
     "name": "Splinter Blotches I",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703468",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#01633C",
       "gradient": null,
@@ -742,7 +972,12 @@
     "code": "70.347",
     "name": "Splinter Blotches II",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703475",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#3C2B24",
       "gradient": null,
@@ -758,7 +993,12 @@
     "code": "70.348",
     "name": "Splinter Strips",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551703482",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#4F684B",
       "gradient": null,

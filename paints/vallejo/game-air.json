@@ -6,7 +6,12 @@
     "code": "72.709",
     "name": "Hot Orange",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727099",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E64C2A",
       "gradient": null,
@@ -22,7 +27,12 @@
     "code": "72.711",
     "name": "Gory Red",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727112",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#693B3D",
       "gradient": null,
@@ -38,7 +48,12 @@
     "code": "72.715",
     "name": "Hexed Lichen",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727150",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#39373A",
       "gradient": null,
@@ -54,7 +69,12 @@
     "code": "72.729",
     "name": "Sick Green",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727297",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#246B49",
       "gradient": null,
@@ -70,7 +90,12 @@
     "code": "72.730",
     "name": "Goblin Green",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727303",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#6B7342",
       "gradient": null,
@@ -86,7 +111,12 @@
     "code": "72.733",
     "name": "Light Livery Green",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727334",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#92BD16",
       "gradient": null,
@@ -102,7 +132,12 @@
     "code": "72.736",
     "name": "Bronze Flesh Tone",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727365",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#EF9849",
       "gradient": null,
@@ -118,7 +153,12 @@
     "code": "72.740",
     "name": "Cobra Leather",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727402",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#855C26",
       "gradient": null,
@@ -134,7 +174,12 @@
     "code": "72.741",
     "name": "Dwarf Skin",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727419",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#D99169",
       "gradient": null,
@@ -150,7 +195,12 @@
     "code": "72.744",
     "name": "Dark Flesh Tone",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727440",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#5B4844",
       "gradient": null,
@@ -166,7 +216,12 @@
     "code": "72.750",
     "name": "Cold Grey",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727501",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#828385",
       "gradient": null,
@@ -182,7 +237,12 @@
     "code": "72.752",
     "name": "Silver",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727525",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A7ACB0",
       "gradient": null,
@@ -198,7 +258,12 @@
     "code": "72.753",
     "name": "Chain Mail Silver",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727532",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#AEAEAE",
       "gradient": null,
@@ -214,7 +279,12 @@
     "code": "72.754",
     "name": "Gunmetal",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727549",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#6E6F71",
       "gradient": null,
@@ -230,7 +300,12 @@
     "code": "72.755",
     "name": "Polished Gold",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727556",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#EBAE00",
       "gradient": null,
@@ -246,7 +321,12 @@
     "code": "72.756",
     "name": "Glorious Gold",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727563",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#C4905E",
       "gradient": null,
@@ -262,7 +342,12 @@
     "code": "72.757",
     "name": "Bright Bronze",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727570",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#95664C",
       "gradient": null,
@@ -278,7 +363,12 @@
     "code": "72.758",
     "name": "Brassy Brass",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727587",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A15323",
       "gradient": null,
@@ -294,7 +384,12 @@
     "code": "72.761",
     "name": "Khaki",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727617",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#AA9D73",
       "gradient": null,
@@ -310,7 +405,12 @@
     "code": "72.769",
     "name": "Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727693",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F6BD90",
       "gradient": null,
@@ -326,7 +426,12 @@
     "code": "72.770",
     "name": "Burned Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727709",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A26641",
       "gradient": null,
@@ -342,7 +447,12 @@
     "code": "72.771",
     "name": "Barbarian Flesh",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727716",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#A17C62",
       "gradient": null,
@@ -358,7 +468,12 @@
     "code": "72.772",
     "name": "Red Terracotta",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551727723",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#79423D",
       "gradient": null,

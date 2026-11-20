@@ -1,0 +1,107 @@
+[
+  {
+    "id": "80583857-4fb0-4eb6-a1cf-5dbe5bf11286",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Metallic",
+    "code": "74.249",
+    "name": "Godly Steel",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551742498",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "3eef9237-b7a5-469c-96ee-71ee7cea3fc6",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Metallic",
+    "code": "74.250",
+    "name": "Metallic Metal",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551742504",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "6448fe89-306e-4aa3-a0e5-96e285efcdf4",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Metallic",
+    "code": "74.251",
+    "name": "Dark Steel",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551742511",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "6eab4000-070c-4302-a680-22d179466a52",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Metallic",
+    "code": "74.252",
+    "name": "Dragon Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551742528",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "3e2c9cd9-785c-49d7-b2d9-f5aacbf560d8",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Metallic",
+    "code": "74.253",
+    "name": "Demon Gold",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551742535",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "6dc808bc-2397-4798-a8e4-8ffed51383d7",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Metallic",
+    "code": "74.254",
+    "name": "Graveyard Copper",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551742542",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  },
+  {
+    "id": "cb2a257f-cb04-4122-a404-3f035c03b76c",
+    "brand": "Vallejo",
+    "range": "Squidmar Color Metallic",
+    "code": "74.255",
+    "name": "Ungodly Copper",
+    "type": "metallic",
+    "barcodes": [
+      {
+        "ean": "8429551742559",
+        "source": "calculated"
+      }
+    ],
+    "status": "current"
+  }
+]

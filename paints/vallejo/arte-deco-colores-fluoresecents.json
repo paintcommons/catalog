@@ -6,7 +6,12 @@
     "code": "85.132",
     "name": "Neon Yellow",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551851329",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#FFF170",
       "gradient": null,
@@ -22,7 +27,12 @@
     "code": "85.133",
     "name": "Orange Pearl",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551851336",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#F58841",
       "gradient": null,
@@ -38,7 +48,12 @@
     "code": "85.134",
     "name": "Neon Red",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551851343",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#EB4E22",
       "gradient": null,
@@ -54,7 +69,12 @@
     "code": "85.135",
     "name": "Neon Pink",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551851350",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E50058",
       "gradient": null,
@@ -70,7 +90,12 @@
     "code": "85.136",
     "name": "Neon Magenta",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551851367",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#E60068",
       "gradient": null,
@@ -86,7 +111,12 @@
     "code": "85.137",
     "name": "Neon Blue",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551851374",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#06266D",
       "gradient": null,
@@ -102,7 +132,12 @@
     "code": "85.138",
     "name": "Neon Green",
     "type": "acrylic",
-    "barcodes": [],
+    "barcodes": [
+      {
+        "ean": "8429551851381",
+        "source": "calculated"
+      }
+    ],
     "colour": {
       "hex": "#009331",
       "gradient": null,
