@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Gold 79",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#804725",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Salmon Skin",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DF5046",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Pink Skin",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DB3644",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Fuchsia Skin",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DA296C",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Sea Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#036C83",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Blue Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#242F3A",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  }
+]

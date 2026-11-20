@@ -1,0 +1,464 @@
+[
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Carbon Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#242424",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "The White",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F8F6F3",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Permanent Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FDEE36",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Cold Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFE229",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Warm Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F2B130",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Diarylide Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E88030",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Yellow Oxide",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EDAC2C",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Honey Moon Yellow",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F6BE29",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Dark Ochre",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E3902F",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Mars Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DE6A2B",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Orange",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E05C42",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Scarlet",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DD4A2E",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Toluidine Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DB3A30",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Phthalo Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1C4040",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Cobalt Blue Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#008985",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Turquoise Deep",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#233C5B",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Phthalo Blue Green S.",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#25367A",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Phthalo Blue Red S.",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#27306F",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Ultramarine Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4E6FA6",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Indigo",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#203A57",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Violet",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#382F2B",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Perylene Violet",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#413438",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Purple",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A22D54",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Magenta",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#A42540",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Alizarine Crimson",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B5242A",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "The Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DB3C37",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Emerald Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#213D38",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Oxide Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5A8841",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Oxide Brown Dark",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#493531",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Oxide Brown Medium",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#563630",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Oxide Brown Light",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#824830",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Royal Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#542D28",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Pure Pigments",
+    "code": null,
+    "name": "Red Oxide",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8D3A31",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  }
+]

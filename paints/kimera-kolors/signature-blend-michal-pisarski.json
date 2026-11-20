@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Ground Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#715C53",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Fallen Grass",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#567558",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Sun Ray",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFF4C8",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Morning Sky",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#378888",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Cloudy Sky",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EAD2AD",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Iron Hue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B4B1A9",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  }
+]
