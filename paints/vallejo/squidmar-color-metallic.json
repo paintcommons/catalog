@@ -12,6 +12,19 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#BBC0BA",
+      "gradient": [
+        "#BBC0BA",
+        "#BDC2BC",
+        "#DCDDDA",
+        "#E9E9E8",
+        "#D3D6D1",
+        "#BEC3BD",
+        "#BCC1BB"
+      ],
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   },
   {
@@ -27,6 +40,19 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#7B817E",
+      "gradient": [
+        "#7B817E",
+        "#838A87",
+        "#ADB2AD",
+        "#C0C7C0",
+        "#9CA09C",
+        "#7C8380",
+        "#7A807E"
+      ],
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   },
   {
@@ -42,6 +68,19 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#454C48",
+      "gradient": [
+        "#454C48",
+        "#484E4A",
+        "#636965",
+        "#727774",
+        "#5E6460",
+        "#474D4A",
+        "#454C48"
+      ],
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   },
   {
@@ -57,6 +96,19 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#D7A639",
+      "gradient": [
+        "#D7A639",
+        "#D8A73D",
+        "#E3BA78",
+        "#E8C69A",
+        "#E0B56B",
+        "#D9A73D",
+        "#D9A639"
+      ],
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   },
   {
@@ -72,6 +124,19 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#C07E3A",
+      "gradient": [
+        "#C07E3A",
+        "#C2823F",
+        "#D9B17C",
+        "#EACFA6",
+        "#D1A169",
+        "#C1803C",
+        "#C07E3A"
+      ],
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   },
   {
@@ -87,6 +152,19 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#CF6145",
+      "gradient": [
+        "#CF6145",
+        "#D16C50",
+        "#DD967E",
+        "#E3B09E",
+        "#D9886E",
+        "#CF6347",
+        "#CF6145"
+      ],
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   },
   {
@@ -102,6 +180,19 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#634439",
+      "gradient": [
+        "#634439",
+        "#6F4F42",
+        "#B28F82",
+        "#E1BDB1",
+        "#9B786A",
+        "#67473C",
+        "#634439"
+      ],
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   }
 ]

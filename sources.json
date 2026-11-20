@@ -150,6 +150,15 @@
       "status": "published",
       "licence": "CC0-1.0",
       "priority": 80
+    },
+    {
+      "id": "vallejo-squidmar-color-chart-2026",
+      "name": "Vallejo Squidmar Color colour chart (CC346 R00)",
+      "url": "https://vallejocolors.com/en/collections/squidmar-color",
+      "method": "Sampled from the printed swatches in Vallejo's PDF colour chart; metallics also get a gradient. Approximate.",
+      "status": "published",
+      "licence": "CC0-1.0",
+      "priority": 80
     }
   ],
   "barcode_sources": [

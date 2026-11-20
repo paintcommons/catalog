@@ -1,131 +1,6 @@
 [
   {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Red",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#D7282A",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Yellow",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#FFEE3F",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Black",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#312D29",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "White",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F7F3F4",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Blue",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#25478A",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Magenta",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#C91F62",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Rust",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#CF432B",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Rich Gold",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#EB8F2F",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Green Gold",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#B4A533",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
+    "id": "1d7524f4-a5a2-4d2c-815b-b0b12525d278",
     "brand": "Kimera Kolors",
     "range": "Velvet",
     "code": null,
@@ -140,244 +15,7 @@
     "status": "current"
   },
   {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Forest Green",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00A548",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Petroleum",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#353D31",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Dark Ocean",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#1A565F",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Deep Turquoise",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#007FA1",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Phthalo Green",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#00A284",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Tomato",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E0582E",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Flame Orange",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#E98734",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Egg Yolk",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#F4B656",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Indigo",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#30468A",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Violet",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#2C2362",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Perylene Violet",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#4A1D2C",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Dark Purple",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#5B1B53",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Wine",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#5D1D24",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Carmine",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#BE242A",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Smoke",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#2A1E1D",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Sepia",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#2E241B",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Velvet",
-    "code": null,
-    "name": "Royal Brown",
-    "type": "ink",
-    "barcodes": [],
-    "colour": {
-      "hex": "#8C2C21",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
+    "id": "6f3e15a9-2238-4282-9405-0d5c9b9cd28b",
     "brand": "Kimera Kolors",
     "range": "Velvet",
     "code": null,
@@ -392,6 +30,172 @@
     "status": "current"
   },
   {
+    "id": "263c4ed0-39ef-450e-b773-c05763033676",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Black",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#312D29",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6292c856-b9fe-4c4f-b07a-e215f22bc071",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Blue",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#25478A",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "edf44bbc-46ef-4176-a6a4-207f3f6bfce1",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Carmine",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#BE242A",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f71b3752-0ad1-4ea1-8b17-8b50cdcfa312",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Dark Ocean",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#1A565F",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f602b5d5-c3bf-4a84-8dcc-5de9653f1325",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Dark Purple",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5B1B53",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b5456ccc-5d43-4d64-809f-66855daca44a",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Deep Turquoise",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#007FA1",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "503b90ba-e85f-4214-998d-a09ed839f1ef",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Egg Yolk",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F4B656",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "69f070cb-116d-4e98-b7b8-d655947b4df1",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Flame Orange",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E98734",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "30bdc200-6bf2-4c88-bdc6-97f2f67a375c",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Forest Green",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00A548",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "19baffea-4a4e-4f2c-8afd-842f80baafc2",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Green Gold",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B4A533",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "123d2531-3d8b-43da-9172-933917b956c1",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Indigo",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#30468A",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "37354f6f-ff1a-4361-9266-05c75f7e7563",
     "brand": "Kimera Kolors",
     "range": "Velvet",
     "code": null,
@@ -406,6 +210,22 @@
     "status": "current"
   },
   {
+    "id": "a0ee38d3-8854-40af-a469-7e87990db4c7",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Magenta",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C91F62",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d10eb8dd-3949-4ce8-b45b-2f684daec09d",
     "brand": "Kimera Kolors",
     "range": "Velvet",
     "code": null,
@@ -414,6 +234,216 @@
     "barcodes": [],
     "colour": {
       "hex": "#826B44",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "74f0a329-3b41-4b03-b6b1-63232e18149d",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Perylene Violet",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#4A1D2C",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "64f8d9cc-12d4-443b-abd9-570633e89640",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Petroleum",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#353D31",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7debe536-6070-4a2f-9e75-3fc12f71cc88",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Phthalo Green",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00A284",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f8700cd9-9ddb-4e9e-8b3c-a01076a9f5e2",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Red",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#D7282A",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "112eee3c-c4e3-4a1b-abee-5ca214bb1a0f",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Rich Gold",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EB8F2F",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c99a2086-c78b-41a2-ae3b-1b5fd8945041",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Royal Brown",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#8C2C21",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "5342e5e1-6515-4517-a7fa-c166665bcbbd",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Rust",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#CF432B",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4f60009d-49d0-4808-85e4-513271349a2a",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Sepia",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2E241B",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "106320be-ae60-4fb5-aa92-43af75bab908",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Smoke",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2A1E1D",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "bece2602-b939-4fe3-96be-b5f165aacc49",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Tomato",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E0582E",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "07c30ddf-d34b-4766-926e-1bd70ff7a0b8",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Violet",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#2C2362",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3cb2fc5d-693f-49bc-8d77-9315f32a0f40",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "White",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F7F3F4",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6d6191f5-6a43-4122-a359-b66c64e81dd6",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Wine",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#5D1D24",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "42ce7f74-d99d-4ea0-8e71-c088de5a3fcf",
+    "brand": "Kimera Kolors",
+    "range": "Velvet",
+    "code": null,
+    "name": "Yellow",
+    "type": "ink",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFEE3F",
       "gradient": null,
       "source": "kimera-kolors-chart-2026"
     },

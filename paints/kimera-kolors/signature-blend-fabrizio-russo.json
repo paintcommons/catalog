@@ -1,61 +1,21 @@
 [
   {
+    "id": "20d915a3-46cf-4dbc-ae6f-607f5d4f7e78",
     "brand": "Kimera Kolors",
     "range": "Signature Blend: Fabrizio Russo",
     "code": null,
-    "name": "Darkness",
+    "name": "Bone Khaki",
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#363235",
+      "hex": "#AE9775",
       "gradient": null,
       "source": "kimera-kolors-chart-2026"
     },
     "status": "current"
   },
   {
-    "brand": "Kimera Kolors",
-    "range": "Signature Blend: Fabrizio Russo",
-    "code": null,
-    "name": "Deep Rusto",
-    "type": "acrylic",
-    "barcodes": [],
-    "colour": {
-      "hex": "#333136",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Signature Blend: Fabrizio Russo",
-    "code": null,
-    "name": "Viridian Grim",
-    "type": "acrylic",
-    "barcodes": [],
-    "colour": {
-      "hex": "#334037",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
-    "brand": "Kimera Kolors",
-    "range": "Signature Blend: Fabrizio Russo",
-    "code": null,
-    "name": "Poison Green",
-    "type": "acrylic",
-    "barcodes": [],
-    "colour": {
-      "hex": "#555529",
-      "gradient": null,
-      "source": "kimera-kolors-chart-2026"
-    },
-    "status": "current"
-  },
-  {
+    "id": "a6297608-5735-43a2-b02e-bed82e93a1b8",
     "brand": "Kimera Kolors",
     "range": "Signature Blend: Fabrizio Russo",
     "code": null,
@@ -70,14 +30,60 @@
     "status": "current"
   },
   {
+    "id": "a4162dc3-f2e1-45f6-9da5-f60ddf22936f",
     "brand": "Kimera Kolors",
     "range": "Signature Blend: Fabrizio Russo",
     "code": null,
-    "name": "Bone Khaki",
+    "name": "Darkness",
     "type": "acrylic",
     "barcodes": [],
     "colour": {
-      "hex": "#AE9775",
+      "hex": "#363235",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7e070e74-d8ae-47d9-b419-148c7b0ea10e",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Fabrizio Russo",
+    "code": null,
+    "name": "Deep Rusto",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#333136",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "d25f77bd-37e2-4b9c-8540-2d5d1f0941c7",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Fabrizio Russo",
+    "code": null,
+    "name": "Poison Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#555529",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ecc24d89-d74e-427d-a5db-d9e2d02aad0f",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Fabrizio Russo",
+    "code": null,
+    "name": "Viridian Grim",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#334037",
       "gradient": null,
       "source": "kimera-kolors-chart-2026"
     },
