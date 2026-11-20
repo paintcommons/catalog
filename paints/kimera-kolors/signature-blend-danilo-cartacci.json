@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Danilo Cartacci",
+    "code": null,
+    "name": "Caucasian Skintone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E08668",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Danilo Cartacci",
+    "code": null,
+    "name": "Golden Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C67A2E",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Danilo Cartacci",
+    "code": null,
+    "name": "Cartacci Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B3292A",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Danilo Cartacci",
+    "code": null,
+    "name": "Samurai Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#00978E",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Danilo Cartacci",
+    "code": null,
+    "name": "Khaki Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#9B6C31",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Danilo Cartacci",
+    "code": null,
+    "name": "Silver Grey",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#546F78",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  }
+]

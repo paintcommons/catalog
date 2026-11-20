@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Black Skintone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#50373C",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Pale Carmine Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DB3E44",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Middle Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#994325",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Pumpskin",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E78167",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Shiny Skintone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F6BF6C",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Ivory Light",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FDF4E7",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  }
+]
