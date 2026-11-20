@@ -3,6 +3,7 @@ import collections
 import importlib.util
 import json
 import pathlib
+import subprocess
 import unittest
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -10,13 +11,22 @@ spec = importlib.util.spec_from_file_location('ttc', ROOT / 'scripts/import-ttc.
 ttc = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(ttc)
 
+# These invariants describe the catalog as of the TTC reconciliation (#7). Later syncs from
+# Stipplewise add paints and barcodes, so the checks read that commit, not the working tree.
+PINNED = '371540c00e690879e12ffe2accf64a37aaf911ca'
+
+
+def pinned_files():
+    names = subprocess.check_output(['git', 'ls-tree', '-r', '--name-only', PINNED, '--', 'paints'], cwd=ROOT, text=True).splitlines()
+    return {f: json.loads(subprocess.check_output(['git', 'show', f'{PINNED}:{f}'], cwd=ROOT, text=True)) for f in names if f.endswith('.json')}
+
+
 
 class TTCPreservation(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.old = ttc.baseline()
-        cls.current = {str(f.relative_to(ROOT)): json.loads(f.read_text())
-                       for f in (ROOT / 'paints').glob('*/*.json')}
+        cls.current = pinned_files()
         original_ids = {p['id'] for rows in cls.old.values() for p in rows if p.get('id')}
         # Verify the separately approved stops, then test TTC against its original snapshot.
         stops = {r['id']: r for r in json.loads((ROOT/'reports/arcturus-review/colour-proposals.json').read_text()) if r['apply']}
