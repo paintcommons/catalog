@@ -2,9 +2,7 @@
 
 An open, community-maintained catalog of miniature paints: brands, ranges, product codes, names, paint types, barcodes and approximate colours, each colour with its source.
 
-- **8,307 paints** across 21 brands, including The Army Painter, Citadel, Vallejo, AK Interactive, Reaper and Scale75
-- **1,745 barcodes**, each marked calculated, published (with its source URL) or confirmed by scan
-- **8,283 colours**, each linked to its source
+The files on `main` are the current dataset. Counts change as approved contributions and hourly syncs arrive; import reports describe their own snapshots rather than a live total. Browse the data at [paintcommons.org/catalogue/](https://paintcommons.org/catalogue/).
 
 Paint Commons is inspired by the commons ethos of Wikipedia and Creative Commons, with no affiliation to either. The catalog is kept in sync with [Stipplewise](https://stipplewise.com), a paint collection app that contributes reviewed corrections and reads the catalog back.
 
@@ -14,6 +12,7 @@ Paint Commons is inspired by the commons ethos of Wikipedia and Creative Commons
 |---|---|
 | `paints/<brand>/<range>.json` | One file per range: an array of paints, sorted by product code then name |
 | `sources.json` | Every colour and barcode source: name, URL, how values were obtained, and whether colours from it are published |
+| `aliases.json` | Direct redirects from retired duplicate IDs to canonical paints |
 | `equivalents.json` | Declared same-colour pairs across brands, by paint id |
 | `schema/paint.schema.json` | JSON Schema for a range file |
 | `scripts/validate.mjs` | Checks every file: fields, duplicates, barcode check digits, sources, file placement |
@@ -60,14 +59,42 @@ Paint and brand names are trademarks of their owners. Paint Commons isn't affili
 
 Corrections and missing paints are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md). Merged changes also reach Stipplewise automatically.
 
-Check your changes with:
+## Development and review
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for record edits, source approval, gradients, and imports, and [AGENTS.md](AGENTS.md) for agent coordination. Use Node.js 22 (matching CI), Python 3 for import checks, and Git with full history for tests that inspect earlier commits. There are no npm dependencies to install.
+
+Start a topic branch or separate worktree from `main`, keep one topic per pull request, and retain stable paint IDs. New paints may omit `id`; the import assigns it and a later sync writes it back. Existing paints are discontinued or given reviewed alias redirects rather than deleted.
+
+Run the same checks as `.github/workflows/validate.yml`:
 
 ```sh
-node scripts/validate.mjs
+node --test scripts/*.test.mjs
+PYTHONDONTWRITEBYTECODE=1 python3 scripts/import-arcturus.test.py
+PYTHONDONTWRITEBYTECODE=1 python3 scripts/import-ttc.test.py
+node scripts/validate.mjs --base main
+python3 -m unittest discover -s scripts/attribution -p 'test_*.py'
 ```
+
+The base comparison detects removal of existing records; CI compares pull requests with their target branch. Tests inspect historical commits, so a shallow clone may need its history fetched.
+
+Python import scripts are maintenance tools, not required setup commands. Check their output in an isolated worktree before proposing data changes.
+
+## Sync and publication
+
+- **Import into Stipplewise** processes changes pushed to `main`, excluding the hourly sync bot's own commits. Changes apply field by field only while the backend still matches the previous value. Rejected changes are reported in an issue.
+- **Sync from Stipplewise** runs hourly at minute 17 and on demand. It exports approved public data and commits updates. It waits for the latest human change to import; refused new paints pause export so they cannot disappear in a later sync.
+- **Validate** checks pull requests and pushes to `main`. A maintainer reviews contributions before merge. Publishing to `main` is a live backend change, even though this repository has no application deployment.
+
+No account collections, private corrections, photos, or submitter identities belong in this repository. Do not call production sync endpoints or use sync credentials for local tests. Backend/schema changes must reach Stipplewise through its release process before a catalog contribution requires them. Source approval, licence priority, conflict handling, and IDs must work for existing consumers.
+
+## Import history
 
 The [scoped Arcturus import](reports/arcturus-import/README.md) adds 6,287 paints from the MIT-licensed miniature-paints project, credited to Rick Fleuren and Miniature Painter Pro. Every imported record and colour cites `arcturus-miniature-paints`; existing records and manufacturer colours are preserved. The pinned snapshot and full MIT notice are distributed with the data. Identity conflicts are documented separately in the import report; colour/gradient enrichments remain a separate review.
 
-The separate [Two Thin Coats import](reports/two-thin-coats/README.md) preserves existing colours, adds identifiers and 39 paints. Its approved GERInFact numeric values use credited `LicenseRef-facts` under this PR’s convention extension; the matching downstream release must be deployed before merge. Arcturus work proceeds independently.
+The separate [Two Thin Coats import](reports/two-thin-coats/README.md) preserves existing colours, adds identifiers and 39 paints. Its approved GERInFact numeric values use credited `LicenseRef-facts` under the catalog’s source convention. Future source or format extensions still require a compatible downstream release before merge.
 
 `aliases.json` preserves retired duplicate IDs as direct redirects to canonical paints. The 180 former Duncan Rhodes identities resolve to the enriched Two Thin Coats records; private collection references remain valid in Stipplewise.
+
+## Contributor attribution
+
+Human contributors use their own Git identities; no per-person email allowlist is required. Agents acting for Jim use his configured identity and must not add agent authors, co-authors, signatures, or generation credits. The local hooks and GitHub Actions use `scripts/attribution/policy.json`; see [ATTRIBUTION.md](ATTRIBUTION.md) for setup and enforcement. Repository access and maintainer review remain separate from attribution validation.
