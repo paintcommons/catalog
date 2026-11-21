@@ -7,7 +7,7 @@ Read `README.md`, `CONTRIBUTING.md`, `schema/paint.schema.json`, and `sources.js
 - Inspect `git status`, `git worktree list`, and branch history first. Use your own worktree and topic branch from `main` (Codex branches use `codex/<topic>`). Leave other contributors' branches and uncommitted files alone.
 - Coordinate overlapping brand/range files with Jim. This repo has no `npm run wip`; check the Stipplewise board for tasks spanning both projects on Jim's Mac.
 - Keep one source, range, or correction topic per pull request, with evidence URLs and the reason for every changed fact. Use plain, descriptive commits.
-- Agents working for Jim use his configured human Git identity; human contributors use their own. Never add agent authors, co-authors, signatures, or generation credits. Do not bypass attribution hooks/checks.
+- Agents working for Jim use his configured human Git identity; human contributors use their own. The versioned `scripts/attribution/policy.json` accepts human contributors without an email allowlist when used with the shared attribution guard. Never add agent authors, co-authors, signatures, or generation credits. Do not bypass attribution hooks/checks.
 - Use the Codex in-app browser for browser interactions unless Jim explicitly requests an exception.
 
 ## Data and provenance

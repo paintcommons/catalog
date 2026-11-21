@@ -93,3 +93,7 @@ The [scoped Arcturus import](reports/arcturus-import/README.md) adds 6,287 paint
 The separate [Two Thin Coats import](reports/two-thin-coats/README.md) preserves existing colours, adds identifiers and 39 paints. Its approved GERInFact numeric values use credited `LicenseRef-facts` under the catalog’s source convention. Future source or format extensions still require a compatible downstream release before merge.
 
 `aliases.json` preserves retired duplicate IDs as direct redirects to canonical paints. The 180 former Duncan Rhodes identities resolve to the enriched Two Thin Coats records; private collection references remain valid in Stipplewise.
+
+## Contributor attribution
+
+Human contributors use their own Git identities; no per-person email allowlist is required. Agents acting for Jim use his configured identity and must not add agent authors, co-authors, signatures, or generation credits. `scripts/attribution/policy.json` supplies this policy to the shared attribution hooks when installed; the policy file itself does not install hooks or a CI check. Repository access and maintainer review remain separate from attribution validation.
