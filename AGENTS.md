@@ -22,7 +22,7 @@ Read `README.md`, `CONTRIBUTING.md`, `schema/paint.schema.json`, and `sources.js
 
 ## Validation and release
 
-- Use Node.js 22, Python 3, and a checkout with full Git history. Run all four validation commands in README.md before review, including `node scripts/validate.mjs --base main` to detect removals. Check source notices and sort/file placement too.
+- Use Node.js 22, Python 3, and a checkout with full Git history. Run all validation commands in README.md before review, including `node scripts/validate.mjs --base main` to detect removals. Also run `python3 -m unittest discover -s scripts/attribution -p 'test_*.py'`; see `ATTRIBUTION.md`. Check source notices and sort/file placement too.
 - Preserve import/export compatibility with Stipplewise and older clients. Coordinate backend/schema changes in that repo first, then catalog workflow/validator changes. Do not weaken validation to silence a provenance or identity conflict.
 - Imports and syncs are production writes. Test local diff/validation tools against fixtures or isolated files; do not use production sync credentials/endpoints as a test harness.
 - Submit changes for maintainer review. Ask Jim before pushing `main` unless already authorized; that push triggers **Import into Stipplewise**. After an authorized release, monitor import/validation results and any conflict issue. Do not manually overwrite an hourly sync result; resolve the underlying conflict through a reviewed follow-up.

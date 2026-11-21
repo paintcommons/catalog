@@ -10,10 +10,20 @@ spec = importlib.util.spec_from_file_location('arcturus', ROOT / 'scripts/import
 module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(module)
 
+# These invariants describe the catalog as of the TTC reconciliation (#7). Later syncs from
+# Stipplewise add paints and barcodes, so the checks read that commit, not the working tree.
+PINNED = '371540c00e690879e12ffe2accf64a37aaf911ca'
+
+
+def pinned_files():
+    names = subprocess.check_output(['git', 'ls-tree', '-r', '--name-only', PINNED, '--', 'paints'], cwd=ROOT, text=True).splitlines()
+    return {f: json.loads(subprocess.check_output(['git', 'show', f'{PINNED}:{f}'], cwd=ROOT, text=True)) for f in names if f.endswith('.json')}
+
+
 
 class ImportInvariants(unittest.TestCase):
     def test_all_existing_records_are_identical(self):
-        current = [p for f in (ROOT / 'paints').glob('*/*.json') for p in json.loads(f.read_text())]
+        current = [p for rows in pinned_files().values() for p in rows]
         by_id = {p['id']: p for p in current if p.get('id')}
         files = subprocess.check_output(['git', 'ls-tree', '-r', '--name-only', module.BASE, '--', 'paints'], cwd=ROOT, text=True).splitlines()
         old = [p for f in files if f.endswith('.json') for p in json.loads(subprocess.check_output(['git', 'show', f'{module.BASE}:{f}'], cwd=ROOT, text=True))]
@@ -47,7 +57,7 @@ class ImportInvariants(unittest.TestCase):
         self.assertEqual(counts['duplicate-conflict-alias'], 2)
 
     def test_scope_and_conflict_identities(self):
-        current = [p for f in (ROOT / 'paints').glob('*/*.json') for p in json.loads(f.read_text())]
+        current = [p for rows in pinned_files().values() for p in rows]
         new = [p for p in current if p.get('source') == module.SOURCE]
         self.assertFalse(any(p['brand'] in {'Kimera Kolors', 'Arteza', 'Revell', 'Italeri', 'Acrilex', 'FolkArt', 'Golden', 'Apple Barrel', 'Liquitex'} for p in new))
         self.assertFalse(any(p['brand'] == 'Citadel' and (p['range'] or '').startswith('Foundation') for p in new))
@@ -66,7 +76,7 @@ class ImportInvariants(unittest.TestCase):
                 self.assertEqual(p['type'], 'acrylic')
 
     def test_reviewed_semantic_duplicates_placements_statuses_and_types(self):
-        new = [p for f in (ROOT/'paints').glob('*/*.json') for p in json.loads(f.read_text()) if p.get('source') == module.SOURCE]
+        new = [p for rows in pinned_files().values() for p in rows if p.get('source') == module.SOURCE]
         self.assertTrue(all(p['range']=='Spray' for p in new if p['brand']=='Citadel'))
         metals = [p for p in new if (p['brand'],p['range'])==('The Army Painter','Warpaints Fanatic Metallic')]
         self.assertEqual(len(metals),12)

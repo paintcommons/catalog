@@ -1,0 +1,92 @@
+[
+  {
+    "id": "65568232-5e51-4836-b99d-a8f734589962",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Blue Black",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#242F3A",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "0390a2e7-6bfb-4a91-ba75-383014769fa2",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Fuchsia Skin",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DA296C",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "09c2b854-58b1-4935-be64-0d3bd8c3b778",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Gold 79",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#804725",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "3bb2163f-4fa8-4360-8b62-9eb634298e97",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Pink Skin",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DB3644",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "ec76c915-1de1-42ad-b03d-1b27c525a723",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Salmon Skin",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DF5046",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "86e0b66e-cef1-4f8c-ad85-0eaeded854bf",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Robert Karlsson",
+    "code": null,
+    "name": "Sea Blue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#036C83",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  }
+]

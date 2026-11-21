@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1213e728-63cc-4c07-95e8-801c5fbbaf70",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Massimiliano Richiero",
+    "code": null,
+    "name": "Cherry Wood",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#C1452B",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "be61b019-87f0-41a4-9399-f3eb6c8308c5",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Massimiliano Richiero",
+    "code": null,
+    "name": "Cold Armour",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#60697B",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "b555d85a-4299-4337-a373-53d678044ad9",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Massimiliano Richiero",
+    "code": null,
+    "name": "Dark Mud",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#413725",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "62dc9c43-3edb-427d-8cb1-91f857df5d7b",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Massimiliano Richiero",
+    "code": null,
+    "name": "Pastel Green",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#79AE93",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c6589a18-cef0-476e-b74b-07c45d37a9ba",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Massimiliano Richiero",
+    "code": null,
+    "name": "Peach Skin",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F4BD84",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "53f45029-16de-4563-bc10-d9990d1c528e",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Massimiliano Richiero",
+    "code": null,
+    "name": "Tooth & Nails",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F0E4C7",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  }
+]

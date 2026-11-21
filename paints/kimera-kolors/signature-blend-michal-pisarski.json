@@ -1,0 +1,92 @@
+[
+  {
+    "id": "576a4f61-1f47-41e4-aedf-1bd69a3bc6dd",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Cloudy Sky",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#EAD2AD",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "997b0f0d-8751-4fe2-a95d-72dc13894aa3",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Fallen Grass",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#567558",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "f4234528-897e-408e-9a62-49e0a3c57dda",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Ground Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#715C53",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "2cf9836f-4729-4892-b7ae-5717bb20ef1e",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Iron Hue",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#B4B1A9",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "88c02d06-4ca2-4da8-927a-e281e977c14d",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Morning Sky",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#378888",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "7c2b7755-d15d-4be4-9f73-27e68133668c",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Michal Pisarski",
+    "code": null,
+    "name": "Sun Ray",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FFF4C8",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  }
+]

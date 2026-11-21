@@ -72,9 +72,10 @@ node --test scripts/*.test.mjs
 PYTHONDONTWRITEBYTECODE=1 python3 scripts/import-arcturus.test.py
 PYTHONDONTWRITEBYTECODE=1 python3 scripts/import-ttc.test.py
 node scripts/validate.mjs --base main
+python3 -m unittest discover -s scripts/attribution -p 'test_*.py'
 ```
 
-The base comparison detects removal of existing records; CI compares pull requests with their target branch. Tests inspect historical commits, so a shallow clone may need its history fetched. At the documentation refresh (November 21, 2026, `main` at `2fd5889`), data validation passes but historical import tests still compare the growing dataset against fixed counts or whole-dataset snapshots. Fixture-pinning fixes exist on `kimera-kolors`; they are not part of `main`. If you encounter these failures, distinguish them from regressions in your change and coordinate the fixture correction rather than weakening data checks.
+The base comparison detects removal of existing records; CI compares pull requests with their target branch. Tests inspect historical commits, so a shallow clone may need its history fetched.
 
 Python import scripts are maintenance tools, not required setup commands. Check their output in an isolated worktree before proposing data changes.
 
@@ -96,4 +97,4 @@ The separate [Two Thin Coats import](reports/two-thin-coats/README.md) preserves
 
 ## Contributor attribution
 
-Human contributors use their own Git identities; no per-person email allowlist is required. Agents acting for Jim use his configured identity and must not add agent authors, co-authors, signatures, or generation credits. `scripts/attribution/policy.json` supplies this policy to the shared attribution hooks when installed; the policy file itself does not install hooks or a CI check. Repository access and maintainer review remain separate from attribution validation.
+Human contributors use their own Git identities; no per-person email allowlist is required. Agents acting for Jim use his configured identity and must not add agent authors, co-authors, signatures, or generation credits. The local hooks and GitHub Actions use `scripts/attribution/policy.json`; see [ATTRIBUTION.md](ATTRIBUTION.md) for setup and enforcement. Repository access and maintainer review remain separate from attribution validation.

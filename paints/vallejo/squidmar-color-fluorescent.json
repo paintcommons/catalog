@@ -12,6 +12,11 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#FFF101",
+      "gradient": null,
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   },
   {
@@ -27,6 +32,11 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#E5722B",
+      "gradient": null,
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   },
   {
@@ -42,6 +52,11 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#D9146C",
+      "gradient": null,
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   },
   {
@@ -57,6 +72,11 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#009E8D",
+      "gradient": null,
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   },
   {
@@ -72,6 +92,11 @@
         "source": "calculated"
       }
     ],
+    "colour": {
+      "hex": "#72B950",
+      "gradient": null,
+      "source": "vallejo-squidmar-color-chart-2026"
+    },
     "status": "current"
   }
 ]

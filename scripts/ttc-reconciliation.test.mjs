@@ -5,7 +5,8 @@ import {snapshotAt} from './diff-for-import.mjs';
 test('TTC reconciliation retires exactly 180 legacy IDs and preserves every other record and swatch',()=>{
  const root=new URL('..',import.meta.url);
  const before=snapshotAt('e15f0c5121b076b5a846f9d4c24b93ec09655030').paints;
- const current=readdirSync(new URL('paints/',root)).flatMap(brand=>readdirSync(new URL(`paints/${brand}/`,root)).filter(f=>f.endsWith('.json')).flatMap(file=>JSON.parse(readFileSync(new URL(`paints/${brand}/${file}`,root)))));
+ // Checked at the reconciliation commit itself (#7): later syncs add paints and barcodes, which is fine.
+ const current=snapshotAt('371540c00e690879e12ffe2accf64a37aaf911ca').paints;
  const byId=new Map(current.map(p=>[p.id,p]));
  const aliases=JSON.parse(readFileSync(new URL('aliases.json',root)));
  const oldById=new Map(before.map(p=>[p.id,p]));

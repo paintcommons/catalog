@@ -1,0 +1,92 @@
+[
+  {
+    "id": "56d8caa5-a01b-4d57-86e5-0ffef1f8572d",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Black Skintone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#50373C",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "46454664-77ec-4cdc-b78c-5c4402b63aa1",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Ivory Light",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#FDF4E7",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "6e7dede2-9e6b-4bbd-8d96-23a1f47792fa",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Middle Brown",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#994325",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "4b83b922-160d-44c3-9505-f3d5e967b45b",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Pale Carmine Red",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#DB3E44",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "cfa7c3ac-2bc0-4538-9f5b-3e6c7069f49f",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Pumpskin",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#E78167",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  },
+  {
+    "id": "c937f736-ae79-49bb-b276-fc072fa42a51",
+    "brand": "Kimera Kolors",
+    "range": "Signature Blend: Marc Masclans",
+    "code": null,
+    "name": "Shiny Skintone",
+    "type": "acrylic",
+    "barcodes": [],
+    "colour": {
+      "hex": "#F6BF6C",
+      "gradient": null,
+      "source": "kimera-kolors-chart-2026"
+    },
+    "status": "current"
+  }
+]
